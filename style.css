@@ -273,6 +273,7 @@ label.correct {
   color: #217a21;
   border-radius: 4px;
   padding: 6px 8px;
+  display: inline-block; 
 }
 
 label.wrong {
@@ -281,6 +282,7 @@ label.wrong {
   color: #a52121;
   border-radius: 4px;
   padding: 6px 8px;
+  display: inline-block;
 }
 
 /* Optional: hover highlight */
@@ -303,4 +305,13 @@ label.wrong {
   background: none;
   padding: 0;
   border-radius: 0;
+}
+
+.custom-option-list label {
+  display: inline-block;
+  min-width: 280px; /* adjust to your layout */
+  padding: 6px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
 }
