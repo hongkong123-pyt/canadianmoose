@@ -3443,36 +3443,6 @@
       "answer": "18\u00b000\u2032"
     },
     {
-      "question": "\"Error following prescribed path, by pilot or autopilot\" is a description of what navigation accuracy?",
-      "choices": [
-        "Flight Technical Error",
-        "Navigation Systems Error",
-        "Path Definition Error",
-        "Special Authorisation Error"  
-      ],
-      "answer": "Flight Technical Error"
-    },
-    {
-      "question": "Which statement with respect to the transponder interrogation modes A, C and S is correct?",
-      "choices": [
-        "Mode S Only all-call will trigger transponder replies of all mode A/C/S transponders.",
-        "Mode S Selective will trigger replies of all mode S transponders. Mode A/C transponders are suppressed.",
-        "Intermode A/C/S all call and Intermode A/C only all call, differ in the pulse spacing used between the P1 and P3 pulses.",
-        "Mode S All-Call will transmit information to all mode S transponders."
-      ],
-      "answer": "Mode S All-Call will transmit information to all mode S transponders."
-    },
-    {
-      "question": "Which of the following terms refers to a fixed radius path for en-route sections using Performance Based Navigation (PBN)?",
-      "choices": [
-        "RF leg type",
-        "FRT leg type",
-        "TMA leg type",
-        "ABC leg type"
-      ],
-      "answer": "FRT leg type"
-    },
-    {
       "question": "An aircraft is flying a magnetic heading of 170\u00b0M at a TAS of 220 kt. The forecast W/V is 210\u00b0/30. Magnetic variation = 10\u00b0E.\nWhat is the true track and the groundspeed?",
       "choices": [
         "176\u00b0T - 195 kt",
@@ -3481,26 +3451,6 @@
         "176\u00b0T - 246 kt"
       ],
       "answer": "176\u00b0T - 195 kt"
-    },
-    {
-      "question": "For climbing and descending problems, at which point in the climb are average values calculated?",
-      "choices": [
-        "1/2 x change of altitude",
-        "2/3 x change of altitude",
-        "1/4 x change of altitude",
-        "1/2 x cruise altitude"
-      ],
-      "answer": "2/3 x change of altitude"
-    },
-    {
-      "question": "During a visual flight, a useful method for a pilot to resolve any uncertainty in the aircraft's position is to maintain visual contact with the ground and:",
-      "choices": [
-        "fly reverse headings and associated timings until the point of departure is regained.",
-        "fly the reverse of the heading being flown prior to becoming uncertain until a pinpoint is obtained.",
-        "fly expanding circles until a pinpoint is obtained.",
-        "set the heading towards a line feature such as a coastline, motorway, river or railway."
-      ],
-      "answer": "set the heading towards a line feature such as a coastline, motorway, river or railway."
     },
     {
       "question": "What will be the revised ETA (to the nearest minute) overhead turning point B in the following situation? Assume that all other conditions remain unchanged.\nPlanned ETA over turning point B: 14:14.\nPlanned distance from turning A to turning point B: 43 NM.\nPlanned distance from turning A to check feature X: 10 NM.\nActual time overhead check feature X: 1 minute 15 seconds late",
@@ -3551,16 +3501,6 @@
         "6.1%"
       ],
       "answer": "6.1%"
-    },
-    {
-      "question": "An aircraft is flying a magnetic heading of 170\u00b0M at a TAS of 220 kt. The forecast W/V is 210\u00b0/30. Magnetic variation = 10\u00b0E. What is the true track and the groundspeed?",
-      "choices": [
-        "176\u00b0T - 195 kt",
-        "183\u00b0T - 247 kt",
-        "184\u00b0T - 185 kt",
-        "176\u00b0T - 246 kt"
-      ],
-      "answer": "176\u00b0T - 195 kt"
     },
     {
       "question": "Estimate the descent rate of an aircraft established on a standard 3\u00b0 approach when TAS = 100 kt and headwind component = 15 kt.",
@@ -3730,7 +3670,7 @@
        "Complex curves.",
        "Curved lines, convex to the origin."
       ],
-      "answer": "Curved lines, convex to the origin."
+      "answer": "Curved lines, concave to the origin."
     },
     {
       "question": "Which of the following statements, regarding scale on a polar stereographic chart, is correct?",
@@ -3756,7 +3696,7 @@
       "question": "Conversion angle can be found between the great circle track bearing and the rhumb line track bearing at __________ end of the route.",
       "choices": [
         "either departure or arrival",
-        "mid-point or either",
+        "mid-point",
         "only departure",
         "only arrival"
       ],
@@ -4036,7 +3976,7 @@
       "question": "Which of the following is the correct formula for solving closing angle errors?",
       "choices": [
         "DRAT = 60 x ( CA \u00f7 DOT)",
-        "CA (DOT x DRAT) \u00f7 60",
+        "CA = (DOT x DRAT) \u00f7 60",
         "CA = (DOT \u00f7 DRAT) x 60",
         "DOT = (CA \u00f7 DRAT) x 60"
       ],
@@ -4083,7 +4023,7 @@
       "answer": "4 hours 41 minutes"
     },
     {
-      "question": "The position A (7S\u00b0N, 34\u00b0E) of an aircraft and the position B (75\u00b0N, 50\u00b0E) of an NDB station are plotted on a polar stereographic chart projection and are connected with a straight line. Determine the true bearing from position B to position A, given: Magnetic variation at position A: 32\u00b0W Magnetic variation at position B: 60\u00b0W",
+      "question": "The position A (75\u00b0N, 34\u00b0E) of an aircraft and the position B (75\u00b0N, 50\u00b0E) of an NDB station are plotted on a polar stereographic chart projection and are connected with a straight line. Determine the true bearing from position B to position A, given: Magnetic variation at position A: 32\u00b0W Magnetic variation at position B: 60\u00b0W",
       "choices": [
         "278\u00b0",
         "310\u00b0",
@@ -4243,16 +4183,6 @@
       "answer": "03:30 UTC 22nd August"
     },
     {
-      "question": "Refer to the winds aloft data below: An aircraft passes overhead TNA VOR/DME at FL40 and immediately climbs at 500 fpm to FL100 along Airway XY15 to DARBO at a constant CAS of 100 kt and a wind component of +9 kt. What is the approximate distance from TNA to DARBO?",
-      "choices": [
-        "14 nm",
-        "20 nm",
-        "12 nm",
-        "24 nm"
-      ],
-      "answer": "24 nm"
-    },
-    {
       "question": "An aircraft, flying at a TAS of 230 kt, is tracking inbound to the ABN VOR/DME along the R-240 radial on a heading of 052\u00b0M. At the VOR/DME it turns outbound along the R-045 radial on a heading of 036\u00b0M. Magnetic variation = 15\u00b0E. What is the approximate true wind velocity?",
       "choices": [
         "115\u00b0 / 55",
@@ -4333,26 +4263,6 @@
       "answer": "803 kg"
     },
     {
-      "question": "A Polar Stereographic chart is used for navigation. The straight line between A 75\u00b0 00'.0N, 166\u00b0 00'.0E and B 78\u00b0 00'.0N, 154\u00b0 00'.0E is drawn on this chart...direction",
-      "choices": [
-        "311\u00b0",
-        "305\u00b0",
-        "329\u00b0",
-        "323\u00b0"
-      ],
-      "answer": "323\u00b0"
-    },
-    {
-      "question": "A Polar Stereographic chart is used for navigation. The straight line between A 75\u00b0 00'.0N, 166\u00b0 00'.0E and B 78\u00b0 00'.0N, 154\u00b0 00'.0E is drawn on this chart. The True Track...direction",
-      "choices": [
-        "311\u00b0",
-        "305\u00b0",
-        "329\u00b0",
-        "323\u00b0"
-      ],
-      "answer": "323\u00b0"
-    },
-    {
       "question": "An aircraft flies from (A) latitude 40\u00b0 W005\u00b0 to (B) latitude 50\u00b0 E008\u00b0 following a great circle route. The initial direction at point A is 282\u00b0T and at B is 287\u00b0T. In which hemisphere is the route?",
       "choices": [
         "Western hemisphere.",
@@ -4361,16 +4271,6 @@
         "Northern hemisphere."
       ],
       "answer": "Southern hemisphere."
-    },
-    {
-      "question": "Refer to the winds aloft data below: An aircraft passes overhead TNA VOR/DME at FL40 and immediately climbs at 500 fpm to FL100 along Airway XY15 to DARBO at a constant CAS of 100 kt and a wind component of +9 kt...",
-      "choices": [
-        "14 nm",
-        "20 nm",
-        "12 nm",
-        "24 nm"
-      ],
-      "answer": "24 nm"
     },
     {
       "question": "During a low level VFR flight at 600 ft AGL, which one of the following challenges may be faced by the pilot?",
@@ -4721,26 +4621,6 @@
         "030\u00b0 Right."
       ],
       "answer": "028\u00b0 Left."
-    },
-    {
-      "question": "What does the abbreviation DME stand for?",
-      "choices": [
-        "Direct Measuring Equipment",
-        "Direct Monitoring Equipment",
-        "Distance Monitoring Equipment",
-        "Distance Measuring Equipment"
-      ],
-      "answer": "Distance Measuring Equipment"
-    },
-    {
-      "question": "An aircraft is on a QDR of 165\u00b0M from an NDB. Magnetic variation at the aircraft is 10\u00b0E and at the NDB is 12\u00b0E. What is the true bearing from the aircraft to the NDB?",
-      "choices": [
-        "335\u00b0T",
-        "345\u00b0T",
-        "175\u00b0T",
-        "355\u00b0T"
-      ],
-      "answer": "355\u00b0T"
     },
     {
       "question": "Which one of the following describes the planned direction of aircraft movement relative to the surface of the Earth?",
@@ -5190,7 +5070,7 @@
         "VDF",
         "AWR"
       ],
-      "answer": "VOR"
+      "answer": "VDF"
     },
     {
       "question": "Which one of the following describes the angle applied to the track to calculate the heading?",
@@ -5441,16 +5321,6 @@
         "64.62\u00b0"
       ],
       "answer": "12.86\u00b0"
-    },
-    {
-      "question": "With which of the following aids to navigation is magnetic variation applied at the aircraft (select all that apply)?",
-      "choices": [
-        "VDF",
-        "DME",
-        "Land features",
-        "NDB"
-      ],
-      "answer": "VOR"
     },
     {
       "question": "An aircraft is located on the R-153 radial from a VOR/DME. Local magnetic variation is 12\u00b0E. Ignoring convergency, what is the QUJ to the VOR/DME?",
@@ -5863,24 +5733,14 @@
       "answer": "6631 ft amsl"
     },
     {
-      "question": "While flying on a magnetic heading of 185\u00b0 M in the northern hemisphere, an aircraft measures the relative bearing of 'ONO' NDB on an RBI Relative Bearing indicator as 065\u00b0 R. Given the following information, what bearing should be plotted from the beacon to the aircraft on a Lambert chart? Variation at the aircraft: 6\u00b0 E Variation at the station: 4\u00b0 E Chart convergence between the aircraft and the NDB: 8\u00b0",
-      "choices": [
-        "066\u00b0 T",
-        "062\u00b0 T",
-        "076\u00b0 T",
-        "068\u00b0 T"
-      ],
-      "answer": "068\u00b0 T"
-    },
-    {
       "question": "The convergence factor of a southern hemisphere Lambert\u2019s conformal conical chart is stated as being 0.57357. At which latitude is chart convergency equal to earth convergency?",
       "choices": [
         "S35\u00b000\u2019",
-        "S30\u00b030\u2019",
-        "S38\u00b000\u2019",
+        "S42\u00b000\u2019",
+        "N38\u00b000\u2019",
         "S55\u00b000\u2019"
       ],
-      "answer": "S35\u00b000\u2019"
+      "answer": "S42\u00b000\u2019"
     },
     {
       "question": "Given that the chart distance between S20\u00b0 E170\u00b0 and S20\u00b0 W160\u00b0 on a Direct Mercator chart is 40 cm, what is the scale of the chart at N40\u00b0?",
@@ -6363,7 +6223,7 @@
       "answer": "It will follow a slight curve, away from the Equator, convex to the pole."
     },
     {
-      "question": "How is scale shown on charts (select all that apply)?",
+      "question": "How is scale shown on charts?",
       "choices": [
         "Distance rule.",
         "Using isoscalic lines, to depict areas of common scale.",
@@ -6600,7 +6460,7 @@
         "1 / Scale = Earth Distance / Chart Distance.",
         "Scale / 1 = Chart Distance / Earth Distance."
       ],
-      "answer": "1 / Scale = Chart Distance / Earth Distance"
+      "answer": "1 / Scale = Chart Distance / Earth Distance."
     },
     {
       "question": "The properties of a Direct Mercator projection are: ________ of longitude = parallel, equally spaced, vertical straight lines.",
@@ -6843,46 +6703,6 @@
       "answer": "Meridians"
     },
     {
-      "question": "An aircraft is on a heading of 320\u00b0T, with an island on a relative bearing of 010\u00b0 from the aircraft. What is the true bearing from the island to the aircraft?",
-      "choices": [
-        "130\u00b0T",
-        "330\u00b0T",
-        "150\u00b0T",
-        "310\u00b0T"
-      ],
-      "answer": "150\u00b0T"
-    },
-    {
-      "question": "In the absence of any external influences on the magnetic compass, how will Compass North and Magnetic North differ?",
-      "choices": [
-        "They will differ by deviation.",
-        "They will be equal.",
-        "They will differ positively by deviation.",
-        "They will differ negatively by deviation."
-      ],
-      "answer": "They will be equal."
-    },
-    {
-      "question": "How are bearings measured?",
-      "choices": [
-        "In degrees, counter-clockwise from a datum.",
-        "In degrees, from a datum, in either direction.",
-        "In radians, clockwise from a datum.",
-        "In degrees, clockwise from a datum."
-      ],
-      "answer": "In degrees, clockwise from a datum."
-    },
-    {
-      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 177\u00b0M, with an island 30\u00b0 right of the centreline. Magnetic variation = 9\u00b0W. What is the true bearing from the island to the aircraft?",
-      "choices": [
-        "216\u00b0T",
-        "036\u00b0T",
-        "018\u00b0T",
-        "198\u00b0T"
-      ],
-      "answer": "018\u00b0T"
-    },
-    {
       "question": "What is the formulae used to approximate the value of conversion angle, up to 30\u00b0 difference of longitude?",
       "choices": [
         "Conversion angle = Change of longitude x Cosine mean latitude.",
@@ -6951,16 +6771,6 @@
         "\u00bd x Change of latitude = Convergency x Cosine mean latitude."
       ],
       "answer": "Change of longitude = Convergency \u00f7 Sine mean latitude."
-    },
-    {
-      "question": "An aircraft is on a heading of 085\u00b0M, with an island on a relative bearing of 110\u00b0 from the aircraft. Magnetic variation = 15\u00b0W. What is the true bearing from the aircraft to the island?",
-      "choices": [
-        "140\u00b0T",
-        "320\u00b0T",
-        "180\u00b0T",
-        "360\u00b0T"
-      ],
-      "answer": "180\u00b0T"
     },
     {
       "question": "A great circle track crosses the Equator at W160\u00b0 on a bearing of 030\u00b0T. What are the coordinates of the highest point reached?",
@@ -7371,16 +7181,6 @@
         "Compass East"
       ],
       "answer": "Compass North"
-    },
-    {
-      "question": "An aircraft is on a heading of 100\u00b0T, with an island on a relative bearing of 060\u00b0 from the aircraft. What is the true bearing from the aircraft to the island?",
-      "choices": [
-        "160\u00b0T",
-        "340\u00b0T",
-        "040\u00b0T",
-        "280\u00b0T"
-      ],
-      "answer": "160\u00b0T"
     },
     {
       "question": "The change of great circle track bearing between 2 points, measured across the surface of the Earth, is a definition of __________ __________.",
@@ -8975,6 +8775,96 @@
       "answer": "Altitude."
     },
     {
+      "question": "An aircraft is on a heading of 100\u00b0T, with an island on a relative bearing of 060\u00b0 from the aircraft. What is the true bearing from the aircraft to the island?",
+      "choices": [
+        "160\u00b0T",
+        "340\u00b0T",
+        "040\u00b0T",
+        "280\u00b0T"
+      ],
+      "answer": "160\u00b0T"
+    },
+    {
+      "question": "An aircraft is on a heading of 085\u00b0M, with an island on a relative bearing of 110\u00b0 from the aircraft. Magnetic variation = 15\u00b0W. What is the true bearing from the aircraft to the island?",
+      "choices": [
+        "140\u00b0T",
+        "320\u00b0T",
+        "180\u00b0T",
+        "360\u00b0T"
+      ],
+      "answer": "180\u00b0T"
+    },
+    {
+      "question": "An aircraft is on a heading of 320\u00b0T, with an island on a relative bearing of 010\u00b0 from the aircraft. What is the true bearing from the island to the aircraft?",
+      "choices": [
+        "130\u00b0T",
+        "330\u00b0T",
+        "150\u00b0T",
+        "310\u00b0T"
+      ],
+      "answer": "150\u00b0T"
+    },
+    {
+      "question": "In the absence of any external influences on the magnetic compass, how will Compass North and Magnetic North differ?",
+      "choices": [
+        "They will differ by deviation.",
+        "They will be equal.",
+        "They will differ positively by deviation.",
+        "They will differ negatively by deviation."
+      ],
+      "answer": "They will be equal."
+    },
+    {
+      "question": "How are bearings measured?",
+      "choices": [
+        "In degrees, counter-clockwise from a datum.",
+        "In degrees, from a datum, in either direction.",
+        "In radians, clockwise from a datum.",
+        "In degrees, clockwise from a datum."
+      ],
+      "answer": "In degrees, clockwise from a datum."
+    },
+    {
+      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 177\u00b0M, with an island 30\u00b0 right of the centreline. Magnetic variation = 9\u00b0W. What is the true bearing from the island to the aircraft?",
+      "choices": [
+        "216\u00b0T",
+        "036\u00b0T",
+        "018\u00b0T",
+        "198\u00b0T"
+      ],
+      "answer": "018\u00b0T"
+    },
+    {
+      "question": "While flying on a magnetic heading of 185\u00b0 M in the northern hemisphere, an aircraft measures the relative bearing of 'ONO' NDB on an RBI Relative Bearing indicator as 065\u00b0 R. Given the following information, what bearing should be plotted from the beacon to the aircraft on a Lambert chart? Variation at the aircraft: 6\u00b0 E Variation at the station: 4\u00b0 E Chart convergence between the aircraft and the NDB: 8\u00b0",
+      "choices": [
+        "066\u00b0 T",
+        "062\u00b0 T",
+        "076\u00b0 T",
+        "068\u00b0 T"
+      ],
+      "answer": "068\u00b0 T"
+    },
+    {
+      "question": "What does the abbreviation DME stand for?",
+      "choices": [
+        "Direct Measuring Equipment",
+        "Direct Monitoring Equipment",
+        "Distance Monitoring Equipment",
+        "Distance Measuring Equipment"
+      ],
+      "answer": "Distance Measuring Equipment"
+    },
+    {
+      "question": "An aircraft is on a QDR of 165\u00b0M from an NDB. Magnetic variation at the aircraft is 10\u00b0E and at the NDB is 12\u00b0E. What is the true bearing from the aircraft to the NDB?",
+      "choices": [
+        "335\u00b0T",
+        "345\u00b0T",
+        "175\u00b0T",
+        "355\u00b0T"
+      ],
+      "answer": "355\u00b0T"
+    },
+    {
       "question": "What clocks are used in a Galileo satellite timing section?",
       "answers": [
         "3 types of clock are used; Caesium, Rubidium and Hydrogen Passive Maser clocks.",
@@ -9244,6 +9134,36 @@
         "Designated Fix"
       ],
       "answer": "Direct to a Fix"
+    },
+    {
+      "question": "During a visual flight, a useful method for a pilot to resolve any uncertainty in the aircraft's position is to maintain visual contact with the ground and:",
+      "choices": [
+        "fly reverse headings and associated timings until the point of departure is regained.",
+        "fly the reverse of the heading being flown prior to becoming uncertain until a pinpoint is obtained.",
+        "fly expanding circles until a pinpoint is obtained.",
+        "set the heading towards a line feature such as a coastline, motorway, river or railway."
+      ],
+      "answer": "set the heading towards a line feature such as a coastline, motorway, river or railway."
+    },
+    {
+      "question": "For climbing and descending problems, at which point in the climb are average values calculated?",
+      "choices": [
+        "1/2 x change of altitude",
+        "2/3 x change of altitude",
+        "1/4 x change of altitude",
+        "1/2 x cruise altitude"
+      ],
+      "answer": "2/3 x change of altitude"
+    },
+    {
+      "question": "Which of the following terms refers to a fixed radius path for en-route sections using Performance Based Navigation (PBN)?",
+      "choices": [
+        "RF leg type",
+        "FRT leg type",
+        "TMA leg type",
+        "ABC leg type"
+      ],
+      "answer": "FRT leg type"
     },
     {
       "question": "RNAV or RNP system performance requirements are defined in terms of:",
@@ -9746,6 +9666,16 @@
       "answer": "Navigation Systems Error"
     },
     {
+      "question": "\"Error following prescribed path, by pilot or autopilot\" is a description of what navigation accuracy?",
+      "choices": [
+        "Flight Technical Error",
+        "Navigation Systems Error",
+        "Path Definition Error",
+        "Special Authorisation Error"  
+      ],
+      "answer": "Flight Technical Error"
+    },
+    {
       "question": "Which of the following navigation specification is used in all phases of flight, except oceanic / remote regions and final approach?",
       "choices": [
         "RNAV 0.5",
@@ -9833,7 +9763,7 @@
         "The lateral system accuracy requirement where \u2018X\u2019 indicates required LNAV accuracy in nautical miles, for 100% of the flight time, with an added requirement for RNP to have an alerting and monitoring function.",
         "The lateral system accuracy requirement where \u2018X\u2019 indicates required VNAV accuracy in nautical miles, for 95% of the flight time, with an added requirement for RNP to have an alerting function."
       ],
-      "answer": "The lateral system accuracy requirement where \u2018X\u2019 indicates required LNAV accuracy in nautical miles, for 95% of the flight time, with an added requirement for RNP to have an alerting and monitoring function."
+      "answer": "The lateral system accuracy requirement where \u2018X\u2019 indicates required LNAV accuracy in nautical miles, for 95% of the flight time, with an added requirement for RNAV to have an alerting and monitoring function."
     },
     {
       "question": "RNAV/RNP system performance requirements are defined in terms of which of the following?",
@@ -9954,6 +9884,16 @@
         "Mode A"
       ],
       "answer": "Mode S"
+    },
+    {
+      "question": "Which statement with respect to the transponder interrogation modes A, C and S is correct?",
+      "choices": [
+        "Mode S Only all-call will trigger transponder replies of all mode A/C/S transponders.",
+        "Mode S Selective will trigger replies of all mode S transponders. Mode A/C transponders are suppressed.",
+        "Intermode A/C/S all call and Intermode A/C only all call, differ in the pulse spacing used between the P1 and P3 pulses.",
+        "Mode S All-Call will transmit information to all mode S transponders."
+      ],
+      "answer": "Mode S All-Call will transmit information to all mode S transponders."
     },
     {
       "question": "In which increments of altitude is a Mode C pressure altitude transmitted?",
