@@ -8805,16 +8805,6 @@
       "answer": "150\u00b0T"
     },
     {
-      "question": "In the absence of any external influences on the magnetic compass, how will Compass North and Magnetic North differ?",
-      "choices": [
-        "They will differ by deviation.",
-        "They will be equal.",
-        "They will differ positively by deviation.",
-        "They will differ negatively by deviation."
-      ],
-      "answer": "They will be equal."
-    },
-    {
       "question": "How are bearings measured?",
       "choices": [
         "In degrees, counter-clockwise from a datum.",
@@ -8823,26 +8813,6 @@
         "In degrees, clockwise from a datum."
       ],
       "answer": "In degrees, clockwise from a datum."
-    },
-    {
-      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 177\u00b0M, with an island 30\u00b0 right of the centreline. Magnetic variation = 9\u00b0W. What is the true bearing from the island to the aircraft?",
-      "choices": [
-        "216\u00b0T",
-        "036\u00b0T",
-        "018\u00b0T",
-        "198\u00b0T"
-      ],
-      "answer": "018\u00b0T"
-    },
-    {
-      "question": "While flying on a magnetic heading of 185\u00b0 M in the northern hemisphere, an aircraft measures the relative bearing of 'ONO' NDB on an RBI Relative Bearing indicator as 065\u00b0 R. Given the following information, what bearing should be plotted from the beacon to the aircraft on a Lambert chart? Variation at the aircraft: 6\u00b0 E Variation at the station: 4\u00b0 E Chart convergence between the aircraft and the NDB: 8\u00b0",
-      "choices": [
-        "066\u00b0 T",
-        "062\u00b0 T",
-        "076\u00b0 T",
-        "068\u00b0 T"
-      ],
-      "answer": "068\u00b0 T"
     },
     {
       "question": "What does the abbreviation DME stand for?",
