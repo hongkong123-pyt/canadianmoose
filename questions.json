@@ -4270,7 +4270,7 @@
         "Eastern hemisphere.",
         "Northern hemisphere."
       ],
-      "answer": "Southern hemisphere."
+      "answer": "Northern hemisphere."
     },
     {
       "question": "During a low level VFR flight at 600 ft AGL, which one of the following challenges may be faced by the pilot?",
@@ -5790,7 +5790,7 @@
         "Nigeria - N09\u00b030\u2019 E009\u00b045\u2019 - 16.35 UTC on 15th April 2018",
         "Chad - N09\u00b030\u2019 E016\u00b030\u2019 - 07.06 UTC on 16th April 2018"
       ],
-      "answer": "Nigeria - N09\u00b030\u2019 E006\u00b0"
+      "answer": "Nigeria - N09\u00b030\u2019 E009\u00b045\u2019 - 16.35 UTC on 15th April 2018"
     },
     {
       "question": "Chart Convergency = Change of __________ x n",
@@ -6633,16 +6633,6 @@
       "answer": "The difference in bearing between the directions from an observer to True North and Magnetic North."
     },
     {
-      "question": "An aircraft is on a heading of 212\u00b0M, and a land feature is visible 60\u00b0 left of the aircraft\u2019s nose.  Magnetic variation at the aircraft = 14\u00b0E and at the land feature = 11\u00b0E. What is the true bearing of the aircraft from the land feature?",
-      "choices": [
-        "346\u00b0T",
-        "318\u00b0T",
-        "343\u00b0T",
-        "163\u00b0T"
-      ],
-      "answer": "346\u00b0T"
-    },
-    {
       "question": "The proportional difference in distance between the great circle and rhumb-line routes between any 2 positions increases with: An __________ change in longitude and/or increasing latitude.",
       "choices": [
         "constant",
@@ -6863,16 +6853,6 @@
       "answer": "Westerly; W"
     },
     {
-      "question": "The magnetic bearing being followed by an aircraft is 303\u00b0M. Local magnetic variation = 8\u00b0E. Compass deviation = 2\u00b0E. What is the true bearing?",
-      "choices": [
-        "309\u00b0T",
-        "295\u00b0T",
-        "313\u00b0T",
-        "311\u00b0T"
-      ],
-      "answer": "311\u00b0T"
-    },
-    {
       "question": "Drift - the effect of prevailing wind on the flight path of the aircraft (from __________ to __________).",
       "choices": [
         "track; track",
@@ -6933,16 +6913,6 @@
       "answer": "FROM"
     },
     {
-      "question": "An aircraft is on a heading of 353\u00b0M, and a land feature is visible 45\u00b0 left of the aircraft\u2019s nose. Magnetic variation at the aircraft = 22\u00b0E and at the land feature = 20\u00b0E. What is the true bearing of the aircraft from the land feature?",
-      "choices": [
-        "330\u00b0T",
-        "148\u00b0T",
-        "106\u00b0T",
-        "150\u00b0T"
-      ],
-      "answer": "150\u00b0T"
-    },
-    {
       "question": "Relative bearings are measured in a : __________ direction.",
       "choices": [
         "Anti-clockwise",
@@ -7001,16 +6971,6 @@
         "An isogonal line ."
       ],
       "answer": "An agonic line."
-    },
-    {
-      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 008\u00b0M, with an island 45\u00b0 left of the centreline. Magnetic variation = 22\u00b0E. What is the true bearing from the island to the aircraft?",
-      "choices": [
-        "119\u00b0T",
-        "299\u00b0T",
-        "345\u00b0T",
-        "165\u00b0T"
-      ],
-      "answer": "165\u00b0T"
     },
     {
       "question": "If an aircraft flies along a VOR radial it will follow a:",
@@ -7101,16 +7061,6 @@
         "N45\u00b0 W030\u00b0 and N45\u00b0 W060\u00b0"
       ],
       "answer": "S80\u00b0 E172\u00b0 and S60\u00b0 E172\u00b0"
-    },
-    {
-      "question": "An aircraft is on a heading of 205\u00b0M, with an island on a relative bearing of 270\u00b0 from the aircraft. Magnetic variation = 45\u00b0E. What is the true bearing from the island to the aircraft?",
-      "choices": [
-        "070\u00b0T",
-        "160\u00b0T",
-        "340\u00b0T",
-        "250\u00b0T"
-      ],
-      "answer": "340\u00b0T"
     },
     {
       "question": "What is the formula used to calculate convergency between two positions relatively close to each other? Convergency = Difference in:",
@@ -7213,36 +7163,6 @@
       "answer": "Southern hemisphere."
     },
     {
-      "question": "An aircraft is on a heading of 315\u00b0M, with an NDB on a relative bearing of 120\u00b0 from the aircraft? Magnetic variation at the aircraft = 10\u00b0W and at the NDB = 20\u00b0W. What is the true bearing from the NDB to the aircraft?",
-      "choices": [
-        "225\u00b0T",
-        "045\u00b0T",
-        "265\u00b0T",
-        "245\u00b0T"
-      ],
-      "answer": "245\u00b0T"
-    },
-    {
-      "question": "What process is used to minimise the amount of residual error in a direct reading magnetic compass?",
-      "choices": [
-        "Compass magnetism reduction.",
-        "Compass calibration swing.",
-        "Compass alignment swing.",
-        "Compass variation swing."
-      ],
-      "answer": "Compass calibration swing."
-    },
-    {
-      "question": "The true bearing being followed by an aircraft is 145\u00b0T. Local magnetic variation = 15\u00b0W. Compass deviation = 5\u00b0E. What is the magnetic bearing?",
-      "choices": [
-        "130\u00b0M",
-        "135\u00b0M",
-        "160\u00b0M",
-        "125\u00b0M"
-      ],
-      "answer": "160\u00b0M"
-    },
-    {
       "question": "To perform relative bearing calculations: HDG (\u00b0M) + __________ = BRG TO (\u00b0__________)",
       "choices": [
         "Relative Bearing; Magnetic",
@@ -7261,16 +7181,6 @@
         "W080\u00b000\u2019 and E080\u00b000\u2019"
       ],
       "answer": "E080\u00b000\u2019 and W100\u00b000\u2019"
-    },
-    {
-      "question": "An aircraft is on a heading of 235\u00b0M, with an NDB on a relative bearing of 080\u00b0 from the aircraft. What is the magnetic bearing from the NDB to the aircraft?",
-      "choices": [
-        "315\u00b0M",
-        "135\u00b0M",
-        "335\u00b0M",
-        "155\u00b0M"
-      ],
-      "answer": "135\u00b0M"
     },
     {
       "question": "A great circle track crosses the Equator at E030\u00b0 on a bearing of 120\u00b0T. What are the coordinates of the highest point reached?",
@@ -7343,26 +7253,6 @@
       "answer": "Heading"
     },
     {
-      "question": "An aircraft is on a heading of 212\u00b0M, and a land feature is visible 60\u00b0 left of the aircraft\u2019s nose. Magnetic variation at the aircraft = 14\u00b0E and at the land feature = 11\u00b0E. What is the true bearing of the aircraft from the land feature?",
-      "choices": [
-        "346\u00b0T",
-        "318\u00b0T",
-        "163\u00b0T",
-        "343\u00b0T"
-      ],
-      "answer": "346\u00b0T"
-    },
-    {
-      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 303\u00b0M, with an island 30\u00b0 left of the centreline. Magnetic variation = 12\u00b0E. What is the true bearing from the island to the aircraft?",
-      "choices": [
-        "321\u00b0T",
-        "105\u00b0T",
-        "141\u00b0T",
-        "285\u00b0T"
-      ],
-      "answer": "105\u00b0T"
-    },
-    {
       "question": "Contour lines on aeronautical maps and charts connect points:",
       "choices": [
         "with the same variation.",
@@ -7371,16 +7261,6 @@
         "of equal latitude."
       ],
       "answer": "having the same elevation."
-    },
-    {
-      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 271\u00b0M, with an island 45\u00b0 right of the centreline. Magnetic variation = 26\u00b0E. What is the true bearing from the island to the aircraft?",
-      "choices": [
-        "162\u00b0T",
-        "290\u00b0T",
-        "110\u00b0T",
-        "342\u00b0T"
-      ],
-      "answer": "162\u00b0T"
     },
     {
       "question": "Application of WCA and DR to track or heading, as appropriate: HDG +/- DR = __________.",
@@ -7573,26 +7453,6 @@
       "answer": "The direction measured along the observer\u2019s local meridian of longitude to the True North Pole."
     },
     {
-      "question": "An aircraft is on a heading of 309\u00b0M, with an NDB on a relative bearing of 320\u00b0 from the aircraft? Magnetic variation at the aircraft = 35\u00b0W and at the NDB = 40\u00b0W. What is the true bearing from the NDB to the aircraft?",
-      "choices": [
-        "234\u00b0T",
-        "054\u00b0T",
-        "049\u00b0T",
-        "059\u00b0T"
-      ],
-      "answer": "054\u00b0T"
-    },
-    {
-      "question": "__________ - the path over the ground the aircraft follows.",
-      "choices": [
-        "Direction",
-        "Track",
-        "Bearing",
-        "Heading"
-      ],
-      "answer": "Track"
-    },
-    {
       "question": "Compass deviations are recorded on a compass calibration card, which usually reads: For course __________. Steer __________.",
       "choices": [
         "magnetic; compass.",
@@ -7651,16 +7511,6 @@
         "15.6\u00b0"
       ],
       "answer": "7.8\u00b0"
-    },
-    {
-      "question": "In a VFR cross-country flight, a landmark is spotted on a relative bearing of 315\u00b0. Three minutes later the same landmark is observed on a relative bearing of 270\u00b0. If the TAS is 90 kt and there is a tailwind of 30 kt, what is the distance to the landmark at the time of the second bearing?",
-      "choices": [
-        "4.5 NM",
-        "3 NM",
-        "6 NM",
-        "2 NM"
-      ],
-      "answer": "6 NM"
     },
     {
       "question": "What is the zero datum for true bearings?",
@@ -8775,6 +8625,156 @@
       "answer": "Altitude."
     },
     {
+      "question": "In a VFR cross-country flight, a landmark is spotted on a relative bearing of 315\u00b0. Three minutes later the same landmark is observed on a relative bearing of 270\u00b0. If the TAS is 90 kt and there is a tailwind of 30 kt, what is the distance to the landmark at the time of the second bearing?",
+      "choices": [
+        "4.5 NM",
+        "3 NM",
+        "6 NM",
+        "2 NM"
+      ],
+      "answer": "6 NM"
+    },
+    {
+      "question": "An aircraft is on a heading of 309\u00b0M, with an NDB on a relative bearing of 320\u00b0 from the aircraft? Magnetic variation at the aircraft = 35\u00b0W and at the NDB = 40\u00b0W. What is the true bearing from the NDB to the aircraft?",
+      "choices": [
+        "234\u00b0T",
+        "054\u00b0T",
+        "049\u00b0T",
+        "059\u00b0T"
+      ],
+      "answer": "054\u00b0T"
+    },
+    {
+      "question": "__________ - the path over the ground the aircraft follows.",
+      "choices": [
+        "Direction",
+        "Track",
+        "Bearing",
+        "Heading"
+      ],
+      "answer": "Track"
+    },
+    {
+      "question": "An aircraft is on a heading of 235\u00b0M, with an NDB on a relative bearing of 080\u00b0 from the aircraft. What is the magnetic bearing from the NDB to the aircraft?",
+      "choices": [
+        "315\u00b0M",
+        "135\u00b0M",
+        "335\u00b0M",
+        "155\u00b0M"
+      ],
+      "answer": "135\u00b0M"
+    },
+    {
+      "question": "An aircraft is on a heading of 315\u00b0M, with an NDB on a relative bearing of 120\u00b0 from the aircraft? Magnetic variation at the aircraft = 10\u00b0W and at the NDB = 20\u00b0W. What is the true bearing from the NDB to the aircraft?",
+      "choices": [
+        "225\u00b0T",
+        "045\u00b0T",
+        "265\u00b0T",
+        "245\u00b0T"
+      ],
+      "answer": "245\u00b0T"
+    },
+    {
+      "question": "What process is used to minimise the amount of residual error in a direct reading magnetic compass?",
+      "choices": [
+        "Compass magnetism reduction.",
+        "Compass calibration swing.",
+        "Compass alignment swing.",
+        "Compass variation swing."
+      ],
+      "answer": "Compass calibration swing."
+    },
+    {
+      "question": "The true bearing being followed by an aircraft is 145\u00b0T. Local magnetic variation = 15\u00b0W. Compass deviation = 5\u00b0E. What is the magnetic bearing?",
+      "choices": [
+        "130\u00b0M",
+        "135\u00b0M",
+        "160\u00b0M",
+        "125\u00b0M"
+      ],
+      "answer": "160\u00b0M"
+    },
+    {
+      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 271\u00b0M, with an island 45\u00b0 right of the centreline. Magnetic variation = 26\u00b0E. What is the true bearing from the island to the aircraft?",
+      "choices": [
+        "162\u00b0T",
+        "290\u00b0T",
+        "110\u00b0T",
+        "342\u00b0T"
+      ],
+      "answer": "162\u00b0T"
+    },
+    {
+      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 303\u00b0M, with an island 30\u00b0 left of the centreline. Magnetic variation = 12\u00b0E. What is the true bearing from the island to the aircraft?",
+      "choices": [
+        "321\u00b0T",
+        "105\u00b0T",
+        "141\u00b0T",
+        "285\u00b0T"
+      ],
+      "answer": "105\u00b0T"
+    },
+    {
+      "question": "An aircraft is on a heading of 205\u00b0M, with an island on a relative bearing of 270\u00b0 from the aircraft. Magnetic variation = 45\u00b0E. What is the true bearing from the island to the aircraft?",
+      "choices": [
+        "070\u00b0T",
+        "160\u00b0T",
+        "340\u00b0T",
+        "250\u00b0T"
+      ],
+      "answer": "340\u00b0T"
+    },
+    {
+      "question": "An aircraft\u2019s EFIS Navigation Display shows the aircraft to be on a heading of 008\u00b0M, with an island 45\u00b0 left of the centreline. Magnetic variation = 22\u00b0E. What is the true bearing from the island to the aircraft?",
+      "choices": [
+        "119\u00b0T",
+        "299\u00b0T",
+        "345\u00b0T",
+        "165\u00b0T"
+      ],
+      "answer": "165\u00b0T"
+    },
+    {
+      "question": "An aircraft is on a heading of 353\u00b0M, and a land feature is visible 45\u00b0 left of the aircraft\u2019s nose. Magnetic variation at the aircraft = 22\u00b0E and at the land feature = 20\u00b0E. What is the true bearing of the aircraft from the land feature?",
+      "choices": [
+        "330\u00b0T",
+        "148\u00b0T",
+        "106\u00b0T",
+        "150\u00b0T"
+      ],
+      "answer": "150\u00b0T"
+    },
+    {
+      "question": "An aircraft is on a heading of 212\u00b0M, and a land feature is visible 60\u00b0 left of the aircraft\u2019s nose. Magnetic variation at the aircraft = 14\u00b0E and at the land feature = 11\u00b0E. What is the true bearing of the aircraft from the land feature?",
+      "choices": [
+        "346\u00b0T",
+        "318\u00b0T",
+        "163\u00b0T",
+        "343\u00b0T"
+      ],
+      "answer": "346\u00b0T"
+    },
+    {
+      "question": "An aircraft is on a heading of 212\u00b0M, and a land feature is visible 60\u00b0 left of the aircraft\u2019s nose.  Magnetic variation at the aircraft = 14\u00b0E and at the land feature = 11\u00b0E. What is the true bearing of the aircraft from the land feature?",
+      "choices": [
+        "346\u00b0T",
+        "318\u00b0T",
+        "343\u00b0T",
+        "163\u00b0T"
+      ],
+      "answer": "346\u00b0T"
+    },
+    {
+      "question": "The magnetic bearing being followed by an aircraft is 303\u00b0M. Local magnetic variation = 8\u00b0E. Compass deviation = 2\u00b0E. What is the true bearing?",
+      "choices": [
+        "309\u00b0T",
+        "295\u00b0T",
+        "313\u00b0T",
+        "311\u00b0T"
+      ],
+      "answer": "311\u00b0T"
+    },
+    {
       "question": "An aircraft is on a heading of 100\u00b0T, with an island on a relative bearing of 060\u00b0 from the aircraft. What is the true bearing from the aircraft to the island?",
       "choices": [
         "160\u00b0T",
@@ -8928,8 +8928,8 @@
       "question": "Why should the tilt of an Airborne Weather Radar system (without auto tilt) be changed to a higher setting when descending over terrain?",
       "choices": [
         "If the beam\u2019s tilt remains at the setting used during cruise, the scanning range will be reduced and the strength of the reflected signals will be weaker.",
-       "The higher tilt setting will keep the beam above the aircraft\u2019s flight path.",
-        "Not quite. Please review the lesson contents.",
+        "The higher tilt setting will keep the beam above the aircraft\u2019s flight path.",
+        "The lower tilt setting will keep the beam above the aircraft\u2019s flight path.",
         "If the beam\u2019s tilt remains at the setting used during cruise, the scanning range will be reduced and significant ground clutter may be displayed."
       ],
       "answer": "If the beam\u2019s tilt remains at the setting used during cruise, the scanning range will be reduced and significant ground clutter may be displayed."
