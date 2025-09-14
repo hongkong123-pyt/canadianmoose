@@ -1,0 +1,53 @@
+name: PDF to JSON Extractor
+
+on:
+  push:
+    paths:
+      - '**.pdf'
+      - '.github/workflows/pdf_to_json.yml'
+  workflow_dispatch:
+
+jobs:
+  extract-pdfs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install PyPDF2
+
+      - name: Extract PDFs to JSON
+        run: |
+          mkdir -p json_output
+          for pdf in $(find . -type f -name '*.pdf'); do
+            python3 <<EOF
+import json
+from PyPDF2 import PdfReader
+pdf_file = "${pdf}"
+reader = PdfReader(pdf_file)
+pages = []
+for i, page in enumerate(reader.pages):
+    text = page.extract_text() or ""
+    pages.append({"page": i+1, "text": text})
+out = {
+    "filename": pdf_file,
+    "page_count": len(pages),
+    "pages": pages
+}
+json_path = f"json_output/{pdf_file.strip('./').replace('/', '_').replace('.pdf', '.json')}"
+with open(json_path, "w", encoding="utf-8") as f:
+    json.dump(out, f, ensure_ascii=False, indent=2)
+EOF
+          done
+
+      - name: Upload JSON outputs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdf-jsons
+          path: json_output/
