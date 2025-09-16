@@ -39252,24 +39252,6 @@
       "answer": "SCT"
     },
     {
-      "question": "Which of the following statements about wind development is/are true (mark all 4 correct answers)?",
-      "choices": [
-        "The direction of the PGF is directly from high pressure to low pressure.",
-        "The geostrophic wind takes into account centrifugal force.",
-        "Coriolis always acts to the right.",
-        "The geostrophic wind blows parallel to the isobars up to the top of the friction layer.",
-        "Coriolis acts to the right in the Northern hemisphere and to the left in the Southern hemisphere.",
-        "The effect of the friction layer is to reduce Coriolis.",
-        "The geostrophic wind is the product of the PGF, acted on by Coriolis."
-      ],
-      "answer": [
-        "The direction of the PGF is directly from high pressure to low pressure.",
-        "Coriolis acts to the right in the Northern hemisphere and to the left in the Southern hemisphere.",
-        "The geostrophic wind is the product of the PGF, acted on by Coriolis.",
-        "The effect of the friction layer is to reduce Coriolis."
-      ]
-    },
-    {
       "question": "It is formed in __________ atmospheric conditions.",
       "choices": [
         "stable",
@@ -39446,24 +39428,6 @@
       "answer": "Delay the take-off."
     },
     {
-      "question": "Which of the following statements about Fohn winds is/are true (mark all correct answers)?",
-      "choices": [
-        "Fohns winds result in higher ambient temperatures on the lee side of the mountain.",
-        "Fohn winds can cause rain shadows.",
-        "The temperature difference between the windward and lee side of the mountain is caused by cooling at the DALR followed by warming at the SALR.",
-        "The temperature difference between the windward and lee sides of the mountain is caused by cooling at the SALR followed by warming at the DALR.",
-        "The driest air is on the lee side of the mountain.",
-        "Fohn winds require a flow of moist stable air."
-      ],
-      "answer": [
-        "Fohns winds result in higher ambient temperatures on the lee side of the mountain.",
-        "The temperature difference between the windward and lee sides of the mountain is caused by cooling at the SALR followed by warming at the DALR.",
-        "The driest air is on the lee side of the mountain.",
-        "Fohn winds can cause rain shadows.",
-        "Fohn winds require a flow of moist stable air."
-      ]
-    },
-    {
       "question": "The reporting group 'BR' indicates that the visibility is less than __________ but more than 1000 m.",
       "choices": [
         "3000 m",
@@ -39502,38 +39466,6 @@
         "45"
       ],
       "answer": "30"
-    },
-    {
-      "question": "Which of the following statements is/are correct (mark all correct answers)?",
-      "choices": [
-        "A ceiling is defined as any cloud base obscuring more than a certain amount of the sky, either given as BKN or OVC.",
-        "Only significantly convective clouds (TCU,CB) are usually identified in a met report.",
-        "Ice clouds are composed entirely of ice crystals and are most often at very high levels.",
-        "Pure water clouds are composed entirely of liquid water droplets and are usually the medium to high level clouds.",
-        "The height of the cloud base is defined as the height (in feet) above ground level."
-      ],
-      "answer": [
-        "Ice clouds are composed entirely of ice crystals and are most often at very high levels.",
-        "Only significantly convective clouds (TCU,CB) are usually identified in a met report.",
-        "The height of the cloud base is defined as the height (in feet) above ground level.",
-        "A ceiling is defined as any cloud base obscuring more than a certain amount of the sky, either given as BKN or OVC."
-      ]
-    },
-    {
-      "question": "Which of the following statements about thunderstorm cells is/are correct (mark all correct statements)?",
-      "choices": [
-        "The dissipating stage comprises predominantly downdrafts.",
-        "The total lifecycle of a thunderstorm cell is about 1 to 3 hours.",
-        "Rain begins falling in the mature stage.",
-        "The initial stage comprises mostly updrafts.",
-        "The mature stage comprise mostly updrafts."
-      ],
-      "answer": [
-        "Rain begins falling in the mature stage.",
-        "The dissipating stage comprises predominantly downdrafts.",
-        "The initial stage comprises mostly updrafts.",
-        "The total lifecycle of a thunderstorm cell is about 1 to 3 hours."
-      ]
     },
     {
       "question": "This type of precipitation is called __________ .",
@@ -39703,25 +39635,6 @@
       ]
     },
     {
-      "question": "Study this diagram and identify which of the statements below is correct.",
-      "choices": [
-        "D is an example of a cold front.",
-        "C is typical of a secondary depression.",
-        "B is an example of an occluded front.",
-        "A is typical of a secondary depression.",
-        "A is typical of a polar front depression.",
-        "A is a classic warm sector.",
-        "E is an example of a warm front."
-      ],
-      "answer": [
-        "A is typical of a polar front depression.",
-        "B is an example of an occluded front.",
-        "C is typical of a secondary depression.",
-        "D is an example of a cold front.",
-        "E is an example of a warm front."
-      ]
-    },
-    {
       "question": "The pressure steadily __________ as a warm front approaches.",
       "choices": [
         "remains constant",
@@ -39729,23 +39642,6 @@
         "falls"
       ],
       "answer": "falls"
-    },
-    {
-      "question": "Which of these statements about the ITCZ is/are correct? Mark all 4 correct answers.",
-      "choices": [
-        "The northern and southern limits of the ITCZ correspond to the Earth's angle of tilt with respect to its orbital plane.",
-        "In the area occupied by the ITCZ, surface air temperature and humidities are typically >18°C and 80% RH.",
-        "The ITCZ is an area of convergence.",
-        "The ITCZ produces TS/CB's, severe turbulence, windshear, hail, icing, tornadoes, lightning, heavy rain.",
-        "The ITCZ reaches 23.5° N at the northern hemisphere summer solstice and moves south, crossing the equator at the equinox, reaching 23.5° S at the southern hemisphere summer solstice.",
-        "Thunderstorm activity in the ITCZ is sufficiently scattered that it doesn't represent a significant hazard to aviation."
-      ],
-      "answer": [
-        "The ITCZ reaches 23.5° N at the northern hemisphere summer solstice and moves south, crossing the equator at the equinox, reaching 23.5° S at the southern hemisphere summer solstice.",
-        "The ITCZ produces TS/CB's, severe turbulence, windshear, hail, icing, tornadoes, lightning, heavy rain.",
-        "The ITCZ is an area of convergence.",
-        "In the area occupied by the ITCZ, surface air temperature and humidities are typically >18°C and 80% RH."
-      ]
     },
     {
       "question": "The main icing zone in the ITCZ is located between:",
@@ -40063,23 +39959,6 @@
       "answer": "TCACs"
     },
     {
-      "question": "Study the image and then identify the correct statements. Mark all 4 correct answers.",
-      "choices": [
-        "D shows areas of low pressure.",
-        "E shows areas of low pressure.",
-        "C shows Polar cells.",
-        "A shows Hadley cells.",
-        "F shows areas of low pressure.",
-        "A shows Ferrel cells."
-      ],
-      "answer": [
-        "A shows Hadley cells.",
-        "E shows areas of low pressure.",
-        "D shows areas of low pressure.",
-        "C shows Polar cells."
-      ]
-    },
-    {
       "question": "An observer is on the ground. What weather can he expect in the middle of a cold air drop?",
       "choices": [
         "TS/RA.",
@@ -40118,28 +39997,6 @@
         "lower than 63 knots and the air is ascending."
       ],
       "answer": "lower than 63 knots and the air is descending."
-    },
-    {
-      "question": "Study this diagram and identify which of the following statements is correct.",
-      "choices": [
-        "D shows hurricanes which occur between May and November.",
-        "C shows typhoons which occur predominantly between June and November.",
-        "D shows hurricanes which occur between November and April.",
-        "E shows hurricanes which occur between June and November.",
-        "B shows typhoons which occur between November and April.",
-        "E shows cyclones which occur between June and November.",
-        "B shows cyclones which occur between November and April.",
-        "A shows hurricanes which occur between October and May.",
-        "C shows hurricanes which only occur between July and December.",
-        "A shows cyclones which occur all year round"
-      ],
-      "answer": [
-        "A shows cyclones which occur all year round",
-        "C shows typhoons which occur predominantly between June and November.",
-        "B shows cyclones which occur between November and April.",
-        "D shows hurricanes which occur between May and November.",
-        "E shows hurricanes which occur between June and November."
-      ]
     },
     {
       "question": "Winds reported by the control tower and in local routine reports (ATIS) are averaged over the previous __________ minutes and are referenced to __________ North.",
@@ -40221,20 +40078,6 @@
         "is not"
       ],
       "answer": "is not"
-    },
-    {
-      "question": "Which of the following statements is/are true (mark all correct answers)?",
-      "choices": [
-        "Cold air can hold less water vapour than warm air.",
-        "Reducing the temperature of a parcel of air is likely to bring it closer to its dew point.",
-        "Reducing the temperature of a parcel of cold air will reduce its relative humidity (RH).",
-        "Adding water vapour to a parcel of cold air is likely to bring it closer to its dew point."
-      ],
-      "answer": [
-        "Cold air can hold less water vapour than warm air.",
-        "Reducing the temperature of a parcel of air is likely to bring it closer to its dew point.",
-        "Adding water vapour to a parcel of cold air is likely to bring it closer to its dew point."
-      ]
     },
     {
       "question": "Identify the term from its definition: The vertical distance above the ground.",
@@ -40350,23 +40193,6 @@
       "answer": "pressure gradient force."
     },
     {
-      "question": "Which of the following statements is/are true (mark all correct answers)?",
-      "choices": [
-        "Latent heat is absorbed from the surroundings during evaporation.",
-        "Latent heat is absorbed from the surroundings during melting.",
-        "Nuclei are not necessary for sublimation, but they are required for deposition.",
-        "Latent heat is released to the surroundings during freezing.",
-        "Latent heat is released to the surroundings during condensation."
-      ],
-      "answer": [
-        "Latent heat is absorbed from the surroundings during melting.",
-        "Latent heat is released to the surroundings during freezing.",
-        "Nuclei are not necessary for sublimation, but they are required for deposition.",
-        "Latent heat is absorbed from the surroundings during evaporation.",
-        "Latent heat is released to the surroundings during condensation."
-      ]
-    },
-    {
       "question": "Air temperature is a measure of __________ energy.",
       "choices": [
         "potential",
@@ -40374,36 +40200,6 @@
         "kinetic"
       ],
       "answer": "kinetic"
-    },
-    {
-      "question": "Which of the following statements about altimeter indications errors is/are true (mark all correct answers)?",
-      "choices": [
-        "When flying from an area of high temperature to an area of low temperature the altimeter is likely to under-read.",
-        "An altimeter always shows an erroneously high altitude when flying over the tops of hills.",
-        "When flying from an area of high temperature to an area of low temperature the altimeter is likely to over-read.",
-        "In a strong wind, an altimeter is likely to show an erroneously high altitude when flying over the top of a hill."
-      ],
-      "answer": [
-        "When flying from an area of high temperature to an area of low temperature the altimeter is likely to over-read.",
-        "In a strong wind, an altimeter is likely to show an erroneously high altitude when flying over the top of a hill."
-      ]
-    },
-    {
-      "question": "Inversions can cause:",
-      "choices": [
-        "Large cumulus type clouds.",
-        "A low layer of poor visibility.",
-        "Fog.",
-        "Turbulence.",
-        "High wind speeds.",
-        "Windshear."
-      ],
-      "answer": [
-        "Windshear.",
-        "Turbulence.",
-        "A low layer of poor visibility.",
-        "Fog."
-      ]
     },
     {
       "question": "Subsiding air creates a column of relatively warmer air which decreases the average ELR and __________ atmospheric stability. This __________ cloud formation.",
@@ -40493,20 +40289,6 @@
         "In cases of the venturi effect, the indicated altitude of the aircraft is lower than the actual altitude."
       ],
       "answer": "In cases of the venturi effect, the actual altitude of the aircraft is lower than the indicated altitude."
-    },
-    {
-      "question": "The temperature is +6°C the dewpoint is +3°C. (mark all correct answers)",
-      "choices": [
-        "2 hours after dawn on a spring day this probably won't be a problem.",
-        "The RH is less than 100%.",
-        "The air is beyond its saturation point.",
-        "At 19:00 on a winter's evening this is likely to be a problem."
-      ],
-      "answer": [
-        "At 19:00 on a winter's evening this is likely to be a problem.",
-        "2 hours after dawn on a spring day this probably won't be a problem.",
-        "The RH is less than 100%."
-      ]
     },
     {
       "question": "Which of the following is true of a 'land breeze'?",
@@ -43247,21 +43029,6 @@
       "answer": "Stratosphere."
     },
     {
-      "question": "The most dangerous zones in and around a single or multi-cell storm are:",
-      "choices": [
-        "The micro/macrobursts and hail from the anvil armpit.",
-        "Within and to the sides of the main updraft core.",
-        "The gust front.",
-        "The overshooting top where ice crystal icing can occur."
-      ],
-      "answer": [
-        "The micro/macrobursts and hail from the anvil armpit.",
-        "Within and to the sides of the main updraft core.",
-        "The gust front.",
-        "The overshooting top where ice crystal icing can occur."
-      ]
-    },
-    {
       "question": "This type of precipitation is called __________.",
       "choices": [
         "stratus",
@@ -43379,20 +43146,6 @@
         "Stratus clouds."
       ],
       "answer": "Nimbostratus clouds."
-    },
-    {
-      "question": "Which of the following statements is/are true (mark all correct answers)?",
-      "choices": [
-        "Downbursts occur when a large core of rain (that the main cumulus updraft has been holding) collapses and falls rapidly towards the ground.",
-        "Downbursts are associated with strong, active, convective weather.",
-        "The only safe countermeasure to downbursts is to avoid them completely.",
-        "Downdraft speed is reduced by evaporation within the cloud."
-      ],
-      "answer": [
-        "Downbursts are associated with strong, active, convective weather.",
-        "The only safe countermeasure to downbursts is to avoid them completely.",
-        "Downbursts occur when a large core of rain (that the main cumulus updraft has been holding) collapses and falls rapidly towards the ground."
-      ]
     },
     {
       "question": "Within a short interval, several flight crews report that they have experienced strong clear air turbulence in a certain airspace. What is the consequence of these reports?",
@@ -43520,38 +43273,6 @@
       "answer": "True; Magnetic"
     },
     {
-      "question": "Which of the following statements is/are accurate (mark all correct answers)?",
-      "choices": [
-        "Clouds absorb terrestrial radiation and thus act as a heat source in the lower atmosphere at night.",
-        "Hail stones can cause very significant damage to aircraft.",
-        "Stratiform cloud produces very little precipitation.",
-        "Convective clouds produce showery precipitation, characterised by rapid onset and rapid cessation.",
-        "Low moisture content causes smaller snowflakes and thus better visibility."
-      ],
-      "answer": [
-        "Hail stones can cause very significant damage to aircraft.",
-        "Convective clouds produce showery precipitation, characterised by rapid onset and rapid cessation.",
-        "Low moisture content causes smaller snowflakes and thus better visibility.",
-        "Clouds absorb terrestrial radiation and thus act as a heat source in the lower atmosphere at night."
-      ]
-    },
-    {
-      "question": "Which of the following statements is/are correct (mark all correct answers)?",
-      "choices": [
-        "Pure water clouds are composed entirely of liquid water droplets and are usually the medium to high level clouds.",
-        "Only significantly convective clouds (TCU, CB) are usually identified in a met report.",
-        "The height of the cloud base is defined as the height (in feet) above ground level.",
-        "Ice clouds are composed entirely of ice crystals and are most often at very high levels.",
-        "A ceiling is defined as any cloud base obscuring more than a certain amount of the sky, either given as BKN or OVC."
-      ],
-      "answer": [
-        "Ice clouds are composed entirely of ice crystals and are most often at very high levels.",
-        "Only significantly convective clouds (TCU, CB) are usually identified in a met report.",
-        "The height of the cloud base is defined as the height (in feet) above ground level.",
-        "A ceiling is defined as any cloud base obscuring more than a certain amount of the sky, either given as BKN or OVC."
-      ]
-    },
-    {
       "question": "The ICAO Standard Atmosphere assumes that temperature will reduce at the rate of:",
       "choices": [
         "2°C per 1000 ft up to 36 090 ft and will then rise at 0.3 °C per 1000 ft up to 65 617 ft then it will remain constant.",
@@ -43602,21 +43323,6 @@
       "answer": "More than 1016 hPa."
     },
     {
-      "question": "Which of the following statements is/are true (mark all correct answers)?",
-      "choices": [
-        "Saturated air which is forced to rise eventually causes condensation. Latent heat is released to the air so it cools more slowly than unsaturated air.",
-        "Saturated air which is forced to descend causes evaporation. Latent heat is absorbed from the air and so it warms more slowly than unsaturated air.",
-        "Saturated air cools or warms at a variable amount. The average is 1.8°C per 1000 ft (0.6°C per 100 m). This is the saturated adiabatic lapse rate (SALR).",
-        "As unsaturated air rises, its relative humidity increases. As unsaturated air descends, its relative humidity decreases."
-      ],
-      "answer": [
-        "As unsaturated air rises, its relative humidity increases. As unsaturated air descends, its relative humidity decreases.",
-        "Saturated air which is forced to rise eventually causes condensation. Latent heat is released to the air so it cools more slowly than unsaturated air.",
-        "Saturated air which is forced to descend causes evaporation. Latent heat is absorbed from the air and so it warms more slowly than unsaturated air.",
-        "Saturated air cools or warms at a variable amount. The average is 1.8°C per 1000 ft (0.6°C per 100 m). This is the saturated adiabatic lapse rate (SALR)."
-      ]
-    },
-    {
       "question": "Up to a height of about 20 km, 1 of the 2 principal layers in the atmosphere is the __________ where temperature __________ with height.",
       "choices": [
         "stratosphere; increases",
@@ -43625,54 +43331,6 @@
         "stratopause; is approximately constant"
       ],
       "answer": "stratosphere; is approximately constant"
-    },
-    {
-      "question": "Which of these statements is/are true (mark all correct answers)?",
-      "choices": [
-        "Evaporation can occur only when the air is unsaturated.",
-        "Water below 0°C invariably freezes.",
-        "Water vapour requires a surface for it to make the phase change to a liquid.",
-        "Condensation cannot occur without condensation nuclei.",
-        "Condensation creates visible liquid water."
-      ],
-      "answer": [
-        "Evaporation can occur only when the air is unsaturated.",
-        "Condensation creates visible liquid water.",
-        "Condensation cannot occur without condensation nuclei.",
-        "Water vapour requires a surface for it to make the phase change to a liquid."
-      ]
-    },
-    {
-      "question": "Which of the following statements about anticyclones is/are correct (mark all correct answers)?",
-      "choices": [
-        "Warm anticyclones produce warm surface temperatures which trigger cumulus formation.",
-        "Warm anticyclones form because of high level convergence.",
-        "Cold anticyclones form over the poles and over large continents in winter.",
-        "Warm anticyclones generally form in the subtropical high pressure belt.",
-        "Cold anticyclones form because of divergence at the surface."
-      ],
-      "answer": [
-        "Warm anticyclones form because of high level convergence.",
-        "Warm anticyclones generally form in the subtropical high pressure belt.",
-        "Cold anticyclones form over the poles and over large continents in winter."
-      ]
-    },
-    {
-      "question": "Which of the following statements is/are true (mark all correct answers)?",
-      "choices": [
-        "Latent heat is absorbed from the surroundings during evaporation.",
-        "Latent heat is absorbed from the surroundings during melting.",
-        "Nuclei are not necessary for sublimation, but they are required for deposition.",
-        "Latent heat is released to the surroundings during freezing.",
-        "Latent heat is released to the surroundings during condensation."
-      ],
-      "answer": [
-        "Latent heat is absorbed from the surroundings during evaporation.",
-        "Latent heat is absorbed from the surroundings during melting.",
-        "Nuclei are not necessary for sublimation, but they are required for deposition.",
-        "Latent heat is released to the surroundings during freezing.",
-        "Latent heat is released to the surroundings during condensation."
-      ]
     },
     {
       "question": "Define a 'HIGH'.",
@@ -43737,20 +43395,6 @@
       "answer": "west; east; both hemispheres"
     },
     {
-      "question": "Study the image then identify the correct statement(s) below. Mark 2 correct answers.",
-      "choices": [
-        "This situation is representative of the South American summer.",
-        "The warm wind flowing off the eastern seaboard is typical of the Pampero.",
-        "The cold wind flowing across the tip of South America is known as the Pampero.",
-        "The inflow towards the north eastern coast of South America could be categorised as mE.",
-        "This situation is typical of the South American winter."
-      ],
-      "answer": [
-        "This situation is representative of the South American summer.",
-        "The inflow towards the north eastern coast of South America could be categorised as mE."
-      ]
-    },
-    {
       "question": "What is the abbreviation used in METAR and TAF, when ice particles with a diameter of 4 mm have been observed?",
       "choices": [
         "PL.",
@@ -43769,38 +43413,6 @@
         "boundary between arctic and tropical air masses."
       ],
       "answer": "boundary between polar and tropical air masses."
-    },
-    {
-      "question": "Which of the following are valid contents of a runway state designator? Mark all correct answers.",
-      "choices": [
-        "Depth of deposit.",
-        "Expected clearance time.",
-        "Friction coefficient (or braking action).",
-        "Extent of deposit.",
-        "Type of deposit."
-      ],
-      "answer": [
-        "Type of deposit.",
-        "Extent of deposit.",
-        "Depth of deposit.",
-        "Friction coefficient (or braking action)."
-      ]
-    },
-    {
-      "question": "Study the image and then identify the correct statements. Mark all correct answers.",
-      "choices": [
-        "E is a Warm Temperate Zone.",
-        "A is the Polar Zone.",
-        "C is the Arid Zone.",
-        "B shows Tropical Zones.",
-        "D is the Polar Zone."
-      ],
-      "answer": [
-        "C is the Arid Zone.",
-        "B shows Tropical Zones.",
-        "E is a Warm Temperate Zone.",
-        "A is the Polar Zone."
-      ]
     },
     {
       "question": "At the __________ surface and aloft __________ produces areas of low pressure.",
@@ -43873,37 +43485,6 @@
       ]
     },
     {
-      "question": "Study the diagram and mark all correct answer(s): Mark all correct answers.",
-      "choices": [
-        "A is an example of a Krueger leading edge device.",
-        "B is an example of a slat.",
-        "B is an example of a slot.",
-        "A is an example of a variable camber leading edge device.",
-        "C is an example of a slot."
-      ],
-      "answer": [
-        "A is an example of a variable camber leading edge device.",
-        "C is an example of a slot.",
-        "B is an example of a slat."
-      ]
-    },
-    {
-      "question": "Which of the following statements about spinning are correct? Mark all correct answers.",
-      "choices": [
-        "In a fully developed spin the nose attitude is usually low.",
-        "Autorotation only occurs during a developed spin.",
-        "In an incipient spin the nose attitude is likely to be high",
-        "In an incipient spin the aircraft is autorotating.",
-        "The aircraft cannot spin unless it is stalled."
-      ],
-      "answer": [
-        "The aircraft cannot spin unless it is stalled.",
-        "In an incipient spin the aircraft is autorotating.",
-        "In an incipient spin the nose attitude is likely to be high",
-        "In a fully developed spin the nose attitude is usually low."
-      ]
-    },
-    {
       "question": "An __________ tab moves in the same sense as the control surface, thus opposing its movement. Provides greater force feedback to the pilot at higher IAS.",
       "choices": [
         "servo",
@@ -43912,20 +43493,6 @@
         "anti-balance"
       ],
       "answer": "anti-balance"
-    },
-    {
-      "question": "Which 2 of the following statements are correct?",
-      "choices": [
-        "An aircraft can only stall with a high nose attitude.",
-        "The only reliable method of recovering from a fully-developed stall is to unstall the wings.",
-        "Heavy aerodynamic and/or artificial buffet, and a high rate of descent are symptoms of straight and swept wing stall.",
-        "An aircraft can only stall at low speed.",
-        "If the nose is already low, pushing the stick forward will not unstall the wings."
-      ],
-      "answer": [
-        "The only reliable method of recovering from a fully-developed stall is to unstall the wings.",
-        "Heavy aerodynamic and/or artificial buffet, and a high rate of descent are symptoms of straight and swept wing stall."
-      ]
     },
     {
       "question": "In this diagram the centre of pressure is marked with the letter __________ and the centre of gravity is marked with the letter __________.",
@@ -43988,38 +43555,6 @@
       "answer": "quadruples; halves."
     },
     {
-      "question": "Which 3 of the following statements are correct:",
-      "choices": [
-        "All aircraft have a pronounced nose-down pitching moment at the stall.",
-        "When the aircraft stalls, no lift is produced.",
-        "A swept-wing aircraft always pitches up at the stall.",
-        "When it stalls, a swept wing aircraft often generates very little, to no aerodynamic buffet.",
-        "On a swept wing, the CP continues to move forward as alpha increases beyond the critical angle.",
-        "CL is maximum at the stalling angle",
-        "Lift and drag reduce rapidly above the critical angle."
-      ],
-      "answer": [
-        "When it stalls, a swept wing aircraft often generates very little, to no aerodynamic buffet.",
-        "On a swept wing, the CP continues to move forward as alpha increases beyond the critical angle.",
-        "CL is maximum at the stalling angle"
-      ]
-    },
-    {
-      "question": "2 aircraft of different masses are otherwise identical. One has a mass of 2200 kg, the other has a mass of 3000 kg. Both are attempting to glide for maximum range. Mark 2 correct answers.",
-      "choices": [
-        "In still-air conditions, both aircraft have the same gliding range, the same glide angle and the same gliding time.",
-        "The heavier aircraft will have the longest gliding range in a headwind.",
-        "The heavier aircraft will have the longest gliding range in still-air conditions.",
-        "Both aircraft have the same gliding range in still-air conditions but the heavier aircraft will glide at a steeper angle.",
-        "In still-air conditions, both aircraft have the same gliding range and the same glide angle.",
-        "The lighter aircraft will have the longest gliding range in still-air conditions."
-      ],
-      "answer": [
-        "In still-air conditions, both aircraft have the same gliding range and the same glide angle.",
-        "The heavier aircraft will have the longest gliding range in a headwind."
-      ]
-    },
-    {
       "question": "Adjustable (moveable) trim tabs can be driven __________.",
       "choices": [
         "manually.",
@@ -44027,36 +43562,6 @@
         "electrically."
       ],
       "answer": "electrically or manually."
-    },
-    {
-      "question": "Which of the following statements is/are correct? Mark all correct answers.",
-      "choices": [
-        "Power-assisted and fully powered pitch controls trim the aircraft by deflecting the elevator. They don’t use trim tabs.",
-        "Fully powered controls provide no feel to the pilot. Artificial feel is required to give the pilot a sense of the control forces at different IAS.",
-        "Fully-powered controls provide all the power required to move the control surfaces.",
-        "Artificial feel can be provided by simple mechanical springs."
-      ],
-      "answer": [
-        "Fully powered controls provide no feel to the pilot. Artificial feel is required to give the pilot a sense of the control forces at different IAS.",
-        "Power-assisted and fully powered pitch controls trim the aircraft by deflecting the elevator. They don’t use trim tabs.",
-        "Fully-powered controls provide all the power required to move the control surfaces.",
-        "Artificial feel can be provided by simple mechanical springs."
-      ]
-    },
-    {
-      "question": "Given that A shows the curve for a clean aerofoil: Mark all correct answers.",
-      "choices": [
-        "B shows that CL Max and alphaCRIT have increased.",
-        "C shows that using this device reduces the approach speed for a given mass.",
-        "B shows the curve for a plain flap.",
-        "C shows the curve for a split flap.",
-        "B shows the curve for a slotted flap."
-      ],
-      "answer": [
-        "B shows the curve for a plain flap.",
-        "C shows the curve for a split flap.",
-        "C shows that using this device reduces the approach speed for a given mass."
-      ]
     },
     {
       "question": "A pilot is flying an aeroplane whose clean configuration stall speed is 60 kt. While cruising at 95 kt the pilot has to take avoiding action against another aeroplane. The pilot banks the aeroplane sharply and during this manoeuvre, the aeroplane stalls. Why did the aeroplane stall at 95 kt?",
@@ -44067,21 +43572,6 @@
         "A wing stalls when its critical angle of attack is exceeded, regardless of speed."
       ],
       "answer": "A wing stalls when its critical angle of attack is exceeded, regardless of speed."
-    },
-    {
-      "question": "Flap-setting errors, such as mis-selection and premature/late extension or retraction of flaps will result in:",
-      "choices": [
-        "Decreased take-off distance due to the reduction in drag.",
-        "Dangerously reduced margin above the stall.",
-        "Increased climb performance due to the reduction in drag.",
-        "Increased take-off and landing distances and speeds.",
-        "Reduced climb performance and shallower descents."
-      ],
-      "answer": [
-        "Increased take-off and landing distances and speeds.",
-        "Reduced climb performance and shallower descents.",
-        "Dangerously reduced margin above the stall."
-      ]
     },
     {
       "question": "When comparing an elevator trim system with a stabiliser trim system, which of these statements is correct?",
@@ -44198,20 +43688,6 @@
         "CL"
       ],
       "answer": "load factor"
-    },
-    {
-      "question": "Study these arrangements of forces for an aircraft in level flight. Given that the aircraft is in equilibrium, which of the following statements are true? Mark all correct answers.",
-      "choices": [
-        "The arrangement of forces in B are typical for a CAT aircraft with underslung engines.",
-        "All 3 diagrams depict steady, level and unaccelerated flight.",
-        "The T/D couple in C creates a nose-up pitching moment.",
-        "The pitching moment in A is nose-down."
-      ],
-      "answer": [
-        "All 3 diagrams depict steady, level and unaccelerated flight.",
-        "The pitching moment in A is nose-down.",
-        "The arrangement of forces in B are typical for a CAT aircraft with underslung engines."
-      ]
     },
     {
       "question": "On entering ground effect: The critical angle __________. The nose may pitch __________.",
@@ -45591,23 +45067,6 @@
       "answer": "(I) N / m² (II) N / m²"
     },
     {
-      "question": "The Lift formula is: L = ½ ρ V² S CL Study the diagram carefully. Identify which 4 of the following statements about the lift formula are correct.",
-      "choices": [
-        "CL is represented by the angle E.",
-        "S is represented by the area identified by the letter B.",
-        "CL is represented by the combination of the shape of D and the angle E.",
-        "CL is represented by the shape of the area labelled D.",
-        "(½ ρ) is represented by property labelled C.",
-        "V² is represented by the length of the vector labelled A."
-      ],
-      "answer": [
-        "(½ ρ) is represented by property labelled C.",
-        "V² is represented by the length of the vector labelled A.",
-        "S is represented by the area identified by the letter B.",
-        "CL is represented by the combination of the shape of D and the angle E."
-      ]
-    },
-    {
       "question": "The symbol for density is:",
       "choices": [
         "φ",
@@ -46047,20 +45506,6 @@
       "answer": "longitudinal"
     },
     {
-      "question": "Which 2 of the following statements are correct?",
-      "choices": [
-        "The wing contributes to longitudinal static stability because the AC is forward of the CG.",
-        "The fuselage has a stable pitching moment because its CP almost always lies ahead of its CG.",
-        "Increased wing camber increases longitudinal stability.",
-        "An excessively aft CG reduces stick force stability.",
-        "The horizontal stabiliser is by far the most important contributor to longitudinal static stability."
-      ],
-      "answer": [
-        "The horizontal stabiliser is by far the most important contributor to longitudinal static stability.",
-        "An excessively aft CG reduces stick force stability."
-      ]
-    },
-    {
       "question": "Aircraft with positive static directional stability create yawing moments in the __________ direction as the sideslip.",
       "choices": [
         "opposite",
@@ -46127,22 +45572,6 @@
         "increases; reduced"
       ],
       "answer": "increases; increased"
-    },
-    {
-      "question": "Which of the following statements are correct? Mark all correct answers.",
-      "choices": [
-        "A dorsal fin reduces dihedral effect, a ventral fin contributes to it.",
-        "A high wing increases static lateral stability. A low wing reduces it.",
-        "Sweep angle increases lateral static stability.",
-        "Dihedral increases static lateral stability. Anhedral reduces it.",
-        "A high vertical fin increases static lateral stability."
-      ],
-      "answer": [
-        "Dihedral increases static lateral stability. Anhedral reduces it.",
-        "A high wing increases static lateral stability. A low wing reduces it.",
-        "Sweep angle increases lateral static stability.",
-        "A high vertical fin increases static lateral stability."
-      ]
     },
     {
       "question": "Considering the longitudinal stability of an aeroplane, why does the stick force per 'g' decrease with pressure altitude, at a given IAS?",
@@ -46290,23 +45719,6 @@
         "centre of gravity is located in front of the leading edge of the wing."
       ],
       "answer": "centre of gravity is located in front of the neutral point of the aeroplane."
-    },
-    {
-      "question": "Study the diagram. Identify which of the following statements about lateral stability are correct: Mark all correct answers.",
-      "choices": [
-        "Curve B indicates stability.",
-        "Curve C indicates instability.",
-        "A horizontal curve indicates neutral stability.",
-        "Curve A indicates stronger stability than Curve B.",
-        "Curve B could indicate the effect of altitude when compared with Curve A."
-      ],
-      "answer": [
-        "Curve C indicates instability.",
-        "Curve B indicates stability.",
-        "Curve B could indicate the effect of altitude when compared with Curve A.",
-        "A horizontal curve indicates neutral stability.",
-        "Curve A indicates stronger stability than Curve B."
-      ]
     },
     {
       "question": "An object with __________ static stability shows no tendency to move back to, or further diverge from, equilibrium after being displaced.",
@@ -46570,34 +45982,6 @@
         "Inability to arrest the rate of descent.",
         "Lack of pitch authority.",
         "Uncommanded pitch down and uncommanded roll."
-      ]
-    },
-    {
-      "question": "Study the diagram. Given that A represents the CL alpha curve for a clean wing: Mark 2 correct answers.",
-      "choices": [
-        "B depicts the effect of slats.",
-        "A depicts a cambered wing.",
-        "A depicts a symmetrical wing.",
-        "C depicts the effect of slats.",
-        "B depicts the effect of trailing edge flap."
-      ],
-      "answer": [
-        "A depicts a cambered wing.",
-        "B depicts the effect of slats."
-      ]
-    },
-    {
-      "question": "The forces acting on an aircraft in the glide are: Mark all correct answers.",
-      "choices": [
-        "Thrust.",
-        "Lift.",
-        "Weight.",
-        "Drag."
-      ],
-      "answer": [
-        "Lift.",
-        "Weight.",
-        "Drag."
       ]
     },
     {
@@ -46953,21 +46337,6 @@
       "answer": "High; high."
     },
     {
-      "question": "Study the diagram then identify which 3 of the following statements are correct.",
-      "choices": [
-        "Label B shows rotational velocity.",
-        "Label C shows the RAF.",
-        "Label A shows IAS.",
-        "Label 1 shows a high air speed situation.",
-        "Label 2 shows a low RPM situation."
-      ],
-      "answer": [
-        "Label 2 shows a low RPM situation.",
-        "Label B shows rotational velocity.",
-        "Label C shows the RAF."
-      ]
-    },
-    {
       "question": "The purpose of the __________ wing is to retain a high MCRIT despite having a thicker section, which increases the margin between MCRIT and MDRAG DIVERGENCE.",
       "choices": [
         "symmetrical",
@@ -47195,21 +46564,6 @@
       "answer": "torque effect; yaw"
     },
     {
-      "question": "Study the diagram, then identify which of the following statements are correct. Mark all correct answers.",
-      "choices": [
-        "Aircraft 1 has a lower air speed than Aircraft 2.",
-        "The rotational velocity of Propeller 2 has been increased to preserve optimum alpha.",
-        "Propeller 2 is creating more torque drag than Propeller 1.",
-        "The images show the operation of a variable pitch propeller.",
-        "Propeller 2 is creating the same torque drag as Propeller 1"
-      ],
-      "answer": [
-        "Aircraft 1 has a lower air speed than Aircraft 2.",
-        "The images show the operation of a variable pitch propeller.",
-        "Propeller 2 is creating more torque drag than Propeller 1."
-      ]
-    },
-    {
       "question": "The narrow range of available operating speeds, bounded by the onset of low speed buffet at one side and the onset of high speed buffet at the other is known as the buffet margin. It __________ with altitude.",
       "choices": [
         "decreases",
@@ -47256,20 +46610,6 @@
         "neutral."
       ],
       "answer": "positive."
-    },
-    {
-      "question": "Study the diagram, identify which of the following statements is accurate.",
-      "choices": [
-        "Curve B shows the effect of altitude on directional stability.",
-        "Curve C shows positive directional stability.",
-        "Curve B shows positive directional stability.",
-        "Curve A shows positive directional stability."
-      ],
-      "answer": [
-        "Curve B shows positive directional stability.",
-        "Curve C shows positive directional stability.",
-        "Curve B shows the effect of altitude on directional stability."
-      ]
     },
     {
       "question": "__________ instability can occur when directional stability is strong and lateral stability is weak.",
@@ -47324,19 +46664,6 @@
         "aerodynamic centre"
       ],
       "answer": "neutral point"
-    },
-    {
-      "question": "Study the diagram. Identify which 2 of the following statements are correct.",
-      "choices": [
-        "Neutral stability is shown in curve B.",
-        "The most stable condition is shown by curve D and CG position 1.",
-        "The most stable condition is shown by curve A and CG position 5.",
-        "The most stable condition is shown by curve A and CG position 1."
-      ],
-      "answer": [
-        "The most stable condition is shown by curve D and CG position 1.",
-        "Neutral stability is shown in curve B."
-      ]
     },
     {
       "question": "The __________ can provide temporary balancing pitching moments, whereas the __________ is a permanent, natural contributor to longitudinal stability.",
@@ -47713,16 +47040,6 @@
       "answer": "155 kt"
     },
     {
-      "question": "Which 2 of the following statements are correct?",
-      "choices": [
-        "Beyond the critical angle no lift is produced.",
-        "The aerofoil stalls at the stalling angle of attack.",
-        "The critical angle of attack (alphaCRIT) is the point of CL MAX.",
-        "The critical angle of attack is also known as the stalling angle of attack."
-      ],
-      "answer": "The critical angle of attack (alphaCRIT) is the point of CL MAX. || The critical angle of attack is also known as the stalling angle of attack."
-    },
-    {
       "question": "For a parcel of air, its density __________ with an increase in altitude and decrease in temperature.",
       "choices": [
         "decreases.",
@@ -47859,21 +47176,6 @@
       "answer": "W"
     },
     {
-      "question": "Study the diagram then identify which of the following 6 statements are correct:",
-      "choices": [
-        "F is the total reaction.",
-        "D is the relative airflow.",
-        "D is the chord line.",
-        "G is the relative airflow.",
-        "F is lift.",
-        "E is the total reaction.",
-        "B is the centre of pressure.",
-        "C is drag.",
-        "A is the angle of attack."
-      ],
-      "answer": "A is the angle of attack. || D is the chord line. || B is the centre of pressure. || C is drag. || G is the relative airflow. || F is the total reaction."
-    },
-    {
       "question": "The position where the kinetic energy of the boundary layer can no longer overcome the adverse pressure gradient is called the __________.",
       "choices": [
         "stagnation point",
@@ -47900,32 +47202,6 @@
         "Chord."
       ],
       "answer": "Aerofoil elements."
-    },
-    {
-      "question": "Study the diagram then identify which of the following statements are correct:",
-      "choices": [
-        "The fastest flow occurs at D.",
-        "D indicates one of the stagnation points.",
-        "The fastest flow occurs at E.",
-        "F is an area of relatively low pressure.",
-        "The lowest pressure occurs at E.",
-        "H is an area of relatively low pressure.",
-        "B depicts downwash.",
-        "The speed of the flow is zero at G."
-      ],
-      "answer": "The fastest flow occurs at E. || D indicates one of the stagnation points. || H is an area of relatively low pressure. || The lowest pressure occurs at E. || The speed of the flow is zero at G. || B depicts downwash."
-    },
-    {
-      "question": "Study the diagram then identify which 3 of the following statements are correct.",
-      "choices": [
-        "D gives the value for the critical angle.",
-        "C is the point of maximum lift of this graph.",
-        "The curve on this graph depicts a symmetrical aerofoil.",
-        "The scale at B depicts the value for the angle of attack.",
-        "The curve on this graph depicts a cambered aerofoil.",
-        "The scale at A depicts the value of lift."
-      ],
-      "answer": "The scale at B depicts the value for the angle of attack. || The curve on this graph depicts a cambered aerofoil. || D gives the value for the critical angle."
     },
     {
       "question": "A turbulent boundary layer is __________ energetic than a laminar boundary layer.",
@@ -47991,19 +47267,6 @@
         "equal"
       ],
       "answer": "inversely proportional"
-    },
-    {
-      "question": "Study the diagram. Which of the following statements are correct:",
-      "choices": [
-        "The dynamic pressure at A is lower than the dynamic pressure at B.",
-        "The blue line depicts a streamline.",
-        "The static pressure at C is greater than the static pressure at B.",
-        "The shaded blue area represents a stream tube.",
-        "The fastest flow occurs at B.",
-        "The mass flow at A is the same as the mass flow at D.",
-        "The flow velocity is greater at C than at B."
-      ],
-      "answer": "The dynamic pressure at A is lower than the dynamic pressure at B. || The blue line depicts a streamline. || The static pressure at C is greater than the static pressure at B. || The fastest flow occurs at B. || The shaded blue area represents a stream tube. || The mass flow at A is the same as the mass flow at D."
     },
     {
       "question": "A plain flap will increase CLMAX by:",
@@ -48123,20 +47386,6 @@
       "answer": "nose-down."
     },
     {
-      "question": "Which of the following statements are correct?",
-      "choices": [
-        "A variable pitch propeller operates at maximum efficiency at only one combination of propeller RPM and TAS.",
-        "If the total reaction is inclined very far forwards, then the proportion of the total reaction divided into the drag vector reduces.",
-        "Blade icing reduces propeller efficiency because it destroys laminar flow and may also cause early boundary layer separation.",
-        "A variable pitch propeller maintains optimum efficiency over a wide range of combinations of propeller RPM and TAS."
-      ],
-      "answers": [
-        "A variable pitch propeller maintains optimum efficiency over a wide range of combinations of propeller RPM and TAS.",
-        "Blade icing reduces propeller efficiency because it destroys laminar flow and may also cause early boundary layer separation.",
-        "If the total reaction is inclined very far forwards, then the proportion of the total reaction divided into the drag vector reduces."
-      ]
-    },
-    {
       "question": "To pitch a conventional aeroplane nose up, the pilot applies back pressure on the control column. This moves the elevator relatively:",
       "choices": [
         "downwards, increasing the positive camber of the tailplane and elevator.",
@@ -48145,20 +47394,6 @@
         "upwards, increasing the positive camber of the tailplane and elevator."
       ],
       "answer": "upwards, increasing the negative camber of the tailplane and elevator."
-    },
-    {
-      "question": "Which of the following statements are correct? Mark all correct answers.",
-      "choices": [
-        "In transonic flow some LSS numbers are greater than M 1.0 and some are less.",
-        "In supersonic flow the MFS is greater than 1.0.",
-        "In supersonic flow all ML numbers are greater than 1.0.",
-        "In subsonic flow all local Mach numbers are less than 1.0."
-      ],
-      "answers": [
-        "In subsonic flow all local Mach numbers are less than 1.0.",
-        "In supersonic flow all ML numbers are greater than 1.0.",
-        "In supersonic flow the MFS is greater than 1.0."
-      ]
     },
     {
       "question": "VMCG (minimum control speed on the ground) is the minimum CAS during the take-off run at which you can maintain control using the __________ without deviating more than __________ ft laterally from the centre line after failure of the critical engine.",
@@ -48251,25 +47486,6 @@
         "132 kt"
       ],
       "answer": "132 kt"
-    },
-    {
-      "question": "Study this diagram, then identify which 5 of the following statements are correct.",
-      "choices": [
-        "D indicates M DRAG DIVERGENCE.",
-        "F indicates the energy lost to wave drag.",
-        "D indicates the onset of the shock stall.",
-        "The MFS reaches Mach 1.0 at E.",
-        "A indicates M DRAG DIVERGENCE.",
-        "A indicates MCRIT.",
-        "A typical cruise speed for CAT jet aircraft is at B."
-      ],
-      "answers": [
-        "The MFS reaches Mach 1.0 at E.",
-        "A typical cruise speed for CAT jet aircraft is at B.",
-        "D indicates M DRAG DIVERGENCE.",
-        "A indicates MCRIT.",
-        "F indicates the energy lost to wave drag."
-      ]
     },
     {
       "question": "Located on the underside of a wing's leading edge, vortilons produce a vortex on the wing's:",
@@ -48377,19 +47593,6 @@
       ]
     },
     {
-      "question": "Study the diagram. Identify which 2 of the following statements are correct.",
-      "choices": [
-        "The most stable condition is shown by curve A and CG position 5.",
-        "Neutral stability is shown in curve B.",
-        "The most stable condition is shown by curve A and CG position 1.",
-        "The most stable condition is shown by curve D and CG position 1."
-      ],
-      "answers": [
-        "The most stable condition is shown by curve D and CG position 1.",
-        "Neutral stability is shown in curve B."
-      ]
-    },
-    {
       "question": "Static lateral stability will be increased by:",
       "choices": [
         "the use of a high, rather than low, wing mounting.",
@@ -48441,20 +47644,6 @@
         "stabiliser; elevator"
       ],
       "answer": "elevator; stabiliser"
-    },
-    {
-      "question": "Study the diagram, identify which of the following statements is accurate.",
-      "choices": [
-        "Curve C shows positive directional stability.",
-        "Curve A shows positive directional stability.",
-        "Curve B shows the effect of altitude on directional stability.",
-        "Curve B shows positive directional stability."
-      ],
-      "answers": [
-        "Curve B shows positive directional stability.",
-        "Curve C shows positive directional stability.",
-        "Curve B shows the effect of altitude on directional stability."
-      ]
     },
     {
       "question": "The pilot of an aircraft changes its heading to the right, from 214° to 334° and makes a rate-1 turn. The duration of this manoeuvre is:",
@@ -48748,20 +47937,6 @@
       "answer": "frise"
     },
     {
-      "question": "Study these arrangements of forces for an aircraft in level flight. Given that the aircraft is in equilibrium, which of the following statements are true? Mark all correct answers.",
-      "choices": [
-        "The arrangement of forces in B are typical for a CAT aircraft with underslung engines.",
-        "The T/D couple in C creates a nose-up pitching moment.",
-        "All 3 diagrams depict steady, level and unaccelerated flight.",
-        "The pitching moment in A is nose-down."
-      ],
-      "answers": [
-        "All 3 diagrams depict steady, level and unaccelerated flight.",
-        "The pitching moment in A is nose-down.",
-        "The arrangement of forces in B are typical for a CAT aircraft with underslung engines."
-      ]
-    },
-    {
       "question": "A __________ uses the movement of the leading edge stagnation point to provide warning of a stall.",
       "choices": [
         "flapper switch",
@@ -48823,21 +47998,6 @@
         "Because of the asymmetric drag produced by the up-going aileron."
       ],
       "answer": "Because of the increased camber produced by the down-going aileron."
-    },
-    {
-      "question": "Flap-setting errors, such as mis-selection and premature/late extension or retraction of flaps will result in:",
-      "choices": [
-        "Increased climb performance due to the reduction in drag.",
-        "Reduced climb performance and shallower descents.",
-        "Decreased take-off distance due to the reduction in drag.",
-        "Increased take-off and landing distances and speeds.",
-        "Dangerously reduced margin above the stall."
-      ],
-      "answers": [
-        "Increased take-off and landing distances and speeds.",
-        "Reduced climb performance and shallower descents.",
-        "Dangerously reduced margin above the stall."
-      ]
     },
     {
       "question": "Given that A shows the curve for a clean aerofoil: Mark all correct answers.",
@@ -48930,38 +48090,6 @@
         "actuator"
       ],
       "answer": "probe"
-    },
-    {
-      "question": "Which 3 of the following statements are correct:",
-      "choices": [
-        "A swept-wing aircraft always pitches up at the stall.",
-        "When it stalls, a swept wing aircraft often generates very little, to no aerodynamic buffet.",
-        "When the aircraft stalls, no lift is produced.",
-        "On a swept wing, the CP continues to move forward as alpha increases beyond the critical angle.",
-        "CL is maximum at the stalling angle",
-        "All aircraft have a pronounced nose-down pitching moment at the stall.",
-        "Lift and drag reduce rapidly above the critical angle."
-      ],
-      "answers": [
-        "When it stalls, a swept wing aircraft often generates very little, to no aerodynamic buffet.",
-        "On a swept wing, the CP continues to move forward as alpha increases beyond the critical angle.",
-        "CL is maximum at the stalling angle"
-      ]
-    },
-    {
-      "question": "Study the diagram. Identify the correct statement(s). Mark 3 correct answers.",
-      "choices": [
-        "B is the drag polar for spoilers deployed.",
-        "Spoilers reduce CLMAX.",
-        "D is the CL/alpha for a symmetrical wing.",
-        "B is the CL/alpha for spoilers deployed.",
-        "If D is spoilers deployed, then C is the CL/alpha for a clean wing."
-      ],
-      "answers": [
-        "B is the drag polar for spoilers deployed.",
-        "If D is spoilers deployed, then C is the CL/alpha for a clean wing.",
-        "Spoilers reduce CLMAX."
-      ]
     },
     {
       "question": "Elevator, rudder and aileron are __________-changing devices. __________ can also change the direction of the total reaction.",
@@ -49160,28 +48288,6 @@
       "answer": "a decrease"
     },
     {
-      "question": "Study this sketch carefully. Identify which 5 of the following statements are correct:",
-      "choices": [
-        "B is the separation point",
-        "E is the separation point.",
-        "E is the transition point.",
-        "D is a region where the flow speed is less than 99% of the free stream flow speed.",
-        "A is the turbulent boundary layer.",
-        "C is the turbulent boundary layer.",
-        "F is a region of reverse flow.",
-        "A is a region of reverse flow.",
-        "G is called the wake.",
-        "B is the transition point"
-      ],
-      "answers": [
-        "G is called the wake.",
-        "C is the turbulent boundary layer.",
-        "B is the transition point",
-        "E is the separation point.",
-        "F is a region of reverse flow."
-      ]
-    },
-    {
       "question": "Assuming no flow separation, which of these statements about the flow around an aerofoil as the angle of attack decreases are correct or incorrect?",
       "choices": [
         "I. The stagnation point moves down.",
@@ -49246,27 +48352,6 @@
       "answer": "upwards."
     },
     {
-      "question": "Study the diagram then identify which of the following statements are correct:",
-      "choices": [
-        "The lowest pressure occurs at E.",
-        "H is an area of relatively low pressure.",
-        "F is an area of relatively low pressure.",
-        "The speed of the flow is zero at G.",
-        "D indicates one of the stagnation points.",
-        "The fastest flow occurs at D.",
-        "The fastest flow occurs at E.",
-        "B depicts downwash."
-      ],
-      "answers": [
-        "The fastest flow occurs at E.",
-        "D indicates one of the stagnation points.",
-        "H is an area of relatively low pressure.",
-        "The lowest pressure occurs at E.",
-        "The speed of the flow is zero at G.",
-        "B depicts downwash."
-      ]
-    },
-    {
       "question": "Increasing an aerofoil’s camber produces an increase in __________ pressure over the upper surface.",
       "choices": [
         "dynamic",
@@ -49312,41 +48397,6 @@
         "watt."
       ],
       "answer": "newton."
-    },
-    {
-      "question": "Study the diagram then identify which of the following 6 statements are correct:",
-      "choices": [
-        "D is the chord line.",
-        "E is the total reaction.",
-        "A is the angle of attack.",
-        "D is the relative airflow.",
-        "F is lift.",
-        "C is drag.",
-        "F is the total reaction.",
-        "B is the centre of pressure.",
-        "G is the relative airflow."
-      ],
-      "answers": [
-        "A is the angle of attack.",
-        "D is the chord line.",
-        "B is the centre of pressure.",
-        "C is drag.",
-        "G is the relative airflow.",
-        "F is the total reaction."
-      ]
-    },
-    {
-      "question": "Which 2 of the following statements are correct?",
-      "choices": [
-        "Beyond the critical angle no lift is produced.",
-        "The critical angle of attack is also known as the stalling angle of attack.",
-        "The aerofoil stalls at the stalling angle of attack.",
-        "The critical angle of attack (alphaCRIT) is the point of CL MAX."
-      ],
-      "answers": [
-        "The critical angle of attack (alphaCRIT) is the point of CL MAX.",
-        "The critical angle of attack is also known as the stalling angle of attack."
-      ]
     },
     {
       "question": "Force is measured in:",
@@ -49451,39 +48501,6 @@
         "TAS"
       ],
       "answer": "IAS"
-    },
-    {
-      "question": "The Lift formula is: L = ½ ρ V² S CL Study the diagram carefully. Identify which 4 of the following statements about the lift formula are correct.",
-      "choices": [
-        "CL is represented by the angle E.",
-        "(½ ρ) is represented by property labelled C.",
-        "CL is represented by the shape of the area labelled D.",
-        "S is represented by the area identified by the letter B.",
-        "V² is represented by the length of the vector labelled A.",
-        "CL is represented by the combination of the shape of D and the angle E."
-      ],
-      "answers": [
-        "(½ ρ) is represented by property labelled C.",
-        "V² is represented by the length of the vector labelled A.",
-        "S is represented by the area identified by the letter B.",
-        "CL is represented by the combination of the shape of D and the angle E."
-      ]
-    },
-    {
-      "question": "Study the diagram then identify which 3 of the following statements are correct.",
-      "choices": [
-        "D gives the value for the critical angle.",
-        "C is the point of maximum lift of this graph.",
-        "The curve on this graph depicts a cambered aerofoil.",
-        "The scale at A depicts the value of lift.",
-        "The curve on this graph depicts a symmetrical aerofoil.",
-        "The scale at B depicts the value for the angle of attack."
-      ],
-      "answers": [
-        "The scale at B depicts the value for the angle of attack.",
-        "The curve on this graph depicts a cambered aerofoil.",
-        "D gives the value for the critical angle."
-      ]
     },
     {
       "question": "Steady airflow has no sharp changes of _____.",
@@ -49603,26 +48620,6 @@
         "Decreasing pressure and decreasing temperature."
       ],
       "answer": "Increasing pressure and decreasing temperature."
-    },
-    {
-      "question": "Study the diagram. Which of the following statements are correct:",
-      "choices": [
-        "The flow velocity is greater at C than at B.",
-        "The blue line depicts a streamline.",
-        "The fastest flow occurs at B.",
-        "The mass flow at A is the same as the mass flow at D.",
-        "The dynamic pressure at A is lower than the dynamic pressure at B.",
-        "The shaded blue area represents a stream tube.",
-        "The static pressure at C is greater than the static pressure at B."
-      ],
-      "answers": [
-        "The dynamic pressure at A is lower than the dynamic pressure at B.",
-        "The blue line depicts a streamline.",
-        "The static pressure at C is greater than the static pressure at B.",
-        "The fastest flow occurs at B.",
-        "The shaded blue area represents a stream tube.",
-        "The mass flow at A is the same as the mass flow at D."
-      ]
     },
     {
       "question": "Indicated airspeed is an approximate measure of the __________ pressure sensed by the aircraft.",
@@ -49834,22 +48831,6 @@
         "increases; increases"
       ],
       "answer": "decreases; reduces"
-    },
-    {
-      "question": "Study the diagram then identify which 3 of the following statements are correct.",
-      "choices": [
-        "The curve on this graph depicts a symmetrical aerofoil.",
-        "The scale at B depicts the value for the angle of attack.",
-        "The curve on this graph depicts a cambered aerofoil.",
-        "C is the point of maximum lift of this graph.",
-        "D gives the value for the critical angle.",
-        "The scale at A depicts the value of lift."
-      ],
-      "answer": [
-        "The scale at B depicts the value for the angle of attack.",
-        "The curve on this graph depicts a cambered aerofoil.",
-        "D gives the value for the critical angle."
-      ]
     },
     {
       "question": "Assuming no flow separation, which of these statements about the flow around an aerofoil as the angle of attack decreases are correct or incorrect? I. The stagnation point moves down. II. The point of lowest static pressure moves forward.",
@@ -53030,18 +52011,6 @@
         "a minimum crew of two pilots plus a flight engineer."
       ],
       "answer": "a minimum crew of two pilots under IFR."
-    },
-    {
-      "question": "Which of the following statements are correct? Mark all correct answers.",
-      "choices": [
-        "Student pilots must carry evidence that they have been authorised to carry out a cross-country flight.",
-        "The privileges of an MPL are to act as a PiC of an aeroplane required to be operated with a co-pilot.",
-        "The privileges of an ATPL are to exercise all the privileges an LAPL, a PPL and a CPL and act as PIC of aircraft engaged in commercial air transport."
-      ],
-      "answer": [
-        "Student pilots must carry evidence that they have been authorised to carry out a cross-country flight.",
-        "The privileges of an ATPL are to exercise all the privileges an LAPL, a PPL and a CPL and act as PIC of aircraft engaged in commercial air transport."
-      ]
     },
     {
       "question": "An IR is valid for 1 year. It must be revalidated within the months ____ immediately preceding its expiry date.",
