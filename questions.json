@@ -12055,16 +12055,6 @@
       "answer": "2.5 GHz"
     },
     {
-      "question": "What type of polar radiation diagram is associated with NDB?",
-      "choices": [
-        "Vertical.",
-        "Omni-directional.",
-        "Lateral.",
-        "Directional."
-      ],
-      "answer": "Omni-directional."
-    },
-    {
       "question": "What range is calculated by the DME interrogator?",
       "choices": [
         "Ground range.",
@@ -20527,16 +20517,6 @@
         "Mechanical Altimeter"
       ],
       "answer": "Servo-assisted Altimeter"
-    },
-    {
-      "question": "In this diagram:",
-      "choices": [
-        "A is CAS, B is TAS and C is Mach.",
-        "A is TAS, B is CAS and C is Mach.",
-        "A is Mach, B is CAS and C is TAS.",
-        "A is TAS, B is Mach and C is CAS."
-      ],
-      "answer": "A is CAS, B is TAS and C is Mach."
     },
     {
       "question": "Detail the colour of the indicator moving to show maximum operating speed or mach (VMO/MMO) description of an ASI speed scale markings?",
@@ -31885,16 +31865,6 @@
       "answer": "0.091"
     },
     {
-      "question": "Study this diagram. The crosswind component is approximately:",
-      "choices": [
-        "25 kt.",
-        "20 kt.",
-        "9 kt.",
-        "13 kt."
-      ],
-      "answer": "20 kt."
-    },
-    {
       "question": "A marked speed acceleration along the flight path results in __________ climb performance during the acceleration event.",
       "choices": [
         "reduced",
@@ -32013,16 +31983,6 @@
         "A climb propeller."
       ],
       "answer": "A constant speed propeller."
-    },
-    {
-      "question": "Study the diagram then identify the correct answer:",
-      "choices": [
-        "B is VMP",
-        "A is VMD",
-        "B is 0.76 VMD",
-        "A is VMP"
-      ],
-      "answer": "A is VMP"
     },
     {
       "question": "__________ CG position increases range because it produces less trim drag.",
@@ -34033,16 +33993,6 @@
         "ASDA"
       ],
       "answer": "TORA"
-    },
-    {
-      "question": "Study this diagram, then identify the correct statement.",
-      "choices": [
-        "Best range for a propeller-driven aeroplane occurs at Point B.",
-        "Best range for a propeller-driven aeroplane occurs at Point A.",
-        "Best range for a turbojet aeroplane occurs at Point A.",
-        "Best range for a turbojet aeroplane occurs at Point B."
-      ],
-      "answer": "Best range for a propeller-driven aeroplane occurs at Point B."
     },
     {
       "question": "The ground gradient __________ affected by wind.",
@@ -36287,16 +36237,6 @@
       "answer": "81 NM"
     },
     {
-      "question": "Refer to GSPRM Jeppesen Chart Alicante 10-3A. Which of the following statements contains all corresponding altitude and flight level instructions when departing via CATON 2C?",
-      "choices": [
-        "At D9.5 ALT not below 3100 ft, overhead VILNA not above FL 110, overhead NARGO at or above FL 110, at CATON below FL 230.",
-        "At D9.5 ALT above 3100 ft, overhead VILNA below FL 110, overhead NARGO above FL 110, at CATON above FL 230.",
-        "At D9.5 ALT at or above 3100 ft, overhead VILNA at or above FL80, overhead NARGO at or above FL110, at CATON at or below FL230.",
-        "At D9.5 ALT not below 3100 ft, overhead VILNA at or above FL80, overhead NARGO at or above FL110, at CATON below FL230."
-      ],
-      "answer": "At D9.5 ALT at or above 3100 ft, overhead VILNA at or above FL80, overhead NARGO at or above FL110, at CATON at or below FL230."
-    },
-    {
       "question": "Refer to GSPRM Jeppesen Charts Alicante 19-1, 19-2, 19-3. What is the magnetic bearing from reporting point N to NE?",
       "choices": [
         "221",
@@ -37836,6 +37776,782 @@
       ],
       "answer": "False"
     },
+
+    {
+      "question": "If ATC wishes to stop an aircraft that has begun its take-off roll what instruction is used?",
+      "choices": [
+        "Abort.",
+        "Stop immediately.",
+        "Stop.",
+        "Revoke take-off."
+      ],
+      "answer": "Stop immediately."
+    },
+    {
+      "question": "Which of the following frequencies is an international emergency frequency?",
+      "choices": [
+        "911 MHz",
+        "6500 KHz",
+        "122.500 MHz",
+        "121.500 MHz"
+      ],
+      "answer": "121.500 MHz"
+    },
+    {
+      "question": "A Flight Information Service Officer __________ give a line-up, take-off or landing clearance.",
+      "choices": [
+        "Cannot.",
+        "Can.",
+        "Always."
+      ],
+      "answer": "Cannot."
+    },
+    {
+      "question": "A readability scale reading of 1 means the responder considers the message:",
+      "choices": [
+        "Unreadable.",
+        "Perfectly readable.",
+        "Readable now and then.",
+        "Readable but with difficulty."
+      ],
+      "answer": "Unreadable."
+    },
+    {
+      "question": "In general, times are given in:",
+      "choices": [
+        "Hours and minutes.",
+        "Decimal hours.",
+        "Hours, minutes and seconds.",
+        "Minutes only."
+      ],
+      "answer": "Minutes only."
+    },
+    {
+      "question": "The vertical distance of the aircraft from sea level, expressed in feet is a description of:",
+      "choices": [
+        "Attitude.",
+        "Height.",
+        "Altitude.",
+        "Flight Level."
+      ],
+      "answer": "Altitude."
+    },
+    {
+      "question": "The effect(s) of a stuck PTT switch is/are:",
+      "choices": [
+        "ATC can contact the aircraft but the aircraft cannot respond.",
+        "It has no effect on communication between the aircraft and ATC.",
+        "The aircraft can transmit to ATC but they cannot respond.",
+        "No aircraft on frequency can be heard by ATC and ATC can't respond."
+      ],
+      "answer": "No aircraft on frequency can be heard by ATC and ATC can't respond."
+    },
+    {
+      "question": "Must a \"general call\" be acknowledged\"?",
+      "choices": [
+        "No.",
+        "Yes, from all stations in the sequence they have been addressed.",
+        "Yes, from all stations in a random sequence.",
+        "Yes, but only from the station first called."
+      ],
+      "answer": "No."
+    },
+    {
+      "question": "From the chart given, the Morse identification for Dundee is:",
+      "choices": [
+        ".- -.. -.",
+        ".--. - ....",
+        "-.. -. -..",
+        "..- -.. .."
+      ],
+      "answer": "-.. -. -.."
+    },
+    {
+      "question": "What does the clearance 'ground taxi' authorise a helicopter to do?",
+      "choices": [
+        "Proceed at a slow speed in ground effect, normally below 5 kt.",
+        "Proceed at a slow speed in ground effect, normally below 20 kt.",
+        "Move while in contact with the surface of the aerodrome.",
+        "Hover."
+      ],
+      "answer": "Move while in contact with the surface of the aerodrome."
+    },
+    {
+      "question": "If you agree to an immediate departure what must you do?",
+      "choices": [
+        "Start to taxi within 30 seconds.",
+        "Expedite line-up and take-off.",
+        "Start your pre-taxi checks."
+      ],
+      "answer": "Expedite line-up and take-off."
+    },
+    {
+      "question": "If you need to abort your take-off during the take-off run what word will you use?",
+      "choices": [
+        "Fire.",
+        "Abort.",
+        "Cancel.",
+        "Stopping."
+      ],
+      "answer": "Stopping."
+    },
+    {
+      "question": "The SSR code 7600 is for:",
+      "choices": [
+        "Search and rescue services.",
+        "Unlawful interference.",
+        "Emergency.",
+        "Radio failure."
+      ],
+      "answer": "Radio failure."
+    },
+    {
+      "question": "When making the initial call to request clearance or start-up, what do the crew use to advise the ATS unit that the departure information has been received?",
+      "choices": [
+        "The ATIS identifying code number.",
+        "Their flight plan number.",
+        "The ATIS identifying code letter.",
+        "Their aircraft callsign only."
+      ],
+      "answer": "The ATIS identifying code letter."
+    },
+    {
+      "question": "What does the term \"air-ground communication\" mean?",
+      "choices": [
+        "One-way communication from aircraft to stations or locations on the surface of the earth",
+        "Two-way communication between aircraft and stations or locations on the surface of the earth",
+        "One-way communication from stations or locations on the surface of the earth",
+        "Any communication from aircraft to ground station requiring handling by the Aeronautical Fixed Telecommunication Network (AFTN)"
+      ],
+      "answer": "Two-way communication between aircraft and stations or locations on the surface of the earth"
+    },
+    {
+      "question": "In __________ airspace you may request, or simply advise, that you are changing to a new frequency.",
+      "choices": [
+        "controlled or uncontrolled.",
+        "uncontrolled.",
+        "controlled."
+      ],
+      "answer": "uncontrolled."
+    },
+    {
+      "question": "What does the abbreviation \"HJ\" mean?",
+      "choices": [
+        "Sunrise to sunset.",
+        "Sunset to sunrise.",
+        "No specific working hours.",
+        "Continuous day and night service."
+      ],
+      "answer": "Sunrise to sunset."
+    },
+    {
+      "question": "Urgency is defined as:",
+      "choices": [
+        "A condition of being threatened by serious and/or imminent danger and of requiring immediate assistance.",
+        "A condition concerning the safety of an aircraft other vehicles or of a person on board, but which does not require immediate assistance.",
+        "A condition concerning the attitude of an aircraft when intercepting the localizer during an ILS approach.",
+        "A condition concerning the safety of a person on board or within sight and requiring immediate assistance."
+      ],
+      "answer": "A condition concerning the safety of an aircraft other vehicles or of a person on board, but which does not require immediate assistance."
+    },
+    {
+      "question": "What callsign suffix is used by the Aerodrome Air-Ground Communications Service operator?",
+      "choices": [
+        "Traffic.",
+        "Information.",
+        "Radio.",
+        "Ground."
+      ],
+      "answer": "Radio."
+    },
+    {
+      "question": "The standard RT word for \"I understand your message and will comply with it\" is:",
+      "choices": [
+        "Wilco.",
+        "Correct.",
+        "Roger.",
+        "Affirm."
+      ],
+      "answer": "Wilco."
+    },
+    {
+      "question": "The ATS term for a communication which can take place in both directions simultaneously is:",
+      "choices": [
+        "Readback.",
+        "Duplex.",
+        "Simplex.",
+        "Non-network communications."
+      ],
+      "answer": "Duplex."
+    },
+    {
+      "question": "If ATC need to cancel your take-off clearance what word or phrase is used?",
+      "choices": [
+        "Stop.",
+        "Cancel.",
+        "Return to stand.",
+        "Abort."
+      ],
+      "answer": "Cancel."
+    },
+    {
+      "question": "Which phrase shall be used if you want to say: \"Pass me the following information...\":",
+      "choices": [
+        "Request",
+        "Report",
+        "Check",
+        "Say again"
+      ],
+      "answer": "Report"
+    },
+    {
+      "question": "What is the maximum distance at which you may expect strong VHF reception over flat terrain at FL 140 ?",
+      "choices": [
+        "About 140 NM",
+        "About 300 NM",
+        "About 240 NM",
+        "About 40 NM"
+      ],
+      "answer": "About 140 NM"
+    },
+    {
+      "question": "Taxi instructions will always include:",
+      "choices": [
+        "Permission to cross any lit stop bars.",
+        "A clearance limit.",
+        "ATIS code letter.",
+        "Permission to take-off.",
+        "Permission to cross an active runway.",
+        "QFE."
+      ],
+      "answer": "A clearance limit."
+    },
+    {
+      "question": "What does the clearance 'air taxi' authorise a helicopter to do?",
+      "choices": [
+        "Proceed at a slow speed in ground effect, normally below 20 kt.",
+        "Move while in contact with the surface of the aerodrome.",
+        "Proceed at a slow speed in ground effect, normally below 5 kt.",
+        "Hover."
+      ],
+      "answer": "Proceed at a slow speed in ground effect, normally below 20 kt."
+    },
+    {
+      "question": "When an ATS requests you change your callsign, for how long does this change last?",
+      "choices": [
+        "For a fixed period of 3 hours.",
+        "For a fixed period of 4 hours.",
+        "Until the end of the flight plan.",
+        "While both flights are using the same frequency, or until ATS instructs you to revert."
+      ],
+      "answer": "While both flights are using the same frequency, or until ATS instructs you to revert."
+    },
+    {
+      "question": "The vertical distance of the aircraft above a fixed point, expressed in feet is a description of:",
+      "choices": [
+        "Altitude.",
+        "Flight Level.",
+        "Height.",
+        "Attitude."
+      ],
+      "answer": "Height."
+    },
+    {
+      "question": "For a helicopter taking-off from an aerodromes with an ATS, if helicopter is within sight of the local controller, the clearance given is:",
+      "choices": [
+        "Cleared to take-off from [position] at your discretion.",
+        "Cleared to take-off.",
+        "Take-off and depart to [position or VFR waypoint]",
+        "Cleared to take-off from [position]."
+      ],
+      "answer": "Cleared to take-off from [position]."
+    },
+    {
+      "question": "When an aeronautical station broadcasts information to more than one station, the call starts with:",
+      "choices": [
+        "\"All stations\"",
+        "\"Message to all aircraft on this frequency\"",
+        "\"Please listen\"",
+        "\"General broadcast\""
+      ],
+      "answer": "\"All stations\""
+    },
+    {
+      "question": "The ATS term for radiotelephony communications outside the normal lines of a radiotelephony network is:",
+      "choices": [
+        "Radiotelephony network.",
+        "Non-network communications.",
+        "Telecommunication.",
+        "Broadcast."
+      ],
+      "answer": "Non-network communications."
+    },
+    {
+      "question": "Callsigns may be abbreviated __________ provided that it has first been abbreviated by the ground station.",
+      "choices": [
+        "by ATC and the aircraft.",
+        "by ATC only.",
+        "by the aircraft only."
+      ],
+      "answer": "by ATC and the aircraft."
+    },
+    {
+      "question": "Aerodromes have one of 3 categories of communications service: __________ : Provided by a licensed ATC officer. __________ : A lower level of service provided by a licensed Flight Information Service Officer. __________ : Provided by a radio licence holder but otherwise unregulated.",
+      "choices": [
+        "Flight Information ; Air Traffic Control ; Air-Ground Communications.",
+        "Air-Ground Communications ; Air Traffic Control ; Flight Information.",
+        "Air Traffic Control ; Flight Information ; Air-Ground Communications.",
+        "Air Traffic Control ; Air-Ground Communications ; Flight Information."
+      ],
+      "answer": "Air Traffic Control ; Flight Information ; Air-Ground Communications."
+    },
+    {
+      "question": "The ATS term for a group of radiotelephony aeronautical stations is:",
+      "choices": [
+        "Blind transmission.",
+        "Radiotelephony network.",
+        "Ground-to-air communication.",
+        "Non-network communications."
+      ],
+      "answer": "Radiotelephony network."
+    },
+    {
+      "question": "The minimum separation between useable frequencies in the air band is:",
+      "choices": [
+        "8.33 MHz.",
+        "8.33 GHz.",
+        "8.33 kHz.",
+        "8.33 Hz."
+      ],
+      "answer": "8.33 kHz."
+    },
+    {
+      "question": "Shortly after the initial contact the following transmission is heard on 118.550 MHz, the Lille Tower frequency: 'Mayday, Mayday, Mayday, Lille Tower, F-GTPO, complete engine failure, attempting a forced landing on a grass strip parallel to runway 20, currently right hand downwind for runway 20, 1000 ft.' Is the transmission following the standards for declaring an emergency?",
+      "choices": [
+        "No, even if the necessary elements are transmitted in the specified order, emergency transmissions shall be made on 121.500 MHz.",
+        "Yes ,the necessary elements are transmitted in the specified order and on the frequency in use at the time.",
+        "No, even if the transmission is made on the frequency in use at the time, the position report shall be placed just after the call sign of the aircraft transmitting, if possible.",
+        "No, emergency transmissions shall always be made on 121.500 MHz, and the position report shall be placed just after the call sign of the aircraft transmitting, if possible."
+      ],
+      "answer": "Yes ,the necessary elements are transmitted in the specified order and on the frequency in use at the time."
+    },
+    {
+      "question": "Helicopter Taxiing. How does a helicopter request clearance?",
+      "choices": [
+        "Request lift and hover.",
+        "Request taxi.",
+        "Request lift.",
+        "Request hover."
+      ],
+      "answer": "Request lift."
+    },
+    {
+      "question": "What is the correct way of transmitting the number 118.1 to indicate a frequency ?",
+      "choices": [
+        "one eighteen one",
+        "one one eight point one",
+        "one one eight one",
+        "one one eight decimal one"
+      ],
+      "answer": "one one eight decimal one"
+    },
+    {
+      "question": "The ATS term for a procedure whereby the receiving station repeats a received message is:",
+      "choices": [
+        "Broadcast.",
+        "Readback.",
+        "Air-ground communication.",
+        "Simplex."
+      ],
+      "answer": "Readback."
+    },
+    {
+      "question": "An aircraft on a straight-in approach reports ‘long final’ at __________ nm and ‘final’ at __________ nm if not yet cleared to land.",
+      "choices": [
+        "6 ; 4",
+        "8 ; 4",
+        "4 ; 8",
+        "8 ; 6"
+      ],
+      "answer": "8 ; 4"
+    },
+    {
+      "question": "Which of the following are valid actions for a station receiving a distress message?",
+      "choices": [
+        "Any aircraft may declare an end to the distress condition.",
+        "Silence is imposed by the first aircraft to hear the call.",
+        "The ATSU renders all possible assistance.",
+        "The ATSU or distress aircraft may declare an end to the distress condition.",
+        "ATSU may impose silence.",
+        "Other aircraft remain quiet unless they need to relay the message or lend assistance when the ATSU hasn’t responded."
+      ],
+      "answer": [
+        "The ATSU renders all possible assistance.",
+        "Other aircraft remain quiet unless they need to relay the message or lend assistance when the ATSU hasn’t responded.",
+        "ATSU may impose silence.",
+        "The ATSU or distress aircraft may declare an end to the distress condition."
+      ]
+    },
+    {
+      "question": "RADAR informs aircraft X-BC: \"X-BC identified\". What does this mean:",
+      "choices": [
+        "Radar identification has been achieved",
+        "X-BC is not visible on the radar screen",
+        "X-BC should operate the IDENT-button",
+        "X-BC should perform an identification turn"
+      ],
+      "answer": "Radar identification has been achieved"
+    },
+    {
+      "question": "The PiC __________ ignore or override Radar Control instructions when in his/her opinion, the safety of the aircraft is or will be compromised.",
+      "choices": [
+        "may not",
+        "may"
+      ],
+      "answer": "may"
+    },
+    {
+      "question": "The order of priority of the following messages in the aeronautical mobile service is:",
+      "choices": [
+        "Direction finding message, distress message, urgency message.",
+        "Distress message, urgency message, direction finding message.",
+        "Distress message, flight safety message, urgency message.",
+        "Meteorological message, direction finding message, flight regularity message."
+      ],
+      "answer": "Distress message, urgency message, direction finding message."
+    },
+    {
+      "question": "Because of overcast cloud, you are unable to climb above an altitude of 1000 feet over the sea, but you need to pass an urgent message to an aeronautical station by VHF. Assuming fuel is not a problem, there is no wind, and the signal has no attenuation factors, towards which of these stations should you fly to pass your message as soon as possible? A station:",
+      "choices": [
+        "120 NM away whose antenna is at an elevation of 200 feet AMSL.",
+        "110 NM away whose antenna is at an elevation of 30 feet AMSL.",
+        "140 NM away whose antenna is at an elevation of 800 feet AMSL.",
+        "130 NM away whose antenna is at an elevation of 550 feet AMSL."
+      ],
+      "answer": "130 NM away whose antenna is at an elevation of 550 feet AMSL."
+    },
+    {
+      "question": "The abbreviation SELCAL stands for: __________. This is a system allowing an ATSU to get the attention of a crew who may not be continuously monitoring comms on frequency.",
+      "choices": [
+        "single calling",
+        "special calling",
+        "seldom calling",
+        "selective calling"
+      ],
+      "answer": "selective calling"
+    },
+    {
+      "question": "If, during a VFR flight, you want to cross an airway:",
+      "choices": [
+        "Advise the appropriate ATSU at some point before entering the airway crossing point.",
+        "Transmit: 'Request airways crossing service for [name of airway]'.",
+        "Transmit 'Request clearance to cross [name of airway] at [position of crossing].",
+        "You must switch to IFR flight because you cannot cross an airway under VFR."
+      ],
+      "answer": "Transmit 'Request clearance to cross [name of airway] at [position of crossing]."
+    },
+    {
+      "question": "Extended ranges can sometimes be experienced by VHF communications as a result of:",
+      "choices": [
+        "Super refraction.",
+        "Surface wave propagation.",
+        "Ionospheric ducting.",
+        "Sub-refraction."
+      ],
+      "answer": "Super refraction."
+    },
+    {
+      "question": "If you are unable to accept an ATC instruction because it conflicts with a TCAS resolution advisory, you must:",
+      "choices": [
+        "Accept the ATC instruction, when in controlled airspace.",
+        "Tell ATC about the conflict and await further instructions.",
+        "Tell ATC about the conflict.",
+        "Decide whether its safer to follow the RA or ATC instruction."
+      ],
+      "answer": "Tell ATC about the conflict."
+    },
+    {
+      "question": "Propagation of the radio waves is influenced by different factors in the atmosphere. What will increase attenuation of radio waves?",
+      "choices": [
+        "High air density and low wavelength.",
+        "High air density and high wavelength.",
+        "Low air density and high wavelength.",
+        "Low air density and low wavelength."
+      ],
+      "answer": "High air density and low wavelength."
+    },
+    {
+      "question": "The following are VHF radio communication frequencies that are used in aviation:",
+      "choices": [
+        "108.833 MHz, 110.250 MHz, and 243.00 MHz.",
+        "108.000 MHz, 117.975 MHz, and 136.992 MHz.",
+        "112. 775 MHz, 116.358 MHz, and 121.500 MHz.",
+        "119.900 MHz, 135.692 MHz, and 123.450 MHz."
+      ],
+      "answer": "119.900 MHz, 135.692 MHz, and 123.450 MHz."
+    },
+    {
+      "question": "If you experience communications failure in the visual circuit, __________ the circuit to land, observing and obeying __________ signals from ATC.",
+      "choices": [
+        "stop ; light.",
+        "stop ; sound.",
+        "continue ; sound.",
+        "continue ; light."
+      ],
+      "answer": "continue ; light."
+    },
+    {
+      "question": "What type of signal is used for aeronautical radio communication?",
+      "choices": [
+        "Amplitude modulation and UHF.",
+        "Amplitude modulation and VHF.",
+        "Frequency modulation and VHF.",
+        "Frequency modulation and UHF."
+      ],
+      "answer": "Amplitude modulation and VHF."
+    },
+    {
+      "question": "An aircraft is flying at a cruise altitude of 9000 ft and at a distance of about 100 nm from its destination the pilot wants to listen to the ATIS. The message is very distorted and only parts of it can be received. What should the pilot do in order to have better reception?",
+      "choices": [
+        "Increase the volume of his/her headset.",
+        "Increase the volume of the receiver.",
+        "Fly at a higher altitude to increase the range of the reception.",
+        "Select the frequency of APPROACH because they are responsible for the higher airspace."
+      ],
+      "answer": "Fly at a higher altitude to increase the range of the reception."
+    },
+    {
+      "question": "Even if there is no control zone or approach control, you must always make RT contact with the aerodrome's ATSU __________.",
+      "choices": [
+        "before entering the CTZ",
+        "ATZ"
+      ],
+      "answer": "ATZ"
+    },
+    {
+      "question": "To which frequency band belongs frequency 118.1 MHz?",
+      "choices": [
+        "UHF",
+        "MF",
+        "VHF",
+        "HF"
+      ],
+      "answer": "VHF"
+    },
+    {
+      "question": "Which one of the following factors affects VHF radio waves propagation the most?",
+      "choices": [
+        "Precipitation and other meteorological phenomenon.",
+        "Terrain.",
+        "The spherical shape of the Earth.",
+        "Atmosphere"
+      ],
+      "answer": "Terrain."
+    },
+    {
+      "question": "At a busy IFR aerodrome, your departure clearance is usually passed to you by a ground station with the suffix __________.",
+      "choices": [
+        "Tower",
+        "Departure",
+        "Ground",
+        "Delivery"
+      ],
+      "answer": "Delivery"
+    },
+    {
+      "question": "TCAS is an on-board system which uses transponder information to alert the crew to __________ traffic and to potentially conflicting or actually conflicting traffic.",
+      "choices": [
+        "all",
+        "proximate"
+      ],
+      "answer": "proximate"
+    },
+    {
+      "question": "The format and sequence of an Urgency message, and the ensuing procedures, are the same as for a Distress message and Distress procedures.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The radio frequency spectrum is divided into various bands. What is the range of frequencies that corresponds to the Very High Frequency (VHF) band?",
+      "choices": [
+        "300 kHz to 3000 kHz",
+        "300 MHz to 3000 MHz",
+        "3 MHz to 30 MHz",
+        "30 MHz to 300 MHz"
+      ],
+      "answer": "30 MHz to 300 MHz"
+    },
+    {
+      "question": "If you are making a VFR arrival to an airport with a control zone, you must contact the approach control and request clearance and joining instructions __________ entering the zone.",
+      "choices": [
+        "before",
+        "as you are",
+        "as soon as possible after"
+      ],
+      "answer": "before"
+    },
+    {
+      "question": "A condition of being threatened by serious and/or imminent danger and of requiring immediate assistance is a description of:",
+      "choices": [
+        "urgency",
+        "distress",
+        "disaster",
+        "emergency"
+      ],
+      "answer": "distress"
+    },
+    {
+      "question": "If you are required to hold before making your approach you should be given an expected approach time (EAT). The EAT is the time at which you__________.",
+      "choices": [
+        "must be cleared by ATC before you make the approach.",
+        "should start your approach in the event of lost comms."
+      ],
+      "answer": "should start your approach in the event of lost comms."
+    },
+    {
+      "question": "Which factor reduces the effective range of ground-to-air VHF transmissions?",
+      "choices": [
+        "Duct propagation, also called super-refraction.",
+        "Increasing the aircrafts altitude.",
+        "Raising the height of the ground transmitter aerial.",
+        "High terrain interrupting the line of sight."
+      ],
+      "answer": "High terrain interrupting the line of sight."
+    },
+    {
+      "question": "Distress messages take priority over Urgency messages.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "If you are requested to \"Report flight conditions\", what does that mean:",
+      "choices": [
+        "Indicate whether you are flying in IMC or in VMC",
+        "Indicate whether you are flying IFR or VFR",
+        "Indicate weather conditions as wind, visibility, temperature",
+        "Indicate if visibility is sufficient for landing"
+      ],
+      "answer": "Indicate whether you are flying in IMC or in VMC"
+    },
+    {
+      "question": "If the departure controller is sure that no traffic or terrain conflicts exist s/he may shorten the departure routing by giving what instruction?",
+      "choices": [
+        "Directly.",
+        "Direct to.",
+        "As requested.",
+        "Straight."
+      ],
+      "answer": "Direct to."
+    },
+    {
+      "question": "The format and sequence of an Urgency message, and the ensuing procedures, are not the same as for a Distress message and Distress procedures.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Which information can aircraft in flight obtain by VOLMET:",
+      "choices": [
+        "Aviation routine weather reports (METAR) of specific airports",
+        "Runway reports",
+        "SPECI and TAF",
+        "SIGMET"
+      ],
+      "answer": "Aviation routine weather reports (METAR) of specific airports"
+    },
+    {
+      "question": "The first step in the CPDLC process is the:",
+      "choices": [
+        "Boot.",
+        "Start.",
+        "Logon.",
+        "Handshake."
+      ],
+      "answer": "Logon."
+    },
+    {
+      "question": "A signal sent by radiotelephony consisting of the spoken word MAYDAY MAYDAY MAYDAY means:",
+      "choices": [
+        "The aircraft has a very urgent message to transmit concerning the safety of a ship, aircraft or vehicle",
+        "The aircraft is forced to perform a fuel dumping procedure",
+        "The aircraft has a message to transmit concerning adverse weather conditions along its route of flight",
+        "Imminent danger threatens the aircraft and immediate assistance is required"
+      ],
+      "answer": "Imminent danger threatens the aircraft and immediate assistance is required"
+    },
+    {
+      "question": "If you experience comms failure in VMC:",
+      "choices": [
+        "Land as planned at your destination aerodrome.",
+        "Land at the nearest suitable aerodrome.",
+        "Report your arrival to the appropriate ATSU as soon as possible after landing.",
+        "Continue your flight in VMC.",
+        "Report your comms failure to the appropriate ATSU as soon as possible after landing."
+      ],
+      "answer": [
+        "Continue your flight in VMC.",
+        "Land at the nearest suitable aerodrome.",
+        "Report your arrival to the appropriate ATSU as soon as possible after landing."
+      ]
+    },
+    {
+      "question": "Which of the following is the correct RT response to a SELCAL chime?",
+      "choices": [
+        "State your call sign and flight level.",
+        "Radio silence, pending ATSU message.",
+        "State your call sign and \"Go ahead\".",
+        "State your call sign."
+      ],
+      "answer": "State your call sign and \"Go ahead\"."
+    },
+    {
+      "question": "Aircraft in flight may receive weather information from several sources. Which of the following is correct?",
+      "choices": [
+        "VOLMET broadcasts recent METAR and SPECI reports for a group of aerodromes.",
+        "Any thunderstorms seen by another aircraft in flight will be subject to a special report.",
+        "ATIS broadcasts the TAF and METAR for the aerodrome which transmits it.",
+        "An ATS unit cannot provide aerodrome forecasts as part of a Flight Information Service."
+      ],
+      "answer": "VOLMET broadcasts recent METAR and SPECI reports for a group of aerodromes."
+    },
+    {
+      "question": "When shall an aircraft in the heavy-wake-turbulence category include the word \"Heavy\" immediately after its call sign e.g. Fastair 345 Heavy:",
+      "choices": [
+        "Never",
+        "In the initial call to the aerodrome control tower and the approach control unit",
+        "In all calls to the aerodrome tower and the approach control unit",
+        "In all calls"
+      ],
+      "answer": "In the initial call to the aerodrome control tower and the approach control unit"
+    },
+    {
+      "question": "Which statement is true with regard to the frequency band used for aviation communication? Choose the best statement:",
+      "choices": [
+        "To the two bands immediately above MF, expressed in MHz.",
+        "To the two bands immediately below SHF, expressed in MHz.",
+        "To the two bands immediately below UHF, expressed in kHz.",
+        "To the two bands immediately below SHF, expressed in kHz."
+      ],
+      "answer": "To the two bands immediately above MF, expressed in MHz."
+    },
+    {
+      "question": "SELCAL is used during the __________ phase.",
+      "choices": [
+        "departure",
+        "en-route",
+        "arrival",
+        "approach"
+      ],
+      "answer": "en-route"
+    },
     {
       "question": "What is the status of the CPDLC when the app confirms a successful connection with the ATS unit.",
       "choices": [
@@ -37948,19 +38664,6 @@
         "squawk ident"
       ],
       "answer": "return to your cleared level"
-    },
-    {
-      "question": "For aircraft in flight, voice weather information can be obtained from: Mark 2 correct answers.",
-      "choices": [
-        "TCAS weather mode.",
-        "CAVOK units.",
-        "VOLMET.",
-        "ATIS."
-      ],
-      "answer": [
-        "VOLMET.",
-        "ATIS."
-      ]
     },
     {
       "question": "An aircraft departing on an IFR flight without an ATC controlled airspace clearance must request a clearance to join controlled airspace when __________.",
@@ -38109,25 +38812,6 @@
       "answer": "(1) very high; (2) very high."
     },
     {
-      "question": "If there is no published holding pattern, or the controller wants you to fly a hold different from the published one, the instruction to hold will include the following information: Mark all correct answers.",
-      "choices": [
-        "Holding fix (e.g. a VOR, NDB or other waypoint).",
-        "Right or left turns.",
-        "Time of leg, or distance of leg if holding a VOR/DME.",
-        "Level.",
-        "Number of holding patterns to be flown.",
-        "Inbound track towards the holding fix.",
-        "Time to be spent in the hold."
-      ],
-      "answer": [
-        "Holding fix (e.g. a VOR, NDB or other waypoint).",
-        "Level.",
-        "Inbound track towards the holding fix.",
-        "Right or left turns.",
-        "Time of leg, or distance of leg if holding a VOR/DME."
-      ]
-    },
-    {
       "question": "Extended ranges can sometimes be experienced by VHF communications as a result of:",
       "choices": [
         "Surface wave propagation.",
@@ -38251,19 +38935,6 @@
       "answer": "The ATIS identifying code letter."
     },
     {
-      "question": "Start-up - VFR Flight. Your initial call should include which of the following information: Mark 2 correct answers.",
-      "choices": [
-        "Destination airport.",
-        "Number of passengers onboard.",
-        "Your request fro permission to taxi.",
-        "Your current location."
-      ],
-      "answer": [
-        "Your current location.",
-        "Your request fro permission to taxi."
-      ]
-    },
-    {
       "question": "What does the instruction 'hold' require an air taxiing helicopter to do?",
       "choices": [
         "Immediately hover.",
@@ -38373,20 +39044,6 @@
       "answer": "Simplex."
     },
     {
-      "question": "Start-up - VFR Flight. ATC normal response to your request for start-up should include which of the following information: Mark 3 correct answers.",
-      "choices": [
-        "Runway in use.",
-        "Permission to take-off.",
-        "Permission to taxi to the holding point.",
-        "Current QNH."
-      ],
-      "answer": [
-        "Runway in use.",
-        "Permission to taxi to the holding point.",
-        "Current QNH."
-      ]
-    },
-    {
       "question": "How frequently is ATIS routinely updated?",
       "choices": [
         "Every 2 hours.",
@@ -38415,34 +39072,6 @@
         "Report"
       ],
       "answer": "Report"
-    },
-    {
-      "question": "Start-up and Pushback - IFR Flights. Which of the following are required to be readback: Mark 2 correct answers.",
-      "choices": [
-        "Runway in use.",
-        "Callsign.",
-        "Stand number.",
-        "QNH."
-      ],
-      "answer": [
-        "Runway in use.",
-        "QNH."
-      ]
-    },
-    {
-      "question": "The Q-codes relating to vertical distance are: Mark 2 correct answers.",
-      "choices": [
-        "QDM",
-        "QTE",
-        "QNH",
-        "QUJ",
-        "QDR",
-        "QFE"
-      ],
-      "answer": [
-        "QNH",
-        "QFE"
-      ]
     },
     {
       "question": "What is the correct way of transmitting the number 118.1 to indicate a frequency ?",
@@ -38604,22 +39233,6 @@
       "answer": "Radio."
     },
     {
-      "question": "Which of the following are valid techniques for good RT comms: Mark 3 correct answers.",
-      "choices": [
-        "Speak at a rate of about 20 words per minute.",
-        "Use a normal conversational tone, speak clearly and distinctly at a constant volume.",
-        "Avoid using hesitation sounds such as ‘um’ and ‘err’.",
-        "When you need to say something, press the transmit button without delay.",
-        "Be courteous at all times. For example, always use courtesies such as please and thank you.",
-        "If there is no response, wait at least 10 seconds before calling again."
-      ],
-      "answer": [
-        "Avoid using hesitation sounds such as ‘um’ and ‘err’.",
-        "If there is no response, wait at least 10 seconds before calling again.",
-        "Use a normal conversational tone, speak clearly and distinctly at a constant volume."
-      ]
-    },
-    {
       "question": "For a helicopter taking-off from an aerodromes with an ATS, if helicopter is within sight of the local controller, the clearance given is:",
       "choices": [
         "Cleared to take-off.",
@@ -38740,21 +39353,6 @@
       "answer": "While both flights are using the same frequency, or until ATS instructs you to revert."
     },
     {
-      "question": "An aircraft radiotelephony callsign may comprise which of the following: Mark 3 correct answers.",
-      "choices": [
-        "The aircraft operator’s telephony designator followed by the last 3 characters of the registration.",
-        "The aircraft operator’s telephony designator followed by the last 4 characters of the registration.",
-        "The aircraft operator’s telephony designator followed by the flight plan number.",
-        "The aircraft registration.",
-        "The aircraft operator’s telephony designator followed by the flight identification."
-      ],
-      "answer": [
-        "The aircraft registration.",
-        "The aircraft operator’s telephony designator followed by the last 4 characters of the registration.",
-        "The aircraft operator’s telephony designator followed by the flight identification."
-      ]
-    },
-    {
       "question": "From the chart given, the Morse identification for Perth is:",
       "choices": [
         "..- -.. ..",
@@ -38783,37 +39381,6 @@
         "right ; right"
       ],
       "answer": "left ; right"
-    },
-    {
-      "question": "Readback is mandatory for which of the following items: Mark all correct answers.",
-      "choices": [
-        "Transponder SSR codes and modes.",
-        "VHF direction finding information.",
-        "Anything to do with a runway including clearances and conditional clearances, instructions to enter, land on, take-off from, hold short of, cross, taxi and backtrack on any runway.",
-        "Speed instructions.",
-        "Altimeter settings such as QNH, QFE or a change to standard pressure setting.",
-        "Level instructions, including altitude and height instructions.",
-        "Transition levels.",
-        "Runway in use.",
-        "ATC route clearances.",
-        "Type of air traffic service being provided (e.g. radar control).",
-        "Frequency changes.",
-        "Heading instructions."
-      ],
-      "answer": [
-        "ATC route clearances.",
-        "Anything to do with a runway including clearances and conditional clearances, instructions to enter, land on, take-off from, hold short of, cross, taxi and backtrack on any runway.",
-        "Runway in use.",
-        "Altimeter settings such as QNH, QFE or a change to standard pressure setting.",
-        "Transponder SSR codes and modes.",
-        "Level instructions, including altitude and height instructions.",
-        "Heading instructions.",
-        "Speed instructions.",
-        "Frequency changes.",
-        "VHF direction finding information.",
-        "Type of air traffic service being provided (e.g. radar control).",
-        "Transition levels."
-      ]
     },
     {
       "question": "The standard RT word for \"true or accurate\" is:",
@@ -39042,19 +39609,6 @@
         "Emergency."
       ],
       "answer": "Emergency."
-    },
-    {
-      "question": "Which of the following are valid techniques for good RT comms: Mark 3 correct answers.",
-      "choices": [
-        "Use standard RT phraseology whenever possible.",
-        "Think about what you need to say before you press the transmit button.",
-        "If there is no response, wait at least 10 seconds before calling again."
-      ],
-      "answer": [
-        "Use standard RT phraseology whenever possible.",
-        "If there is no response, wait at least 10 seconds before calling again.",
-        "Think about what you need to say before you press the transmit button."
-      ]
     },
     {
       "question": "Before transmitting the pilot should...:",
@@ -39546,21 +40100,6 @@
       "answer": "How ice crystals grow in mixed cloud at the expense of water droplets."
     },
     {
-      "question": "Which of these statements is/are correct? Icing is likely to occur.... Mark all correct answers.",
-      "choices": [
-        "As clear ice inside cumuliform clouds in the level between 0 to -15°C and as rime ice above this.",
-        "Just under a warm front in winter if freezing rain/drizzle is present.",
-        "In frontal systems within embedded CBs along a cold front.",
-        "Within stratiform clouds, but just above and below the cloud there should be no icing."
-      ],
-      "answer": [
-        "As clear ice inside cumuliform clouds in the level between 0 to -15°C and as rime ice above this.",
-        "In frontal systems within embedded CBs along a cold front.",
-        "Just under a warm front in winter if freezing rain/drizzle is present.",
-        "Within stratiform clouds, but just above and below the cloud there should be no icing."
-      ]
-    },
-    {
       "question": "Occasional turbulence is defined as turbulence which is experienced for __________ of the time.",
       "choices": [
         "less than 1/2",
@@ -39616,23 +40155,6 @@
         "high"
       ],
       "answer": "high"
-    },
-    {
-      "question": "Which of the following are accurate statements about the characteristics of a cold front? Mark all correct answers.",
-      "choices": [
-        "Cold fronts usually slope backwards relative to their movement, with a slope of approximately 1:75.",
-        "The typical cloud structure after the passing of a cold front is small isolated Cu.",
-        "The risks of a cold front include CB/TS, heavy showers, hail, clear ice, gusts and windshear.",
-        "Visibility tends to improve after the passing of a cold front.",
-        "A 'cold nose' is a feature of cold fronts but not warm fronts."
-      ],
-      "answer": [
-        "The typical cloud structure after the passing of a cold front is small isolated Cu.",
-        "Cold fronts usually slope backwards relative to their movement, with a slope of approximately 1:75.",
-        "A 'cold nose' is a feature of cold fronts but not warm fronts.",
-        "Visibility tends to improve after the passing of a cold front.",
-        "The risks of a cold front include CB/TS, heavy showers, hail, clear ice, gusts and windshear."
-      ]
     },
     {
       "question": "The pressure steadily __________ as a warm front approaches.",
@@ -39732,14 +40254,6 @@
       "answer": "26"
     },
     {
-      "question": "Study the image and then identify the correct statement.",
-      "choices": [
-        "This image shows the general situation in the southern hemisphere winter.",
-        "This image shows the general situation in the southern hemisphere summer."
-      ],
-      "answer": "This image shows the general situation in the southern hemisphere summer."
-    },
-    {
       "question": "When compared to the geostrophic wind in the northern hemisphere, surface friction will cause the surface wind to:",
       "choices": [
         "veer and increase.",
@@ -39748,19 +40262,6 @@
         "veer and decrease."
       ],
       "answer": "back and decrease."
-    },
-    {
-      "question": "In a warm sector the following conditions can be expected: Mark 2 correct answers.",
-      "choices": [
-        "Good visibility.",
-        "Pressure constant or falling.",
-        "In winter: St, Sc fog or mist and light drizzle.",
-        "Pressure constant or rising."
-      ],
-      "answer": [
-        "Pressure constant or falling.",
-        "In winter: St, Sc fog or mist and light drizzle."
-      ]
     },
     {
       "question": "Maritime tracks __________ the relative and absolute humidity of an air mass.",
@@ -39808,14 +40309,6 @@
         "cyclic uplift"
       ],
       "answer": "cyclogenesis"
-    },
-    {
-      "question": "Study the image and then identify the correct statement.",
-      "choices": [
-        "A represents the situation over the Indian subcontinent in July.",
-        "B represents the situation over the Indian subcontinent in July."
-      ],
-      "answer": "A represents the situation over the Indian subcontinent in July."
     },
     {
       "question": "Tropical revolving storms require an unstable, moist atmosphere with little vertical shear and can only begin to generate beyond the latitudes of __________°N/S.",
@@ -43238,21 +43731,6 @@
       "answer": "15; 30"
     },
     {
-      "question": "Which 3 of the following cloud types and/or species indicate the possibility that a thunderstorm could develop?",
-      "choices": [
-        "Cumulus.",
-        "Altocumulus lenticularis.",
-        "Cumulonimbus.",
-        "Nimbostratus.",
-        "Altocumulus Castellanus."
-      ],
-      "answer": [
-        "Cumulus.",
-        "Cumulonimbus.",
-        "Altocumulus Castellanus."
-      ]
-    },
-    {
       "question": "The arctic front jet stream occurs from about 20 000 to __________ ft.",
       "choices": [
         "30",
@@ -43469,22 +43947,6 @@
       "answer": "thickness; chord"
     },
     {
-      "question": "Which of the following are characteristics of short-period oscillations: Mark all correct answers.",
-      "choices": [
-        "Little change in the airspeed or altitude.",
-        "Dangerous because it can result in large load factors.",
-        "Period can be anything from about 1 second to a few seconds.",
-        "Large rates of change of pitch attitude, and angle of attack.",
-        "Little change in alpha."
-      ],
-      "answer": [
-        "Large rates of change of pitch attitude, and angle of attack.",
-        "Period can be anything from about 1 second to a few seconds.",
-        "Little change in the airspeed or altitude.",
-        "Dangerous because it can result in large load factors."
-      ]
-    },
-    {
       "question": "An __________ tab moves in the same sense as the control surface, thus opposing its movement. Provides greater force feedback to the pilot at higher IAS.",
       "choices": [
         "servo",
@@ -43493,16 +43955,6 @@
         "anti-balance"
       ],
       "answer": "anti-balance"
-    },
-    {
-      "question": "In this diagram the centre of pressure is marked with the letter __________ and the centre of gravity is marked with the letter __________.",
-      "choices": [
-        "B; B.",
-        "B; A.",
-        "A; A.",
-        "A; B."
-      ],
-      "answer": "B; A."
     },
     {
       "question": "What is the basic stalling speed (Vs1g) of your Diamond DA-42, given the following data: Wing area 16 m². Mass is 2000 kg. ρ is 0.7 kg/m³. CL MAX clean is 1.3.",
@@ -43613,16 +44065,6 @@
       "answer": "underread."
     },
     {
-      "question": "This leading edge device is an example of a:",
-      "choices": [
-        "Slat.",
-        "Krueger flap.",
-        "Slotted flap.",
-        "Slotted fowler flap."
-      ],
-      "answer": "Krueger flap."
-    },
-    {
       "question": "If an aircraft is made to pitch nose-up (positively), without stalling, the load factor will __________.",
       "choices": [
         "increase",
@@ -43650,16 +44092,6 @@
         "An angle of attack probe."
       ],
       "answer": "A flapper switch."
-    },
-    {
-      "question": "This system is known as:",
-      "choices": [
-        "An Internal balance.",
-        "A horn balance.",
-        "A spring balance.",
-        "A pressure balance"
-      ],
-      "answer": "An Internal balance."
     },
     {
       "question": "Excessive angle of bank in a turn can result in __________.",
@@ -43708,23 +44140,6 @@
         "reduces; a beneficial."
       ],
       "answer": "reduces; no."
-    },
-    {
-      "question": "Which of the following statements about trimming systems are correct? Mark all correct answers.",
-      "choices": [
-        "Trim tabs are not normally used to adjust the attitude of an aircraft.",
-        "A THS is required on large aircraft because conventional trim tabs are unable to generate sufficient pitch moments.",
-        "Trims tabs create balancing moments by generating aerodynamic force.",
-        "Adjustable trims tabs may need to be adjusted many times in a flight.",
-        "Movement of the CP will require the aircraft to be retrimmed."
-      ],
-      "answer": [
-        "Trims tabs create balancing moments by generating aerodynamic force.",
-        "Movement of the CP will require the aircraft to be retrimmed.",
-        "Adjustable trims tabs may need to be adjusted many times in a flight.",
-        "Trim tabs are not normally used to adjust the attitude of an aircraft.",
-        "A THS is required on large aircraft because conventional trim tabs are unable to generate sufficient pitch moments."
-      ]
     },
     {
       "question": "Considering the effect of wing downwash on the direction of the airflow approaching the tailplane, when flaps are extended the tailplane's negative angle of attack:",
@@ -43834,21 +44249,89 @@
       "answer": "nose-down; more."
     },
     {
-      "question": "Valid uses for speed brakes include: Mark all correct answers.",
+      "question": "Transport aircraft use take-off and landing speeds based on a margin above the stall reference speed because swept-wing aircraft __________ a clearly defined stall onset and have very undesirable stall characteristics.",
       "choices": [
-        "Increasing the angle of descent.",
-        "Reducing drag by lowering VMD.",
-        "Reducing airspeed rapidly.",
-        "Increasing the rate of descent.",
-        "Controlling the airspeed in a descent."
+        "don't have",
+        "have"
       ],
-      "answer": [
-        "Reducing airspeed rapidly.",
-        "Increasing the angle of descent.",
-        "Increasing the rate of descent.",
-        "Controlling the airspeed in a descent."
-      ]
+      "answer": "don't have"
     },
+  {
+    "question": "At high load factors the stalling speed increases. Hard turns or hard pulls to get out of a dive can cause the aircraft to stall well above the 1g (straight and level) stalling speed. This is known as __________ stall.",
+    "choices": [
+      "a high speed",
+      "an accelerated"
+    ],
+    "answer": "an accelerated"
+  },
+  {
+    "question": "If the ailerons are held deflected, roll __________.",
+    "choices": [
+      "steadily reduces to zero.",
+      "continues at a steady rate.",
+      "continues to increase."
+    ],
+    "answer": "continues at a steady rate."
+  },
+  {
+    "question": "A single-engine aircraft experiences complete engine failure. The pilot quickly reduces speed to VMD. At this speed the 2000 kg aircraft produces 4000 newtons of drag. Assume g = 10 m/s². Its glide angle in still-air conditions is:",
+    "choices": [
+      "11.5º",
+      "0.003º",
+      "0.2º",
+      "12º"
+    ],
+    "answer": "11.5º"
+  },
+  {
+    "question": "A forward CG __________ the stalling speed because of the extra lift the wings must produce.",
+    "choices": [
+      "decreases",
+      "increases",
+      "reduces"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "A forward CG tends to make the spin __________. An aft CG tends to make the spin __________.",
+    "choices": [
+      "flatter; flatter.",
+      "steeper; steeper.",
+      "flatter; steeper.",
+      "steeper; flatter"
+    ],
+    "answer": "steeper; flatter"
+  },
+  {
+    "question": "As alpha increases towards the critical angle: the CP moves __________; the adverse pressure gradient becomes __________; the CL __________ and drag __________.",
+    "choices": [
+      "forward; weaker; increases; increases.",
+      "forward; stronger; increases; increases.",
+      "rearwards; stronger; decreases; decreases.",
+      "rearwards; stronger; increases; increases."
+    ],
+    "answer": "forward; stronger; increases; increases."
+  },
+  {
+    "question": "A single-engine light aircraft experiences engine failure. The pilot wishes to maximise the amount of airborne time they have to attempt one or more restarts. Best glide speed for her aircraft is 65 kt. What speed should they fly at?",
+    "choices": [
+      "65 kt.",
+      "50 kt",
+      "114 kt",
+      "60 kt"
+    ],
+    "answer": "50 kt"
+  },
+  {
+    "question": "EASA CS 25 for CAT aircraft require that: For all aircraft without a stick-pusher, the stall warning must activate at a speed of at least __________ kt and __________% above the relevant stall speed, and remain operating until the aircraft’s speed has increased above this limit.",
+    "choices": [
+      "10; 5.",
+      "10; 10.",
+      "5; 10.",
+      "5; 5."
+    ],
+    "answer": "5; 5."
+  },
     {
       "question": "Rotation around the longitudinal axis is called:",
       "choices": [
@@ -43869,898 +44352,7 @@
         "negative; need not have."
       ],
       "answer": "positive; must have."
-    },
-    {
-      "question": "An aircraft radiotelephony callsign may comprise which of the following:",
-      "choices": [
-        "The aircraft operator’s telephony designator followed by the flight identification.",
-        "The aircraft operator’s telephony designator followed by the last 4 characters of the registration.",
-        "The aircraft operator’s telephony designator followed by the last 3 characters of the registration.",
-        "The aircraft operator’s telephony designator followed by the flight plan number.",
-        "The aircraft registration."
-      ],
-      "answer": [
-        "The aircraft registration.",
-        "The aircraft operator’s telephony designator followed by the last 4 characters of the registration.",
-        "The aircraft operator’s telephony designator followed by the flight identification."
-      ]
-    },
-    {
-      "question": "If ATC wishes to stop an aircraft that has begun its take-off roll what instruction is used?",
-      "choices": [
-        "Abort.",
-        "Stop immediately.",
-        "Stop.",
-        "Revoke take-off."
-      ],
-      "answer": "Stop immediately."
-    },
-    {
-      "question": "Which of the following frequencies is an international emergency frequency?",
-      "choices": [
-        "911 MHz",
-        "6500 KHz",
-        "122.500 MHz",
-        "121.500 MHz"
-      ],
-      "answer": "121.500 MHz"
-    },
-    {
-      "question": "A Flight Information Service Officer __________ give a line-up, take-off or landing clearance.",
-      "choices": [
-        "Cannot.",
-        "Can.",
-        "Always."
-      ],
-      "answer": "Cannot."
-    },
-    {
-      "question": "A readability scale reading of 1 means the responder considers the message:",
-      "choices": [
-        "Unreadable.",
-        "Perfectly readable.",
-        "Readable now and then.",
-        "Readable but with difficulty."
-      ],
-      "answer": "Unreadable."
-    },
-    {
-      "question": "In general, times are given in:",
-      "choices": [
-        "Hours and minutes.",
-        "Decimal hours.",
-        "Hours, minutes and seconds.",
-        "Minutes only."
-      ],
-      "answer": "Minutes only."
-    },
-    {
-      "question": "The vertical distance of the aircraft from sea level, expressed in feet is a description of:",
-      "choices": [
-        "Attitude.",
-        "Height.",
-        "Altitude.",
-        "Flight Level."
-      ],
-      "answer": "Altitude."
-    },
-    {
-      "question": "The effect(s) of a stuck PTT switch is/are:",
-      "choices": [
-        "ATC can contact the aircraft but the aircraft cannot respond.",
-        "It has no effect on communication between the aircraft and ATC.",
-        "The aircraft can transmit to ATC but they cannot respond.",
-        "No aircraft on frequency can be heard by ATC and ATC can't respond."
-      ],
-      "answer": "No aircraft on frequency can be heard by ATC and ATC can't respond."
-    },
-    {
-      "question": "Must a \"general call\" be acknowledged\"?",
-      "choices": [
-        "No.",
-        "Yes, from all stations in the sequence they have been addressed.",
-        "Yes, from all stations in a random sequence.",
-        "Yes, but only from the station first called."
-      ],
-      "answer": "No."
-    },
-    {
-      "question": "From the chart given, the Morse identification for Dundee is:",
-      "choices": [
-        ".- -.. -.",
-        ".--. - ....",
-        "-.. -. -..",
-        "..- -.. .."
-      ],
-      "answer": "-.. -. -.."
-    },
-    {
-      "question": "What does the clearance 'ground taxi' authorise a helicopter to do?",
-      "choices": [
-        "Proceed at a slow speed in ground effect, normally below 5 kt.",
-        "Proceed at a slow speed in ground effect, normally below 20 kt.",
-        "Move while in contact with the surface of the aerodrome.",
-        "Hover."
-      ],
-      "answer": "Move while in contact with the surface of the aerodrome."
-    },
-    {
-      "question": "If you agree to an immediate departure what must you do?",
-      "choices": [
-        "Start to taxi within 30 seconds.",
-        "Expedite line-up and take-off.",
-        "Start your pre-taxi checks."
-      ],
-      "answer": "Expedite line-up and take-off."
-    },
-    {
-      "question": "If you need to abort your take-off during the take-off run what word will you use?",
-      "choices": [
-        "Fire.",
-        "Abort.",
-        "Cancel.",
-        "Stopping."
-      ],
-      "answer": "Stopping."
-    },
-    {
-      "question": "The SSR code 7600 is for:",
-      "choices": [
-        "Search and rescue services.",
-        "Unlawful interference.",
-        "Emergency.",
-        "Radio failure."
-      ],
-      "answer": "Radio failure."
-    },
-    {
-      "question": "Which of the following are valid techniques for good RT comms:\nMark 3 correct answers.",
-      "choices": [
-        "Be courteous at all times. For example, always use courtesies such as please and thank you.",
-        "Use a normal conversational tone, speak clearly and distinctly at a constant volume.",
-        "Speak at a rate of about 20 words per minute.",
-        "If there is no response, wait at least 10 seconds before calling again.",
-        "When you need to say something, press the transmit button without delay.",
-        "Avoid using hesitation sounds such as ‘um’ and ‘err’."
-      ],
-      "answer": [
-        "Avoid using hesitation sounds such as ‘um’ and ‘err’.",
-        "If there is no response, wait at least 10 seconds before calling again.",
-        "Use a normal conversational tone, speak clearly and distinctly at a constant volume."
-      ]
-    },
-    {
-      "question": "When making the initial call to request clearance or start-up, what do the crew use to advise the ATS unit that the departure information has been received?",
-      "choices": [
-        "The ATIS identifying code number.",
-        "Their flight plan number.",
-        "The ATIS identifying code letter.",
-        "Their aircraft callsign only."
-      ],
-      "answer": "The ATIS identifying code letter."
-    },
-    {
-      "question": "What does the term \"air-ground communication\" mean?",
-      "choices": [
-        "One-way communication from aircraft to stations or locations on the surface of the earth",
-        "Two-way communication between aircraft and stations or locations on the surface of the earth",
-        "One-way communication from stations or locations on the surface of the earth",
-        "Any communication from aircraft to ground station requiring handling by the Aeronautical Fixed Telecommunication Network (AFTN)"
-      ],
-      "answer": "Two-way communication between aircraft and stations or locations on the surface of the earth"
-    },
-    {
-      "question": "Which of the following are valid techniques for good RT comms: Mark 3 correct answers.",
-      "choices": [
-        "If there is no response, wait at least 10 seconds before calling again.",
-        "Use standard RT phraseology whenever possible.",
-        "Think about what you need to say before you press the transmit button."
-      ],
-      "answer": [
-        "Use standard RT phraseology whenever possible.",
-        "If there is no response, wait at least 10 seconds before calling again.",
-        "Think about what you need to say before you press the transmit button."
-      ]
-    },
-    {
-      "question": "In __________ airspace you may request, or simply advise, that you are changing to a new frequency.",
-      "choices": [
-        "controlled or uncontrolled.",
-        "uncontrolled.",
-        "controlled."
-      ],
-      "answer": "uncontrolled."
-    },
-    {
-      "question": "What does the abbreviation \"HJ\" mean?",
-      "choices": [
-        "Sunrise to sunset.",
-        "Sunset to sunrise.",
-        "No specific working hours.",
-        "Continuous day and night service."
-      ],
-      "answer": "Sunrise to sunset."
-    },
-    {
-      "question": "Urgency is defined as:",
-      "choices": [
-        "A condition of being threatened by serious and/or imminent danger and of requiring immediate assistance.",
-        "A condition concerning the safety of an aircraft other vehicles or of a person on board, but which does not require immediate assistance.",
-        "A condition concerning the attitude of an aircraft when intercepting the localizer during an ILS approach.",
-        "A condition concerning the safety of a person on board or within sight and requiring immediate assistance."
-      ],
-      "answer": "A condition concerning the safety of an aircraft other vehicles or of a person on board, but which does not require immediate assistance."
-    },
-    {
-      "question": "What callsign suffix is used by the Aerodrome Air-Ground Communications Service operator?",
-      "choices": [
-        "Traffic.",
-        "Information.",
-        "Radio.",
-        "Ground."
-      ],
-      "answer": "Radio."
-    },
-    {
-      "question": "The standard RT word for \"I understand your message and will comply with it\" is:",
-      "choices": [
-        "Wilco.",
-        "Correct.",
-        "Roger.",
-        "Affirm."
-      ],
-      "answer": "Wilco."
-    },
-    {
-      "question": "The ATS term for a communication which can take place in both directions simultaneously is:",
-      "choices": [
-        "Readback.",
-        "Duplex.",
-        "Simplex.",
-        "Non-network communications."
-      ],
-      "answer": "Duplex."
-    },
-    {
-      "question": "If ATC need to cancel your take-off clearance what word or phrase is used?",
-      "choices": [
-        "Stop.",
-        "Cancel.",
-        "Return to stand.",
-        "Abort."
-      ],
-      "answer": "Cancel."
-    },
-    {
-      "question": "Which phrase shall be used if you want to say: \"Pass me the following information...\":",
-      "choices": [
-        "Request",
-        "Report",
-        "Check",
-        "Say again"
-      ],
-      "answer": "Report"
-    },
-    {
-      "question": "What is the maximum distance at which you may expect strong VHF reception over flat terrain at FL 140 ?",
-      "choices": [
-        "About 140 NM",
-        "About 300 NM",
-        "About 240 NM",
-        "About 40 NM"
-      ],
-      "answer": "About 140 NM"
-    },
-    {
-      "question": "Taxi instructions will always include:",
-      "choices": [
-        "Permission to cross any lit stop bars.",
-        "A clearance limit.",
-        "ATIS code letter.",
-        "Permission to take-off.",
-        "Permission to cross an active runway.",
-        "QFE."
-      ],
-      "answer": "A clearance limit."
-    },
-    {
-      "question": "What does the clearance 'air taxi' authorise a helicopter to do?",
-      "choices": [
-        "Proceed at a slow speed in ground effect, normally below 20 kt.",
-        "Move while in contact with the surface of the aerodrome.",
-        "Proceed at a slow speed in ground effect, normally below 5 kt.",
-        "Hover."
-      ],
-      "answer": "Proceed at a slow speed in ground effect, normally below 20 kt."
-    },
-    {
-      "question": "When an ATS requests you change your callsign, for how long does this change last?",
-      "choices": [
-        "For a fixed period of 3 hours.",
-        "For a fixed period of 4 hours.",
-        "Until the end of the flight plan.",
-        "While both flights are using the same frequency, or until ATS instructs you to revert."
-      ],
-      "answer": "While both flights are using the same frequency, or until ATS instructs you to revert."
-    },
-    {
-      "question": "Start-up and Pushback - IFR Flights. Which of the following are required to be readback: Mark 2 correct answers.",
-      "choices": [
-        "Callsign.",
-        "Runway in use.",
-        "Stand number.",
-        "QNH."
-      ],
-      "answer": [
-        "QNH.",
-        "Runway in use."
-      ]
-    },
-    {
-      "question": "The vertical distance of the aircraft above a fixed point, expressed in feet is a description of:",
-      "choices": [
-        "Altitude.",
-        "Flight Level.",
-        "Height.",
-        "Attitude."
-      ],
-      "answer": "Height."
-    },
-    {
-      "question": "For a helicopter taking-off from an aerodromes with an ATS, if helicopter is within sight of the local controller, the clearance given is:",
-      "choices": [
-        "Cleared to take-off from [position] at your discretion.",
-        "Cleared to take-off.",
-        "Take-off and depart to [position or VFR waypoint]",
-        "Cleared to take-off from [position]."
-      ],
-      "answer": "Cleared to take-off from [position]."
-    },
-    {
-      "question": "When an aeronautical station broadcasts information to more than one station, the call starts with:",
-      "choices": [
-        "\"All stations\"",
-        "\"Message to all aircraft on this frequency\"",
-        "\"Please listen\"",
-        "\"General broadcast\""
-      ],
-      "answer": "\"All stations\""
-    },
-    {
-      "question": "The ATS term for radiotelephony communications outside the normal lines of a radiotelephony network is:",
-      "choices": [
-        "Radiotelephony network.",
-        "Non-network communications.",
-        "Telecommunication.",
-        "Broadcast."
-      ],
-      "answer": "Non-network communications."
-    },
-    {
-      "question": "The Q-codes relating to vertical distance are: Mark 2 correct answers.",
-      "choices": [
-        "QUJ",
-        "QDM",
-        "QNH",
-        "QDR",
-        "QTE",
-        "QFE"
-      ],
-      "answer": [
-        "QNH",
-        "QFE"
-      ]
-    },
-    {
-      "question": "Callsigns may be abbreviated __________ provided that it has first been abbreviated by the ground station.",
-      "choices": [
-        "by ATC and the aircraft.",
-        "by ATC only.",
-        "by the aircraft only."
-      ],
-      "answer": "by ATC and the aircraft."
-    },
-    {
-      "question": "Aerodromes have one of 3 categories of communications service: __________ : Provided by a licensed ATC officer. __________ : A lower level of service provided by a licensed Flight Information Service Officer. __________ : Provided by a radio licence holder but otherwise unregulated.",
-      "choices": [
-        "Flight Information ; Air Traffic Control ; Air-Ground Communications.",
-        "Air-Ground Communications ; Air Traffic Control ; Flight Information.",
-        "Air Traffic Control ; Flight Information ; Air-Ground Communications.",
-        "Air Traffic Control ; Air-Ground Communications ; Flight Information."
-      ],
-      "answer": "Air Traffic Control ; Flight Information ; Air-Ground Communications."
-    },
-    {
-      "question": "The ATS term for a group of radiotelephony aeronautical stations is:",
-      "choices": [
-        "Blind transmission.",
-        "Radiotelephony network.",
-        "Ground-to-air communication.",
-        "Non-network communications."
-      ],
-      "answer": "Radiotelephony network."
-    },
-    {
-      "question": "The minimum separation between useable frequencies in the air band is:",
-      "choices": [
-        "8.33 MHz.",
-        "8.33 GHz.",
-        "8.33 kHz.",
-        "8.33 Hz."
-      ],
-      "answer": "8.33 kHz."
-    },
-    {
-      "question": "Shortly after the initial contact the following transmission is heard on 118.550 MHz, the Lille Tower frequency: 'Mayday, Mayday, Mayday, Lille Tower, F-GTPO, complete engine failure, attempting a forced landing on a grass strip parallel to runway 20, currently right hand downwind for runway 20, 1000 ft.' Is the transmission following the standards for declaring an emergency?",
-      "choices": [
-        "No, even if the necessary elements are transmitted in the specified order, emergency transmissions shall be made on 121.500 MHz.",
-        "Yes ,the necessary elements are transmitted in the specified order and on the frequency in use at the time.",
-        "No, even if the transmission is made on the frequency in use at the time, the position report shall be placed just after the call sign of the aircraft transmitting, if possible.",
-        "No, emergency transmissions shall always be made on 121.500 MHz, and the position report shall be placed just after the call sign of the aircraft transmitting, if possible."
-      ],
-      "answer": "Yes ,the necessary elements are transmitted in the specified order and on the frequency in use at the time."
-    },
-    {
-      "question": "Helicopter Taxiing. How does a helicopter request clearance?",
-      "choices": [
-        "Request lift and hover.",
-        "Request taxi.",
-        "Request lift.",
-        "Request hover."
-      ],
-      "answer": "Request lift."
-    },
-    {
-      "question": "What is the correct way of transmitting the number 118.1 to indicate a frequency ?",
-      "choices": [
-        "one eighteen one",
-        "one one eight point one",
-        "one one eight one",
-        "one one eight decimal one"
-      ],
-      "answer": "one one eight decimal one"
-    },
-    {
-      "question": "The ATS term for a procedure whereby the receiving station repeats a received message is:",
-      "choices": [
-        "Broadcast.",
-        "Readback.",
-        "Air-ground communication.",
-        "Simplex."
-      ],
-      "answer": "Readback."
-    },
-    {
-      "question": "An aircraft on a straight-in approach reports ‘long final’ at __________ nm and ‘final’ at __________ nm if not yet cleared to land.",
-      "choices": [
-        "6 ; 4",
-        "8 ; 4",
-        "4 ; 8",
-        "8 ; 6"
-      ],
-      "answer": "8 ; 4"
-    },
-    {
-      "question": "Which of the following are valid actions for a station receiving a distress message?",
-      "choices": [
-        "Any aircraft may declare an end to the distress condition.",
-        "Silence is imposed by the first aircraft to hear the call.",
-        "The ATSU renders all possible assistance.",
-        "The ATSU or distress aircraft may declare an end to the distress condition.",
-        "ATSU may impose silence.",
-        "Other aircraft remain quiet unless they need to relay the message or lend assistance when the ATSU hasn’t responded."
-      ],
-      "answer": [
-        "The ATSU renders all possible assistance.",
-        "Other aircraft remain quiet unless they need to relay the message or lend assistance when the ATSU hasn’t responded.",
-        "ATSU may impose silence.",
-        "The ATSU or distress aircraft may declare an end to the distress condition."
-      ]
-    },
-    {
-      "question": "RADAR informs aircraft X-BC: \"X-BC identified\". What does this mean:",
-      "choices": [
-        "Radar identification has been achieved",
-        "X-BC is not visible on the radar screen",
-        "X-BC should operate the IDENT-button",
-        "X-BC should perform an identification turn"
-      ],
-      "answer": "Radar identification has been achieved"
-    },
-    {
-      "question": "Which of the following may be included in an aerodrome weather report: Mark all correct answers.",
-      "choices": [
-        "Identifying letter, (e.g. ‘Information Alpha’) which changes with each new set of information broadcast.",
-        "QNH in hectopascals.",
-        "The time at which the message was recorded.",
-        "Runway(s) in use.",
-        "Wind direction and speed in degrees and knots.",
-        "Trend information, such as increasing or reducing visibility.",
-        "Any other significant information such as winder reports, work in progress or bird warnings.",
-        "Visibility.",
-        "Cloud height in feet and the amount of coverage in eighths.",
-        "Temperature and dew point in °C."
-      ],
-      "answer": [
-        "The time at which the message was recorded.",
-        "Identifying letter, (e.g. ‘Information Alpha’) which changes with each new set of information broadcast.",
-        "Runway(s) in use.",
-        "Wind direction and speed in degrees and knots.",
-        "Visibility.",
-        "Cloud height in feet and the amount of coverage in eighths.",
-        "Temperature and dew point in °C.",
-        "QNH in hectopascals.",
-        "Trend information, such as increasing or reducing visibility.",
-        "Any other significant information such as winder reports, work in progress or bird warnings."
-      ]
-    },
-    {
-      "question": "The PiC __________ ignore or override Radar Control instructions when in his/her opinion, the safety of the aircraft is or will be compromised.",
-      "choices": [
-        "may not",
-        "may"
-      ],
-      "answer": "may"
-    },
-    {
-      "question": "The order of priority of the following messages in the aeronautical mobile service is:",
-      "choices": [
-        "Direction finding message, distress message, urgency message.",
-        "Distress message, urgency message, direction finding message.",
-        "Distress message, flight safety message, urgency message.",
-        "Meteorological message, direction finding message, flight regularity message."
-      ],
-      "answer": "Distress message, urgency message, direction finding message."
-    },
-    {
-      "question": "Because of overcast cloud, you are unable to climb above an altitude of 1000 feet over the sea, but you need to pass an urgent message to an aeronautical station by VHF. Assuming fuel is not a problem, there is no wind, and the signal has no attenuation factors, towards which of these stations should you fly to pass your message as soon as possible? A station:",
-      "choices": [
-        "120 NM away whose antenna is at an elevation of 200 feet AMSL.",
-        "110 NM away whose antenna is at an elevation of 30 feet AMSL.",
-        "140 NM away whose antenna is at an elevation of 800 feet AMSL.",
-        "130 NM away whose antenna is at an elevation of 550 feet AMSL."
-      ],
-      "answer": "130 NM away whose antenna is at an elevation of 550 feet AMSL."
-    },
-    {
-      "question": "The abbreviation SELCAL stands for: __________. This is a system allowing an ATSU to get the attention of a crew who may not be continuously monitoring comms on frequency.",
-      "choices": [
-        "single calling",
-        "special calling",
-        "seldom calling",
-        "selective calling"
-      ],
-      "answer": "selective calling"
-    },
-    {
-      "question": "If, during a VFR flight, you want to cross an airway:",
-      "choices": [
-        "Advise the appropriate ATSU at some point before entering the airway crossing point.",
-        "Transmit: 'Request airways crossing service for [name of airway]'.",
-        "Transmit 'Request clearance to cross [name of airway] at [position of crossing].",
-        "You must switch to IFR flight because you cannot cross an airway under VFR."
-      ],
-      "answer": "Transmit 'Request clearance to cross [name of airway] at [position of crossing]."
-    },
-    {
-      "question": "Extended ranges can sometimes be experienced by VHF communications as a result of:",
-      "choices": [
-        "Super refraction.",
-        "Surface wave propagation.",
-        "Ionospheric ducting.",
-        "Sub-refraction."
-      ],
-      "answer": "Super refraction."
-    },
-    {
-      "question": "If you are unable to accept an ATC instruction because it conflicts with a TCAS resolution advisory, you must:",
-      "choices": [
-        "Accept the ATC instruction, when in controlled airspace.",
-        "Tell ATC about the conflict and await further instructions.",
-        "Tell ATC about the conflict.",
-        "Decide whether its safer to follow the RA or ATC instruction."
-      ],
-      "answer": "Tell ATC about the conflict."
-    },
-    {
-      "question": "Propagation of the radio waves is influenced by different factors in the atmosphere. What will increase attenuation of radio waves?",
-      "choices": [
-        "High air density and low wavelength.",
-        "High air density and high wavelength.",
-        "Low air density and high wavelength.",
-        "Low air density and low wavelength."
-      ],
-      "answer": "High air density and low wavelength."
-    },
-    {
-      "question": "The following are VHF radio communication frequencies that are used in aviation:",
-      "choices": [
-        "108.833 MHz, 110.250 MHz, and 243.00 MHz.",
-        "108.000 MHz, 117.975 MHz, and 136.992 MHz.",
-        "112. 775 MHz, 116.358 MHz, and 121.500 MHz.",
-        "119.900 MHz, 135.692 MHz, and 123.450 MHz."
-      ],
-      "answer": "119.900 MHz, 135.692 MHz, and 123.450 MHz."
-    },
-    {
-      "question": "Which of the following require readback: Mark all correct answers.",
-      "choices": [
-        "Airways crossing clearance.",
-        "Radar vectors.",
-        "Cancelling an IFR flight.",
-        "Radar control service.",
-        "Level instructions.",
-        "Change to en-route reported visibility."
-      ],
-      "answer": [
-        "Radar control service.",
-        "Radar vectors.",
-        "Level instructions.",
-        "Airways crossing clearance."
-      ]
-    },
-    {
-      "question": "If you experience communications failure in the visual circuit, __________ the circuit to land, observing and obeying __________ signals from ATC.",
-      "choices": [
-        "stop ; light.",
-        "stop ; sound.",
-        "continue ; sound.",
-        "continue ; light."
-      ],
-      "answer": "continue ; light."
-    },
-    {
-      "question": "What type of signal is used for aeronautical radio communication?",
-      "choices": [
-        "Amplitude modulation and UHF.",
-        "Amplitude modulation and VHF.",
-        "Frequency modulation and VHF.",
-        "Frequency modulation and UHF."
-      ],
-      "answer": "Amplitude modulation and VHF."
-    },
-    {
-      "question": "An aircraft is flying at a cruise altitude of 9000 ft and at a distance of about 100 nm from its destination the pilot wants to listen to the ATIS. The message is very distorted and only parts of it can be received. What should the pilot do in order to have better reception?",
-      "choices": [
-        "Increase the volume of his/her headset.",
-        "Increase the volume of the receiver.",
-        "Fly at a higher altitude to increase the range of the reception.",
-        "Select the frequency of APPROACH because they are responsible for the higher airspace."
-      ],
-      "answer": "Fly at a higher altitude to increase the range of the reception."
-    },
-    {
-      "question": "Even if there is no control zone or approach control, you must always make RT contact with the aerodrome's ATSU __________.",
-      "choices": [
-        "before entering the CTZ",
-        "ATZ"
-      ],
-      "answer": "ATZ"
-    },
-    {
-      "question": "To which frequency band belongs frequency 118.1 MHz?",
-      "choices": [
-        "UHF",
-        "MF",
-        "VHF",
-        "HF"
-      ],
-      "answer": "VHF"
-    },
-    {
-      "question": "Which one of the following factors affects VHF radio waves propagation the most?",
-      "choices": [
-        "Precipitation and other meteorological phenomenon.",
-        "Terrain.",
-        "The spherical shape of the Earth.",
-        "Atmosphere"
-      ],
-      "answer": "Terrain."
-    },
-    {
-      "question": "At a busy IFR aerodrome, your departure clearance is usually passed to you by a ground station with the suffix __________.",
-      "choices": [
-        "Tower",
-        "Departure",
-        "Ground",
-        "Delivery"
-      ],
-      "answer": "Delivery"
-    },
-    {
-      "question": "TCAS is an on-board system which uses transponder information to alert the crew to __________ traffic and to potentially conflicting or actually conflicting traffic.",
-      "choices": [
-        "all",
-        "proximate"
-      ],
-      "answer": "proximate"
-    },
-    {
-      "question": "The format and sequence of an Urgency message, and the ensuing procedures, are the same as for a Distress message and Distress procedures.",
-      "choices": [
-        "True",
-        "False"
-      ],
-      "answer": "True"
-    },
-    {
-      "question": "The radio frequency spectrum is divided into various bands. What is the range of frequencies that corresponds to the Very High Frequency (VHF) band?",
-      "choices": [
-        "300 kHz to 3000 kHz",
-        "300 MHz to 3000 MHz",
-        "3 MHz to 30 MHz",
-        "30 MHz to 300 MHz"
-      ],
-      "answer": "30 MHz to 300 MHz"
-    },
-    {
-      "question": "If you are making a VFR arrival to an airport with a control zone, you must contact the approach control and request clearance and joining instructions __________ entering the zone.",
-      "choices": [
-        "before",
-        "as you are",
-        "as soon as possible after"
-      ],
-      "answer": "before"
-    },
-    {
-      "question": "A condition of being threatened by serious and/or imminent danger and of requiring immediate assistance is a description of:",
-      "choices": [
-        "urgency",
-        "distress",
-        "disaster",
-        "emergency"
-      ],
-      "answer": "distress"
-    },
-    {
-      "question": "If you are required to hold before making your approach you should be given an expected approach time (EAT). The EAT is the time at which you__________.",
-      "choices": [
-        "must be cleared by ATC before you make the approach.",
-        "should start your approach in the event of lost comms."
-      ],
-      "answer": "should start your approach in the event of lost comms."
-    },
-    {
-      "question": "Which factor reduces the effective range of ground-to-air VHF transmissions?",
-      "choices": [
-        "Duct propagation, also called super-refraction.",
-        "Increasing the aircrafts altitude.",
-        "Raising the height of the ground transmitter aerial.",
-        "High terrain interrupting the line of sight."
-      ],
-      "answer": "High terrain interrupting the line of sight."
-    },
-    {
-      "question": "Distress messages take priority over Urgency messages.",
-      "choices": [
-        "True",
-        "False"
-      ],
-      "answer": "True"
-    },
-    {
-      "question": "If you are requested to \"Report flight conditions\", what does that mean:",
-      "choices": [
-        "Indicate whether you are flying in IMC or in VMC",
-        "Indicate whether you are flying IFR or VFR",
-        "Indicate weather conditions as wind, visibility, temperature",
-        "Indicate if visibility is sufficient for landing"
-      ],
-      "answer": "Indicate whether you are flying in IMC or in VMC"
-    },
-    {
-      "question": "If the departure controller is sure that no traffic or terrain conflicts exist s/he may shorten the departure routing by giving what instruction?",
-      "choices": [
-        "Directly.",
-        "Direct to.",
-        "As requested.",
-        "Straight."
-      ],
-      "answer": "Direct to."
-    },
-    {
-      "question": "The format and sequence of an Urgency message, and the ensuing procedures, are not the same as for a Distress message and Distress procedures.",
-      "choices": [
-        "True",
-        "False"
-      ],
-      "answer": "False"
-    },
-    {
-      "question": "Which information can aircraft in flight obtain by VOLMET:",
-      "choices": [
-        "Aviation routine weather reports (METAR) of specific airports",
-        "Runway reports",
-        "SPECI and TAF",
-        "SIGMET"
-      ],
-      "answer": "Aviation routine weather reports (METAR) of specific airports"
-    },
-    {
-      "question": "The first step in the CPDLC process is the:",
-      "choices": [
-        "Boot.",
-        "Start.",
-        "Logon.",
-        "Handshake."
-      ],
-      "answer": "Logon."
-    },
-    {
-      "question": "A signal sent by radiotelephony consisting of the spoken word MAYDAY MAYDAY MAYDAY means:",
-      "choices": [
-        "The aircraft has a very urgent message to transmit concerning the safety of a ship, aircraft or vehicle",
-        "The aircraft is forced to perform a fuel dumping procedure",
-        "The aircraft has a message to transmit concerning adverse weather conditions along its route of flight",
-        "Imminent danger threatens the aircraft and immediate assistance is required"
-      ],
-      "answer": "Imminent danger threatens the aircraft and immediate assistance is required"
-    },
-    {
-      "question": "If you experience comms failure in VMC:",
-      "choices": [
-        "Land as planned at your destination aerodrome.",
-        "Land at the nearest suitable aerodrome.",
-        "Report your arrival to the appropriate ATSU as soon as possible after landing.",
-        "Continue your flight in VMC.",
-        "Report your comms failure to the appropriate ATSU as soon as possible after landing."
-      ],
-      "answer": [
-        "Continue your flight in VMC.",
-        "Land at the nearest suitable aerodrome.",
-        "Report your arrival to the appropriate ATSU as soon as possible after landing."
-      ]
-    },
-    {
-      "question": "Which of the following is the correct RT response to a SELCAL chime?",
-      "choices": [
-        "State your call sign and flight level.",
-        "Radio silence, pending ATSU message.",
-        "State your call sign and \"Go ahead\".",
-        "State your call sign."
-      ],
-      "answer": "State your call sign and \"Go ahead\"."
-    },
-    {
-      "question": "Aircraft in flight may receive weather information from several sources. Which of the following is correct?",
-      "choices": [
-        "VOLMET broadcasts recent METAR and SPECI reports for a group of aerodromes.",
-        "Any thunderstorms seen by another aircraft in flight will be subject to a special report.",
-        "ATIS broadcasts the TAF and METAR for the aerodrome which transmits it.",
-        "An ATS unit cannot provide aerodrome forecasts as part of a Flight Information Service."
-      ],
-      "answer": "VOLMET broadcasts recent METAR and SPECI reports for a group of aerodromes."
-    },
-    {
-      "question": "When shall an aircraft in the heavy-wake-turbulence category include the word \"Heavy\" immediately after its call sign e.g. Fastair 345 Heavy:",
-      "choices": [
-        "Never",
-        "In the initial call to the aerodrome control tower and the approach control unit",
-        "In all calls to the aerodrome tower and the approach control unit",
-        "In all calls"
-      ],
-      "answer": "In the initial call to the aerodrome control tower and the approach control unit"
-    },
-    {
-      "question": "Which statement is true with regard to the frequency band used for aviation communication? Choose the best statement:",
-      "choices": [
-        "To the two bands immediately above MF, expressed in MHz.",
-        "To the two bands immediately below SHF, expressed in MHz.",
-        "To the two bands immediately below UHF, expressed in kHz.",
-        "To the two bands immediately below SHF, expressed in kHz."
-      ],
-      "answer": "To the two bands immediately above MF, expressed in MHz."
-    },
-    {
-      "question": "SELCAL is used during the __________ phase.",
-      "choices": [
-        "departure",
-        "en-route",
-        "arrival",
-        "approach"
-      ],
-      "answer": "en-route"
-    },
+    }, 
     {
       "question": "The dividing line between the upper and lower flows is known as the __________ .",
       "choices": [
@@ -44769,20 +44361,6 @@
         "compressibility line"
       ],
       "answer": "stagnation line"
-    },
-    {
-      "question": "In 2D flow, the 2 physical phenomena which create drag are:",
-      "choices": [
-        "Induced drag.",
-        "Inference drag.",
-        "Skin friction drag.",
-        "Momentum drag.",
-        "Form drag."
-      ],
-      "answer": [
-        "Form drag.",
-        "Skin friction drag."
-      ]
     },
     {
       "question": "An aircraft with a mass of 2050 lb exerts how much weight?",
@@ -44971,18 +44549,6 @@
       "answer": "Compared with a laminar boundary layer, a turbulent boundary layer is better able to resist a positive pressure gradient before it separates."
     },
     {
-      "question": "Mark all correct answers: 2-dimensional airflow:",
-      "choices": [
-        "Takes no account of lateral flow.",
-        "Takes account of tip vortices.",
-        "Is useful for visualising airflow over an aerofoil."
-      ],
-      "answer": [
-        "Takes no account of lateral flow.",
-        "Is useful for visualising airflow over an aerofoil."
-      ]
-    },
-    {
       "question": "The actual speed that the aircraft is moving through the air is called _____.",
       "choices": [
         "CAS",
@@ -45134,16 +44700,6 @@
       "answer": "power."
     },
     {
-      "question": "A Diamond DA-42 is gliding at 80 kt. Its current altitude is 5000 ft where the density today is 0.9 kg/m³. Its wing area is 16.5m². At glide speed, the CD is 0.02. Calculate the drag produced by the wings.",
-      "choices": [
-        "Approximately 200 newtons",
-        "Approximately 350 newtons",
-        "Approximately 250 newtons",
-        "Approximately 300 newtons"
-      ],
-      "answer": "Approximately 250 newtons"
-    },
-    {
       "question": "Wake turbulence is caused by tip vortices. The vortices migrate __________ and eventually stabilise at a vertical distance of about __________ ft from the aircraft.",
       "choices": [
         "upwards; 900.",
@@ -45203,19 +44759,6 @@
       "answer": "planform"
     },
     {
-      "question": "In these plots of spanwise lift distribution. Mark 2 correct answers.",
-      "choices": [
-        "The green curve shows the lift distribution of a tapered rectangular, tapered wing.",
-        "The red curve shows the lift distribution of a rectangular wing",
-        "The green curve shows an elliptical CL distribution.",
-        "The red curve shows the CL distribution of a swept, tapered wing."
-      ],
-      "answer": [
-        "The red curve shows the CL distribution of a swept, tapered wing.",
-        "The green curve shows an elliptical CL distribution."
-      ]
-    },
-    {
       "question": "A general purpose aerofoil is most efficient (best L/D ratio) at about __________ alpha.",
       "choices": [
         "4°",
@@ -45270,14 +44813,6 @@
       "answer": "increase."
     },
     {
-      "question": "The angle shaded in blue in this diagram is the:",
-      "choices": [
-        "Angle of attack.",
-        "Angle of incidence."
-      ],
-      "answer": "Angle of incidence."
-    },
-    {
       "question": "Parasite drag increases with __________.",
       "choices": [
         "V²",
@@ -45293,21 +44828,6 @@
         "Shear"
       ],
       "answer": "Shear"
-    },
-    {
-      "question": "Which of the following are valid measures to reduce induced drag: Mark 3 correct answers.",
-      "choices": [
-        "High aspect ratio",
-        "Low aspect ratio",
-        "Wing twist",
-        "Winglets",
-        "Increasing camber towards the wing tips"
-      ],
-      "answer": [
-        "Wing twist",
-        "High aspect ratio",
-        "Winglets"
-      ]
     },
     {
       "question": "The angle of incidence __________. The angle of attack __________.",
@@ -45418,21 +44938,6 @@
       "answer": "Biasing the spanwise lift distribution to maximise lift inboard reduces drag."
     },
     {
-      "question": "Which of the following statements is/are correct?",
-      "choices": [
-        "Induced drag increases with aircraft mass.",
-        "Induced drag is caused by vortices with occur only when lift is being created.",
-        "Induced drag increases when the aircraft is manoeuvred at positive g.",
-        "Induced drag is caused by tip vortices which occur at any positive forward speed.",
-        "Induced drag increases with speed in level flight."
-      ],
-      "answer": [
-        "Induced drag increases when the aircraft is manoeuvred at positive g.",
-        "Induced drag increases with aircraft mass.",
-        "Induced drag is caused by vortices with occur only when lift is being created."
-      ]
-    },
-    {
       "question": "CDI is __________ proportional to aspect ratio and __________ proportional to the CL ².",
       "choices": [
         "directly; inversely.",
@@ -45461,22 +44966,6 @@
         "is horizontal."
       ],
       "answer": "is horizontal."
-    },
-    {
-      "question": "Which of the following statements about directional stability are correct? Mark all correct answers.",
-      "choices": [
-        "Directional stability increases slightly with fin sweepback.",
-        "Fuselage pitch angle has little effect on directional stability.",
-        "A straight wing has a very small effect on directional stability.",
-        "For an aircraft with an aft CG, the fuselage becomes destabilising at large β angles",
-        "Static directional stability increases with sweepback angle."
-      ],
-      "answer": [
-        "Static directional stability increases with sweepback angle.",
-        "A straight wing has a very small effect on directional stability.",
-        "Fuselage pitch angle has little effect on directional stability.",
-        "For an aircraft with an aft CG, the fuselage becomes destabilising at large β angles"
-      ]
     },
     {
       "question": "Longitudinal stability __________ with altitude.",
@@ -45641,21 +45130,6 @@
       "answer": "forward; nose-down."
     },
     {
-      "question": "Which of the following statements about longitudinal stability are correct? Mark all correct answers.",
-      "choices": [
-        "The manufacturer's forward CG limit ensures an arm that is long enough to produce a sufficiently strong restoring moment, but not so large that longitudinal stability becomes excessively strong.",
-        "A forward CG increases static stability.",
-        "The difference between the aft CG limit and the neutral point is the static margin.",
-        "The CG position has a strong influence on longitudinal static stability, because its position determines the length of the arm between it and the AC."
-      ],
-      "answer": [
-        "The manufacturer's forward CG limit ensures an arm that is long enough to produce a sufficiently strong restoring moment, but not so large that longitudinal stability becomes excessively strong.",
-        "The CG position has a strong influence on longitudinal static stability, because its position determines the length of the arm between it and the AC.",
-        "The difference between the aft CG limit and the neutral point is the static margin.",
-        "A forward CG increases static stability."
-      ]
-    },
-    {
       "question": "Under normal conditions, in straight, level and unaccelerated flight, the horizontal stabiliser produces __________ pitching moment.",
       "choices": [
         "no.",
@@ -45815,16 +45289,6 @@
       "answer": "reduce stall speed, increase CL MAX with minimum increase in drag for take-off, but with a relatively high drag for approach and landing."
     },
     {
-      "question": "The pilot of a light aeroplane is flying at a speed below the normal cruising speed, in a gentle turn to allow a passenger to look at something interesting on the ground. Which of the following might occur to warn the pilot that the aircraft is approaching the stall?",
-      "choices": [
-        "1 and 3",
-        "2 and 4",
-        "3 and 4",
-        "2 and 3"
-      ],
-      "answer": "3 and 4"
-    },
-    {
       "question": "High-wing designs are __________ prone to ground effect.",
       "choices": [
         "always",
@@ -45842,32 +45306,6 @@
         "straight"
       ],
       "answer": "straight"
-    },
-    {
-      "question": "If a THS runaway is detected by the crew, the 2 most important immediate actions are:",
-      "choices": [
-        "To decrease airspeed to increase the effectiveness of the THS.",
-        "To counter the pitching moments and hold the aircraft in a sensible attitude.",
-        "To electrically isolate the THS as soon as possible to prevent it from reaching full deflection.",
-        "To increase airspeed to give more effectiveness to the elevator."
-      ],
-      "answer": [
-        "To counter the pitching moments and hold the aircraft in a sensible attitude.",
-        "To electrically isolate the THS as soon as possible to prevent it from reaching full deflection."
-      ]
-    },
-    {
-      "question": "Which 2 of the following statements about turning is/are correct?",
-      "choices": [
-        "Speeds limits are imposed on instrument procedures to keep the aircraft within the procedure's protected airspace.",
-        "Safe separation from terrain cannot be guaranteed if an aircraft flies at less than the designated speed limit for the procedure.",
-        "Speed limits are imposed on instrument procedures to limit the aircraft's radius of turn.",
-        "Speed limits are imposed on instrument procedures to limit the aircraft's rate of turn."
-      ],
-      "answer": [
-        "Speed limits are imposed on instrument procedures to limit the aircraft's radius of turn.",
-        "Speeds limits are imposed on instrument procedures to keep the aircraft within the procedure's protected airspace."
-      ]
     },
     {
       "question": "__________ is the speed, below which, an aircraft stalls in level, unaccelerated, flight.",
@@ -45914,29 +45352,6 @@
       "answer": "a lower angle of attack."
     },
     {
-      "question": "Study the diagram carefully, then identify the correct statement.",
-      "choices": [
-        "The aircraft is in trim but not in equilibrium.",
-        "The aircraft is in equilibrium and, therefore, in trim.",
-        "The aircraft is not in equilibrium.",
-        "The aircraft is in equilibrium and may or may not be in trim."
-      ],
-      "answer": "The aircraft is in equilibrium and may or may not be in trim."
-    },
-    {
-      "question": "Which 2 of the following statements about the use of rudder in the turn is/are correct?",
-      "choices": [
-        "Using rudder to tighten the turn reduces the turn rate.",
-        "Using rudder to accelerate the rate of roll into a turn is a valid technique on CAT aircraft.",
-        "Using rudder to tighten the turn on finals is ineffective and dangerous.",
-        "Use of rudder to accelerate the roll into the turn can result in excessive loads on the fin."
-      ],
-      "answer": [
-        "Use of rudder to accelerate the roll into the turn can result in excessive loads on the fin.",
-        "Using rudder to tighten the turn on finals is ineffective and dangerous."
-      ]
-    },
-    {
       "question": "The primary cause of ground effect is:",
       "choices": [
         "The changing direction of the relative airflow.",
@@ -45947,20 +45362,6 @@
       "answer": "The blocking by the ground of the circulation of the tip vortices."
     },
     {
-      "question": "Which of the following statements is/are correct? Mark all correct answers.",
-      "choices": [
-        "The angle of attack of a THS is primarily controlled by an electrical trim jack.",
-        "The trimmable horizontal stabiliser (THS) uses a conventional elevator for pitch control.",
-        "The angle of attack of an all-flying stabilator is controlled by the pilot's control column.",
-        "The only function of the trim jack on a THS is to change the angle of incidence of the THS, (this may also change the angle of attack)."
-      ],
-      "answer": [
-        "The angle of attack of an all-flying stabilator is controlled by the pilot's control column.",
-        "The trimmable horizontal stabiliser (THS) uses a conventional elevator for pitch control.",
-        "The only function of the trim jack on a THS is to change the angle of incidence of the THS, (this may also change the angle of attack)."
-      ]
-    },
-    {
       "question": "A __________ tab moves in the opposite direction from the control surface, thus assisting its movement and so reducing the loads felt at the control column.",
       "choices": [
         "balance",
@@ -45969,20 +45370,6 @@
         "spring"
       ],
       "answer": "balance"
-    },
-    {
-      "question": "The stall is recognised by continuous stall warning plus at least 1 of the following: Mark all correct answers.",
-      "choices": [
-        "Uncommanded pitch down and uncommanded roll.",
-        "Lack of pitch authority.",
-        "Low speed.",
-        "Inability to arrest the rate of descent."
-      ],
-      "answer": [
-        "Inability to arrest the rate of descent.",
-        "Lack of pitch authority.",
-        "Uncommanded pitch down and uncommanded roll."
-      ]
     },
     {
       "question": "The forces perpendicular to the climb are: components of weight and components of __________.",
@@ -46011,20 +45398,6 @@
       "answer": "differential"
     },
     {
-      "question": "Which of the following statements about roll control is/are correct? Mark all correct answers.",
-      "choices": [
-        "The secondary effect of roll is yaw.",
-        "The purpose of aileron droop is to increase CL MAX at high speed.",
-        "On some CAT aircraft the outboard ailerons are not used for roll control at high speed.",
-        "The purpose of the mixer unit is to automatically generate a small rudder movement when the ailerons are moved."
-      ],
-      "answer": [
-        "On some CAT aircraft the outboard ailerons are not used for roll control at high speed.",
-        "The purpose of the mixer unit is to automatically generate a small rudder movement when the ailerons are moved.",
-        "The secondary effect of roll is yaw."
-      ]
-    },
-    {
       "question": "__________ mechanically reenergise the boundary layer to improve CL MAX and increase the critical angle.",
       "choices": [
         "Wing fences",
@@ -46042,30 +45415,6 @@
         "The aircraft will roll to the side where the flaps are extended and yaw to the same direction of the roll."
       ],
       "answer": "The aircraft will roll to the side where the flaps are not extended and yaw to the direction of the wing with extended flaps."
-    },
-    {
-      "question": "This system is known as a:",
-      "choices": [
-        "Internal balance.",
-        "Spring tab.",
-        "Balance tab.",
-        "Servo tab."
-      ],
-      "answer": "Balance tab."
-    },
-    {
-      "question": "The purpose of engine nacelle strakes is to: Mark all correct answers.",
-      "choices": [
-        "Delay the onset of flow separation in the area of the wing behind the nacelle.",
-        "Create a vortex at high alpha which re-energises the boundary layer.",
-        "Locally reduce the upwash at the wing leading edge.",
-        "Ensure stable intake conditions at high alpha."
-      ],
-      "answer": [
-        "Delay the onset of flow separation in the area of the wing behind the nacelle.",
-        "Create a vortex at high alpha which re-energises the boundary layer.",
-        "Locally reduce the upwash at the wing leading edge."
-      ]
     },
     {
       "question": "At high angles of attack the aircraft may roll in the opposite direction from the one commanded by aileron input.",
@@ -46123,16 +45472,6 @@
         "delay flow separation."
       ],
       "answer": "delay flow separation."
-    },
-    {
-      "question": "Study the scenario shown in this diagram. Then choose the action most likely to immediately improve the situation.",
-      "choices": [
-        "Extend flap.",
-        "Reduce thrust.",
-        "Reduce speed.",
-        "Increase speed."
-      ],
-      "answer": "Reduce thrust."
     },
     {
       "question": "As you approach the 1g stall, the flight controls become __________ effective. The aircraft responds slowly and sluggishly to your commands. __________ flight controls feel light (easier to operate) as you approach the stall",
@@ -46220,11 +45559,11 @@
       "answer": "Aerodrome at low density altitude, critical engine failure at the point of go-around."
     },
     {
-      "question": "You should not intentionally fly close to VNE/VM O:",
+      "question": "You should not intentionally fly close to VNE/VMO:",
       "choices": [
         "Because this increases the risk of inadvertently exceeding the limit in a slight descent or turbulence.",
         "Because of the risk of a high speed stall.",
-        "Because VNE/VM O changes with decreasing aircraft mass.",
+        "Because VNE/VMO changes with decreasing aircraft mass.",
         "Because this speed is very close to coffin corner."
       ],
       "answer": "Because this increases the risk of inadvertently exceeding the limit in a slight descent or turbulence."
@@ -46258,21 +45597,6 @@
         "Only a THS allows the crew to detect the onset of Mach buffet."
       ],
       "answer": "The elevator may become ineffective if a shock wave forms ahead of the hinge, causing the airflow to separate."
-    },
-    {
-      "question": "Which 3 of the following statements is/are correct:",
-      "choices": [
-        "A fixed pitch propeller preserves propeller efficiency over a wide range of airspeeds.",
-        "The adjustable pitch propeller allows the blade pitch angle to be manually adjusted by the pilot using a pitch control lever.",
-        "On a fixed pitch propeller, there is only one TAS at which the blade angle of attack is optimum.",
-        "The blade pitch angle of a constant speed propeller is mechanically controlled by a governor to keep the propeller blades at their optimum angle of attack over a wide airspeed range.",
-        "On a constant speed propeller, the blade angle of attack is preserved at its optimum (across a wide range of TAS) by altering the blade twist."
-      ],
-      "answer": [
-        "The adjustable pitch propeller allows the blade pitch angle to be manually adjusted by the pilot using a pitch control lever.",
-        "The blade pitch angle of a constant speed propeller is mechanically controlled by a governor to keep the propeller blades at their optimum angle of attack over a wide airspeed range.",
-        "On a fixed pitch propeller, there is only one TAS at which the blade angle of attack is optimum."
-      ]
     },
     {
       "question": "An engine failure can result in a windmilling (1) propeller and a feathered (2) propeller. Which statement about propeller drag is correct?",
@@ -46315,18 +45639,6 @@
       "answer": "a bob weight in the control system which pulls the stick forwards."
     },
     {
-      "question": "__________ wings:",
-      "choices": [
-        "Significantly increase the margin between MCRIT and MDRAG DIVERGENCE.",
-        "Can be made much stronger than any other type of wing.",
-        "Have good lift characteristics right up to the critical angle because of their round leading edges.",
-        "Supercritical",
-        "Thin",
-        "Swept"
-      ],
-      "answer": "Supercritical"
-    },
-    {
       "question": "__________ power setting at __________ air density produces the greatest yawing moment.",
       "choices": [
         "High; low.",
@@ -46362,24 +45674,6 @@
         "Viscous"
       ],
       "answer": "Momentum"
-    },
-    {
-      "question": "The buffet margin reduces if: Mark all correct answers.",
-      "choices": [
-        "Load factor increases.",
-        "Mass reduces.",
-        "Pressure altitude increases.",
-        "Angle of bank increases.",
-        "*CG moves fwd.",
-        "Alpha increases."
-      ],
-      "answer": [
-        "Alpha increases.",
-        "Pressure altitude increases.",
-        "Load factor increases.",
-        "Angle of bank increases.",
-        "*CG moves fwd."
-      ]
     },
     {
       "question": "A thin covering of frost on the aircraft's critical surfaces __________ aerodynamic performance.",
@@ -46422,42 +45716,12 @@
       "answer": "Yaw left."
     },
     {
-      "question": "Which of the following statements is/are correct? Mark all correct answers.",
-      "choices": [
-        "The propeller diameter must be restricted to ensure that tip velocity doesn’t become transonic or supersonic.",
-        "Increasing the number of blades increases solidity but the maximum number of blades is limited by the need to preserve the aerodynamic performance of individual blades.",
-        "Compressibility effects at high tip speeds reduce the efficiency of the propeller.",
-        "The principal cause of high propeller noise is high propeller tip speeds.",
-        "The propeller diameter must be restricted to ensure adequate ground clearance."
-      ],
-      "answer": [
-        "The propeller diameter must be restricted to ensure that tip velocity doesn’t become transonic or supersonic.",
-        "The propeller diameter must be restricted to ensure adequate ground clearance.",
-        "Increasing the number of blades increases solidity but the maximum number of blades is limited by the need to preserve the aerodynamic performance of individual blades.",
-        "The principal cause of high propeller noise is high propeller tip speeds.",
-        "Compressibility effects at high tip speeds reduce the efficiency of the propeller."
-      ]
-    },
-    {
       "question": "On the ground, when parked overnight in cold conditions with visible moisture present, ice can accumulate __________.",
       "choices": [
         "on the leading edges and upper surfaces.",
         "anywhere on the airframe."
       ],
       "answer": "anywhere on the airframe."
-    },
-    {
-      "question": "These parameters are used for calculating __________:",
-      "choices": [
-        "Go-around power or thrust on the operating engine(s).",
-        "The most unfavourable CG position (aft CG - shortest arm).",
-        "The aircraft trimmed for the approach.",
-        "The most unfavourable weight.",
-        "In the most critical configuration for the approach and landing.",
-        "VMCA",
-        "VMCL"
-      ],
-      "answer": "VMCL"
     },
     {
       "question": "An aircraft has a right-hand propeller. The pilot pitches nose-down. Gyroscopic effects will cause the aircraft to:",
@@ -46750,22 +46014,6 @@
       "answer": "Risk of over rotation that can lead to a tail strike."
     },
     {
-      "question": "Which of the following are valid design techniques for increasing the maximum power absorption capacity of a propeller system? Mark all correct answers.",
-      "choices": [
-        "Increasing the blade chord of each blade.",
-        "Increasing the blade twist.",
-        "Adding additional propellers to the hub.",
-        "Increasing the length of the propeller blades.",
-        "Increasing the number of propeller blades."
-      ],
-      "answer": [
-        "Increasing the length of the propeller blades.",
-        "Increasing the number of propeller blades.",
-        "Adding additional propellers to the hub.",
-        "Increasing the blade chord of each blade."
-      ]
-    },
-    {
       "question": "Comparing the power output from the propeller with the power input by the engine gives a measure of propeller __________.",
       "choices": [
         "pitch.",
@@ -46802,22 +46050,6 @@
       "answer": "CAS or IAS"
     },
     {
-      "question": "At D both aircraft are drawn to scale. No engine failure on the RJ100 produces as much yawing moment as failure of Engine Number 2 on the A380. Which of the following are correct?",
-      "choices": [
-        "Aircraft B has a greater yawing moment than Aircraft A because its live engine is developing more power.",
-        "Aircraft C has less yawing moment than Aircraft A and B.",
-        "Failure of Engine Number 1 on the A380 produces more yawing moment than failure of Engine Number 2.",
-        "At D both aircraft are drawn to scale.",
-        "No engine failure on the RJ100 produces as much yawing moment as failure of Engine Number 2 on the A380."
-      ],
-      "answer": [
-        "Aircraft B has a greater yawing moment than Aircraft A because its live engine is developing more power.",
-        "Aircraft C has less yawing moment than Aircraft A and B.",
-        "Failure of Engine Number 1 on the A380 produces more yawing moment than failure of Engine Number 2.",
-        "At D both aircraft are drawn to scale. No engine failure on the RJ100 produces as much yawing moment as failure of Engine Number 2 on the A380."
-      ]
-    },
-    {
       "question": "What are the propeller effects which may be experienced on take-off?",
       "choices": [
         "Slipstream, torque, and gyroscopic effect.",
@@ -46837,6 +46069,16 @@
       ],
       "answer": "holdover; reduce."
     },
+    {
+      "question": "Flying an aircraft with a joystick, if a small displacement of the joystick results in a large change in pitch/bank angle, the aeroplane is described as being:",
+      "choices": [
+        "nose heavy.",
+        "very stable and very manoeuvrable.",
+        "highly manoeuvrable.",
+        "very stable."
+      ],
+      "answer": "highly manoeuvrable."
+   },
     {
       "question": "If an aeroplane exhibits insufficient stick force per g, this problem can be resolved by installing:",
       "choices": [
@@ -46874,7 +46116,121 @@
         "limit load"
       ],
       "answer": "ultimate load"
-    },
+    },  
+  {
+    "question": "Which of the following statements about the 'banking method' is/are accurate?",
+    "choices": [
+      "The technique requires you to apply up to 5° of bank towards the live engine.",
+      "The technique uses a sideways component of the drag vector to counterbalance the yawing moment.",
+      "A 5° limit on bank angle is imposed because of the risk of stalling the aircraft.",
+      "Unlike the wings-level method, the banking method doesn't require the fin to generate a side force."
+    ],
+    "answer": "The technique requires you to apply up to 5° of bank towards the live engine."
+  },
+  {
+    "question": "A Mach trimmer automatically adjusts the incidence of the __________ to counter the pitch changes. It is a mandatory item for any aircraft designed to fly in, or close to, the transonic range. If it is unserviceable, or fails in flight, the Mach number must be restricted to well below MCRIT.",
+    "choices": [
+      "elevator.",
+      "fin.",
+      "horizontal stabiliser."
+    ],
+    "answer": "horizontal stabiliser."
+  },
+  {
+    "question": "Higher Mach numbers at altitude result in a higher slow-speed stall speed and a reduction in α CRIT:",
+    "choices": [
+      "Because of the onset of shock stall at MCRIT.",
+      "Because compressibility causes a shallower upwash at the leading edge.",
+      "Because compressibility causes steeper upwash at the leading edge.",
+      "Only after MCRIT has been exceeded."
+    ],
+    "answer": "Because compressibility causes steeper upwash at the leading edge."
+  },
+  {
+    "question": "Clear and rime ice accumulate most quickly below 250 KIAS, at lower altitudes in visible moisture when the temperature is between about __________°C and about __________°C and the airframe is at or below 0°C.",
+    "choices": [
+      "0; -5",
+      "0; -10",
+      "0; -20",
+      "10; -5"
+    ],
+    "answer": "0; -20"
+  },
+  {
+    "question": "VNO is the normal operating cruise speed and must not be greater than the lesser of VC and __________ of the value of VNE.",
+    "choices": [
+      "0.89",
+      "0.75",
+      "0.9",
+      "0.5"
+    ],
+    "answer": "0.89"
+  },
+  {
+    "question": "The total pressure behind a normal shock wave is __________ than the total pressure ahead of the shock wave.",
+    "choices": [
+      "always greater",
+      "unchanged",
+      "greater",
+      "less"
+    ],
+    "answer": "less"
+  },
+  {
+    "question": "Blade twist __________ the blade angle from hub to tip to keep the __________ constant across the length of the blade.",
+    "choices": [
+      "reduces; helix angle.",
+      "reduces; angle of attack.",
+      "increases; angle of attack.",
+      "reduces; rotational velocity."
+    ],
+    "answer": "reduces; angle of attack."
+  },
+  {
+    "question": "At high altitude VA may not be reached before __________ becomes limiting.",
+    "choices": [
+      "mach number",
+      "VMO",
+      "IAS"
+    ],
+    "answer": "mach number"
+  },
+  {
+    "question": "Clear and rime ice accumulate most quickly below __________ KIAS, at lower altitudes in visible moisture and the airframe is at or below 0°C.",
+    "choices": [
+      "250",
+      "200",
+      "350",
+      "300"
+    ],
+    "answer": "250"
+  },
+  {
+    "question": "__________ __________ is a phenomenon in which a nose-down pitching moment occurs, caused by the sudden decrease in the angle of attack of the horizontal stabiliser resulting from shock-induced separation occurring near the wing roots, which reduces downwash.",
+    "choices": [
+      "Mach tuck",
+      "Shock stall"
+    ],
+    "answer": "Mach tuck"
+  },
+  {
+    "question": "In the cruise, an aircraft's Mach number:",
+    "choices": [
+      "Reduces when flying into colder air because of the increase in the LSS.",
+      "Changes when the aircraft flies from cold to warm air because the LSS varies with temperature.",
+      "Reduces when flying into colder air because of the reduction in the LSS.",
+      "Stays the same when flying into colder or warmer air because the aircraft's TAS also changes proportionately."
+    ],
+    "answer": "Stays the same when flying into colder or warmer air because the aircraft's TAS also changes proportionately."
+  },
+  {
+    "question": "A tailplane stall triggered by ice contamination causes the aircraft to pitch __________.",
+    "choices": [
+      "nose-up.",
+      "nose-down."
+    ],
+    "answer": "nose-down."
+  },
     {
       "question": "Given an aeroplane in steady, straight and level flight at low speed and considering the effects of CG location and thrust, the highest value of wing lift occurs at:",
       "choices": [
@@ -46894,19 +46250,6 @@
         "rain ice"
       ],
       "answer": "hoar frost"
-    },
-    {
-      "question": "In a shock wave: Mark all correct answers.",
-      "choices": [
-        "Speed increases.",
-        "Density rises.",
-        "Density falls.",
-        "Temperature rises."
-      ],
-      "answer": [
-        "Density rises.",
-        "Temperature rises."
-      ]
     },
     {
       "question": "The advantage of cruising above __________ is that the aircraft can: Achieve a faster cruise speed for not much increase in drag. Attain better specific range. Achieve the optimum cruise altitude.",
@@ -46992,25 +46335,6 @@
       "answer": "aerodynamic ceiling"
     },
     {
-      "question": "Which of the following are valid conditions used when determining an aircraft's VMCA? Mark all correct answers.",
-      "choices": [
-        "Max thrust on the live engine.",
-        "Trimmed for take-off.",
-        "(Propeller a/c) feathered only if there is auto-feather, otherwise windmilling.",
-        "In ground effect.",
-        "More forward CG position.",
-        "Gear up and most critical configuration.",
-        "Max sea level AUM."
-      ],
-      "answer": [
-        "Max thrust on the live engine.",
-        "Trimmed for take-off.",
-        "Max sea level AUM.",
-        "Gear up and most critical configuration.",
-        "(Propeller a/c) feathered only if there is auto-feather, otherwise windmilling."
-      ]
-    },
-    {
       "question": "Mach number is a measure of the __________ of the air.",
       "choices": [
         "shockability.",
@@ -47068,29 +46392,6 @@
       "answer": "Third."
     },
     {
-      "question": "For a given airflow, what are the 3 main factors affecting the lift coefficient?",
-      "choices": [
-        "The thickness of the aerofoil section.",
-        "The surface area of the aerofoil.",
-        "The density of the air.",
-        "The speed of the air flow.",
-        "The camber of the aerofoil.",
-        "The angle of attack."
-      ],
-      "answer": "The angle of attack. || The thickness of the aerofoil section. || The camber of the aerofoil."
-    },
-    {
-      "question": "Select all correct statements about pitot systems:",
-      "choices": [
-        "The altimeter or air data unit adds static pressure to total pressure.",
-        "The open end of the pitot points into the airflow when the aircraft is moving forwards.",
-        "Dynamic pressure is used to determine air speed to be displayed on the ASI and/or PFD.",
-        "The pitot tube is always mounted vertically.",
-        "Dynamic pressure is directly proportional to IAS."
-      ],
-      "answer": "The open end of the pitot points into the airflow when the aircraft is moving forwards. || Dynamic pressure is used to determine air speed to be displayed on the ASI and/or PFD. || Dynamic pressure is directly proportional to IAS."
-    },
-    {
       "question": "The space between 2 adjacent streamlines is known as a _____ _____, and is useful in visualising changes in velocity and pressure.",
       "choices": [
         "stream tube",
@@ -47117,17 +46418,6 @@
         "Approximately 250 newtons"
       ],
       "answer": "Approximately 250 newtons"
-    },
-    {
-      "question": "In 2D flow, the 2 physical phenomena which create drag are:",
-      "choices": [
-        "Inference drag.",
-        "Form drag.",
-        "Skin friction drag.",
-        "Induced drag.",
-        "Momentum drag."
-      ],
-      "answer": "Form drag. || Skin friction drag."
     },
     {
       "question": "The pressure exerted in all directions by a volume of stationary air is called __________ pressure.",
@@ -47318,22 +46608,6 @@
       "answer": "coarse"
     },
     {
-      "question": "Which of the following statements about VA are correct? Mark all correct answers.",
-      "choices": [
-        "Simultaneously deflecting 2 or more control surfaces at VA may cause structural damage.",
-        "VA marks the speed below which there is some natural protection against overstressing the aeroplane.",
-        "Below VA the aeroplane may stall before the structure is overstressed.",
-        "If a single value for VA is given, it will be at the aeroplane’s maximum landing mass.",
-        "VA considers only one control surface deflection at a time."
-      ],
-      "answers": [
-        "VA marks the speed below which there is some natural protection against overstressing the aeroplane.",
-        "Below VA the aeroplane may stall before the structure is overstressed.",
-        "VA considers only one control surface deflection at a time.",
-        "Simultaneously deflecting 2 or more control surfaces at VA may cause structural damage."
-      ]
-    },
-    {
       "question": "The phenomenon whereby the aircraft tries to rotate in the opposite direction from the propeller is called '__________'. This can produce a __________ when on the ground during the take-off run. On light twin aircraft this effect can be reduced by using counter-rotating propellers.",
       "choices": [
         "p factor; roll",
@@ -47362,20 +46636,6 @@
         "If the yaw damper is inoperative, consider reducing speed and altitude."
       ],
       "answer": "If the yaw damper is inoperative, consider reducing speed and altitude."
-    },
-    {
-      "question": "Sweepback: Mark all correct answers.",
-      "choices": [
-        "Increases the stall speed.",
-        "Causes an undesirable pitch-up at the stall.",
-        "Reduces wave drag.",
-        "Increases CLMAX."
-      ],
-      "answers": [
-        "Causes an undesirable pitch-up at the stall.",
-        "Increases the stall speed.",
-        "Reduces wave drag."
-      ]
     },
     {
       "question": "The overall change in pitching moment from MCRIT to MDRAG DIVERGENCE is __________.",
@@ -47444,16 +46704,6 @@
       "answer": "wave drag"
     },
     {
-      "question": "Study the diagram. Identify the correct statement below.",
-      "choices": [
-        "The correcting fin side force is shown at B and requires right rudder pedal to achieve it.",
-        "The correcting fin side force is shown at A and requires left rudder pedal to achieve it.",
-        "The correcting fin side force is shown at B and requires left rudder pedal to achieve it.",
-        "The correcting fin side force is shown at A and requires right rudder pedal to achieve it."
-      ],
-      "answer": "The correcting fin side force is shown at B and requires right rudder pedal to achieve it."
-    },
-    {
       "question": "For a CS 25 aircraft the positive limit load is __________ g and the negative limit load is minus __________ g.",
       "choices": [
         "1; 2.5",
@@ -47462,20 +46712,6 @@
         "2.5; 1.5"
       ],
       "answer": "2.5; 1"
-    },
-    {
-      "question": "Which of the following statements about turbulence penetration are accurate?",
-      "choices": [
-        "VRA may or may not coincide with VB, the speed at which the aeroplane has been constructed to withstand the greatest vertical gusts.",
-        "VRA is selected as the best speed to optimise controllability while providing sufficient protection from the stall and from airframe overstress.",
-        "The gust loads caused by severe turbulence can cause injury and catastrophic structural failure. EAS is the key variable the crew can change when turbulence is encountered or anticipated.",
-        "VRA is usually the same as VA because, at this relatively slow speed, turbulence won't produce a structural overload."
-      ],
-      "answers": [
-        "The gust loads caused by severe turbulence can cause injury and catastrophic structural failure. EAS is the key variable the crew can change when turbulence is encountered or anticipated.",
-        "VRA is selected as the best speed to optimise controllability while providing sufficient protection from the stall and from airframe overstress.",
-        "VRA may or may not coincide with VB, the speed at which the aeroplane has been constructed to withstand the greatest vertical gusts."
-      ]
     },
     {
       "question": "Given a basic stall speed of 84 kt, and a current load factor of 2.5 g, what is the highest speed at which sudden, full-up elevator deflection can be made without exceeding the limit load factor?",
@@ -47518,22 +46754,6 @@
       "answer": "cannot"
     },
     {
-      "question": "Which of the following are valid design techniques for increasing the maximum power absorption capacity of a propeller system? Mark all correct answers.",
-      "choices": [
-        "Increasing the length of the propeller blades.",
-        "Increasing the number of propeller blades.",
-        "Increasing the blade chord of each blade.",
-        "Increasing the blade twist.",
-        "Adding additional propellers to the hub."
-      ],
-      "answers": [
-        "Increasing the length of the propeller blades.",
-        "Increasing the number of propeller blades.",
-        "Adding additional propellers to the hub.",
-        "Increasing the blade chord of each blade."
-      ]
-    },
-    {
       "question": "High speed aileron reversal:",
       "choices": [
         "Is less likely on CAT jet aircraft when compared with less strongly built light aircraft.",
@@ -47542,20 +46762,6 @@
         "Is caused by wing twist."
       ],
       "answer": "Is caused by wing twist."
-    },
-    {
-      "question": "Which of the following are valid countermeasures for dealing with P-factor effects? Mark all correct answers.",
-      "choices": [
-        "Maximise power in the climb to use the propeller slipstream to improve rudder effectiveness.",
-        "Rotate gently on take-off.",
-        "On take-off counteract yaw effects with nose-wheel steering, rather than rudder.",
-        "Pitch gently and apply power gently when going around."
-      ],
-      "answers": [
-        "On take-off counteract yaw effects with nose-wheel steering, rather than rudder.",
-        "Rotate gently on take-off.",
-        "Pitch gently and apply power gently when going around."
-      ]
     },
     {
       "question": "For a given blade pitch angle, thrust __________ as air speed increases.",
@@ -47574,24 +46780,65 @@
       ],
       "answer": "aerodynamic ceiling"
     },
-    {
-      "question": "The buffet margin reduces if: Mark all correct answers.",
-      "choices": [
-        "Alpha increases.",
-        "Mass reduces.",
-        "Load factor increases.",
-        "*CG moves fwd.",
-        "Angle of bank increases.",
-        "Pressure altitude increases."
-      ],
-      "answers": [
-        "Alpha increases.",
-        "Pressure altitude increases.",
-        "Load factor increases.",
-        "Angle of bank increases.",
-        "*CG moves fwd."
-      ]
-    },
+  {
+    "question": "What happens following the deployment of leading edge devices, while the trailing edge flaps remain retracted?",
+    "choices": [
+      "CLMAX is decreased, approach and landing speeds are decreased, but the nose up attitude gives the pilot a poorer view of the runway.",
+      "CLMAX is decreased, approach and landing speeds are increased, but the nose down attitude gives the pilot a better view of the runway.",
+      "CLMAX is increased, approach and landing speeds are decreased, and the nose down attitude gives the pilot a better view of the runway.",
+      "CLMAX is increased, approach and landing speeds are decreased, but the nose-up attitude will give the pilot a poorer view of the runway."
+    ],
+    "answer": "CLMAX is increased, approach and landing speeds are decreased, but the nose-up attitude will give the pilot a poorer view of the runway."
+  },
+  {
+    "question": "Two identical aeroplanes A and B, with the same mass, are flying steady level co-ordinated 20 degree bank turns. If the TAS of A is 130 kt and the TAS of B is 200 kt:",
+    "choices": [
+      "the turn radius of A is less than that of B.",
+      "the rate of turn of A is less than that of B.",
+      "the load factor of A is greater than that of B.",
+      "the lift coefficient of A is less than that of B."
+    ],
+    "answer": "the turn radius of A is less than that of B."
+  },
+  {
+    "question": "The coefficient of yawing moment (__________) is the yawing moment per unit of dynamic pressure (q), wing area (S) and wing span (b).",
+    "choices": [
+      "CM",
+      "CP",
+      "CN"
+    ],
+    "answer": "CN"
+  },
+  {
+    "question": "Stick force per g __________ with forward CG position. Stick force per g will be __________ under negative g if the aircraft is out of trim.",
+    "choices": [
+      "increases; greater.",
+      "decreases; less.",
+      "increases; less.",
+      "decreases; greater."
+    ],
+    "answer": "increases; greater."
+  },
+  {
+    "question": "The greater the difference between CG and AC position, the __________ the pitching moment that must be counteracted by the stabiliser. The greater the distance between the AC and the stabiliser the __________ the moment arm.",
+    "choices": [
+      "lesser; lesser.",
+      "lesser; greater.",
+      "greater; lesser.",
+      "greater; greater."
+    ],
+    "answer": "greater; greater."
+  },
+  {
+    "question": "Stick force per g is the amount of control column force required to generate a given amount of __________.",
+    "choices": [
+      "pitch.",
+      "trim force.",
+      "vertical acceleration.",
+      "roll."
+    ],
+    "answer": "vertical acceleration."
+  },
     {
       "question": "Static lateral stability will be increased by:",
       "choices": [
@@ -47601,21 +46848,6 @@
         "increasing wing anhedral."
       ],
       "answer": "the use of a high, rather than low, wing mounting."
-    },
-    {
-      "question": "Which of the following statements about longitudinal stability are correct? Mark all correct answers.",
-      "choices": [
-        "The CG position has a strong influence on longitudinal static stability, because its position determines the length of the arm between it and the AC.",
-        "The manufacturer's forward CG limit ensures an arm that is long enough to produce a sufficiently strong restoring moment, but not so large that longitudinal stability becomes excessively strong.",
-        "The difference between the aft CG limit and the neutral point is the static margin.",
-        "A forward CG increases static stability."
-      ],
-      "answers": [
-        "The manufacturer's forward CG limit ensures an arm that is long enough to produce a sufficiently strong restoring moment, but not so large that longitudinal stability becomes excessively strong.",
-        "The CG position has a strong influence on longitudinal static stability, because its position determines the length of the arm between it and the AC.",
-        "The difference between the aft CG limit and the neutral point is the static margin.",
-        "A forward CG increases static stability."
-      ]
     },
     {
       "question": "Disregarding the restoring effect of fuselage area behind the CG, an increased distance between the fuselage CP and the CG is __________.",
@@ -47768,17 +47000,6 @@
       "answer": "slow; heavy."
     },
     {
-      "question": "Study the image carefully then identify which of the following statements is correct.",
-      "choices": [
-        "D is the most efficient wing because it has the best L/D ratio.",
-        "A is the most efficient wing because it has the best L/D ratio.",
-        "C is the most efficient wing because the amount of lift and drag are in perfect balance.",
-        "B is the most efficient wing because it is producing the least amount of drag at 4° alpha.",
-        "A is the most efficient wing because it is producing the most lift at 4° alpha."
-      ],
-      "answer": "D is the most efficient wing because it has the best L/D ratio."
-    },
-    {
       "question": "__________ drag is the drag resulting from the mixing of airflows over surfaces of different orientations.",
       "choices": [
         "Interference",
@@ -47793,21 +47014,6 @@
         "several miles"
       ],
       "answer": "several miles"
-    },
-    {
-      "question": "Parasite drag comprises: Mark 3 correct answers.",
-      "choices": [
-        "Wave drag.",
-        "Form drag.",
-        "Interference drag.",
-        "Skin friction drag.",
-        "Induced drag."
-      ],
-      "answers": [
-        "Interference drag.",
-        "Skin friction drag.",
-        "Form drag."
-      ]
     },
     {
       "question": "In banked, level flight an aircraft produces __________ drag than the same aircraft flying wings level.",
@@ -47867,55 +47073,12 @@
       "answer": "form drag"
     },
     {
-      "question": "Which of the following are valid measures to reduce induced drag: Mark 3 correct answers.",
-      "choices": [
-        "High aspect ratio",
-        "Winglets",
-        "Increasing camber towards the wing tips",
-        "Wing twist",
-        "Low aspect ratio"
-      ],
-      "answers": [
-        "Wing twist",
-        "High aspect ratio",
-        "Winglets"
-      ]
-    },
-    {
       "question": "Aspect ratio is the ratio of __________ to average wing chord.",
       "choices": [
         "wing area",
         "wing span"
       ],
       "answer": "wing span"
-    },
-    {
-      "question": "In these plots of spanwise lift distribution. Mark 2 correct answers.",
-      "choices": [
-        "The red curve shows the lift distribution of a rectangular wing",
-        "The green curve shows the lift distribution of a tapered rectangular, tapered wing.",
-        "The green curve shows an elliptical CL distribution.",
-        "The red curve shows the CL distribution of a swept, tapered wing."
-      ],
-      "answers": [
-        "The red curve shows the CL distribution of a swept, tapered wing.",
-        "The green curve shows an elliptical CL distribution."
-      ]
-    },
-    {
-      "question": "Which of the following statements is/are correct?",
-      "choices": [
-        "Induced drag increases with speed in level flight.",
-        "Induced drag is caused by vortices with occur only when lift is being created.",
-        "Induced drag is caused by tip vortices which occur at any positive forward speed.",
-        "Induced drag increases when the aircraft is manoeuvred at positive g.",
-        "Induced drag increases with aircraft mass."
-      ],
-      "answers": [
-        "Induced drag increases when the aircraft is manoeuvred at positive g.",
-        "Induced drag increases with aircraft mass.",
-        "Induced drag is caused by vortices with occur only when lift is being created."
-      ]
     },
     {
       "question": "The weight per unit of wing area (kg/m²) gives the value for the __________ __________.",
@@ -48000,21 +47163,6 @@
       "answer": "Because of the increased camber produced by the down-going aileron."
     },
     {
-      "question": "Given that A shows the curve for a clean aerofoil: Mark all correct answers.",
-      "choices": [
-        "B shows the curve for a slotted flap.",
-        "C shows the curve for a split flap.",
-        "C shows that using this device reduces the approach speed for a given mass.",
-        "B shows the curve for a plain flap.",
-        "B shows that CLMax and alphaCRIT have increased."
-      ],
-      "answers": [
-        "B shows the curve for a plain flap.",
-        "C shows the curve for a split flap.",
-        "C shows that using this device reduces the approach speed for a given mass."
-      ]
-    },
-    {
       "question": "What is \"Deterrent Buffet\"?",
       "choices": [
         "It is considered to be the stall limit on jet transport aircraft.",
@@ -48023,16 +47171,6 @@
         "It is normal on take-off when fully loaded."
       ],
       "answer": "It is considered to be the stall limit on jet transport aircraft."
-    },
-    {
-      "question": "Which of these arrangements of forces represents straight, level and unaccelerated flight?",
-      "choices": [
-        "B.",
-        "A.",
-        "C.",
-        "D."
-      ],
-      "answer": "A."
     },
     {
       "question": "Which of the following statements about buffet or stall is correct?",
@@ -48102,48 +47240,6 @@
       "answer": "camber; Elevator and rudder"
     },
     {
-      "question": "If a THS runaway is detected by the crew, the 2 most important immediate actions are:",
-      "choices": [
-        "To counter the pitching moments and hold the aircraft in a sensible attitude.",
-        "To electrically isolate the THS as soon as possible to prevent it from reaching full deflection.",
-        "To decrease airspeed to increase the effectiveness of the THS.",
-        "To increase airspeed to give more effectiveness to the elevator."
-      ],
-      "answers": [
-        "To counter the pitching moments and hold the aircraft in a sensible attitude.",
-        "To electrically isolate the THS as soon as possible to prevent it from reaching full deflection."
-      ]
-    },
-    {
-      "question": "Which of the following statements about roll control is/are correct? Mark all correct answers.",
-      "choices": [
-        "The secondary effect of roll is yaw.",
-        "The purpose of the mixer unit is to automatically generate a small rudder movement when the ailerons are moved.",
-        "On some CAT aircraft the outboard ailerons are not used for roll control at high speed.",
-        "The purpose of aileron droop is to increase CLMAX at high speed."
-      ],
-      "answers": [
-        "On some CAT aircraft the outboard ailerons are not used for roll control at high speed.",
-        "The purpose of the mixer unit is to automatically generate a small rudder movement when the ailerons are moved.",
-        "The secondary effect of roll is yaw."
-      ]
-    },
-    {
-      "question": "Which 3 of the following are common signs of a fully developed spin.",
-      "choices": [
-        "The aircraft is rolling yawing and pitching up.",
-        "A low nose attitude.",
-        "There is a large amount of positive g.",
-        "There is very little buffet.",
-        "There is a high rate of descent."
-      ],
-      "answers": [
-        "A low nose attitude.",
-        "The aircraft is rolling yawing and pitching up.",
-        "There is a high rate of descent."
-      ]
-    },
-    {
       "question": "A spring tab is a type of servo tab. The spring __________ movement of the servo tab until higher IAS is reached. At low IAS the controls operate the main control surface. At higher IAS the controls operate the servo tab.",
       "choices": [
         "permits",
@@ -48159,17 +47255,6 @@
         "wing aspect ratio"
       ],
       "answer": "wing loading"
-    },
-    {
-      "question": "Tip vortices __________ the downwash behind the wing. This is why, with 3D flow, we must use the __________ airflow rather than the relative airflow and measure the __________.",
-      "choices": [
-        "increase; effective; induced incidence angle",
-        "increase; effective; induced angle of attack",
-        "increase; real; induced angle of attack",
-        "increase; real; induced incidence angle",
-        "decrease; real; induced incidence angle"
-      ],
-      "answer": "increase; effective; induced angle of attack"
     },
     {
       "question": "On a Drag/TAS plot, the bottom of the total drag curve indicates __________. On a Drag/IAS plot the bottom of the total drag curve indicates __________.",
@@ -48329,20 +47414,6 @@
       "answer": "Turbulent boundary layer."
     },
     {
-      "question": "In 2D flow, the 2 physical phenomena which create drag are:",
-      "choices": [
-        "Skin friction drag.",
-        "Induced drag.",
-        "Inference drag.",
-        "Form drag.",
-        "Momentum drag."
-      ],
-      "answers": [
-        "Form drag.",
-        "Skin friction drag."
-      ]
-    },
-    {
       "question": "Increasing the aerofoil’s camber moves the CL / Alpha line __________.",
       "choices": [
         "downwards.",
@@ -48405,18 +47476,6 @@
         "psi"
       ],
       "answer": "newtons."
-    },
-    {
-      "question": "Mark all correct answers: 2-dimensional airflow:",
-      "choices": [
-        "Is useful for visualising airflow over an aerofoil.",
-        "Takes no account of lateral flow.",
-        "Takes account of tip vortices."
-      ],
-      "answers": [
-        "Takes no account of lateral flow.",
-        "Is useful for visualising airflow over an aerofoil."
-      ]
     },
     {
       "question": "On a __________ wing, lift is produced before the wing reaches a positive angle of attack (alpha).",
@@ -48551,21 +47610,6 @@
       "answer": "First."
     },
     {
-      "question": "Select all correct statements about pitot systems:",
-      "choices": [
-        "The open end of the pitot points into the airflow when the aircraft is moving forwards.",
-        "The pitot tube is always mounted vertically.",
-        "The altimeter or air data unit adds static pressure to total pressure.",
-        "Dynamic pressure is used to determine air speed to be displayed on the ASI and/or PFD.",
-        "Dynamic pressure is directly proportional to IAS."
-      ],
-      "answers": [
-        "The open end of the pitot points into the airflow when the aircraft is moving forwards.",
-        "Dynamic pressure is used to determine air speed to be displayed on the ASI and/or PFD.",
-        "Dynamic pressure is directly proportional to IAS."
-      ]
-    },
-    {
       "question": "Bernoulli's equation can be written as (PT = total pressure, PS = static pressure, q = dynamic pressure):",
       "choices": [
         "PT = PS - q",
@@ -48574,22 +47618,6 @@
         "PT = q - PS"
       ],
       "answer": "PT - q = PS"
-    },
-    {
-      "question": "For a given airflow, what are the 3 main factors affecting the lift coefficient?",
-      "choices": [
-        "The density of the air.",
-        "The thickness of the aerofoil section.",
-        "The camber of the aerofoil.",
-        "The angle of attack.",
-        "The surface area of the aerofoil.",
-        "The speed of the air flow."
-      ],
-      "answers": [
-        "The angle of attack.",
-        "The thickness of the aerofoil section.",
-        "The camber of the aerofoil."
-      ]
     },
     {
       "question": "When IAS is adjusted for instrument error and pressure error it is _____.",
@@ -48631,16 +47659,6 @@
       "answer": "dynamic"
     },
     {
-      "question": "Study the diagram. Which of the particle flow paths is clearly impossible?",
-      "choices": [
-        "A",
-        "D",
-        "B",
-        "C"
-      ],
-      "answer": "C"
-    },
-    {
       "question": "Steady airflow can be depicted by _____, which depict the movement of a sample of the air.",
       "choices": [
         "stream tube",
@@ -48676,28 +47694,6 @@
       "answer": "decreases"
     },
     {
-      "question": "Mark all correct answers: 2-dimensional airflow:",
-      "choices": [
-        "Is useful for visualising airflow over an aerofoil.",
-        "Takes no account of lateral flow.",
-        "Takes account of tip vortices."
-      ],
-      "answer": [
-        "Is useful for visualising airflow over an aerofoil.",
-        "Takes no account of lateral flow."
-      ]
-    },
-    {
-      "question": "Aircraft with electronic air data units show air _____ speed.",
-      "choices": [
-        "corrected",
-        "CAS/mach",
-        "mach",
-        "EAS/mach"
-      ],
-      "answer": "corrected"
-    },
-    {
       "question": "An imaginary straight line drawn between the centre of the leading edge and the trailing edge is called the ________.",
       "choices": [
         "leading line",
@@ -48731,20 +47727,6 @@
         "more"
       ],
       "answer": "less"
-    },
-    {
-      "question": "In 2D flow, the 2 physical phenomena which create drag are:",
-      "choices": [
-        "Momentum drag",
-        "Form drag",
-        "Inference drag",
-        "Induced drag",
-        "Skin friction drag"
-      ],
-      "answer": [
-        "Form drag",
-        "Skin friction drag"
-      ]
     },
     {
       "question": "Select the correct choice for each statement: The axis known as the ‘Normal’ axis.",
@@ -48853,21 +47835,6 @@
       "answer": "PT - q = PS"
     },
     {
-      "question": "Parasite drag comprises: Mark 3 correct answers.",
-      "choices": [
-        "Skin friction drag.",
-        "Induced drag.",
-        "Wave drag.",
-        "Interference drag.",
-        "Form drag."
-      ],
-      "answer": [
-        "Interference drag.",
-        "Skin friction drag.",
-        "Form drag."
-      ]
-    },
-    {
       "question": "Wake turbulence can be hazardous for behind a __________ large, heavy aircraft.",
       "choices": [
         "several hundred metres",
@@ -48895,16 +47862,6 @@
       "answer": "can reduce"
     },
     {
-      "question": "Study this diagram. Diagnose the aircraft's condition, and then select the most appropriate response from the options below.",
-      "choices": [
-        "When compared to straight and level flight, to maintain the shown condition, the aircraft would have more alpha to increase the size of the lift vector",
-        "The aircraft needs less angle of bank to remain level at the same turn radius.",
-        "The aircraft is in balanced, level flight but needs extra thrust.",
-        "The aircraft requires more angle of bank to increase the total reaction."
-      ],
-      "answer": "When compared to straight and level flight, to maintain the shown condition, the aircraft would have more alpha to increase the size of the lift vector"
-    },
-    {
       "question": "The roll caused by asymmetric flap extension controllable with __________ aileron.",
       "choices": [
         "is always",
@@ -48912,16 +47869,6 @@
         "is usually"
       ],
       "answer": "is often not"
-    },
-    {
-      "question": "This system is known as a:",
-      "choices": [
-        "Internal balance.",
-        "Anti-balance tab.",
-        "Servo tab.",
-        "Spring tab."
-      ],
-      "answer": "Servo tab."
     },
     {
       "question": "__________ is a CAS defined by the manufacturer which may not be less than the 1g stall speed.",
@@ -48944,40 +47891,12 @@
       "answer": "tip; root."
     },
     {
-      "question": "Which 5 of the following statements about stalling are correct?",
-      "choices": [
-        "A deep stall or super stall is more likely with a T-tail configuration.",
-        "The stalling speed in a level turn is always higher than the stalling speed in straight and level flight.",
-        "A stall can occur at any speed, attitude or altitude.",
-        "In an accelerated stall, the stall occurs before the critical angle is exceeded.",
-        "Swept wing stall is more hazardous than straight wing stall because the aircraft may pitch up into the stall.",
-        "Swept wing stall is more hazardous than straight wing stall because there may be no well-defined transition between the unstalled and stalled conditions.",
-        "A stall can occur at any angle of attack, attitude or altitude."
-      ],
-      "answer": [
-        "A deep stall or super stall is more likely with a T-tail configuration.",
-        "Swept wing stall is more hazardous than straight wing stall because there may be no well-defined transition between the unstalled and stalled conditions.",
-        "Swept wing stall is more hazardous than straight wing stall because the aircraft may pitch up into the stall.",
-        "The stalling speed in a level turn is always higher than the stalling speed in straight and level flight.",
-        "A stall can occur at any speed, attitude or altitude."
-      ]
-    },
-    {
       "question": "Rudder, ailerons and elevators are all types of __________-changing devices.",
       "choices": [
         "area",
         "camber"
       ],
       "answer": "camber"
-    },
-    {
-      "question": "This aircraft is out of trim. You need to trim nose-up.",
-      "choices": [
-        "This aircraft is in trim.",
-        "This aircraft is out of trim. You need to trim nose-down.",
-        "This aircraft is out of trim. You need to trim nose-up."
-      ],
-      "answer": "This aircraft is out of trim. You need to trim nose-up."
     },
     {
       "question": "Assuming constant IAS, when an aeroplane leaves ground effect:",
@@ -48988,55 +47907,9 @@
         "the effective angle of attack increases."
       ],
       "answer": "the induced angle of attack increases."
-    },
-    {
-      "question": "When at, or very near, the critical angle, which of the following may provoke a stall or autorotation? Mark all correct answers.",
-      "choices": [
-        "Yawing.",
-        "Pitching down.",
-        "Making aileron inputs.",
-        "Pitching up."
-      ],
-      "answer": [
-        "Pitching up.",
-        "Making aileron inputs.",
-        "Yawing."
-      ]
-    },
-    {
-      "question": "Which of the following statements about trailing edge devices is/are correct? Mark all correct answers.",
-      "choices": [
-        "The pitch attitude on the approach is reduced because the wing's CL at all angles of attack, up to the critical angle, has increased.",
-        "Take-off distance is reduced because the wing has a greater lifting capability at any given speed.",
-        "For a given airspeed, to maintain the same amount of lift force when flap is lowered, the angle of attack must be reduced.",
-        "Flap permits a steeper approach because of the increased drag.",
-        "Flap reduces the landing distance because the aircraft can land at a lower speed.",
-        "Flap reduces landing speed because it increases the critical angle."
-      ],
-      "answer": [
-        "Flap reduces the landing distance because the aircraft can land at a lower speed.",
-        "Take-off distance is reduced because the wing has a greater lifting capability at any given speed.",
-        "Flap permits a steeper approach because of the increased drag.",
-        "The pitch attitude on the approach is reduced because the wing's CL at all angles of attack, up to the critical angle, has increased.",
-        "For a given airspeed, to maintain the same amount of lift force when flap is lowered, the angle of attack must be reduced."
-      ]
     }
   ],
   "ALW": [
-    {
-      "question": "Which of the following are valid types of EU pilot’s licence? Mark all correct answers.",
-      "choices": [
-        "LAPL",
-        "ATPL",
-        "MATPL",
-        "PPL"
-      ],
-      "answer": [
-        "ATPL",
-        "LAPL",
-        "PPL"
-      ]
-    },
     {
       "question": "A white dumb-bell with black perpendicular bars at each end indicates that:",
       "choices": [
@@ -49320,18 +48193,6 @@
       "answer": "Land as soon as practicable."
     },
     {
-      "question": "Under EU Regulation No 376/2014 which of these occurrences must be reported: Mark all correct answers.",
-      "choices": [
-        "An aircraft has to declare a fuel emergency.",
-        "The captain fails to report for duty at the allotted time, so a relief captain has to be used.",
-        "An engine fails on take-off."
-      ],
-      "answer": [
-        "An engine fails on take-off.",
-        "An aircraft has to declare a fuel emergency."
-      ]
-    },
-    {
       "question": "According to ICAO annex 9, when crew members enter or leave a member state, the contracting state shall:",
       "choices": [
         "Request a full visa in order to check if the person is a real crew member or not.",
@@ -49410,20 +48271,6 @@
         "Prior notification by the State of embarkation to the foreign State and airport of arrival in which the weapons will be carried. Also notification of the pilot-in-command of a decision to permit a weapon to be carried on board his aircraft."
       ],
       "answer": "Prior notification by the State of embarkation to the foreign State and airport of arrival in which the weapons will be carried. Also notification of the pilot-in-command of a decision to permit a weapon to be carried on board his aircraft."
-    },
-    {
-      "question": "The objects not allowed (for reasons of aviation security) on board an aircraft are: Mark all correct answers.",
-      "choices": [
-        "Explosives.",
-        "Matches.",
-        "Dangerous devices and substances.",
-        "Alcohol in containers of 5L or more."
-      ],
-      "answer": [
-        "Explosives.",
-        "Dangerous devices and substances.",
-        "Alcohol in containers of 5L or more."
-      ]
     },
     {
       "question": "The ground - air visual signal code for use by survivors on the ground to indicate 'AFFIRMATIVE' is (search and rescue signals):",
@@ -49751,18 +48598,6 @@
       "answer": "Provide clearance for propellers and engine pods."
     },
     {
-      "question": "The duties of an AIS are: Mark all correct answers.",
-      "choices": [
-        "To provide operationally significant information to aircraft in flight.",
-        "To collect and disseminate operational information from other States AISs.",
-        "To disseminate operational information to the AISs of other member states."
-      ],
-      "answer": [
-        "To disseminate operational information to the AISs of other member states.",
-        "To collect and disseminate operational information from other States AISs."
-      ]
-    },
-    {
       "question": "Regarding firefighting services at an aerodrome - what are the normal and maximum limits of the response time?",
       "choices": [
         "Normal limit: 3 minutes, maximum limit 5 minutes.",
@@ -49907,19 +48742,6 @@
       "answer": "Flashing white."
     },
     {
-      "question": "Runway TDZ lights: Mark all correct answers.",
-      "choices": [
-        "Usually extend from the beginning of the runway strip out to 900 m.",
-        "Are placed to coincide with the TDZ markings either side of the runway aiming point.",
-        "Don't extend beyond the midpoint of the runway.",
-        "Usually extend from the threshold for 900 m."
-      ],
-      "answer": [
-        "Don't extend beyond the midpoint of the runway.",
-        "Usually extend from the threshold for 900 m."
-      ]
-    },
-    {
       "question": "B indicates that:",
       "choices": [
         "Aircraft must land and take off on runways, but other manoeuvres need not be confined to runways and taxiways.",
@@ -50030,38 +48852,6 @@
       "answer": "BIGJET 337"
     },
     {
-      "question": "Which of the following statements is/are accurate? Mark all correct answers.",
-      "choices": [
-        "When VFR is suspended, the tower holds back VFR departures and either recalls local VFR flights or permits SVFR operations.",
-        "The tower must immediately report any failure involving equipment, lights or devices which are used either to guide aircraft or to maintain the air traffic service.",
-        "During low visibility operations, when the crew transmit the phrase 'runway vacated’ it means that their entire aircraft has cleared the ILS sensitive area.",
-        "The TWR must report to the area control centre (ACC) or flight information centre (FIC) if any aircraft fails to land within 5 minutes of its expected landing time."
-      ],
-      "answer": [
-        "When VFR is suspended, the tower holds back VFR departures and either recalls local VFR flights or permits SVFR operations.",
-        "The TWR must report to the area control centre (ACC) or flight information centre (FIC) if any aircraft fails to land within 5 minutes of its expected landing time.",
-        "During low visibility operations, when the crew transmit the phrase 'runway vacated’ it means that their entire aircraft has cleared the ILS sensitive area.",
-        "The tower must immediately report any failure involving equipment, lights or devices which are used either to guide aircraft or to maintain the air traffic service."
-      ]
-    },
-    {
-      "question": "Which of the following are valid occasions in which an ATSU will give your position? Mark all correct answers.",
-      "choices": [
-        "When you’re instructed to ‘resume own navigation’ after radar vectoring.",
-        "When your position estimate differs significantly from the controller’s.",
-        "If your aircraft is observed to deviate from its intended route.",
-        "When you request it.",
-        "Immediately before termination of radar service."
-      ],
-      "answer": [
-        "When you request it.",
-        "When your position estimate differs significantly from the controller’s.",
-        "When you’re instructed to ‘resume own navigation’ after radar vectoring.",
-        "Immediately before termination of radar service.",
-        "If your aircraft is observed to deviate from its intended route."
-      ]
-    },
-    {
       "question": "The EAT has to be transmitted to the pilot as soon as practicable, when the expected delay is:",
       "choices": [
         "5 minutes.",
@@ -50152,32 +48942,6 @@
         "ATIS"
       ],
       "answer": "ATIS"
-    },
-    {
-      "question": "Which of the following are valid points for the transfer of control of departing aircraft from the TWR to another ATSU? Mark all correct answers.",
-      "choices": [
-        "After entering VMC.",
-        "Some other appointed position or level.",
-        "Immediately the aircraft becomes airborne (IFR traffic)."
-      ],
-      "answer": [
-        "Immediately the aircraft becomes airborne (IFR traffic).",
-        "Some other appointed position or level."
-      ]
-    },
-    {
-      "question": "What information is passed to an aircraft during its final approach? Mark all correct answers.",
-      "choices": [
-        "Changes in dew point.",
-        "Non-operational visual or non-visual aids.",
-        "Changes in RVR.",
-        "Significant variations in surface wind (max values)."
-      ],
-      "answer": [
-        "Significant variations in surface wind (max values).",
-        "Non-operational visual or non-visual aids.",
-        "Changes in RVR."
-      ]
     },
     {
       "question": "You are flying a medium category aircraft. You are approaching the airport vicinity under your own navigation, when you hear \"VIR123 Heavy wind XXX runway XX cleared to land\". What is the distance that you must maintain from the preceding aircraft?",
@@ -50420,7 +49184,7 @@
       "answer": "700 ft AGL."
     },
     {
-      "question": "Which of these statements about the transition layer is/are correct? The transition layer: Mark all correct answers.",
+      "question": "Which of these statements about the transition layer is correct?",
       "choices": [
         "Has a variable depth.",
         "Is the airspace between the transition altitude and the SPS of 1013.24 hPa.",
@@ -50460,19 +49224,6 @@
         "Ignore the wind and proceed on a heading equal to the track."
       ],
       "answer": "Correct the aircraft's track for known wind to remain within the protected airspace."
-    },
-    {
-      "question": "Which of the following are possible likely consequences of transponder failure? Mark all correct answers.",
-      "choices": [
-        "The airborne collision avoidance system provided by Mode S will be disabled.",
-        "You may not be permitted to fly in some types of airspace or on some routes.",
-        "In some areas of the world with no primary radar coverage, you will not appear on the ATC controller’s display."
-      ],
-      "answer": [
-        "In some areas of the world with no primary radar coverage, you will not appear on the ATC controller’s display.",
-        "The airborne collision avoidance system provided by Mode S will be disabled.",
-        "You may not be permitted to fly in some types of airspace or on some routes."
-      ]
     },
     {
       "question": "What is the classification of the ATS airspace in which: IFR and VFR flights are permitted; all flights are subject to air traffic control services and are separated from each other?",
@@ -50665,19 +49416,6 @@
       "answer": "The missed approach track for one approach diverges by at least 30° (degrees) from the missed approach track of the adjacent approach."
     },
     {
-      "question": "The 2 main objectives of altimeter settings are: Mark all correct answers.",
-      "choices": [
-        "To check the accuracy of the altimeter before landing.",
-        "To check the accuracy of the altimeter before take-off.",
-        "To provide terrain clearance during all phases of flight.",
-        "To provide vertical separation between aircraft."
-      ],
-      "answer": [
-        "To provide terrain clearance during all phases of flight.",
-        "To provide vertical separation between aircraft."
-      ]
-    },
-    {
       "question": "The still-air time for flying the outbound entry heading is:",
       "choices": [
         "1 minute below or at 14 000 ft 1.5 minutes above 14 000 ft.",
@@ -50696,18 +49434,6 @@
         "Only when in controlled airspace under the direction of ATC."
       ],
       "answer": "At all times during flight, regardless of whether the aircraft is within or outside airspace where SSR is used by the ATS."
-    },
-    {
-      "question": "When an aircraft is using QFE, its height can be expressed as a height above: Mark all correct answers.",
-      "choices": [
-        "The runway threshold for instrument runways, if the threshold is 10 ft or more below the aerodrome elevation.",
-        "The runway threshold for a precision approach runway.",
-        "The runway threshold for instrument runways, if the threshold is 7 ft or more below the aerodrome elevation"
-      ],
-      "answer": [
-        "The runway threshold for a precision approach runway.",
-        "The runway threshold for instrument runways, if the threshold is 7 ft or more below the aerodrome elevation"
-      ]
     },
     {
       "question": "In a holding pattern you should attempt to maintain the __________ by making allowance for wind by applying corrections to __________ during entry and while flying the holding pattern.",
@@ -51188,20 +49914,6 @@
       ]
     },
     {
-      "question": "Which of the following conditions require(s) a flight plan to be filed? Mark all correct answers.",
-      "choices": [
-        "Any flight planned to operate at night, if leaving the vicinity of an aerodrome.",
-        "Any IFR flight within advisory airspace.",
-        "Any flight (or portion of a flight) provided with air traffic control service.",
-        "Any flight across international borders, without exception."
-      ],
-      "answer": [
-        "Any flight (or portion of a flight) provided with air traffic control service.",
-        "Any IFR flight within advisory airspace.",
-        "Any flight planned to operate at night, if leaving the vicinity of an aerodrome."
-      ]
-    },
-    {
       "question": "SVFR ___________ permitted at night.",
       "choices": [
         "Is not.",
@@ -51256,18 +49968,6 @@
       "answer": "The glider, regardless of its position in relation to the aeroplane."
     },
     {
-      "question": "Which of the following are valid conditions for SVFR? Mark all correct answers.",
-      "choices": [
-        "Flight visibility of at least 1500 m.",
-        "Fly at 140 kt or less.",
-        "Cloud ceiling at least 600 m."
-      ],
-      "answer": [
-        "Flight visibility of at least 1500 m.",
-        "Fly at 140 kt or less."
-      ]
-    },
-    {
       "question": "The follow-me signal given by an interceptor is:",
       "choices": [
         "A slow turn to the right onto the desired heading.",
@@ -51276,19 +49976,6 @@
         "An abrupt break-away manoeuvre consisting of a climbing turn of 90 degrees or more."
       ],
       "answer": "A slow turn to the left onto the desired heading."
-    },
-    {
-      "question": "Aircraft must display: Mark all correct answers.",
-      "choices": [
-        "Navigation lights when moving at night on the ground.",
-        "Navigation and anti-collision lights during the night only.",
-        "While taxiing at night, lights indicating the extremities of their structure.",
-        "Lights to indicate that engines are running."
-      ],
-      "answer": [
-        "Navigation lights when moving at night on the ground.",
-        "Lights to indicate that engines are running."
-      ]
     },
     {
       "question": "Your flight plan gave a planned cruising speed of 400 kt TAS. However, you need to fly faster for fuel economy. Above what value must you report your speed deviation to ATC?",
@@ -51317,19 +50004,6 @@
       "answer": "Engage brakes."
     },
     {
-      "question": "Which of the following statements correctly describe(s) the action to be taken following a deviation from a flight plan? Mark all correct answers.",
-      "choices": [
-        "Time estimate: submit a revised ETA ASAP for changes in excess of 2 min.",
-        "Track: inform STC is deviating by more than 5 degrees.",
-        "TAS: Inform ATS if it varies by ±5% or more.",
-        "Time estimate: submit a revised ETA ASAP for changes of 5 min or more."
-      ],
-      "answer": [
-        "TAS: Inform ATS if it varies by ±5% or more.",
-        "Time estimate: submit a revised ETA ASAP for changes in excess of 2 min."
-      ]
-    },
-    {
       "question": "You are flying IFR above FL 290 in RVSM airspace. Your track is 200 degrees magnetic and your flight management computer indicates that your optimum altitude is FL 310. Ideally which flight level should you ask for?",
       "choices": [
         "FL 300 or FL 320",
@@ -51338,21 +50012,6 @@
         "FL285"
       ],
       "answer": "FL 300 or FL 320"
-    },
-    {
-      "question": "Which of the following statements about VFR are accurate? Mark all correct answers.",
-      "choices": [
-        "You may not fly VFR above FL 290.",
-        "You may not fly VFR in other than VMC.",
-        "You may not fly VFR at transonic speeds.",
-        "You may not fly VFR in RVSM airspace."
-      ],
-      "answer": [
-        "You may not fly VFR at transonic speeds.",
-        "You may not fly VFR in RVSM airspace.",
-        "You may not fly VFR above FL 290.",
-        "You may not fly VFR in other than VMC."
-      ]
     },
     {
       "question": "You are flying IFR above FL 290 in non-RVSM airspace. Your track is 200 degrees magnetic. Which set of flight levels would be appropriate?",
@@ -52093,30 +50752,6 @@
       "answer": "Either an AeMC or by an AME."
     },
     {
-      "question": "Which of the following are valid ratings under the Aircrew Regulation? Mark all correct answers.",
-      "choices": [
-        "Night rating.",
-        "Flight test rating.",
-        "Light single rating"
-      ],
-      "answer": [
-        "Night rating.",
-        "Flight test rating."
-      ]
-    },
-    {
-      "question": "The privileges of a CPL are to: Mark all correct answers.",
-      "choices": [
-        "Act as PIC or co-pilot of any aircraft engaged in operations other than commercial air transport.",
-        "Act as PIC in commercial air transport aeroplanes",
-        "Act as PIC in commercial air transport of any single-pilot aircraft."
-      ],
-      "answer": [
-        "Act as PIC or co-pilot of any aircraft engaged in operations other than commercial air transport.",
-        "Act as PIC in commercial air transport of any single-pilot aircraft."
-      ]
-    },
-    {
       "question": "The 'Standards' contained in the Annexes to the Chicago Convention are to be considered:",
       "choices": [
         "Advice and guidance for the aviation legislation within the member states.",
@@ -52485,18 +51120,6 @@
       "answer": "Inform the pilot that his aircraft has been identified before issuing instructions, based on the use of radar."
     },
     {
-      "question": "Which of the following are valid types ATS unit: Mark all correct answers.",
-      "choices": [
-        "Air traffic information service (ATIS). Provides information to arriving and departing aircraft.",
-        "Aerodrome Control Tower. Controls traffic at a controlled aerodrome. This includes aircraft, people, vehicles.",
-        "Approach Control Unit. Manages the arrivals and departures for individual aerodromes (or a group of closely-located aerodromes)."
-      ],
-      "answer": [
-        "Approach Control Unit. Manages the arrivals and departures for individual aerodromes (or a group of closely-located aerodromes).",
-        "Aerodrome Control Tower. Controls traffic at a controlled aerodrome. This includes aircraft, people, vehicles."
-      ]
-    },
-    {
       "question": "You receive an IFR en-route clearance stating: 'Clearance expires at 0920'",
       "choices": [
         "The take off clearance is expected at 0920.",
@@ -52568,21 +51191,6 @@
       "answer": "An apron management service."
     },
     {
-      "question": "Which of these is/are valid identification methods for an ATSU equipped only with PSR? Mark all correct answers.",
-      "choices": [
-        "Observe the aircraft’s reported manoeuvres.",
-        "Correlate position of a departing aircraft within 1 nm of the runway.",
-        "Formal transfer between controllers.",
-        "Reading an aircraft’s identification SSR / MLAT label.",
-        "Requesting the pilot to set, and then reading, a discrete code."
-      ],
-      "answer": [
-        "Correlate position of a departing aircraft within 1 nm of the runway.",
-        "Observe the aircraft’s reported manoeuvres.",
-        "Formal transfer between controllers."
-      ]
-    },
-    {
       "question": "An aircraft is in the descent and has been receiving instructions from ATC to make adjustments to its horizontal speed. At what distance from the threshold, on the final approach, must the PIC expect to stop receiving these instructions to control the speed?",
       "choices": [
         "4 NM",
@@ -52601,19 +51209,6 @@
         "Departing aircraft have priority over aircraft landing on the same runway."
       ],
       "answer": "Landing aircraft, in the final stages of their approach, have priority over aircraft departing from the same runway."
-    },
-    {
-      "question": "Which of the following are valid reasons for ATC selecting a runway in use which is not into wind? Mark all correct answers.",
-      "choices": [
-        "Noise abatement procedures require a different runway.",
-        "The surface of the into-wind runway is damaged.",
-        "The into-wind runway is too short for the types of aircraft expected to use it."
-      ],
-      "answer": [
-        "Noise abatement procedures require a different runway.",
-        "The surface of the into-wind runway is damaged.",
-        "The into-wind runway is too short for the types of aircraft expected to use it."
-      ]
     },
     {
       "question": "When it becomes apparent that an aircraft is in difficulty, the decision to initiate the alert phase is the responsibility of the:",
@@ -52644,20 +51239,6 @@
         "25° immediately after take-off."
       ],
       "answer": "45° immediately after take-off."
-    },
-    {
-      "question": "An alerting service is provided to: Mark all correct answers.",
-      "choices": [
-        "All aircraft provided with an ATC service.",
-        "As far as is practicable, to all other aircraft that have filed a flight plan or are otherwise known to the ATSU.",
-        "Aircraft who have filed flight plans only.",
-        "To any aircraft known or believed to be the subject of unlawful interference."
-      ],
-      "answer": [
-        "As far as is practicable, to all other aircraft that have filed a flight plan or are otherwise known to the ATSU.",
-        "To any aircraft known or believed to be the subject of unlawful interference.",
-        "All aircraft provided with an ATC service."
-      ]
     },
     {
       "question": "In advisory airspace (Class F airspace), an Air Traffic Advisory Service may be provided to:",
@@ -52790,20 +51371,6 @@
         "Both aircraft are on radials diverging by at least 10°. At least one is 15 nm or more from the facility."
       ],
       "answer": "Both aircraft are on radials diverging by at least 15°. At least one is 15 nm or more from the facility."
-    },
-    {
-      "question": "Mark which of the following are possible parts of an ATC clearance: Mark all correct answers.",
-      "choices": [
-        "The authorised route for the flight.",
-        "The headings for the entire route or part of a route.",
-        "The limits of the clearance.",
-        "Any other necessary instructions or information including the time of expiry of the clearance."
-      ],
-      "answer": [
-        "The limits of the clearance.",
-        "The authorised route for the flight.",
-        "Any other necessary instructions or information including the time of expiry of the clearance."
-      ]
     },
     {
       "question": "When using the Mach number technique the separation minimum for 2 co-speed aircraft is:",
@@ -52964,21 +51531,6 @@
       "answer": "A pilot in command (PIC)."
     },
     {
-      "question": "Which of these has a right to representation at an Enquiry? Mark all correct answers.",
-      "choices": [
-        "Any State which provides information, facilities or experts to the investigation.",
-        "The State of Design.",
-        "The State of the Operator.",
-        "The State of Manufacture."
-      ],
-      "answer": [
-        "The State of the Operator.",
-        "The State of Design.",
-        "The State of Manufacture.",
-        "Any State which provides information, facilities or experts to the investigation."
-      ]
-    },
-    {
       "question": "States must provide assistance to an aircraft subjected to an act of unlawful seizure. This includes:",
       "choices": [
         "Only permission to land.",
@@ -52997,19 +51549,6 @@
         "250"
       ],
       "answer": "100"
-    },
-    {
-      "question": "When passengers are obliged to travel because of judicial or administrative proceedings: Mark all correct answers.",
-      "choices": [
-        "The operator and the PiC must be informed about such passengers so that the appropriate security controls can be applied.",
-        "The Operator must have in place a security programme to protect other passengers.",
-        "They must be handcuffed at all times except when taking comfort breaks.",
-        "They must be handcuffed throughout the flight."
-      ],
-      "answer": [
-        "The operator and the PiC must be informed about such passengers so that the appropriate security controls can be applied.",
-        "The Operator must have in place a security programme to protect other passengers."
-      ]
     },
     {
       "question": "Each Contracting State should designate an appropriate authority to be responsible for the development, implementation and maintenance of a national aviation security programme. This programme should apply:",
@@ -53121,16 +51660,6 @@
         "Taxiing need not be confined to runways and taxiways."
       ],
       "answer": "Taxiing need not be confined to runways and taxiways."
-    },
-    {
-      "question": "Which of the following elements are included in an ASHTAM?",
-      "choices": [
-        "1, 2, 3 and 4.",
-        "1, 2 and 3.",
-        "1, 2, 3 and 5.",
-        "2, 3 and 4."
-      ],
-      "answer": "1, 2, 3 and 4."
     },
     {
       "question": "Information signs (other than location signs) shall comprise:",
@@ -53361,18 +51890,6 @@
         "Turns are to be made to the right before landing and after take-off."
       ],
       "answer": "Special precautions must be observed in approaching to land or in landing because of the bad state of the manoeuvring area."
-    },
-    {
-      "question": "A section of pavement marked by white crosses after a runway threshold: Mark all correct answers.",
-      "choices": [
-        "Can be used for take-off.",
-        "Cannot be used to increase the LDA.",
-        "Cannot be used to increase the length of the ASDA."
-      ],
-      "answer": [
-        "Cannot be used to increase the LDA.",
-        "Cannot be used to increase the length of the ASDA."
-      ]
     },
     {
       "question": "An aircraft is expected to land at 22:30 UTC. The airport has little traffic. When must ground lights be brought into operation?",
