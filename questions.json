@@ -39770,21 +39770,6 @@
       "answer": "Light wind, little or no cloud, moist air."
     },
     {
-      "question": "The most dangerous zones in and around a single or multi-cell storm are:",
-      "choices": [
-        "The micro/macrobursts and hail from the anvil armpit.",
-        "Within and to the sides of the main updraft core.",
-        "The gust front.",
-        "The overshooting top where ice crystal icing can occur."
-      ],
-      "answer": [
-        "The micro/macrobursts and hail from the anvil armpit.",
-        "The overshooting top where ice crystal icing can occur.",
-        "The gust front.",
-        "Within and to the sides of the main updraft core."
-      ]
-    },
-    {
       "question": "Which of the following is a cause of stratus forming over flat land?",
       "choices": [
         "Radiation during the night from the Earth surface in moderate wind.",
@@ -39804,14 +39789,6 @@
         "SCT"
       ],
       "answer": "SCT"
-    },
-    {
-      "question": "It is formed in __________ atmospheric conditions.",
-      "choices": [
-        "stable",
-        "unstable"
-      ],
-      "answer": "unstable"
     },
     {
       "question": "A strong low level wind that emanates from beneath convective storms and blows radially in all directions is a generic description of __________.",
@@ -40020,16 +39997,6 @@
         "45"
       ],
       "answer": "30"
-    },
-    {
-      "question": "This type of precipitation is called __________ .",
-      "choices": [
-        "stratus",
-        "calvus",
-        "virga",
-        "congestus"
-      ],
-      "answer": "virga"
     },
     {
       "question": "What is mixed ice/opaque Ice and where can it be found?",
@@ -40423,24 +40390,6 @@
       "answer": "very unstable"
     },
     {
-      "question": "TAF EGNT 24241059Z 2412/2512 25010KT 9999 SCT025 BECMG 2421/2423 VRB03KT PROB30 TEMPO 2500/2506 4000 BR BECMG 2509/2512 14010KT Mark all 4 correct answers.",
-      "choices": [
-        "There are 3-4 oktas of cloud at 25000 ft.",
-        "This forecast covers a 24 hr period.",
-        "The wind is not forecast to exceed 10 kt during the period of the forecast.",
-        "The visibility is forecast to be 9.9 km.",
-        "You may expect a runway change at, or after, 0900Z on the 25th.",
-        "This forecast was issued on 24th October.",
-        "The principal hazard is 4 km visibility in mist between midnight and 0600 on the 25th."
-      ],
-      "answer": [
-        "This forecast covers a 24 hr period.",
-        "The wind is not forecast to exceed 10 kt during the period of the forecast.",
-        "The principal hazard is 4 km visibility in mist between midnight and 0600 on the 25th.",
-        "You may expect a runway change at, or after, 0900Z on the 25th."
-      ]
-    },
-    {
       "question": "Associate the facility with the service it provides: Forecasts of tropical cyclones.",
       "choices": [
         "MWO",
@@ -40501,12 +40450,82 @@
       ],
       "answer": "2; Magnetic"
     },
+  {
+    "question": "Which of the following statements concerning the airflow during the summer monsoon is correct?",
+    "choices": [
+      "Easterly airflow over Japan",
+      "South-westerly airflow over India",
+      "Westerly airflow over Japan",
+      "North-easterly airflow over India"
+    ],
+    "answer": "South-westerly airflow over India"
+  },
+  {
+    "question": "How do air masses move at a warm front?",
+    "choices": [
+      "Warm air undercuts a cold air mass.",
+      "Warm air overrides a cold air mass.",
+      "Cold air overrides a warm air mass.",
+      "Cold air undercuts a warm air mass."
+    ],
+    "answer": "Warm air overrides a cold air mass."
+  },
+  {
+    "question": "What is the correct term for the descending air flow in a large high pressure area?",
+    "choices": [
+      "Convergence.",
+      "Convection.",
+      "Subsidence.",
+      "Advection."
+    ],
+    "answer": "Subsidence."
+  },
+  {
+    "question": "The term CAVOK is used when weather conditions are:",
+    "choices": [
+      "8000, HAZARDOUS WX NIL, NOSIG",
+      "9999, NSC, NOSIG",
+      "9000, no clouds, NOSIG",
+      "9999, NSC, NSW"
+    ],
+    "answer": "9999, NSC, NSW"
+  },
+  {
+    "question": "In which month does the humid monsoon in India start?",
+    "choices": [
+      "In December.",
+      "In October.",
+      "In June.",
+      "In March."
+    ],
+    "answer": "In June."
+  },
+  {
+    "question": "Which of the following statements about advantages or disadvantages of IR and visual satellites is true?",
+    "choices": [
+      "High clouds and tops can be hard to see with IR satellites.",
+      "IR satellites are most efficient to detect fog, especially advection fog over the sea.",
+      "Visual satellites are less likely to detect low clouds and fog.",
+      "Low clouds and fog can be hard to see with IR satellites."
+    ],
+    "answer": "Low clouds and fog can be hard to see with IR satellites."
+  },
+  {
+    "question": "What is the approximate height of the subtropical jet stream found over Europe?",
+    "choices": [
+      "20 000 ft",
+      "50 000 ft",
+      "40 000 ft",
+      "30 000 ft"
+    ],
+    "answer": "40 000 ft"
+  },
     {
       "question": "Associate the met product and its description: A briefing service for low level GA aircraft < FL 120..",
       "choices": [
         "GAMET",
         "TAF",
-        "AIR",
+        "AIRMET",
         "MET",
         "SIGMET",
         "SPECI",
@@ -41020,16 +41039,6 @@
         "always higher."
       ],
       "answer": "higher if curvature is anticyclonic."
-    },
-    {
-      "question": "Which 2 of the following statements about airborne weather radar (AWR) is/are correct?",
-      "choices": [
-        "Most modern AWR can detect areas of ice crystal icing.",
-        "Anomalous propagation is a phenomenon which causes CBs to be hidden.",
-        "Antenna pan (sweep) is controlled automatically by the system. Tilt always has to be manually adjusted by the crew.",
-        "Most modern AWR have doppler capability."
-      ],
-      "answer": "Most modern AWR have doppler capability., AWR can only detect returns from liquid water."
     },
     {
       "question": "Atmospheric __________ is mostly caused by rising or sinking air drawing in air from either side.",
@@ -41572,16 +41581,6 @@
       "answer": "60; 200"
     },
     {
-      "question": "This (non-precipitating) cloud type is called __________ .",
-      "choices": [
-        "cumulus",
-        "cirrostratus",
-        "cirrocumulus",
-        "altocumulus"
-      ],
-      "answer": "cumulus"
-    },
-    {
       "question": "Which of the following choices lists only main cloud genera that are mostly the clue for an unstable thermal stratification in the atmosphere?",
       "choices": [
         "Cirrocumulus, altostratus, stratocumulus.",
@@ -41957,7 +41956,7 @@
         "Moderate",
         "Nil",
         "Occasionally Severe",
-        "Light"
+        "Light to moderate"
       ],
       "answer": "Light to moderate"
     },
@@ -41970,16 +41969,6 @@
         "Light to Moderate"
       ],
       "answer": "Light to Moderate"
-    },
-    {
-      "question": "This cloud species is called __________ because it is markedly sprouting and has a bulging upper part.",
-      "choices": [
-        "virga",
-        "cumulonimbus",
-        "congestus",
-        "calvus"
-      ],
-      "answer": "congestus"
     },
     {
       "question": "Which statement is true about the relationship between the water content of different types of winter precipitation and the associated visibility?",
@@ -42197,7 +42186,8 @@
         "Adiabatic cooling (rising air expands and cools).",
         "Mechanical processes (air is forced up by turbulence, mountains or fronts and cools).",
         "Advection (warm, moist air moves over a cooler surface and cools).",
-        "Radiative cooling (surface layers cool at night through net loss of energy)"
+        "Radiative cooling (surface layers cool at night through net loss of energy)",
+        "Sublimation (air sublimates moisture from melting ice crystals and cools)."
       ],
       "answer": "Sublimation (air sublimates moisture from melting ice crystals and cools)."
     },
@@ -42402,16 +42392,6 @@
       "answer": "300"
     },
     {
-      "question": "This cloud type is called __________ .",
-      "choices": [
-        "stratus",
-        "nimbostratus",
-        "cirrocumulus",
-        "cirrostratus"
-      ],
-      "answer": "cirrocumulus"
-    },
-    {
       "question": "Associate the cloud type with the severity of icing likely to be encountered: Ns (near its base).",
       "choices": [
         "Moderate",
@@ -42451,6 +42431,116 @@
       ],
       "answer": "Ahead of a warm front in the winter."
     },
+  {
+    "question": "In which environment is aircraft structural ice most likely to have the highest rate of accretion?",
+    "choices": [
+      "Freezing rain.",
+      "Snow",
+      "Stratus clouds.",
+      "Cirrus clouds."
+    ],
+    "answer": "Freezing rain."
+  },
+  {
+    "question": "The morning following a clear, calm night when the temperature has dropped to the dew point, is likely to produce:",
+    "choices": [
+      "Radiation fog.",
+      "Good clear weather.",
+      "Advection fog.",
+      "A cold front."
+    ],
+    "answer": "Radiation fog."
+  },
+  {
+    "question": "Is common when cold continental air passes over the comparatively warmer ocean in winter in the higher latitudes. Occurs over inland seas, lakes and rivers in winter. Dissipates when the source air becomes warmer. This is a description of __________.",
+    "choices": [
+      "sea smoke and/or steam fog",
+      "radiation fog",
+      "arctic fog",
+      "advection fog"
+    ],
+    "answer": "sea smoke and/or steam fog"
+  },
+  {
+    "question": "Associate the definition and defined term: The visibility at the surface near a runway in the direction of landing.",
+    "choices": [
+      "Met visibility",
+      "RVR",
+      "SVR",
+      "Prevailing visibility"
+    ],
+    "answer": "RVR"
+  },
+  {
+    "question": "Medium clouds usually have a base above __________ and below __________ 000 ft.",
+    "choices": [
+      "4000; 25",
+      "6500; 30",
+      "6500; 23",
+      "4000; 30"
+    ],
+    "answer": "6500; 23"
+  },
+  {
+    "question": "Associate the cloud type with the severity of icing likely to be encountered: Ci, Cc, Cs.",
+    "choices": [
+      "Moderate",
+      "Occasionally Severe",
+      "Light",
+      "Light to Moderate",
+      "Nil"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "question": "In which environment is aircraft structural ice most likely to have the highest rate of accretion?",
+    "choices": [
+      "Snow.",
+      "Stratus clouds.",
+      "Cirrus clouds.",
+      "Freezing rain."
+    ],
+    "answer": "Freezing rain."
+  },
+  {
+    "question": "What kind of turbulence is dependent on the sun's radiation and therefore follows a pronounced diurnal pattern?",
+    "choices": [
+      "Convective turbulence.",
+      "Turbulence induced by wind speed.",
+      "Orographic turbulence.",
+      "Mechanical turbulence."
+    ],
+    "answer": "Convective turbulence."
+  },
+  {
+    "question": "The Earth is normally __________ charged.",
+    "choices": [
+      "neutrally",
+      "negatively",
+      "positively"
+    ],
+    "answer": "negatively"
+  },
+  {
+    "question": "Associate the definition and defined term: The greatest visibility value which is reached within at least half the horizon circle or at least half of the surface of the aerodrome.",
+    "choices": [
+      "RVR",
+      "Met visibility",
+      "SVR",
+      "Prevailing visibility"
+    ],
+    "answer": "Prevailing visibility"
+  },
+  {
+    "question": "From what type of cloud does drizzle fall?",
+    "choices": [
+      "Altostratus",
+      "Cirrostratus",
+      "Cumulus",
+      "Stratus."
+    ],
+    "answer": "Stratus."
+  },
     {
       "question": "What is signified if an occlusion is described as 'cold'?",
       "choices": [
@@ -42546,7 +42636,7 @@
       "choices": [
         "30; 70",
         "30; 50",
-        "10; 50",
+        "10; 70",
         "10; 30"
       ],
       "answer": "10; 70"
@@ -42666,6 +42756,7 @@
       "choices": [
         "It is higher in equatorial regions than in polar regions.",
         "Tropopause temperature is independent of latitude.",
+        "It is higher in polar regions than in equatorial regions.",
         "It is highest in middle latitudes.",
         "It is constant"
       ],
@@ -42685,6 +42776,7 @@
       "question": "Although the large-scale structure of atmospheric circulation varies from year to year (e.g. El Nio/La Nia events), the basic structure remains fairly constant because it is determined by:",
       "choices": [
         "The permanent transport of heat from the equator to higher latitudes by ocean currents such as the Gulf Stream.",
+        "The Earth's rotation rate, the passage of air from high to low pressure, and the unequal heating of land and sea.",
         "Varying solar influx, which is compensated by the specific heat capacity of the continents and seas.",
         "The Coriolis force acting on the atmosphere and the constant temperature profiles over the oceans.",
         "Solar influx only"
@@ -43092,6 +43184,26 @@
       "answer": "Frontal"
     },
     {
+     "question": "Which of the following instruments can be used for measuring the atmospheric humidity:\n1. A hygrometer.\n2. A pair of wet and dry thermometers.\n3. A psychrometer.",
+     "choices": [
+        "A pair of wet and dry thermometers.",
+       "A psychrometer.",
+       "A hygrometer.",
+       "All of them."
+     ],
+      "answer": "All of them."
+     },
+     {
+      "question": "A trough line is marked as a black line on low level significant weather charts and surface pressure charts because:",
+       "choices": [
+         "It isn't a sufficiently significant feature to warrant being drawn with isobars.",
+         "It signifies an area of abnormally high wind speeds.",
+         "It is a useful area for navigation thanks to the relatively calm, clear skies it produces.",
+         "It signifies a line of convergence/convective weather which might otherwise not be apparent from the isobar pattern."
+       ],
+       "answer": "It signifies a line of convergence/convective weather which might otherwise not be apparent from the isobar pattern."
+     },
+    {
       "question": "In the Siberian __________ the tropopause exists at about FL 220.",
       "choices": [
         "summer",
@@ -43246,6 +43358,7 @@
       "choices": [
         "FL150",
         "FL300",
+        "FL600",
         "FL450",
         "FL250"
       ],
@@ -43522,42 +43635,12 @@
       "answer": "Stratosphere."
     },
     {
-      "question": "This type of precipitation is called __________.",
-      "choices": [
-        "stratus",
-        "calvus",
-        "virga",
-        "congestus"
-      ],
-      "answer": "virga"
-    },
-    {
-      "question": "This (precipitating) cloud type is called __________.",
-      "choices": [
-        "altocumulus",
-        "nimbostratus",
-        "cumulonimbus",
-        "cirrostratus"
-      ],
-      "answer": "cumulonimbus"
-    },
-    {
       "question": "In frontal thunderstorms storms __________ are normally high and continuous along the frontal surface.",
       "choices": [
         "warm front",
         "cold front"
       ],
       "answer": "cold front"
-    },
-    {
-      "question": "This cloud type is called __________.",
-      "choices": [
-        "cumulus",
-        "altostratus",
-        "cirrocumulus",
-        "altocumulus"
-      ],
-      "answer": "altocumulus"
     },
     {
       "question": "If a SCWD instantly freezes on contact with the airframe, it usually forms __________ ice.",
@@ -43669,14 +43752,6 @@
         "sea smoke"
       ],
       "answer": "sea smoke"
-    },
-    {
-      "question": "It is formed in __________ atmospheric conditions.",
-      "choices": [
-        "stable",
-        "unstable"
-      ],
-      "answer": "stable"
     },
     {
       "question": "The RVR stop-end measurement is normally taken about __________ m from the end of the runway.",
@@ -43851,16 +43926,6 @@
         "METAR"
       ],
       "answer": "AIRMET"
-    },
-    {
-      "question": "The image on a modern airborne weather radar (AWR) shows a hook shape. What can be concluded?",
-      "choices": [
-        "The image indicates the presence of a jet stream.",
-        "This is the anvil of a CB without an indication of turbulence.",
-        "The cloud is approaching with a light wind.",
-        "The image is a hint to the presence of a severe storm."
-      ],
-      "answer": "The image is a hint to the presence of a severe storm."
     },
     {
       "question": "Most mid-latitude depressions move from __________ in __________.",
@@ -47910,6 +47975,1409 @@
     }
   ],
   "ALW": [
+  {
+    "question": "An in-flight event occurs in which the crew need to use emergency oxygen for 5 minutes. Under EU 996/2010 this is classified as:",
+    "choices": [
+      "An occurrence.",
+      "A near accident.",
+      "An incident.",
+      "A serious incident."
+    ],
+    "answer": "A serious incident."
+  },
+  {
+    "question": "The initial actions of the PIC of an aircraft subject to unlawful interference are:",
+    "choices": [
+      "Only use ADS-B or CPDLC to try to alter the ATSU in secret.",
+      "Slowly change heading and height (to avert suspicion) to head towards a suitable aerodrome.",
+      "Land as soon as possible.",
+      "Try to notify the ATSU controlling the flight.",
+      "Fly the assigned track.",
+      "Fly at a cruising level 500 ft different for the assigned one.",
+      "Land as soon as practicable.",
+      "Try to notify the ATSU controlling the flight.",
+      "Fly the assigned track and cruising level at least until able to notify an ATS unit or within ADS-B or radar coverage.",
+      "Land as soon as practicable.",
+      "Try to notify the ATSU controlling the flight.",
+      "Divert as soon as possible to the first available suitable airfield."
+    ],
+    "answer": "Try to notify the ATSU controlling the flight. Fly the assigned track and cruising level at least until able to notify an ATS unit or within ADS-B or radar coverage. Land as soon as practicable."
+  },
+  {
+    "question": "The term 'Cabotage' refers to:",
+    "choices": [
+      "Domestic air services.",
+      "A national air carrier.",
+      "A flight above territorial waters.",
+      "Crop spraying."
+    ],
+    "answer": "Domestic air services."
+  },
+  {
+    "question": "Unaccompanied baggage to be carried by air shall be cleared under the procedures applicable for:",
+    "choices": [
+      "accompanied baggage, or under another simplified customs procedure distinct from that normally applied to cargo.",
+      "cargo when covered by a traffic document.",
+      "cargo but the requested customs clearance documents provided by airlines shall be completed by the passenger prior to shipment.",
+      "cargo but shall be not subject to any kind of declaration forms."
+    ],
+    "answer": "accompanied baggage, or under another simplified customs procedure distinct from that normally applied to cargo."
+  },
+  {
+    "question": "A Boeing 737 suffers a catastrophic engine failure on take-off. Under EU 996/2010 this __________ classified as an accident.",
+    "choices": [
+      "Is",
+      "is not"
+    ],
+    "answer": "is not"
+  },
+  {
+    "question": "According to the ICAO definition, if an aircraft is missing or is completely inaccessible:",
+    "choices": [
+      "This is classified as an incident.",
+      "This is classified as an accident.",
+      "This is classified as a serious incident.",
+      "This is classified as an uncertainty phase."
+    ],
+    "answer": "This is classified as an accident."
+  },
+  {
+    "question": "When establishing security at an airport, what are the objectives (general principles) with regard to ICAO Annex 17?",
+    "choices": [
+      "Each Contracting State shall have as its primary objective the safety of the general public in all matters related to safeguarding against acts of unlawful interference with civil aviation.",
+      "Each Contracting State shall have as its primary objective the safety of passengers, crew and ground personnel in all matters related to safeguarding against acts of unlawful interference with civil aviation.",
+      "Each Contracting State shall have as its primary objective the safety of passengers, crew, ground personnel and the general public in all matters related to safeguarding against acts of unlawful interference with civil aviation.",
+      "Each Contracting State shall have as its primary objective the safety of passengers and crew in all matters related to safeguarding against acts of unlawful interference with civil aviation."
+    ],
+    "answer": "Each Contracting State shall have as its primary objective the safety of passengers, crew, ground personnel and the general public in all matters related to safeguarding against acts of unlawful interference with civil aviation."
+  },
+  {
+    "question": "Safeguarding civil aviation against acts of unlawful interference. This objective is achieved by a combination of measures and human and material resources' this is a definition of:",
+    "choices": [
+      "Screening.",
+      "The national security committee.",
+      "The Operator's security programme.",
+      "Security."
+    ],
+    "answer": "Security."
+  },
+  {
+    "question": "To which state shall the final report of an accident or serious incident be sent to with minimum delay?",
+    "choices": [
+      "1, 2, 3, 4, 5 is correct.",
+      "1, 2, 3, 4 is correct.",
+      "1, 2, 4, 5 is correct.",
+      "2, 3, 4, 5 is correct."
+    ],
+    "answer": "1, 2, 3, 4 is correct."
+  },
+  {
+    "question": "After landing, while taxiing the landing gear sinks into a hole. No person gets injured, but the aircraft sustains structural failure, which delays the departure. Which of the following correctly describes the situation and following action:",
+    "choices": [
+      "This is an accident. The crew must follow the procedure relevant to this case.",
+      "This is a technical incident. Since there is no person injured and the flight is terminated, a damage report has to be made out for the respective insurance company.",
+      "This is an incident. The pilot-in-command must report it to the airport authority within the next 48 hours.",
+      "This is an irregularity in the operation. The crew must inform the operator of the aerodrome and establish a report."
+    ],
+    "answer": "This is an accident. The crew must follow the procedure relevant to this case."
+  },
+  {
+    "question": "States should accept the CMC as an alternative to a passport or visa:",
+    "choices": [
+      "While at an airport where the aircraft has landed (or in an adjacent city).",
+      "At any time or location while the crew member is on duty.",
+      "When the crew member arrives for duty on another flight, even by another operator.",
+      "Only while the crew member is 'airside' at an airport."
+    ],
+    "answer": "While at an airport where the aircraft has landed (or in an adjacent city)."
+  },
+  {
+    "question": "Each Contracting State shall ensure that the appropriate authority arranges for the supporting resources and facilities required by the national civil aviation security programme to be available at:",
+    "choices": [
+      "Each airport serving civil aviation.",
+      "Airports that are perceived as being under increased threat of acts of unlawful interference.",
+      "Any airport identified as having a poor safety record.",
+      "Every airport that can accommodate jet aircraft."
+    ],
+    "answer": "Each airport serving civil aviation."
+  },
+  {
+    "question": "ICAO Annex 17 comprises rules for establishing security measures for passengers with regards to:",
+    "choices": [
+      "Cabin baggage, checked baggage, cargo and other goods, access control and airport design.",
+      "Cabin baggage, checked baggage, cargo and other goods and access control.",
+      "Passengers and their baggage.",
+      "Cabin baggage and checked baggage and cargo."
+    ],
+    "answer": "Cabin baggage, checked baggage, cargo and other goods, access control and airport design."
+  },
+  {
+    "question": "Those areas of the airside of an airport which are identified as priority risk areas where in addition to access control, other security controls are applied. Such areas will normally include, inter alia, all commercial aviation passenger departure areas between the screening checkpoint and the aircraft, the ramp, baggage make-up areas, including those where aircraft are being brought into service and screened baggage and cargo are present, cargo sheds, mail centres, airside catering and aircraft cleaning premises' this is a definition of:",
+    "choices": [
+      "Landside.",
+      "A security-restricted area.",
+      "Airside.",
+      "The passenger departure lounge."
+    ],
+    "answer": "A security-restricted area."
+  },
+  {
+    "question": "ICAO Annex 13 sets out SARPs for dealing with:",
+    "choices": [
+      "Aircraft Accident and Incident Investigation.",
+      "Air Traffic Services.",
+      "The Safe Transport of Dangerous Goods by Air.",
+      "Facilitation."
+    ],
+    "answer": "Aircraft Accident and Incident Investigation."
+  },
+  {
+    "question": "According to ICAO Annex 17, 'Security' is a combination of measures:",
+    "choices": [
+      "Intended to safeguard civil aviation against acts of unlawful interference.",
+      "To disable hijackers or would-be hijackers.",
+      "To safeguard civil aviation against acts of unlawful interference. This objective is achieved by a combination of measures and human and material resources.",
+      "To defend passenger and their baggage from terrorists."
+    ],
+    "answer": "To safeguard civil aviation against acts of unlawful interference. This objective is achieved by a combination of measures and human and material resources."
+  },
+  {
+    "question": "When a passenger is obliged to travel due to judicial proceedings, each Contracting State shall ensure that",
+    "choices": [
+      "The pilot-in-command is informed.",
+      "The aircraft operator is asked for permission and the pilot-in-command is informed.",
+      "The aircraft operator and the pilot-in-command are asked for permission.",
+      "The aircraft operator and the pilot-in-command are informed."
+    ],
+    "answer": "The aircraft operator and the pilot-in-command are informed."
+  },
+  {
+    "question": "The sole objective of the investigation of an accident or incident is to:",
+    "choices": [
+      "Prevent accidents or incidents and to establish liability.",
+      "Prevent accidents or incidents and to provide the manufacturer with investigation data for the improvement of the design.",
+      "Prevent accidents or incidents.",
+      "Prevent accidents or incidents and to provide legal evidence for subsequent court cases."
+    ],
+    "answer": "Prevent accidents or incidents."
+  },
+  {
+    "question": "ICAO Annex 17 comprises rules for establishing security measures for passengers with regards to:",
+    "choices": [
+      "Cabin baggage, checked baggage, cargo and other goods and access control.",
+      "Cabin baggage, checked baggage, cargo and other goods, access control and airport design.",
+      "Cabin baggage and checked baggage and cargo.",
+      "Passengers and their baggage."
+    ],
+    "answer": "Cabin baggage, checked baggage, cargo and other goods, access control and airport design."
+  },
+  {
+    "question": "The pilot designated by the operator, or in the case of general aviation, the owner, as being in command and charged with the safe conduct of a flight' is a definition of:",
+    "choices": [
+      "A crew member.",
+      "A pilot in command (PIC).",
+      "A first officer.",
+      "A captain."
+    ],
+    "answer": "A pilot in command (PIC)."
+  },
+  {
+    "question": "ICAO Annex 7 defines the State of Registry as the State:",
+    "choices": [
+      "In which the lessor is registered.",
+      "On whose register the aircraft is entered.",
+      "In which the aircraft is based.",
+      "In which the aircraft operator is registered."
+    ],
+    "answer": "On whose register the aircraft is entered."
+  },
+  {
+    "question": "Who is responsible for initiating an accident investigation?",
+    "choices": [
+      "The State of Design and Manufacturer.",
+      "The aircraft manufacturer.",
+      "The Authority of the State in which the accident took place.",
+      "The Operators of the same aircraft type."
+    ],
+    "answer": "The Authority of the State in which the accident took place."
+  },
+  {
+    "question": "According to ICAO Annex 12, what does Rescue Coordination Centre mean?",
+    "choices": [
+      "A unit responsible for promoting efficient organisation of search and rescue services and for coordinating the conduct of search and rescue operations within a search and rescue region.",
+      "A unit performing distress monitoring, communication, coordination and search and rescue functions, initial medical assistance or medical evacuation, through the use of public and private resources, including cooperating aircraft, vessels and other craft and installations.",
+      "A mobile resource composed of trained personnel and provided with equipment suitable for the expeditious conduct of search and rescue operations.",
+      "A unit retrieving persons in distress, providing for their initial medical or other needs, and delivering them to a place of safety."
+    ],
+    "answer": "A unit responsible for promoting efficient organisation of search and rescue services and for coordinating the conduct of search and rescue operations within a search and rescue region."
+  },
+  {
+    "question": "Under EU law, the responsibility for setting up a voluntary reporting system to collect information which may have been missed by the mandatory reporting system rests with:",
+    "choices": [
+      "EASA.",
+      "The European Commission.",
+      "IATA.",
+      "Each Contracting State."
+    ],
+    "answer": "Each Contracting State."
+  },
+  {
+    "question": "The commander of a flight may:",
+    "choices": [
+      "Require crew-members to assist with the restraint of very unruly passengers and request the assistance of passengers.",
+      "Not intervene during cabin crew actions when cabin crew are dealing with an unruly passenger.",
+      "Require crew-members to assist with the restraint of very unruly passengers and require the assistance of passengers.",
+      "Request crew-members to assist with the restraint of very unruly passengers and request the assistance of passengers."
+    ],
+    "answer": "Require crew-members to assist with the restraint of very unruly passengers and request the assistance of passengers."
+  },
+  {
+    "question": "Which of these statements about the carriage of armed law enforcement officers is/are true? Mark all corrrect answers.",
+    "choices": [
+      "Only after agreement by all States involved is such travel allowed.",
+      "The Operator (but not the PiC) must be notified as to the number of armed persons and their seat locations.",
+      "In-flight security officers must be specially selected and trained."
+    ],
+    "answer": [
+      "Only after agreement by all States involved is such travel allowed.",
+      "In-flight security officers must be specially selected and trained."
+    ]
+  },
+  {
+    "question": "At night you observe ground signals from survivors of a disaster. What do you do to indicate that you have seen and understood the signals?",
+    "choices": [
+      "Turn off the anti-collision light.",
+      "Flash your landing lights or navigation lights on and off twice.",
+      "Rock the wings.",
+      "Make a low pass over the survivors."
+    ],
+    "answer": "Flash your landing lights or navigation lights on and off twice."
+  },
+  {
+    "question": "If you are the first aircraft to arrive at an area where an accident has happened, before search and rescue services arrive:",
+    "choices": [
+      "You continue your flight because all aircraft have ELTs.",
+      "You must stay at the location of the accident and take charge and coordinate the rescue efforts.",
+      "You descend in intervals of 10 minutes.",
+      "You descend to 1000 ft and circle at the location of occurrence north to south."
+    ],
+    "answer": "You must stay at the location of the accident and take charge and coordinate the rescue efforts."
+  },
+  {
+    "question": "Why must the airline issue a ticket?",
+    "choices": [
+      "Official identification documents of the pax.",
+      "To establish a contract.",
+      "To document that a flight has been made.",
+      "To ensure that, if the passenger fails to attend the flight, he/she has the right to board another flight."
+    ],
+    "answer": "To establish a contract."
+  },
+  {
+    "question": "States must provide assistance to an aircraft subjected to an act of unlawful seizure. This includes:",
+    "choices": [
+      "Provision of navigation aids, air traffic services, permission to land and refuelling.",
+      "Provision of navigation aids, air traffic services and permission to land.",
+      "Provision of navigation aids, air traffic services, permission to land and catering for passengers.",
+      "Only permission to land."
+    ],
+    "answer": "Provision of navigation aids, air traffic services and permission to land."
+  },
+  {
+    "question": "Which frequencies are used for emergency operations by SAR aircraft?",
+    "choices": [
+      "119.7 MHz and 6182 MHz.",
+      "121.5 MHz and 243.0 MHz.",
+      "121.5 MHz and 243.0 kHz.",
+      "119.7 MHz and 2182 kHz."
+    ],
+    "answer": "121.5 MHz and 243.0 MHz."
+  },
+  {
+    "question": "The objects not allowed (for reasons of aviation security) on board an aircraft are: Mark all correct answers.",
+    "choices": [
+      "Explosives.",
+      "Dangerous devices and substances.",
+      "Matches.",
+      "Alcohol in containers of 5L or more."
+    ],
+    "answer": [
+      "Explosives.",
+      "Dangerous devices and substances.",
+      "Alcohol in containers of 5L or more."
+    ]
+  },
+  {
+    "question": "When flying en-route you intercept an emergency transmission from an aircraft in distress. Your actions will include, where possible:",
+    "choices": [
+      "Record the position of the craft in distress if given. Enter a holding pattern and await instructions.",
+      "Recording the bearing of the transmission, While awaiting instructions, proceed to the position given in the transmission.",
+      "Record the position of the craft in distress if given. If possible take a bearing on the transmission. Inform the appropriate RCC or ATC Unit. At his discretion, while awaiting instructions, proceed to the position given in the transmission.",
+      "Hold current position while coordinating the SAR operation."
+    ],
+    "answer": "Record the position of the craft in distress if given. If possible take a bearing on the transmission. Inform the appropriate RCC or ATC Unit. At his discretion, while awaiting instructions, proceed to the position given in the transmission."
+  },
+  {
+    "question": "A passenger has lost his/her ticket, which was issued by an airline. In this case:",
+    "choices": [
+      "The contract of carriage is NOT affected.",
+      "A penalty fee will be applied, depending on the number of available seats on the aircraft.",
+      "The passenger must buy another ticket for the same flight.",
+      "The airline CANNOT carry the passenger to his/her destination."
+    ],
+    "answer": "The contract of carriage is NOT affected."
+  },
+  {
+    "question": "“You’re flying from the USA to Germany. Overhead UK, you’re told that you are no longer allowed to enter Germany. All the above countries signed the International Aviation Convention. This situation is…",
+    "choices": [
+      "Legal, because a country has the right to withdraw permission to enter.",
+      "Legal, because the US is not part of EASA.",
+      "Illegal, because a permission to enter cannot be withdrawn once given.",
+      "Illegal, because they signed the convention and therefore are obliged to permit the aircraft to land."
+    ],
+    "answer": "Legal, because a country has the right to withdraw permission to enter."
+  },
+  {
+    "question": "Aircraft subject to unlawful interference will be given taxi routes which:",
+    "choices": [
+      "Minimise the risk to the public, other aircraft and airport installations.",
+      "Minimise the risk to the counter-terrorism forces.",
+      "Are not visible from areas containing passengers.",
+      "Avoid all runways."
+    ],
+    "answer": "Minimise the risk to the public, other aircraft and airport installations."
+  },
+  {
+    "question": "The units responsible for promoting the efficient organisation of search and rescue services are:",
+    "choices": [
+      "Area control centre, flight information centre and rescue coordination centre.",
+      "Rescue coordination centre and rescue sub-centres.",
+      "Alerting centre and rescue coordination centre.",
+      "Flight information centre and rescue coordination centre."
+    ],
+    "answer": "Rescue coordination centre and rescue sub-centres."
+  },
+  {
+    "question": "According to ICAO Annex 17, to what does the following definition correspond to? \"An inspection of the interior of an aircraft to which passengers may have had access and an inspection of the hold for the purposes of discovering suspicious objects, weapons, explosives or other dangerous devices, articles and substances.\"",
+    "choices": [
+      "Aircraft security check.",
+      "Screening.",
+      "Security control.",
+      "Aircraft pre-flight check."
+    ],
+    "answer": "Aircraft security check."
+  },
+  {
+    "question": "Where unaccompanied baggage is to be carried on board an aircraft:",
+    "choices": [
+      "Quarantine procedures need to be applied.",
+      "Additional security measures need to be applied.",
+      "The baggage must be physically searched before loading aboard the aircraft.",
+      "The baggage is to be placed in a secure and isolated area in the baggage hold."
+    ],
+    "answer": "Additional security measures need to be applied."
+  },
+  {
+    "question": "An aircraft designed and manufactured in the United States of America (USA), registered and operated in the United Kingdom (UK), and having a maximum mass of 10 tonnes, crashes in France. According to ICAO Annex 13 \"Aircraft Accident and incident investigation\", which State/organisation(s) must be notified of the accident and by whom?",
+    "choices": [
+      "The USA must notify the UK, France, and ICAO.",
+      "The UK must notify France, the USA, and ICAO.",
+      "The USA, the UK, and France must be notified by ICAO.",
+      "France must notify the UK, the USA, and ICAO."
+    ],
+    "answer": "France must notify the UK, the USA, and ICAO."
+  },
+  {
+    "question": "SAR must be available:",
+    "choices": [
+      "18 hours a day.",
+      "24 hours a day.",
+      "2 hours before, during and 2 hours after a flight.",
+      "When traffic is passing the airspace."
+    ],
+    "answer": "24 hours a day."
+  },
+  {
+    "question": "A person, organisation or enterprise engaged in or offering to engage in an aircraft operation' is a definition of:",
+    "choices": [
+      "An operator.",
+      "An airport.",
+      "A pilot in command.",
+      "A crew member."
+    ],
+    "answer": "An operator."
+  },
+  {
+    "question": "With regards to Search and Rescue Signals what does the signal 'N' mean?",
+    "choices": [
+      "All personnel found.",
+      "Unable to continue - returning to base.",
+      "No or negative.",
+      "Nothing found, continuing search."
+    ],
+    "answer": "No or negative."
+  },
+  {
+    "question": "Which one of the following occurrences should be voluntarily reported?",
+    "choices": [
+      "Debris in walkway.",
+      "Crew incapacitation.",
+      "Collisions, near collisions or potential for collisions.",
+      "Structural defects."
+    ],
+    "answer": "Debris in walkway."
+  },
+  {
+    "question": "A secure flight crew compartment door is mandatory on all aircraft with: Mark all correct answers.",
+    "choices": [
+      "A passenger seating capacity > 60.",
+      "An MCTOM > 45 500 kg with a passenger seating capacity > 19.",
+      "An MCTOM > 60 000 kg."
+    ],
+    "answer": [
+      "An MCTOM > 45 500 kg with a passenger seating capacity > 19.",
+      "A passenger seating capacity > 60."
+    ]
+  },
+  {
+    "question": "The approach lighting system ends at:",
+    "choices": [
+      "The runway aiming point.",
+      "The runway threshold.",
+      "The start of the runway.",
+      "The start of the runway TDZ marks."
+    ],
+    "answer": "The runway threshold."
+  },
+  {
+    "question": "A white dumb-bell with black perpendicular bars at each end indicates that:",
+    "choices": [
+      "Taxiing need not be confined to the taxiways.",
+      "This aerodrome is using parallel runways.",
+      "Glider flying is performed outside the landing area.",
+      "Landing, take-off and taxiing is allowed on runway and/or taxiway only."
+    ],
+    "answer": "Taxiing need not be confined to the taxiways."
+  },
+  {
+    "question": "When would TODA, TORA, ASDA and LDA be equal?",
+    "choices": [
+      "Where there is no displaced threshold, no stopway and no clearway.",
+      "Where there is no displaced threshold.",
+      "Where there is no stopway and no clearway.",
+      "Where there is no displaced threshold and no clearway."
+    ],
+    "answer": "Where there is no displaced threshold, no stopway and no clearway."
+  },
+  {
+    "question": "What colours are required to be produced by a signalling lamp?",
+    "choices": [
+      "White, blue and green.",
+      "Red, white and blue.",
+      "Green, red and white.",
+      "Blue, green and red."
+    ],
+    "answer": "Green, red and white."
+  },
+  {
+    "question": "What colour are emergency vehicles used on the manoeuvring area of an aerodrome?",
+    "choices": [
+      "Orange.",
+      "Green.",
+      "A single conspicuous colour, preferably red or yellowish green.",
+      "White and red chequered."
+    ],
+    "answer": "A single conspicuous colour, preferably red or yellowish green."
+  },
+  {
+    "question": "Low intensity, flashing yellow lights are used to indicate the presence of:",
+    "choices": [
+      "An obstacle < 45 m high.",
+      "An obstacle > 150 m high.",
+      "Rescue and fire flighting vehicles not engaged in emergency operations.",
+      "Cars and other vehicles."
+    ],
+    "answer": "Cars and other vehicles."
+  },
+  {
+    "question": "The process by which operationally significant information is updated and distributed 42 days in advance of its effective date is known as:",
+    "choices": [
+      "The AIRAC cycle.",
+      "NOTAMs.",
+      "The AIP supplement cycle.",
+      "The ENR cycle.."
+    ],
+    "answer": "The AIRAC cycle."
+  },
+  {
+    "question": "In relation to aerodromes, which of the following is included in the Aeronautical Information Service (AIS) and notified to aircrew as part of the pre-flight information?",
+    "choices": [
+      "Delays due to overcrowding experienced in the terminal.",
+      "Maintenance problems in the refuelling area.",
+      "An increased security level.",
+      "Failure of the secondary power supply."
+    ],
+    "answer": "Failure of the secondary power supply."
+  },
+  {
+    "question": "If runway centreline lights are installed on a runway with a length of 1800 m or more, they have the following colours in the last 900 m segment from the runway end:",
+    "choices": [
+      "Alternate red and white from 900 m to 300 m and red from 300 m to the runway end.",
+      "White from 900 m to 300 m and alternate red and white from 300 m to the runway end.",
+      "White from 900 m to 300 m and red from 300 m to the runway end.",
+      "Alternate red and white from 900 m to 300 m and white from 300 m to the runway end."
+    ],
+    "answer": "Alternate red and white from 900 m to 300 m and red from 300 m to the runway end."
+  },
+  {
+    "question": "Low intensity obstacle lights on vehicles other than those associated with emergency or security shall be:",
+    "choices": [
+      "Flashing yellow.",
+      "Fixed red.",
+      "Flashing blue.",
+      "Fixed blue."
+    ],
+    "answer": "Flashing yellow."
+  },
+  {
+    "question": "According to ICAO annex 14, a simple approach lighting system should consist of a row of lights along the centre line extending from the threshold and also a row of lights forming a crossbar. What is the minimum distance along the centerline that must be fitted with lights?",
+    "choices": [
+      "300 m",
+      "420 m",
+      "600 m",
+      "150 m"
+    ],
+    "answer": "420 m"
+  },
+  {
+    "question": "A right-hand arrow of conspicuous colour indicates:",
+    "choices": [
+      "The position of the aerodrome reference point / arp.",
+      "That turns are to be made to the right before landing and after take off.",
+      "That 180° turns on the runway for backtrack have to be made to the right.",
+      "That turns in the aerodrome circuit have to be made to the left, but gliders have to make the turns to the right."
+    ],
+    "answer": "That turns are to be made to the right before landing and after take off."
+  },
+  {
+    "question": "With respect to an ASHTAM, which colour code is used when a volcanic eruption is in progress, ash plume/cloud is exported above FL250 or when the volcano is dangerous or eruption is likely, with an ash plume/cloud expected to rise above FL250.",
+    "choices": [
+      "Red.",
+      "Green.",
+      "Yellow.",
+      "Orange."
+    ],
+    "answer": "Red."
+  },
+  {
+    "question": "The RESA is situated:",
+    "choices": [
+      "At the end of TODA.",
+      "At the end of TORA.",
+      "Between the end of the runway and the runway strip.",
+      "At each end of the runway strip."
+    ],
+    "answer": "At each end of the runway strip."
+  },
+  {
+    "question": "The stopway is an area beyond the runway which can used for deceleration in the event of a rejected take-off. It must be:",
+    "choices": [
+      "Twice the width of the runway strip.",
+      "The same width as the runway strip.",
+      "No wider than the runway.",
+      "At least half the runway width."
+    ],
+    "answer": "The same width as the runway strip."
+  },
+  {
+    "question": "You __________ manoeuvre of a section of runway marked with large yellow chevrons.",
+    "choices": [
+      "May",
+      "Must not"
+    ],
+    "answer": "Must not"
+  },
+  {
+    "question": "Which of the following elements are included in an ASHTAM?",
+    "choices": [
+      "1, 2, 3 and 4.",
+      "2, 3 and 4.",
+      "1, 2 and 3.",
+      "1, 2, 3 and 5."
+    ],
+    "answer": "1, 2, 3 and 4."
+  },
+  {
+    "question": "In a precision approach Category I lighting system, the single, 2 and 3 light sources on the centre line have a length of:",
+    "choices": [
+      "150 m.",
+      "300 m.",
+      "250 m.",
+      "200 m."
+    ],
+    "answer": "300 m."
+  },
+  {
+    "question": "Taxiway centreline lights other than an exit taxiway are:",
+    "choices": [
+      "Fixed lights showing white.",
+      "Fixed lights showing blue.",
+      "Fixed lights showing green.",
+      "Fixed lights showing yellow."
+    ],
+    "answer": "Fixed lights showing green."
+  },
+  {
+    "question": "A Runway Condition Code of 0 has an estimated braking action of LESS THAN POOR. What braking action and directional control can be expected in this situation?",
+    "choices": [
+      "Braking deceleration is minimal or non-existent or directional control is uncertain.",
+      "Significantly reduced braking action but directional control is unaffected.",
+      "Noticeably reduced braking action and directional control significantly unaffected.",
+      "Braking deceleration is significantly reduced and directional control is uncertain."
+    ],
+    "answer": "Braking deceleration is minimal or non-existent or directional control is uncertain."
+  },
+  {
+    "question": "What is the objective of the Aeronautical Information Service (AIS)? – To provide?",
+    "choices": [
+      "an Air Traffic Control Service.",
+      "aeronautical data and information.",
+      "radio navigation aids.",
+      "data on aircraft performance and limitations."
+    ],
+    "answer": "aeronautical data and information."
+  },
+  {
+    "question": "An aircraft is moving on the apron. What marking is used to warn the pilot that the shoulders of the surface are non-load-bearing?",
+    "choices": [
+      "One solid line in the same colour as the taxiway centre line marking.",
+      "One solid line in the same colour as the runway centre line marking.",
+      "A pair of solid lines in the same colour as the taxiway centre line. marking.",
+      "A pair of solid lines in the same colour as the runway centre line marking."
+    ],
+    "answer": "A pair of solid lines in the same colour as the taxiway centre line. marking."
+  },
+  {
+    "question": "The abbreviation PAPI stands for:",
+    "choices": [
+      "Precision Approach Path Index.",
+      "Precision Approach Power Index.",
+      "Precision Approach Power Indicator.",
+      "Precision Approach Path Indicator."
+    ],
+    "answer": "Precision Approach Path Indicator."
+  },
+  {
+    "question": "Intermediate taxiway holding positions are placed:",
+    "choices": [
+      "Usually at the intersection of taxiways and runways.",
+      "At the intersection of taxiways and stopways.",
+      "Only at the intersection of taxiways and road holding positions",
+      "Wherever it is desirable to define a holding position anywhere along the taxiway"
+    ],
+    "answer": "Wherever it is desirable to define a holding position anywhere along the taxiway"
+  },
+  {
+    "question": "ICAO recommend that AICs are colour coded. What colour is applicable to Operational matters including ATS facilities?",
+    "choices": [
+      "Pink.",
+      "Mauve.",
+      "Green.",
+      "Yellow."
+    ],
+    "answer": "Yellow."
+  },
+  {
+    "question": "When should the AIS be available for a flight?",
+    "choices": [
+      "For at least the entire period of the flight plus 30 mins before and after the flight.",
+      "For the entire period of the flight.",
+      "For at least the entire period of the flight plus 2 hours before and after the flight.",
+      "There is no requirement for it to be available."
+    ],
+    "answer": "For at least the entire period of the flight plus 2 hours before and after the flight."
+  },
+  {
+    "question": "What is issued when snow, ice or standing water are contaminating a runway?",
+    "choices": [
+      "ASHTAM.",
+      "A series of NOTAMs.",
+      "METAR.",
+      "SNOWTAM."
+    ],
+    "answer": "SNOWTAM."
+  },
+  {
+    "question": "Runway threshold lights are:",
+    "choices": [
+      "Fixed unidirectional lights showing green in the direction of approach to the runway.",
+      "Fixed unidirectional lights showing white in the direction of approach to the runway.",
+      "Fixed lights green colours.",
+      "Fixed lights showing green or white colours."
+    ],
+    "answer": "Fixed unidirectional lights showing green in the direction of approach to the runway."
+  },
+  {
+    "question": "Identify the correct statement about this image.",
+    "choices": [
+      "This is a Pattern A marking denoting a CAT I or non-precision runway holding position.",
+      "This is a Pattern A marking denoting a CAT II or CAT II precision runway holding position.",
+      "This is a Pattern B marking denoting a CAT I or non-precision runway holding position.",
+      "This is a Pattern B marking denoting a CAT II or CAT II precision runway holding position."
+    ],
+    "answer": "This is a Pattern B marking denoting a CAT II or CAT II precision runway holding position."
+  },
+  {
+    "question": "An integrated aeronautical information package comprises which of the following elements?",
+    "choices": [
+      "AIP, supplements to the AIP; NOTAMs and PIBs; AICs and checklist summaries.",
+      "AIP, including an amendment service, supplements to the AIP; NOTAMs and pre-flight information bulletins (PIB); AIC and checklists and lists of valid NOTAMs.",
+      "AIP, including an amendment service, supplements to the AIP; NOTAMs; AICs and AIRACs.",
+      "AIP, including an amendment service, supplements to the AIP; NOTAMs; AICs and checklist summaries."
+    ],
+    "answer": "AIP, including an amendment service, supplements to the AIP; NOTAMs and pre-flight information bulletins (PIB); AIC and checklists and lists of valid NOTAMs."
+  },
+  {
+    "question": "The length of runway declared available and suitable for the ground run of an aeroplane taking off is the:",
+    "choices": [
+      "TODA.",
+      "ASDA.",
+      "LDA",
+      "TORA."
+    ],
+    "answer": "TORA."
+  },
+  {
+    "question": "How wide must a stopway be?",
+    "choices": [
+      "Half as wide as the associated runway.",
+      "The same width as the runway strip.",
+      "As wide as the associated runway strip.",
+      "As wide as the obstacle-free zone."
+    ],
+    "answer": "The same width as the runway strip."
+  },
+  {
+    "question": "An aerodrome beacon must be provided if the aerodrome is used for night operations and if: Mark all correct answers.",
+    "choices": [
+      "Reduced visibilities are frequent.",
+      "The aerodrome is frequently used by IFR traffic.",
+      "It’s difficult to locate the aerodrome due to surrounding lights/terrain."
+    ],
+    "answer": [
+      "Reduced visibilities are frequent.",
+      "It’s difficult to locate the aerodrome due to surrounding lights/terrain."
+    ]
+  },
+  {
+    "question": "Taxiway centreline are marked with:",
+    "choices": [
+      "A single dashed yellow line.",
+      "A series of green retroflective strips.",
+      "A single solid yellow line.",
+      "A double solid yellow line."
+    ],
+    "answer": "A single solid yellow line."
+  },
+  {
+    "question": "A section of pavement marked by white crosses after a runway threshold: Mark all correct answers.",
+    "choices": [
+      "Cannot be used to increase the length of the ASDA.",
+      "Can be used for take-off.",
+      "Cannot be used to increase the LDA."
+    ],
+    "answer": [
+      "Cannot be used to increase the LDA.",
+      "Cannot be used to increase the length of the ASDA."
+    ]
+  },
+  {
+    "question": "Identify the correct statements about this image. Mark all correct answers.",
+    "choices": [
+      "B is the runway aiming point.",
+      "A is the runway designator.",
+      "This image shows a non-precision runway.",
+      "C is a TDZ marker.",
+      "D is a threshold marking."
+    ],
+    "answer": [
+      "A is the runway designator.",
+      "B is the runway aiming point.",
+      "C is a TDZ marker.",
+      "D is a threshold marking."
+    ]
+  },
+  {
+    "question": "Identify the correct statement about this image.",
+    "choices": [
+      "This is a standard runway designator used at all runway holding positions.",
+      "This is a runway designator at the intersection of a taxiway and runway threshold.",
+      "This is a runway designator at the intersection of a taxiway and runway, other than at the runway threshold.",
+      "This is a runway holding position sign."
+    ],
+    "answer": "This is a runway designator at the intersection of a taxiway and runway, other than at the runway threshold."
+  },
+  {
+    "question": "The intersection angle of a rapid exit taxiway with the runway should preferably be 30° not be greater than 45° nor less than ___°",
+    "choices": [
+      "20",
+      "15",
+      "25",
+      "10"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Mobile objects must be coloured or marked by _______. Fixed objects must be coloured.",
+    "choices": [
+      "Flags",
+      "Cones",
+      "Poles",
+      "Spheres"
+    ],
+    "answer": "Flags"
+  },
+  {
+    "question": "Information signs (other than location signs) shall comprise:",
+    "choices": [
+      "Black inscriptions on a yellow background.",
+      "A black background with red inscriptions.",
+      "An orange background with black inscriptions.",
+      "Yellow inscriptions on a black background."
+    ],
+    "answer": "Black inscriptions on a yellow background."
+  },
+  {
+    "question": "When shall a runway be equipped with boundary lights (runway edge lights)?",
+    "choices": [
+      "When the runway length is less than 300 m.",
+      "When the runway is intended for use at night.",
+      "When the runway and its surroundings are indistinguishable.",
+      "When the runway is NOT equipped with centreline lights."
+    ],
+    "answer": "When the runway is intended for use at night."
+  },
+  {
+    "question": "A signals area: Mark all correct answers.",
+    "choices": [
+      "Is 9 m square.",
+      "Is required at all aerodromes accepting VFR traffic.",
+      "Must be visible at all azimuth angles from a height of 3000 m."
+    ],
+    "answer": [
+      "Is 9 m square."
+    ]
+  },
+  {
+    "question": "If runway centreline lights are installed on a runway with a length of 1800 m or more, they have the following colours in the last 900 m segment from the runway end:",
+    "choices": [
+      "White from 900 m to 300 m and alternate red and white from 300 m to the runway end.",
+      "Alternate red and white from 900 m to 300 m and red from 300 m to the runway end.",
+      "White from 900 m to 300 m and red from 300 m to the runway end.",
+      "Alternate red and white from 900 m to 300 m and white from 300 m to the runway end."
+    ],
+    "answer": "Alternate red and white from 900 m to 300 m and red from 300 m to the runway end."
+  },
+  {
+    "question": "Regarding firefighting services at an aerodrome - what are the normal and maximum limits of the response time?",
+    "choices": [
+      "Normal limit: 2 minutes, maximum limit 3 minutes.",
+      "Normal limit: 4 minutes, maximum limit 7 minutes.",
+      "Normal limit: 1 minutes, maximum limit 4 minutes.",
+      "Normal limit: 3 minutes, maximum limit 5 minutes."
+    ],
+    "answer": "Normal limit: 2 minutes, maximum limit 3 minutes."
+  },
+  {
+    "question": "Which part of the AIP contains information relating to existing prohibited, restricted and danger areas?",
+    "choices": [
+      "GEN",
+      "AD",
+      "ENR",
+      "The AIP does not contain this information."
+    ],
+    "answer": "ENR"
+  },
+  {
+    "question": "A separation minimum shall be applied between a LIGHT or MEDIUM aircraft and a HEAVY aircraft, and between a LIGHT aircraft and a MEDIUM aircraft when the heavier aircraft is making a low or missed approach, and the lighter aircraft is landing on the same runway in the opposite direction or on a parallel opposite direction runway when separated by:",
+    "choices": [
+      "760 m.",
+      "730 m.",
+      "Less than 730 m.",
+      "Less than 760 m."
+    ],
+    "answer": "Less than 760 m."
+  },
+  {
+    "question": "Mark which of the following are possible parts of an ATC clearance: Mark all correct answers.",
+    "choices": [
+      "Any other necessary instructions or information including the time of expiry of the clearance.",
+      "The authorised route for the flight.",
+      "The headings for the entire route or part of a route.",
+      "The limits of the clearance."
+    ],
+    "answer": [
+      "The limits of the clearance.",
+      "The authorised route for the flight.",
+      "Any other necessary instructions or information including the time of expiry of the clearance."
+    ]
+  },
+  {
+    "question": "During a standard SRA, height/altitude instructions are passed:",
+    "choices": [
+      "Every 2 km (1 nm).",
+      "Never",
+      "2 nm.",
+      "Every 1 km (0.5nm)."
+    ],
+    "answer": "Every 2 km (1 nm)."
+  },
+  {
+    "question": "For independent parallel approaches, when vectoring to intercept the ILS localizer course, the final vector shall enable the aircraft to intercept the ILS localizer course at an angle not greater than ___ degrees.",
+    "choices": [
+      "45",
+      "15",
+      "20",
+      "30"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Radar controlled aircraft on intermediate or final approach may be requested to make minor speed adjustments by ATC. These adjustments shall never be more than:",
+    "choices": [
+      "25 kt at any stage.",
+      "20 kt and not within 4 nm of threshold.",
+      "10 kt and not within 5 nm of threshold.",
+      "15 kt at any stage."
+    ],
+    "answer": "20 kt and not within 4 nm of threshold."
+  },
+  {
+    "question": "You are flying when you receive a broadcast from ATC advising that an aircraft in your area is making an emergency descent. What action should you take?",
+    "choices": [
+      "Clear the area.",
+      "Transmit on frequency, your callsign, position, track and level.",
+      "Change to the previous frequency and request instructions.",
+      "Unless otherwise instructed by ATC, continue as per your current clearance, listen out for ATS instructions, look out for conflicting traffic visually and by ACAS."
+    ],
+    "answer": "Unless otherwise instructed by ATC, continue as per your current clearance, listen out for ATS instructions, look out for conflicting traffic visually and by ACAS."
+  },
+  {
+    "question": "Which of the following statements is/are accurate? Mark all correct answers.",
+    "choices": [
+      "The TWR must report to the area control centre (ACC) or flight information centre (FIC) if any aircraft fails to land within 5 minutes of its expected landing time.",
+      "sensitive area.",
+      "During low visibility operations, when the crew transmit the phrase 'runway vacated’ it means that their entire aircraft has cleared the ILS",
+      "The tower must immediately report any failure involving equipment, lights or devices which are used either to guide aircraft or to maintain the air traffic service.",
+      "When VFR is suspended, the tower holds back VFR departures and either recalls local VFR flights or permits SVFR operations."
+    ],
+    "answer": [
+      "When VFR is suspended, the tower holds back VFR departures and either recalls local VFR flights or permits SVFR operations.",
+      "The TWR must report to the area control centre (ACC) or flight information centre (FIC) if any aircraft fails to land within 5 minutes of its expected landing time.",
+      "During low visibility operations, when the crew transmit the phrase 'runway vacated’ it means that their entire aircraft has cleared the ILS sensitive area.",
+      "The tower must immediately report any failure involving equipment, lights or devices which are used either to guide aircraft or to maintain the air traffic service."
+    ]
+  },
+  {
+    "question": "During a standard SRA, height/altitude instructions are passed:",
+    "choices": [
+      "2 nm.",
+      "Every 1 km (0.5 nm).",
+      "Never.",
+      "Every 2 km (1 nm)."
+    ],
+    "answer": "Every 2 km (1 nm)."
+  },
+  {
+    "question": "When should the ATIS be updated when suddenly thunderstorms are expected at an airport?",
+    "choices": [
+      "Within 10 minutes from the last update.",
+      "Immediately, however only if lightning is expected.",
+      "Immediately.",
+      "Within 30 minutes from the last update."
+    ],
+    "answer": "Immediately."
+  },
+  {
+    "question": "Having regard to wake turbulence categories, what is the maximum certified take-off mass for an aircraft in the LIGHT category?",
+    "choices": [
+      "7000 kg.",
+      "7700 kg.",
+      "2250 kg.",
+      "5200 kg."
+    ],
+    "answer": "7000 kg."
+  },
+  {
+    "question": "In advisory airspace (Class F airspace), an Air Traffic Advisory Service may be provided to:",
+    "choices": [
+      "all flights.",
+      "IFR flights only.",
+      "controlled flights only.",
+      "VFR flights only."
+    ],
+    "answer": "IFR flights only."
+  },
+  {
+    "question": "An air traffic control unit:",
+    "choices": [
+      "Must not ask an aircraft to change its call sign.",
+      "May require to change the call sign for safety reasons when there is a risk of confusion between 2 or more similar call signs providing the aircraft is on a repetitive flight plan.",
+      "May not ask an aircraft to change its call sign after accepting the flight plan.",
+      "May require an aircraft to temporarily change its call sign for safety reasons when there is a risk of confusion between 2 or more similar call signs."
+    ],
+    "answer": "May require an aircraft to temporarily change its call sign for safety reasons when there is a risk of confusion between 2 or more similar call signs."
+  },
+  {
+    "question": "Which of these statements about the air traffic advisory service are accurate? Mark all correct answers.",
+    "choices": [
+      "The air traffic advisory service is responsible for notifying an FIC when an aircraft is missing or overdue.",
+      "An advisory service is provided by an ATSU when it can’t provide a normal air traffic control service.",
+      "The air traffic advisory service provides separation between IFR aircraft."
+    ],
+    "answer": [
+      "The air traffic advisory service provides separation between IFR aircraft.",
+      "An advisory service is provided by an ATSU when it can’t provide a normal air traffic control service."
+    ]
+  },
+  {
+    "question": "A VFR flight constitutes 'essential traffic' to other VFR flights, when operating in controlled airspace when it is classified as:",
+    "choices": [
+      "B.",
+      "B, C, D and E.",
+      "B and C.",
+      "B, C and D."
+    ],
+    "answer": "B."
+  },
+  {
+    "question": "A pilot should report \"Runway vacated\":",
+    "choices": [
+      "As soon as the aircraft nose is beyond the limits of the runway.",
+      "As soon as the entire aircraft has passed over the holding point.",
+      "When the aircraft is turning to exit the runway.",
+      "As soon as the aircraft is on the taxiway with taxi speed."
+    ],
+    "answer": "As soon as the entire aircraft has passed over the holding point."
+  },
+  {
+    "question": "A situation wherein apprehension exists as to the safety of an aircraft and its occupants' is the definition for:",
+    "choices": [
+      "Distress phase.",
+      "Emergency phase.",
+      "Uncertainty phase.",
+      "Alert phase."
+    ],
+    "answer": "Alert phase."
+  },
+  {
+    "question": "A heavy/medium aircraft is conducting a missed approach, for wake turbulence reasons. What is the minimum time separation for a light aircraft taking off from an opposite direction runway?",
+    "choices": [
+      "3 minutes.",
+      "2 minutes.",
+      "No separation restriction applies.",
+      "1 minute."
+    ],
+    "answer": "2 minutes."
+  },
+  {
+    "question": "A controlled flight operating under IFR passes a designated compulsory reporting point on the route. ln accordance with ICAO Annex 2, Rules of the Air, the pilot shall report to Air Traffic Control the:",
+    "choices": [
+      "time and heading.",
+      "heading and level, and verify the route to the next reporting point.",
+      "time, heading and level, and verify the route to the next reporting point.",
+      "time and level."
+    ],
+    "answer": "time and level."
+  },
+  {
+    "question": "Clearances must be issued ‘early enough’:",
+    "choices": [
+      "To allow other aircraft on frequency the opportunity to point out potential conflictions.",
+      "To allow you time to comply with them.",
+      "To allow you time to raise objections and request a re-clearance.",
+      "To allow ATC to record them on the ATC datalink."
+    ],
+    "answer": "To allow you time to comply with them."
+  },
+  {
+    "question": "The ATIS broadcast message should, whenever practicable, not exceed:",
+    "choices": [
+      "1 minute.",
+      "2 minutes.",
+      "30 seconds.",
+      "3 minutes."
+    ],
+    "answer": "30 seconds."
+  },
+  {
+    "question": "Cleared via flight planned route’ means:",
+    "choices": [
+      "You are cleared to fly the route or part of a route, provided it’s identical to that filed in the flight plan and provided that it’s sufficiently detailed to establish the aircraft on its route.",
+      "You are cleared to fly the route planned by ATC.",
+      "You are cleared to fly the flight planned route without further contact with ATC provided it’s identical to that filed in the flight plan and provided that it’s sufficiently detailed to establish the aircraft on its route.",
+      "You are clear to flight plan the route that you requested."
+    ],
+    "answer": "You are cleared to fly the route or part of a route, provided it’s identical to that filed in the flight plan and provided that it’s sufficiently detailed to establish the aircraft on its route."
+  },
+  {
+    "question": "The phases related to an aircraft in emergency or believed to be in emergency are:",
+    "choices": [
+      "Uncertainty phase, urgency phase, distress phase.",
+      "Uncertainty phase, alert phase, distress phase.",
+      "Uncertainty phase, distress phase, urgency phase.",
+      "Uncertainty phase, alert phase, distress phase and urgency phase."
+    ],
+    "answer": "Uncertainty phase, alert phase, distress phase."
+  },
+  {
+    "question": "In which of the following ATC clearances is the QNH given?",
+    "choices": [
+      "In all climb or descent clearances to an altitude.",
+      "In the descent, when first cleared to an altitude below the transition level.",
+      "In all clearances to altitudes below 2000 ft above aerodrome level.",
+      "In climb, when first cleared to an altitude above the transition level."
+    ],
+    "answer": "In the descent, when first cleared to an altitude below the transition level."
+  },
+  {
+    "question": "Which of the following are valid occasions in which an ATSU will give your position? Mark all correct answers.",
+    "choices": [
+      "Immediately before termination of radar service.",
+      "When you’re instructed to ‘resume own navigation’ after radar vectoring.",
+      "When you request it.",
+      "When your position estimate differs significantly from the controller’s.",
+      "If your aircraft is observed to deviate from its intended route."
+    ],
+    "answer": [
+      "When you request it.",
+      "When your position estimate differs significantly from the controller’s.",
+      "When you’re instructed to ‘resume own navigation’ after radar vectoring.",
+      "Immediately before termination of radar service.",
+      "If your aircraft is observed to deviate from its intended route."
+    ]
+  },
+  {
+    "question": "What information is passed to an aircraft during its final approach? Mark all correct answers.",
+    "choices": [
+      "Changes in RVR.",
+      "Non-operational visual or non-visual aids.",
+      "Changes in dew point.",
+      "Significant variations in surface wind (max values)."
+    ],
+    "answer": [
+      "Significant variations in surface wind (max values).",
+      "Non-operational visual or non-visual aids.",
+      "Changes in RVR."
+    ]
+  },
+  {
+    "question": "Track separation between aircraft flying below FL 190 but using the same NDB is achieved by ensuring that:",
+    "choices": [
+      "Each aircraft is on a track with zero offset between 2 waypoints. At least one is at least 15 nm from a common point.",
+      "Both aircraft are on radials diverging by at least 15°. At least one is 15 nm or more from the facility.",
+      "Both aircraft on tracks to or from the NDB diverging by at least 30°. At least one is 15 nm from the facility.",
+      "Both aircraft are on radials diverging by at least 10°. At least one is 15 nm or more from the facility."
+    ],
+    "answer": "Both aircraft on tracks to or from the NDB diverging by at least 30°. At least one is 15 nm from the facility."
+  },
+  {
+    "question": "A control area (CTA) is defined as:",
+    "choices": [
+      "Controlled airspace extending upwards from a height of 1000 ft above the earth.",
+      "Controlled airspace extending upwards from the surface of the earth to a specified limit.",
+      "Controlled airspace extending upwards from a specified limit above the earth.",
+      "Controlled airspace extending upwards from a height of 900 ft above the earth."
+    ],
+    "answer": "Controlled airspace extending upwards from a specified limit above the earth."
+  },
+  {
+    "question": "The \"Mach number technique\" may be applied by ATC to aircraft along the same route in order to:",
+    "choices": [
+      "adjust the Mach number as the aircraft's mass reduces.",
+      "allow reduced vertical separation.",
+      "reduce the fuel burn in the cruise.",
+      "maintain longitudinal separation."
+    ],
+    "answer": "maintain longitudinal separation."
+  },
+  {
+    "question": "Which of the following are mandatory read-back items? Mark all correct answers.",
+    "choices": [
+      "Runway in use.",
+      "Altimeter settings.",
+      "SSR codes.",
+      "Level, heading and speed instructions.",
+      "Clearances and instructions to enter, land on, take off from, hold short of, cross, taxi and backtrack on any runway."
+    ],
+    "answer": [
+      "Clearances and instructions to enter, land on, take off from, hold short of, cross, taxi and backtrack on any runway.",
+      "Runway in use.",
+      "Altimeter settings.",
+      "SSR codes.",
+      "Level, heading and speed instructions."
+    ]
+  },
+  {
+    "question": "The phases related to an aircraft in emergency or believed to be in emergency are:",
+    "choices": [
+      "Uncertainty phase, alert phase, distress phase and urgency phase.",
+      "Uncertainty phase, alert phase, distress phase.",
+      "Uncertainty phase, distress phase, urgency phase.",
+      "Uncertainty phase, urgency phase, distress phase."
+    ],
+    "answer": "Uncertainty phase, alert phase, distress phase."
+  },
+  {
+    "question": "You receive the following clearance: “Cleared to FL100, VDR 6V departure.\" What actions must you take?",
+    "choices": [
+      "You have to climb to FL100, and follow all the vertical, lateral, speed restrictions and procedures of the SID.",
+      "You are cleared to climb to FL100, and may follow the vertical, lateral, speed restrictions and procedures of the SID.",
+      "You may climb to FL100, and follow all the vertical, lateral, speed restrictions and procedures of the SID.",
+      "You are cleared to climb to FL100, and you must follow the speed restrictions of the SID. You may follow the vertical and lateral restrictions of the SID."
+    ],
+    "answer": "You have to climb to FL100, and follow all the vertical, lateral, speed restrictions and procedures of the SID."
+  },
+  {
+    "question": "Essential traffic is:",
+    "choices": [
+      "Any aircraft which is compelled to land.",
+      "Controlled traffic for which separation minima apply but which are not separated by the appropriate minimum.",
+      "Any aircraft which has been given priority to land.",
+      "Any vehicle, aircraft or person on or near to the runway in use that might create a hazard to arriving and departing flights."
+    ],
+    "answer": "Controlled traffic for which separation minima apply but which are not separated by the appropriate minimum."
+  },
+  {
+    "question": "A flight from New York JFK is preparing for taxi. Given the following information, what should the pilots do? Runway 31L: due to works, only 11 000 ft of the runway are available, but is currently only used for landings. Runway 31R: 10 000 ft available and is used for departures with noise abatement procedures in force. However, it is too short according to the aircraft's current TOM calculations. Runway 04L: not available, it is currently used for landing only. Runway 04R: not in use. Wind: 230°/15 kt",
+    "choices": [
+      "Make a request for runway 31L for safety reasons.",
+      "Delay until wind changes.",
+      "Offload one container of cargo so that the aircraft is able to take off from runway 31R.",
+      "Wait until ATC changes runways from 31R to 31L."
+    ],
+    "answer": "Make a request for runway 31L for safety reasons."
+  },
+  {
+    "question": "Expected approach time is the estimated time at which ATC expects that you will:",
+    "choices": [
+      "Leave the holding fix.",
+      "Leave the top of descent point.",
+      "Leave the final approach fix.",
+      "Start your descent on the glide path."
+    ],
+    "answer": "Leave the holding fix."
+  },
+  {
+    "question": "For controlled traffic that must be separated in the vicinity of an airport, separation minima may be reduced:",
+    "choices": [
+      "When the commander in the following aircraft has the preceding aircraft in sight and is able to maintain own separation.",
+      "At the discretion of the air traffic controller.",
+      "If the commander of the involved aircraft so requests.",
+      "Only if the air traffic controller has the involved aircraft in sight."
+    ],
+    "answer": "When the commander in the following aircraft has the preceding aircraft in sight and is able to maintain own separation."
+  },
+  {
+    "question": "Essential local traffic may be described as:",
+    "choices": [
+      "Any vehicle required to be near to the runway in use or on an adjacent road crossing the arrival and departure paths, that might distract flight crew on arriving and departing flights.",
+      "Any vehicle, aircraft or person on or near to the runway in use that might create a hazard to arriving and departing flights.",
+      "Any vehicle, aircraft or person on or near to the manoeuvring area or adjacent road that creates a hazard to arriving flights.",
+      "Any aircraft on or near to the runway in use that might create a hazard to arriving and departing flights."
+    ],
+    "answer": "Any vehicle, aircraft or person on or near to the runway in use that might create a hazard to arriving and departing flights."
+  },
+  {
+    "question": "An air traffic advisory message from ATC is intended to:",
+    "choices": [
+      "Advise you to complete a 180 degree turn in the aircraft to avoid the situation.",
+      "Be followed immediately.",
+      "Slow the aircraft down by 20%.",
+      "Enhance situational awareness."
+    ],
+    "answer": "Enhance situational awareness."
+  },
+  {
+    "question": "What do you report during an IFR flight in cruise when passing a reporting point?",
+    "choices": [
+      "Heading and altitude.",
+      "Aircraft identification, position, time, flight level, next position and time over ensuing significant point.",
+      "Flight level, time and verify next reporting point.",
+      "Aircraft identification, position, time, flight level, heading, next position and time over ensuing significant point."
+    ],
+    "answer": "Aircraft identification, position, time, flight level, next position and time over ensuing significant point."
+  },
+  {
+    "question": "An unidentified aircraft is:",
+    "choices": [
+      "Any aircraft whose identity has not been established.",
+      "An aircraft which has deviated significantly from its intended track.",
+      "An aircraft for which radar vectoring has been terminated.",
+      "An aircraft in flight whose identity has not been established."
+    ],
+    "answer": "An aircraft in flight whose identity has not been established."
+  },
+  {
+    "question": "ATC is providing radar vectoring services to an aircraft operating under IFR, off an ATS route in mountainous terrain. Who is responsible for terrain clearance?",
+    "choices": [
+      "The pilot only.",
+      "ATC only.",
+      "The pilot and ATC.",
+      "The Operator and ATC."
+    ],
+    "answer": "ATC only."
+  },
+  {
+    "question": "A flight information service is provided to aircraft to avoid collision hazards when operating in which airspace classes?",
+    "choices": [
+      "F only.",
+      "F and G only.",
+      "A, B, C, D, E, F and G.",
+      "C, D, E, F, and G."
+    ],
+    "answer": "C, D, E, F, and G."
+  },
+  {
+    "question": "When an arriving aircraft is cleared to 'maintain own separation' who is responsible for ensuring adequate wake turbulence separation.",
+    "choices": [
+      "The PiC of the leading aircraft.",
+      "The tower controller.",
+      "The approach controller.",
+      "The PiC of the following aircraft."
+    ],
+    "answer": "The PiC of the following aircraft."
+  },
+  {
+    "question": "According to ICAO Doc 8168 PANS-OPS, for aircraft approaching a controlled aerodrome for landing, the QNH altimeter setting shall be made available:",
+    "choices": [
+      "in approach and landing clearances, on request or on a regular basis.",
+      "during the intermediate approach segment.",
+      "in approach clearances and in clearances to enter the traffic circuit.",
+      "prior to leaving the en-route cruising level."
+    ],
+    "answer": "in approach clearances and in clearances to enter the traffic circuit."
+  },
+  {
+    "question": "The purpose of an ATC clearance is to:",
+    "choices": [
+      "Expedite and separate air traffic and provide separation from terrain.",
+      "Permit an aircraft to fly its chosen route.",
+      "Ensure that all aircraft are subject to an appropriate level of air traffic control.",
+      "Expedite and separate air traffic based on known traffic conditions."
+    ],
+    "answer": "Expedite and separate air traffic based on known traffic conditions."
+  },
+  {
+    "question": "Track separation between aircraft using the same VOR is achieved by ensuring that:",
+    "choices": [
+      "Both aircraft are on tracks to or from the NDB diverging by at least 30°. At least one is 15 nm from the facility.",
+      "Both aircraft are on radials diverging by at least 15°. At least one is 15 nm or more from the facility.",
+      "Both aircraft are on radials with zero track deviation. Both must be 15 nm or more from the facility.",
+      "Both aircraft are on radials diverging by at least 10°. At least one is 15 nm or more from the facility."
+    ],
+    "answer": "Both aircraft are on radials diverging by at least 15°. At least one is 15 nm or more from the facility."
+  },
     {
       "question": "A white dumb-bell with black perpendicular bars at each end indicates that:",
       "choices": [
@@ -47920,6 +49388,1436 @@
       ],
       "answer": "Taxiing need not be confined to the taxiways."
     },
+  {
+    "question": "What is the speed limit (IAS) in airspace class E?",
+    "choices": [
+      "250 kt only for VFR up to FL 195.",
+      "250 kt VFR and IFR, all levels.",
+      "250 kt for IFR and VFR up to FL 100.",
+      "250 kt only for IFR up to FL 100."
+    ],
+    "answer": "250 kt for IFR and VFR up to FL 100."
+  },
+  {
+    "question": "According to PANS Ops Doc 8168, when should the QNH setting be available to aircraft?",
+    "choices": [
+      "During clearance on the stand.",
+      "During the start clearance.",
+      "During the take-off clearance.",
+      "During the taxi clearance prior to take-off."
+    ],
+    "answer": "During the taxi clearance prior to take-off."
+  },
+  {
+    "question": "In the absence of ATC directions or regional SOPs, operate your transponder on:",
+    "choices": [
+      "Mode A Code 2000.",
+      "Mode S Code 4444.",
+      "Mode C Code 2000.",
+      "Mode C Code 7000."
+    ],
+    "answer": "Mode A Code 2000."
+  },
+  {
+    "question": "If, upon reaching the MAPt, the required visual reference is not established you must:",
+    "choices": [
+      "Climb straight ahead to MSA.",
+      "Go-around (initiate the missed approach procedure).",
+      "Convert to a circling approach.",
+      "Fly level until you see the runway threshold."
+    ],
+    "answer": "Go-around (initiate the missed approach procedure)."
+  },
+  {
+    "question": "Airspace of defined dimensions extending to either side of an ILS localiser course and/or MLS final approach track centre line. This is a description of:",
+    "choices": [
+      "The localiser interception zone.",
+      "The no transgression zone.",
+      "The normal operating zone.",
+      "The approach zone."
+    ],
+    "answer": "The normal operating zone."
+  },
+  {
+    "question": "Before departure, an aircraft must always have one of its altimeters set to:",
+    "choices": [
+      "QNH",
+      "QFF",
+      "QDR",
+      "QFE"
+    ],
+    "answer": "QNH"
+  },
+  {
+    "question": "When flying below 3050 m (10 000 ft) AMSL, the speed limitation for IFR flights and VFR flights inside ATS airspace classified as Class B is:",
+    "choices": [
+      "250 kt TAS.",
+      "250 kt IAS.",
+      "Not applicable.",
+      "260 kt IAS."
+    ],
+    "answer": "Not applicable."
+  },
+  {
+    "question": "Parallel operations, where one runway is used solely for arrivals and the other is used solely for departures is known as:",
+    "choices": [
+      "Segregated parallel operations.",
+      "Mixed operations",
+      "Independent parallel operations.",
+      "Semi-mixed operations."
+    ],
+    "answer": "Segregated parallel operations."
+  },
+  {
+    "question": "When flying inside Class C ATS Airspace, a VFR flight inside must maintain the following minima of flight visibility and distance from clouds:",
+    "choices": [
+      "8 km at or above 3050 m (10 000 ft) AMSL 1500 m horizontal and 300 m vertical from clouds.",
+      "5 nm at or above 3050 m (10 000 ft) AMSL, 1500 m horizontal and 300 m vertical from clouds.",
+      "5 km at or above 3050 m (10 000 ft) AMSL 1500 m horizontal and 300 m vertical from clouds.",
+      "8 km at or above 3050 m (10 000 ft) AMSL, and clear of clouds."
+    ],
+    "answer": "8 km at or above 3050 m (10 000 ft) AMSL 1500 m horizontal and 300 m vertical from clouds."
+  },
+  {
+    "question": "In the Intermediate segment the MOC reduces from 984 ft to:",
+    "choices": [
+      "120 ft",
+      "The OCH for the procedure.",
+      "492 ft",
+      "980 ft"
+    ],
+    "answer": "492 ft"
+  },
+  {
+    "question": "A control zone should extend laterally to at least:",
+    "choices": [
+      "15 nm from the centre of the aerodrome or aerodromes, in the direction(s) from which approaches may be made.",
+      "20 miles from the centre of the aerodrome or aerodromes in the direction(s) from which approaches may be made.",
+      "5 nm from the centre of the aerodrome or aerodromes, in the direction(s) from which approaches may be made.",
+      "10 nm from the centre of the aerodrome or aerodromes, in the direction(s) from which approaches may be made."
+    ],
+    "answer": "5 nm from the centre of the aerodrome or aerodromes, in the direction(s) from which approaches may be made."
+  },
+  {
+    "question": "Transition altitude should be rounded up to the nearest?",
+    "choices": [
+      "500 ft.",
+      "1000 ft.",
+      "300 ft.",
+      "200 ft."
+    ],
+    "answer": "1000 ft."
+  },
+  {
+    "question": "In flight, you receive a Resolution Advisory (to descend at, at least, 2000 ft/min). After a few seconds, you receive another Resolution Advisory (to climb at, at least, 2000ft/min). What do you do?",
+    "choices": [
+      "Maintain level since the 2 RAs cancel each other.",
+      "Disregard the second RA, since the equipment is malfunctioning.",
+      "Immediately follow the second RA.",
+      "Maintain course and ask ATC."
+    ],
+    "answer": "Immediately follow the second RA."
+  },
+  {
+    "question": "During flight through the Transition Layer the vertical position of the aircraft should be expressed as:",
+    "choices": [
+      "Altitude above mean sea level during descent.",
+      "Either altitude above mean sea level or flight level during climb.",
+      "Flight level during descent.",
+      "Altitude above mean sea level during climb."
+    ],
+    "answer": "Altitude above mean sea level during descent."
+  },
+  {
+    "question": "A straight departure is defined as one in which:",
+    "choices": [
+      "The initial departure track is within 15° of the orientation of the runway’s centre line.",
+      "The departure track is within 15° of the orientation of the runway’s centre line.",
+      "The departure track is within 30° of the orientation of the runway’s centre line.",
+      "The departure track is within 45° of the orientation of the runway’s centre line."
+    ],
+    "answer": "The initial departure track is within 15° of the orientation of the runway’s centre line."
+  },
+  {
+    "question": "The 2 main objectives of altimeter settings are: Mark all correct answers.",
+    "choices": [
+      "To provide vertical separation between aircraft.",
+      "To provide terrain clearance during all phases of flight.",
+      "To check the accuracy of the altimeter before take-off.",
+      "To check the accuracy of the altimeter before landing."
+    ],
+    "answer": [
+      "To provide terrain clearance during all phases of flight.",
+      "To provide vertical separation between aircraft."
+    ]
+  },
+  {
+    "question": "What is the transponder code used to indicate communications failure?",
+    "choices": [
+      "7700",
+      "7000",
+      "7500",
+      "7600"
+    ],
+    "answer": "7600"
+  },
+  {
+    "question": "According to ICAO Doc 8168, before taking off, one altimeter shall be set to the latest............. altimeter setting for the aerodrome.",
+    "choices": [
+      "QNH",
+      "QFF",
+      "QFE",
+      "QNE"
+    ],
+    "answer": "QNH"
+  },
+  {
+    "question": "The lowest altitude (OCA) or height (OCH) above the threshold at which a missed approach must begin to maintain obstacle clearance. This description of OCA/H is applicable to:",
+    "choices": [
+      "The visual segment.",
+      "A circling approach.",
+      "A precision approach.",
+      "A non-precision approach."
+    ],
+    "answer": "A precision approach."
+  },
+  {
+    "question": "In a holding pattern you should attempt to maintain the __________ by making allowance for wind by applying corrections to __________ during entry and while flying the holding pattern.",
+    "choices": [
+      "Heading; time.",
+      "Heading; track & time.",
+      "Track; heading and speed.",
+      "Track; heading and time."
+    ],
+    "answer": "Track; heading and time."
+  },
+  {
+    "question": "When may you refer to your vertical position as a flight level?",
+    "choices": [
+      "While passing through the transition layer.",
+      "When flying below the transition layer.",
+      "When flying at or above the transition level.",
+      "When flying below the transition level."
+    ],
+    "answer": "When flying at or above the transition level."
+  },
+  {
+    "question": "You are flying an ILS CAT I instrument approach, and upon reaching the MAPt, you cannot establish the required visual references. What should you do?",
+    "choices": [
+      "Immediately initiate the missed approach procedure.",
+      "If CAT Il minima are published on the chart, continue down to the CAT Il minima .",
+      "Level off and continue looking for visual references.",
+      "Continue descending until the visual references are established."
+    ],
+    "answer": "Immediately initiate the missed approach procedure."
+  },
+  {
+    "question": "An omnidirectional departure is:",
+    "choices": [
+      "Any departure in which the aircraft turns through more than 45 degrees.",
+      "A departure which starts at the departure end of the runway and requires a turn through 360 degrees or more.",
+      "A departure which starts at the departure end of the runway and sometimes allows a departure in any direction.",
+      "A departure which starts at the departure end of the runway and always allows a departure in any direction."
+    ],
+    "answer": "A departure which starts at the departure end of the runway and sometimes allows a departure in any direction."
+  },
+  {
+    "question": "For an aircraft in emergency the pilot shall, according ICAO, indicate the situation by setting the transponder to:",
+    "choices": [
+      "Mode A, code 7500",
+      "Mode C, code 7700",
+      "Mode C, code 7600",
+      "Mode A, code 7700"
+    ],
+    "answer": "Mode A, code 7700"
+  },
+  {
+    "question": "You are inbound to a fix to take up a standard holding pattern with right hand turns. After passing it you make a left turn to begin the hold entry procedure. From which sector did you join?",
+    "choices": [
+      "Parallel.",
+      "Offset.",
+      "Direct.",
+      "Not possible to work out."
+    ],
+    "answer": "Parallel."
+  },
+  {
+    "question": "The 5 possible segments of an approach are:",
+    "choices": [
+      "The final approach segment.",
+      "The arrival segment.",
+      "The intermediate missed approach.",
+      "The initial approach segment.",
+      "The initial missed approach.",
+      "The intermediate segment.",
+      "The missed approach segment."
+    ],
+    "answer": [
+      "The arrival segment.",
+      "The initial approach segment.",
+      "The intermediate segment.",
+      "The final approach segment.",
+      "The missed approach segment."
+    ]
+  },
+  {
+    "question": "Those portions of the airspace providing a flight information service are designated as one or more",
+    "choices": [
+      "FIRs.",
+      "Information zones.",
+      "Flight zones.",
+      "Control areas."
+    ],
+    "answer": "FIRs."
+  },
+  {
+    "question": "What actions should you take in the event of a traffic advisory TA?",
+    "choices": [
+      "Look for conflicting traffic but maintain current flight path.",
+      "Ask ATC for avoiding instructions.",
+      "Manoeuvre so as to avoid the conflicting traffic.",
+      "File an air safety report ASR."
+    ],
+    "answer": "Look for conflicting traffic but maintain current flight path."
+  },
+  {
+    "question": "What is the maximum intercept angle for aircraft being vectored to intercept the localiser for simultaneous independent parallel approaches?",
+    "choices": [
+      "15 degrees.",
+      "20 degrees.",
+      "45 degrees.",
+      "30 degrees."
+    ],
+    "answer": "30 degrees."
+  },
+  {
+    "question": "What is the name of a manoeuvre in which a turn is made away from a designated track followed by a turn in the opposite direction to permit the aircraft to intercept and proceed along the reciprocal of the designated track:",
+    "choices": [
+      "Reversal track.",
+      "Race track.",
+      "Base turn.",
+      "Procedure turn."
+    ],
+    "answer": "Procedure turn."
+  },
+  {
+    "question": "When flying an instrument departure procedure, pilots are expected to:",
+    "choices": [
+      "Request a clearance from ATC with regards to a wind correction to be applied.",
+      "Request from ATC an adequate heading to cater for wind direction and strength.",
+      "Correct the aircraft's track for known wind to remain within the protected airspace.",
+      "Ignore the wind and proceed on a heading equal to the track."
+    ],
+    "answer": "Correct the aircraft's track for known wind to remain within the protected airspace."
+  },
+  {
+    "question": "What is the name given to the airspace above the altitude below which the vertical position of the aircraft is controlled by altitudes above mean sea level, and the lowest useable flight level?",
+    "choices": [
+      "The pressure altitude.",
+      "The transition altitude.",
+      "The transition level.",
+      "The transition layer."
+    ],
+    "answer": "The transition layer."
+  },
+  {
+    "question": "What fixes occur between arrival segment and the final approach fix?",
+    "choices": [
+      "Intermediate (IF) and Missed (MAPt).",
+      "Final (FAF) and Missed (MAPt).",
+      "Initial (IAF) and Missed (MAPt).",
+      "Initial (IAF) and Intermediate (IF)."
+    ],
+    "answer": "Initial (IAF) and Intermediate (IF)."
+  },
+  {
+    "question": "You can't conform to the holding pattern:",
+    "choices": [
+      "This is dangerous because it may critically reduce separation from obstacles and terrain. Ask ATC ASAP for clearance to fly your revised procedure.",
+      "This isn't dangerous because the holding pattern is surrounded by a very large protected area.",
+      "This isn't dangerous provided you maintain 'own separation' from other aircraft in the hold.",
+      "This is dangerous because it may critically reduce separation from obstacles and terrain. Inform ATC ASAP."
+    ],
+    "answer": "This is dangerous because it may critically reduce separation from obstacles and terrain. Inform ATC ASAP."
+  },
+  {
+    "question": "The speed limitation in airspace classified as F or G, when flying below 3050 m (10 000 ft) AMSL, is:",
+    "choices": [
+      "250 kt TAS.",
+      "250 kt TAS for VFR flights, no limitation for IFR flights.",
+      "240 kt IAS.",
+      "250 kt IAS."
+    ],
+    "answer": "250 kt IAS."
+  },
+  {
+    "question": "If a missed approach is initiated prior to reaching the MAPt, what should the pilot do?",
+    "choices": [
+      "Proceed to that point and then follow the procedure.",
+      "Climb straight ahead until over the MAPt and request radar vectors.",
+      "Maintain runway track and wait for ATC instructions.",
+      "If above the MSA, turn to the IAF for the subsequent approach."
+    ],
+    "answer": "Proceed to that point and then follow the procedure."
+  },
+  {
+    "question": "Aircraft conducting parallel approaches must:",
+    "choices": [
+      "Be established on the localiser by 10 nm.",
+      "Be appropriately equipped to meet the navigation specifications.",
+      "Be in approach category A.",
+      "Be in radar contact with an area control unit."
+    ],
+    "answer": "Be appropriately equipped to meet the navigation specifications."
+  },
+  {
+    "question": "Independent parallel approaches may be conducted to parallel runways provided that a No Transgression Zone (NTZ) is established equidistant between the extended runway centrelines. The NTZ shall have a width of at least:",
+    "choices": [
+      "500 m",
+      "610 m",
+      "710 m",
+      "600 ft"
+    ],
+    "answer": "610 m"
+  },
+  {
+    "question": "According to PANS ATM DOC 4444 when should the QNH be given to arriving aircraft?",
+    "choices": [
+      "In approach and landing clearances.",
+      "When leaving the cruising level.",
+      "In approach clearances and in traffic circuit joining instructions.",
+      "When cleared to the FAF."
+    ],
+    "answer": "In approach clearances and in traffic circuit joining instructions."
+  },
+  {
+    "question": "Concerning the RNP (Required Navigation Performance) types, the indication RNP 4 represents a navigation accuracy of:",
+    "choices": [
+      "±4 nm for 90% of the total flight time.",
+      "±4 nm for 95% of the total flight time.",
+      "±4 nm at all times.",
+      "±4 nm within areas where RVSM is applied."
+    ],
+    "answer": "±4 nm for 95% of the total flight time."
+  },
+  {
+    "question": "The procedure in which you make an instrument approach to an instrument runway but then land on a different runway is known as:",
+    "choices": [
+      "A non-final approach.",
+      "Circling.",
+      "A turning approach.",
+      "A missed approach."
+    ],
+    "answer": "Circling."
+  },
+  {
+    "question": "When passing over a hold fix, you fly a right turn and enter the hold. This description best describes a:",
+    "choices": [
+      "Offset/parallel entry.",
+      "Parallel entry.",
+      "Direct entry.",
+      "Offset entry."
+    ],
+    "answer": "Direct entry."
+  },
+  {
+    "question": "Controlled airspace extending upwards from the surface of the earth to a specified upper limit is:",
+    "choices": [
+      "Advisory airspace.",
+      "An air traffic zone.",
+      "A control area.",
+      "A control zone."
+    ],
+    "answer": "A control zone."
+  },
+  {
+    "question": "The crew of an aeroplane are performing a turning departure. In this type of departure, straight flight is assumed until reaching a height of at least:",
+    "choices": [
+      "120 m",
+      "120 ft",
+      "200 ft",
+      "200 m"
+    ],
+    "answer": "120 m"
+  },
+  {
+    "question": "What transponder mode and code should be used by an aircraft in a state of emergency?",
+    "choices": [
+      "Mode C, Code 7700.",
+      "Mode C, Code 7600.",
+      "Mode A, Code 7500.",
+      "Mode A, Code 7700."
+    ],
+    "answer": "Mode A, Code 7700."
+  },
+  {
+    "question": "The VMC minima for VFR flights in Class B airspace, below 3050 m (10 000 ft) AMSL, are:",
+    "choices": [
+      "8 km visibility, 1700 m horizontally and 1000 ft vertically clear of cloud.",
+      "5 km visibility, 1500 m horizontally and 1000 ft vertically clear of cloud.",
+      "5 km visibility, 1000 m horizontally and 500 ft vertically clear of cloud.",
+      "8 km visibility, 1500 m horizontally and 1000 ft vertically clear of cloud."
+    ],
+    "answer": "5 km visibility, 1500 m horizontally and 1000 ft vertically clear of cloud."
+  },
+  {
+    "question": "To an aircraft on the ground, a flashing green light means:",
+    "choices": [
+      "Return to starting point on the aerodrome.",
+      "Cleared for take-off.",
+      "Cleared to taxi.",
+      "Move clear of the landing area.",
+      "Stop."
+    ],
+    "answer": "Cleared to taxi."
+  },
+  {
+    "question": "Which phrase should be given by the intercepted aircraft to communicate it will comply with the instruction given by the interceptor?",
+    "choices": [
+      "Yes.",
+      "Wilco.",
+      "OK.",
+      "Affirmative."
+    ],
+    "answer": "Wilco."
+  },
+  {
+    "question": "According to the IFR which procedure must you follow after having experienced a 2-way communication failure in VMC?",
+    "choices": [
+      "Maintain the assigned level and route. Land at the nearest aerodrome where VMC conditions prevail.",
+      "Continue to fly in VMC and return to the aerodrome of departure.",
+      "Continue the flight at the assigned level and route, carry out level changes as indicated in the filed ATC flight plan, start the approach to the flight plan destination at the planned ETA.",
+      "Continue to fly in VMC, land at the nearest suitable aerodrome, report the arrival by the most expeditious means to the appropriate Air Traffic Control unit."
+    ],
+    "answer": "Continue to fly in VMC, land at the nearest suitable aerodrome, report the arrival by the most expeditious means to the appropriate Air Traffic Control unit."
+  },
+  {
+    "question": "To an aircraft in the air, a red projectile means:",
+    "choices": [
+      "Aerodrome unsafe, do not land.",
+      "Do not land (overrides previous instructions).",
+      "Return to landing area.",
+      "Land and proceed to apron.",
+      "Cleared to land.",
+      "Don’t land, give way to other aircraft, continue circling."
+    ],
+    "answer": "Do not land (overrides previous instructions)."
+  },
+  {
+    "question": "If radio contact with an intercepting aircraft is established but communication in a common language is not possible, which phrase should be given by the intercepting aircraft to communicate that it wants to know your call sign?",
+    "choices": [
+      "Sign'.",
+      "Who are you'?",
+      "'Call sign'.",
+      "Tell me your sign'."
+    ],
+    "answer": "'Call sign'."
+  },
+  {
+    "question": "This marshalling signal means:",
+    "choices": [
+      "Proceed under my guidance.",
+      "Stop immediately.",
+      "Move straight ahead.",
+      "Proceed under the guidance of the next marshaller.",
+      "Chocks in place or removed.",
+      "Engage brakes.",
+      "Indicates the bay into which you should enter.",
+      "Start engine No 2.",
+      "A wing walker is telling you that aircraft movement would be unobstructed.",
+      "Turn."
+    ],
+    "answer": "Indicates the bay into which you should enter."
+  },
+  {
+    "question": "This marshalling signal means:",
+    "choices": [
+      "Indicates the bay into which you should enter.",
+      "Proceed under my guidance.",
+      "Chocks in place or removed.",
+      "Proceed under the guidance of the next marshaller.",
+      "Stop immediately.",
+      "Turn.",
+      "Clear to shut down engines",
+      "Move straight ahead.",
+      "Start engine No 2.",
+      "Engage brakes."
+    ],
+    "answer": "Clear to shut down engines"
+  },
+  {
+    "question": "Which signal from a marshaller indicates 'chocks are inserted'?",
+    "choices": [
+      "Arms raised above the head with palms facing the pilot.",
+      "Arms and wands fully extended above head, move wands inward in a jabbing motion until wands touch.",
+      "Arm raised with fingers extended in front of the body, then clenched into a fist.",
+      "Right arm raised bent at elbow with thumb extended."
+    ],
+    "answer": "Arms and wands fully extended above head, move wands inward in a jabbing motion until wands touch."
+  },
+  {
+    "question": "The first-officer and the flight attendant disagree with a PIC decision. What is correct?",
+    "choices": [
+      "The PIC, first-officer and flight attendant must seek consensus.",
+      "The decision must be made by the first-officer and the flight attendant because they are a majority.",
+      "The PIC has the last word as to the disposition of the aircraft.",
+      "The PIC must respect the position of the first-officer."
+    ],
+    "answer": "The PIC has the last word as to the disposition of the aircraft."
+  },
+  {
+    "question": "This marshalling signal means:",
+    "choices": [
+      "Proceed under my guidance.",
+      "Proceed under the guidance of the next marshaller.",
+      "Turn.",
+      "Indicates the bay into which you should enter.",
+      "Chocks in place or removed.",
+      "Start engine No 2.",
+      "A wing walker is telling you that aircraft movement would be unobstructed.",
+      "Move straight ahead.",
+      "Engage brakes.",
+      "Stop immediately."
+    ],
+    "answer": "Start engine No 2."
+  },
+  {
+    "question": "A series of red and green projectiles from the ground at 10-second intervals indicates that an aircraft is:",
+    "choices": [
+      "Flying into or entering, a restricted, prohibited or danger area.",
+      "About to enter an airfield traffic circuit.",
+      "About to collide with another aircraft.",
+      "Permitted to land (following radio failure)."
+    ],
+    "answer": "Flying into or entering, a restricted, prohibited or danger area."
+  },
+  {
+    "question": "What has right of way?",
+    "choices": [
+      "Airships must give way to gliders, balloons and aircraft which are seen to be towing other aircraft.",
+      "Gliders have priority over aircraft towing gliders, airships, motorised heavier-than-air aircraft and balloons.",
+      "Gliders have priority over airships and motorised heavier-than-air aircraft.",
+      "Gliders have priority over all other aircraft."
+    ],
+    "answer": "Gliders have priority over airships and motorised heavier-than-air aircraft."
+  },
+  {
+    "question": "What is the correct flight level for an IFR flight ln non-RVSM airspace with a magnetic track of 070?",
+    "choices": [
+      "FL310",
+      "FL330",
+      "FL280",
+      "FL300"
+    ],
+    "answer": "FL330"
+  },
+  {
+    "question": "This marshalling signal means:",
+    "choices": [
+      "Proceed under the guidance of the next marshaller.",
+      "Engage brakes.",
+      "Start engine No 2.",
+      "Disengage brakes.",
+      "Indicates the bay into which you should enter.",
+      "Chocks in place or removed.",
+      "Proceed under my guidance.",
+      "Stop immediately.",
+      "Move straight ahead.",
+      "A wing walker is telling you that aircraft movement would be unobstructed."
+    ],
+    "answer": "Engage brakes."
+  },
+  {
+    "question": "The pre-flight actions for a flight leaving the local aerodrome area, is to include:",
+    "choices": [
+      "A careful briefing of the crew.",
+      "A careful study of the available weather charts.",
+      "A careful study of the available meteorological reports and forecasts for the route.",
+      "A careful briefing of the passengers."
+    ],
+    "answer": "A careful study of the available meteorological reports and forecasts for the route."
+  },
+  {
+    "question": "Except when a special VFR clearance has been obtained from ATC, flights under VFR must not take off from an aerodrome within a Control Zone or enter a Control Zone when the ceiling is lower than:",
+    "choices": [
+      "1000 ft or the ground visibility is less than 8 km.",
+      "1500 ft or the ground visibility is less than 5 km.",
+      "2000 ft or the ground visibility is less than 5 km.",
+      "1000 ft or the ground visibility is less than 5 km."
+    ],
+    "answer": "1500 ft or the ground visibility is less than 5 km."
+  },
+  {
+    "question": "What do you report during an IFR flight in cruise when passing a reporting point?",
+    "choices": [
+      "Heading and altitude.",
+      "Aircraft identification, position, time, flight level, heading, next position and time over, ensuing significant point.",
+      "Flight level, time and verify next reporting point.",
+      "Aircraft identification, position, time, flight level, next position and time over, ensuing significant point."
+    ],
+    "answer": "Aircraft identification, position, time, flight level, next position and time over, ensuing significant point."
+  },
+  {
+    "question": "Which signal from a marshaller indicates 'chocks are inserted'?",
+    "choices": [
+      "Arms raised above the head with palms facing the pilot.",
+      "Arm raised with fingers extended in front of the body, then clenched into a fist.",
+      "Right arm raised bent at elbow with thumb extended.",
+      "Arms and wands fully extended above head, move wands inward in a jabbing motion until wands touch."
+    ],
+    "answer": "Arms and wands fully extended above head, move wands inward in a jabbing motion until wands touch."
+  },
+  {
+    "question": "An aircraft manoeuvring in an airport's circuit receives a series of red flashes from the control tower. This signifies that the aircraft must:",
+    "choices": [
+      "Give way to another aircraft.",
+      "Continue to circle and await for the clearance to land signal.",
+      "Not land because the airport is not available for landing.",
+      "Not land for the moment regardless of previous instructions."
+    ],
+    "answer": "Not land because the airport is not available for landing."
+  },
+  {
+    "question": "Except when necessary for take-off or landing, a VFR flight over congested areas of cities, towns or settlements or over an open air assembly of persons may not be flown at a height less than:",
+    "choices": [
+      "1000 m above the highest obstacle within a radius of 600 ft from the aircraft.",
+      "1000 ft above the highest obstacle.",
+      "1000 ft above the highest obstacle within a radius of 600 m from the aircraft.",
+      "500 ft above the highest obstacle within a radius of 150 m from the aircraft."
+    ],
+    "answer": "1000 ft above the highest obstacle within a radius of 600 m from the aircraft."
+  },
+  {
+    "question": "A pilot intends to change from VFR to IFR in the middle of a flight. A flight plan has already been submitted. What action is the pilot required to take:",
+    "choices": [
+      "Land at the nearest suitable aerodrome and submit an IFR flight plan.",
+      "Communicate the necessary changes to be effected to his/her current flight plan.",
+      "Cancel the current VFR flight plan and submit an IFR flight plan.",
+      "Cancel the current VFR flight plan and adjust to the table of cruising levels for IFR flights."
+    ],
+    "answer": "Communicate the necessary changes to be effected to his/her current flight plan."
+  },
+  {
+    "question": "Which of the following statements about VFR are accurate? Mark all correct answers.",
+    "choices": [
+      "You may not fly VFR above FL 290.",
+      "You may not fly VFR at transonic speeds.",
+      "You may not fly VFR in other than VMC.",
+      "You may not fly VFR in RVSM airspace."
+    ],
+    "answer": [
+      "You may not fly VFR at transonic speeds.",
+      "You may not fly VFR in RVSM airspace.",
+      "You may not fly VFR above FL 290.",
+      "You may not fly VFR in other than VMC."
+    ]
+  },
+  {
+    "question": "When not flying over high terrain or mountainous areas and where no minimum flight altitude has been established, IFR flights must be flown at a level which is at least:",
+    "choices": [
+      "1000 ft above the highest obstacle located within 10 nm of the estimated position of the aircraft.",
+      "2000 ft above the highest obstacle located within 10 nm of the estimated position of the aircraft.",
+      "2000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft.",
+      "1000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft."
+    ],
+    "answer": "1000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft."
+  },
+  {
+    "question": "When an aircraft is operating in class F airspace below 900 m AMSL, the minimum horizontal distance from cloud for VFR flight is:",
+    "choices": [
+      "5 km.",
+      "1500 m.",
+      "Clear of clouds and in sight of the surface.",
+      "1000 ft."
+    ],
+    "answer": "Clear of clouds and in sight of the surface."
+  },
+  {
+    "question": "To an aircraft in the air, a flashing white light means:",
+    "choices": [
+      "Cleared to land.",
+      "Return to landing area.",
+      "Do not land (overrides previous instructions).",
+      "Don’t land, give way to other aircraft, continue circling.",
+      "Aerodrome unsafe, do not land.",
+      "Land and proceed to apron."
+    ],
+    "answer": "Land and proceed to apron."
+  },
+  {
+    "question": "Except when a special clearance has been obtained from ATC, flights under VFR must not take off from an aerodrome within a Control Zone or enter a Control Zone when the ceiling is lower than:",
+    "choices": [
+      "2000 ft or the ground visibility is less than 5 km.",
+      "1000 ft or the ground visibility is less than 5 km.",
+      "1000 ft or the ground visibility is less than 8 km.",
+      "1500 ft or the ground visibility is less than 5 km."
+    ],
+    "answer": "1500 ft or the ground visibility is less than 5 km."
+  },
+  {
+    "question": "Over high terrain or mountainous areas, where no minimum flight altitude has been established, IFR flights must be flown at a level which is at least:",
+    "choices": [
+      "1000 ft above the highest obstacle located within 10 nm of the estimated position of the aircraft.",
+      "2000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft.",
+      "1000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft.",
+      "2000 ft above the highest obstacle located within 10 nm of the estimated position of the aircraft."
+    ],
+    "answer": "2000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft."
+  },
+  {
+    "question": "You are flying IFR outside controlled airspace in the cruise. Which of the following actions is correct?",
+    "choices": [
+      "Fly an altitude at all times.",
+      "None are correct.",
+      "Fly the appropriate magnetic track for the height you want to fly at.",
+      "Fly an altitude when above transition layer."
+    ],
+    "answer": "None are correct."
+  },
+  {
+    "question": "To an aircraft in the air, a steady red light means:",
+    "choices": [
+      "Return to landing area.",
+      "Cleared to land.",
+      "Aerodrome unsafe, do not land.",
+      "Do not land (overrides previous instructions).",
+      "Land and proceed to apron.",
+      "Don’t land, give way to other aircraft, continue circling."
+    ],
+    "answer": "Don’t land, give way to other aircraft, continue circling."
+  },
+  {
+    "question": "The correct visual response by an intercepted aircraft to indicate that it will comply with the interceptor's instructions is:",
+    "choices": [
+      "Rocking its wings and flashing its navigational lights at irregular intervals and following.",
+      "An abrupt turn to the left.",
+      "Lowering the landing gear.",
+      "A slow turn to the left."
+    ],
+    "answer": "Rocking its wings and flashing its navigational lights at irregular intervals and following."
+  },
+  {
+    "question": "You are flying IFR above FL 290 in RVSM airspace. Your track is 200 degrees magnetic and your flight management computer indicates that your optimum altitude is FL 310. Ideally which flight level should you ask for?",
+    "choices": [
+      "FL 360",
+      "FL 300 or FL 320",
+      "FL285",
+      "FL 310"
+    ],
+    "answer": "FL 300 or FL 320"
+  },
+  {
+    "question": "You are flying IFR above FL 290 in non-RVSM airspace. Your track is 200 degrees magnetic. Which set of flight levels would be appropriate?",
+    "choices": [
+      "FL 310, FL 350, FL 390.",
+      "FL 300, FL 340, FL 380.",
+      "FL 320, FL 360, FL 400.",
+      "FL 290, FL 330, FL 370."
+    ],
+    "answer": "FL 310, FL 350, FL 390."
+  },
+  {
+    "question": "Regular switching on and off of all available lights but in such a manner as to be distinct from flashing lights is:",
+    "choices": [
+      "A signal from an intercepted aircraft to indicate that it cannot comply.",
+      "A signal from an intercepted aircraft to indicate that it will comply.",
+      "A signal from an interceptor meaning 'follow me'.",
+      "A signal from an interceptor meaning 'you may proceed'."
+    ],
+    "answer": "A signal from an intercepted aircraft to indicate that it cannot comply."
+  },
+  {
+    "question": "SVFR ___________ permitted at night.",
+    "choices": [
+      "Is.",
+      "Is not."
+    ],
+    "answer": "Is not."
+  },
+  {
+    "question": "A controlled flight must inform the appropriate ATC unit if its average TAS at cruising level varies, or is expected to vary, from that given in the flight plan by plus/minus:",
+    "choices": [
+      "3%",
+      "5%",
+      "10%",
+      "2%"
+    ],
+    "answer": "5%"
+  },
+  {
+    "question": "Which of the following are valid conditions for SVFR? Mark all correct answers.",
+    "choices": [
+      "Cloud ceiling at least 600 m.",
+      "Fly at 140 kt or less.",
+      "Flight visibility of at least 1500 m."
+    ],
+    "answer": [
+      "Flight visibility of at least 1500 m.",
+      "Fly at 140 kt or less."
+    ]
+  },
+  {
+    "question": "You must stop and hold at all lighted stop bars.",
+    "choices": [
+      "You may only proceed when the lights turn green.",
+      "You many only proceed when the pair of associated flashing amber lights are extinguished.",
+      "You may only proceed when the lights are switched off.",
+      "Except during daylight hours and when it's clear that there is no conflicting traffic."
+    ],
+    "answer": "You may only proceed when the lights are switched off."
+  },
+  {
+    "question": "This marshalling signal means:",
+    "choices": [
+      "Proceed under my guidance.",
+      "Chocks in place or removed.",
+      "Turn.",
+      "Move straight ahead.",
+      "Proceed under the guidance of the next marshaller.",
+      "Stop immediately.",
+      "Indicates the bay into which you should enter.",
+      "Engage brakes.",
+      "Start engine No 2.",
+      "Move back"
+    ],
+    "answer": "Move back"
+  },
+  {
+    "question": "Which of these statements about collision avoidance correctly describes the actions to be taken when 2 similarly manoeuvrable aircraft are converging?",
+    "choices": [
+      "The aircraft that has the other on its left must give way.",
+      "Both aircraft should manoeuvre so that they pass behind each other.",
+      "The slower aircraft must give way.",
+      "The aircraft that has the other on its right must give way."
+    ],
+    "answer": "The aircraft that has the other on its right must give way."
+  },
+  {
+    "question": "This marshalling signal means:",
+    "choices": [
+      "Stop immediately.",
+      "Indicates the bay into which you should enter.",
+      "A wing walker is telling you that aircraft movement would be unobstructed.",
+      "Move straight ahead.",
+      "Proceed under the guidance of the next marshaller.",
+      "Chocks removed.",
+      "Chocks in place.",
+      "Turn.",
+      "Proceed under my guidance.",
+      "Start engine No 2."
+    ],
+    "answer": "Chocks removed."
+  },
+  {
+    "question": "This marshalling signal means:",
+    "choices": [
+      "Engage brakes.",
+      "Chocks in place or removed.",
+      "A wing walker is telling you that aircraft movement would be unobstructed.",
+      "Stop immediately.",
+      "Start engine No 2.",
+      "Move straight ahead.",
+      "Turn.",
+      "Proceed under my guidance.",
+      "Proceed under the guidance of the next marshaller.",
+      "Indicates the bay into which you should enter."
+    ],
+    "answer": "A wing walker is telling you that aircraft movement would be unobstructed."
+  },
+  {
+    "question": "An ATC clearance must be obtained: Mark all correct answers.",
+    "choices": [
+      "Before operating any flight.",
+      "Before starting engines.",
+      "Before starting to taxi on the manoeuvring area at a controlled aerodrome."
+    ],
+    "answer": "Before starting to taxi on the manoeuvring area at a controlled aerodrome."
+  },
+  {
+    "question": "Over high terrain or mountainous areas, where no minimum flight altitude has been established, IFR flights must be flown at a level which is at least:",
+    "choices": [
+      "1000 ft above the highest obstacle located within 8km of the estimated position of the aircraft.",
+      "2000 ft above the highest obstacle located within 10 nm of the estimated position of the aircraft.",
+      "2000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft.",
+      "1000 ft above the highest obstacle located within 10 nm of the estimated position of the aircraft."
+    ],
+    "answer": "2000 ft above the highest obstacle located within 8 km of the estimated position of the aircraft."
+  },
+  {
+    "question": "Your flight plan gave a planned cruising speed of 400 kt TAS. However, you need to fly faster for fuel economy. Above what value must you report your speed deviation to ATC?",
+    "choices": [
+      "405 kt.",
+      "410 kt.",
+      "420 kt.",
+      "440 kt."
+    ],
+    "answer": "420 kt."
+  },
+  {
+    "question": "An aircraft flying over the territory of another State must:",
+    "choices": [
+      "Follow the Rules of the Air of the State of Registration.",
+      "Follow the Rules of the Air of the State that has issued the aircraft certificate of airworthiness.",
+      "Follow the Rules of the Air of the State of the Operator.",
+      "Follow the Rules of the Air of the State it is overflying."
+    ],
+    "answer": "Follow the Rules of the Air of the State it is overflying."
+  },
+  {
+    "question": "Which of the following annexes to the Chicago Convention contains the minimum specifications required for a crew license to be internationally valid?",
+    "choices": [
+      "Annex 3.",
+      "Annex 4.",
+      "Annex 2.",
+      "Annex 1."
+    ],
+    "answer": "Annex 1."
+  },
+  {
+    "question": "Which of the following refers to the state of design?",
+    "choices": [
+      "It is responsible for investigation if an accident happened in a non-contracting state.",
+      "It performs the investigation if an accident occurs in the territory of a contracting state.",
+      "It shall ensure that there exists a continuing structural integrity program to ensure the airworthiness of aeroplanes above 5700 kg.",
+      "It issues the certificate of airworthiness."
+    ],
+    "answer": "It shall ensure that there exists a continuing structural integrity program to ensure the airworthiness of aeroplanes above 5700 kg."
+  },
+  {
+    "question": "The term 'Cabotage' refers to:",
+    "choices": [
+      "A flight above territorial waters.",
+      "Domestic air services operated by a foreign carrier.",
+      "Crop spraying.",
+      "A national air carrier."
+    ],
+    "answer": "Domestic air services operated by a foreign carrier."
+  },
+  {
+    "question": "Nationality marks are selected from the series of nationality symbols allocated to the State of Registry by the",
+    "choices": [
+      "State of Registry",
+      "State of manufacturer",
+      "International Telecommunications Union (ITU).",
+      "Common registration marks authority"
+    ],
+    "answer": "International Telecommunications Union (ITU)."
+  },
+  {
+    "question": "According to Article 16, appropriate State authorities have the right (without unreasonable delay), to:",
+    "choices": [
+      "Impound aircraft if the passenger manifest is incorrect.",
+      "Allow passengers to be picked up or set down from States other than the home State.",
+      "Search aircraft on landing or departure, and to inspect their required certificates and other documents.",
+      "Make detailed technical checks on the aircraft."
+    ],
+    "answer": "Search aircraft on landing or departure, and to inspect their required certificates and other documents."
+  },
+  {
+    "question": "An IR permits you to fly aircraft under IFR, including PBN operations, with a minimum decision height of no less than _______ feet",
+    "choices": [
+      "100",
+      "400",
+      "200",
+      "50"
+    ],
+    "answer": "200"
+  },
+  {
+    "question": "In accordance with Part-FCL requirements, one of the privileges of a holder of an ATPL(A) is to:",
+    "choices": [
+      "exercise all the privileges of the holder of an ATPL(H).",
+      "act as PIC or co-pilot of any category of aircraft engaged in operations other than commercial air transport.",
+      "exercise all the privileges of the holder of an LAPL(A), a PPL(A), a Sailplane Pilot Licence (SPL), and a CPL(A).",
+      "act as PIC of aeroplanes engaged in commercial air transport."
+    ],
+    "answer": "act as PIC of aeroplanes engaged in commercial air transport."
+  },
+  {
+    "question": "A Class 1 medical certificate is valid for 12 months, or 6 months if you: Mark all correct answers.",
+    "choices": [
+      "Are over 40 and fly single-pilot commercial air transport operations carrying passengers.",
+      "Over 55.",
+      "Over 60.",
+      "Over 40."
+    ],
+    "answer": [
+      "Over 60.",
+      "Are over 40 and fly single-pilot commercial air transport operations carrying passengers."
+    ]
+  },
+  {
+    "question": "A carrier is liable for damage sustained in the event of death or wounding of a passenger if the accident that caused the damage:",
+    "choices": [
+      "Took place on board the aircraft.",
+      "Took place on board the aircraft or in the course of any of the operations of embarking and disembarking or after the check-in of the passenger.",
+      "Took place on board the aircraft or in the course of any of the operations of embarking and disembarking including time spent after the passenger has entered the sterile security area.",
+      "Took place on board the aircraft or in the course of any of the operations of embarking and disembarking."
+    ],
+    "answer": "Took place on board the aircraft or in the course of any of the operations of embarking and disembarking."
+  },
+  {
+    "question": "According to PART-FCL, single-pilot, single-engine class ratings are valid for:",
+    "choices": [
+      "1 year.",
+      "2 years up to the age 40, then 1 year thereafter.",
+      "2 years.",
+      "5 years after licence issue."
+    ],
+    "answer": "2 years."
+  },
+  {
+    "question": "Who can change the limitations of class 1 medical certificate?",
+    "choices": [
+      "AME, together with AeMC",
+      "The licensing authority.",
+      "AeMC",
+      "AME."
+    ],
+    "answer": "The licensing authority."
+  },
+  {
+    "question": "According to PART-FCL, 'instrument time' comprises:",
+    "choices": [
+      "Instrument flight time.",
+      "The time in IMC where the aeroplane is flown by the PIC.",
+      "Simulated instrument flight time.",
+      "Instrument flight time or instrument ground time."
+    ],
+    "answer": "Instrument flight time or instrument ground time."
+  },
+  {
+    "question": "According to which Convention may an aircraft commander impose measures upon a person committing a crime or an offence on board the aircraft?",
+    "choices": [
+      "The Convention of Warsaw.",
+      "The Convention of Tokyo.",
+      "The Convention of Chicago.",
+      "The Convention of Rome."
+    ],
+    "answer": "The Convention of Tokyo."
+  },
+  {
+    "question": "Your Class 1 medical certificate expired 10 days ago. If you are going to an AMC now, you will undergo a medical class:",
+    "choices": [
+      "Revalidation.",
+      "Initial examination.",
+      "Extension.",
+      "Renewal."
+    ],
+    "answer": "Renewal."
+  },
+  {
+    "question": "What are the provisions of the International Air Transport Agreement?",
+    "choices": [
+      "Free and unhindered transit of aeroplanes over the high seas.",
+      "The carriage of traffic between the state of registration of the aircraft and any other participating state.",
+      "The freedom for aeroplanes of one State to land in the territory of another State for the purpose of refuelling.",
+      "The freedom for aeroplanes to fly over the territory of any other State without landing."
+    ],
+    "answer": "The carriage of traffic between the state of registration of the aircraft and any other participating state."
+  },
+  {
+    "question": "How long is a Mountain Rating valid for?",
+    "choices": [
+      "6 months.",
+      "24 months.",
+      "12 months.",
+      "36 months."
+    ],
+    "answer": "24 months."
+  },
+  {
+    "question": "Regulation (EU) No 965/2012 (EU Air Ops) covers:",
+    "choices": [
+      "Just the rules of the air in EU airspace.",
+      "All types of commercial and non-commercial operations.",
+      "Only commercial air operations.",
+      "Scheduled and non-scheduled air transport services."
+    ],
+    "answer": "All types of commercial and non-commercial operations."
+  },
+  {
+    "question": "A Certificate of Airworthiness remains valid:",
+    "choices": [
+      "For a period of 36 months.",
+      "For a period of 24 months.",
+      "Subject to the laws of the State of Registry.",
+      "For a period of 12 months."
+    ],
+    "answer": "Subject to the laws of the State of Registry."
+  },
+  {
+    "question": "A holder of a CPL is required to hold which type of medical certificate?",
+    "choices": [
+      "Class 1.",
+      "Class 1 or 2.",
+      "Class 2.",
+      "Class 3."
+    ],
+    "answer": "Class 1."
+  },
+  {
+    "question": "What do you understand by \"EASA certification specifications\"?",
+    "choices": [
+      "They are non-binding explanatory and interpretation materials on how to achieve the requirements contained in the basic regulation.",
+      "They are binding technical standards, adopted by EASA, to meet the essential requirements of the basic regulation.",
+      "They are non-binding technical standards, adopted by EASA, to meet the essential requirements of the basic regulation.",
+      "They are non-binding special detailed technical specifications determined by the NAA for an aerodrome."
+    ],
+    "answer": "They are non-binding technical standards, adopted by EASA, to meet the essential requirements of the basic regulation."
+  },
+  {
+    "question": "When an aircraft commander on board his aircraft has reasonable grounds to believe that a person has committed or is about to commit an offence against penal law he/she:",
+    "choices": [
+      "May require the passenger to disembark.",
+      "May restrain the passenger.",
+      "May request other passengers to assist."
+    ],
+    "answer": [
+      "May request other passengers to assist.",
+      "May require the passenger to disembark.",
+      "May restrain the passenger."
+    ]
+  },
+  {
+    "question": "The issuing authority of a CofA is:",
+    "choices": [
+      "The State of Manufacture.",
+      "The State of Registry.",
+      "The State of the Operator.",
+      "The State of Occurrence."
+    ],
+    "answer": "The State of Registry."
+  },
+  {
+    "question": "In Europe __________ law must be followed by Member States.",
+    "choices": [
+      "Soft",
+      "Hard",
+      "State.",
+      "All"
+    ],
+    "answer": "Hard"
+  },
+  {
+    "question": "On a heavier than air aircraft where should registration marks appear?",
+    "choices": [
+      "On the lower surface of the right wing.",
+      "On upper surface of the left wing.",
+      "On the upper surface of the right wing.",
+      "On the lower surface of the left wing."
+    ],
+    "answer": "On the lower surface of the left wing."
+  },
+  {
+    "question": "According to PART-FCL, class and type ratings are valid for 1 year from the:",
+    "choices": [
+      "issue.",
+      "application is received by the Authority.",
+      "skills test.",
+      "last medical certificate."
+    ],
+    "answer": "skills test."
+  },
+  {
+    "question": "Common Marks are:",
+    "choices": [
+      "Allocated by the ITU and assigned by ICAO to the common mark registering authority.",
+      "Assigned by the common mark registering authority and allocated by the State of Manufacture.",
+      "Assigned by the common mark registering authority and allocated by the State of Registry.",
+      "Assigned by the ITU from allocations given by the common mark registering authority."
+    ],
+    "answer": "Allocated by the ITU and assigned by ICAO to the common mark registering authority."
+  },
+  {
+    "question": "Your Class 1 medical certificate expires in 10 days. If you are going to an AMC now, you will undergo a medical class:",
+    "choices": [
+      "Renewal.",
+      "Extension.",
+      "Initial examination.",
+      "Revalidation."
+    ],
+    "answer": "Revalidation."
+  },
+  {
+    "question": "Which Freedom of the Air will be exercised by an airline planning a flight that will require a technical stop in a neighbouring State?",
+    "choices": [
+      "1st Freedom of the Air.",
+      "4th Freedom of the Air.",
+      "3rd Freedom of the Air.",
+      "2nd Freedom of the Air."
+    ],
+    "answer": "2nd Freedom of the Air."
+  },
+  {
+    "question": "ICAO establishes:",
+    "choices": [
+      "Standards and recommended practices applied without exception by all states, signatory to the Chicago convention.",
+      "Proposals for aeronautical regulations in the form of 18 annexes.",
+      "Standards and recommended practices for contracting member states.",
+      "Aeronautical standards adopted by all States."
+    ],
+    "answer": "Standards and recommended practices for contracting member states."
+  },
+  {
+    "question": "Applicants for an aerobatic rating shall have completed:",
+    "choices": [
+      "At least 5 hours or 25 flights of aerobatic instruction in the appropriate aircraft category.",
+      "At least 10 hours or 20 flights of aerobatic instruction in the appropriate aircraft category.",
+      "At least 5 hours or 20 flights of aerobatic instruction in the appropriate aircraft category.",
+      "At least 5 hours or 40 flights of aerobatic instruction in the appropriate aircraft category."
+    ],
+    "answer": "At least 5 hours or 20 flights of aerobatic instruction in the appropriate aircraft category."
+  },
+  {
+    "question": "Which of the following statements are correct? Mark all correct answers.",
+    "choices": [
+      "Student pilots must carry evidence that they have been authorised to carry out a cross-country flight.",
+      "The privileges of an MPL are to act as a PiC of an aeroplane required to be operated with a co-pilot.",
+      "The privileges of an ATPL are to exercise all the privileges an LAPL, a PPL and a CPL and act as PIC of aircraft engaged in commercial air transport."
+    ],
+    "answer": [
+      "Student pilots must carry evidence that they have been authorised to carry out a cross-country flight.",
+      "The privileges of an ATPL are to exercise all the privileges an LAPL, a PPL and a CPL and act as PIC of aircraft engaged in commercial air transport."
+    ]
+  },
+  {
+    "question": "Which of these are valid pre-requisites for the issue of a European Certificate of Airworthiness? Mark all correct answers.",
+    "choices": [
+      "The flight manual, when required for the particular aircraft.",
+      "Historical records to provide evidence of its satisfactory production, modification, and maintenance standards (aircraft originating outside the EU).",
+      "A statement of (EASA) conformity (for new aircraft)."
+    ],
+    "answer": [
+      "A statement of (EASA) conformity (for new aircraft).",
+      "Historical records to provide evidence of its satisfactory production, modification, and maintenance standards (aircraft originating outside the EU).",
+      "The flight manual, when required for the particular aircraft."
+    ]
+  },
+  {
+    "question": "If an applicant wishes to obtain an aeroplane night rating, He/she shall have completed:",
+    "choices": [
+      "at least 5 hours of flight time in the appropriate aircraft category at night and 5 solo take-offs and 5 solo landings (at least 1 full-stop landing).",
+      "at least 3 hours of flight time in the appropriate aircraft category at night and 3 solo take-offs and 3 solo full-stop landings.",
+      "at least 3 hours of flight time in the appropriate aircraft category at night and 5 solo take-offs and 5 solo landings (at least 1 full-stop landing).",
+      "at least 5 hours of flight time in the appropriate aircraft category at night and 5 solo take-offs and 5 solo full-stop landings."
+    ],
+    "answer": "at least 5 hours of flight time in the appropriate aircraft category at night and 5 solo take-offs and 5 solo full-stop landings."
+  },
+  {
+    "question": "A pilot suffers significant decrease in visual acuity and chronic headaches. The correct course of action is to:",
+    "choices": [
+      "Self medicate until the problem desists.",
+      "Obtain a prescription for glasses and resume flying if the headaches clear.",
+      "Continue flying while waiting for an appointment with an aero-medical examiner.",
+      "Stop flying and seek aero-medical advice."
+    ],
+    "answer": "Stop flying and seek aero-medical advice."
+  },
+  {
+    "question": "According to EASA AIRCREW, Medical Certificates are:",
+    "choices": [
+      "Class 1 Medical Certificate and Class 2 Medical Certificate.",
+      "Class 1 Medical Certificate, Class 2 Medical Certificate, Class 3 Medical Certificate.",
+      "Class 1 Medical Certificate, Class 2 Medical Certificate, LAPL Medical Certificate.",
+      "LAPL medical certificate, ATPL medical certificate, CPL medical certificate, 1R medical certificate."
+    ],
+    "answer": "Class 1 Medical Certificate, Class 2 Medical Certificate, LAPL Medical Certificate."
+  },
+  {
+    "question": "To act as flight crew of an EU aircraft, you need to demonstrate competence in: Mark all correct answers.",
+    "choices": [
+      "Maintaining control of the aircraft at all times.",
+      "Adopting non-technical skills.",
+      "Applying aeronautical knowledge.",
+      "Exercising good judgement and airmanship."
+    ],
+    "answer": [
+      "Exercising good judgement and airmanship.",
+      "Applying aeronautical knowledge.",
+      "Maintaining control of the aircraft at all times.",
+      "Adopting non-technical skills."
+    ]
+  },
+  {
+    "question": "A Certificate of Airworthiness is issued by a Contracting State on the basis of:",
+    "choices": [
+      "Evidence that the aircraft complies with the design aspects of the airworthiness requirements.",
+      "Evidence that the aircraft complies with the operational regulations of ICAO Annex 2.",
+      "A report submitted by the aeroplane manufacturer."
+    ],
+    "answer": "Evidence that the aircraft complies with the design aspects of the airworthiness requirements."
+  },
+  {
+    "question": "The period of validity for a type rating is:",
+    "choices": [
+      "2 years if the type is operated under VFR only.",
+      "2 years.",
+      "Indefinite.",
+      "1 year."
+    ],
+    "answer": "1 year."
+  },
+  {
+    "question": "What are the objectives of ICAO?",
+    "choices": [
+      "To act as the licensing body for all pilots around the world.",
+      "To ensure the safe and orderly growth of international civil aviation throughout the world.",
+      "To ensure aircraft are designed in a way that limits the impact on the environment.",
+      "To designate identification to airfields."
+    ],
+    "answer": "To ensure the safe and orderly growth of international civil aviation throughout the world."
+  },
+  {
+    "question": "According to PART-FCL, 'instrument time' comprises:",
+    "choices": [
+      "Instrument flight time.",
+      "Simulated instrument flight time.",
+      "Instrument flight time or instrument ground time.",
+      "The time in IMC where the aeroplane is flown by the PIC."
+    ],
+    "answer": "Instrument flight time or instrument ground time."
+  },
+  {
+    "question": "The 'Standards' contained in the Annexes to the Chicago Convention are to be considered:",
+    "choices": [
+      "Binding for all airline companies with international traffic.",
+      "Advice and guidance for the aviation legislation within the member states.",
+      "Binding for the member states that have not notified ICAO about a national difference.",
+      "Binding for all member states."
+    ],
+    "answer": "Binding for the member states that have not notified ICAO about a national difference."
+  },
+  {
+    "question": "Member states of ICAO must:",
+    "choices": [
+      "Be informed about differences from the standards in any of the Annexes to the convention that another member state has incorporated.",
+      "Be informed about new flight crew licenses and any suspended validity of such licenses.",
+      "Approve the pricing of tickets on international airline connections.",
+      "Be informed about changes in the national regulations."
+    ],
+    "answer": "Be informed about differences from the standards in any of the Annexes to the convention that another member state has incorporated."
+  },
+  {
+    "question": "According to the Aircrew Regulation, one of the privileges of the holder of a CPL(A) is to act as pilot-in-command on any:",
+    "choices": [
+      "Aeroplane engaged in operations other than commercial air transportation.",
+      "Aeroplane certified for single pilot operation other than in commercial air transportation.",
+      "Aircraft.",
+      "Aeroplane engaged in commercial air transportation."
+    ],
+    "answer": "Aeroplane engaged in operations other than commercial air transportation."
+  },
+  {
+    "question": "Aircraft which enter the territory of a contracting State must land at a designated airport:",
+    "choices": [
+      "For technical checks on cargo loading.",
+      "For the purposes of customs and other examinations.",
+      "In IFR conditions.",
+      "For police checks on crew competency."
+    ],
+    "answer": "For the purposes of customs and other examinations."
+  },
     {
       "question": "An integrated aeronautical information package comprises which of the following elements?",
       "choices": [
