@@ -40420,16 +40420,6 @@
       "answer": "usually moves across the surface faster than a warm front."
     },
     {
-      "question": "In the middle of the eye of a hurricane the wind speed is:",
-      "choices": [
-        "Higher than 63 knots and the air is descending.",
-        "Lower than 63 knots and the air is descending.",
-        "Lower than 63 knots and the air is ascending.",
-        "Higher than 63 knots and the air is ascending."
-      ],
-      "answer": "Lower than 63 knots and the air is descending."
-    },
-    {
       "question": "Associate the met product and its description: A weather advisory issued by MWO's that contains meteorological information concerning the safety of all aircraft.",
       "choices": [
         "GAMET",
@@ -42718,8 +42708,7 @@
       "choices": [
         "mercury",
         "anaeroid",
-        "barograph",
-        "aneroid"
+        "barograph"
       ],
       "answer": "anaeroid"
     },
@@ -43938,16 +43927,6 @@
       "answer": "The temperature drops and dew point rises."
     },
     {
-      "question": "In the middle of the eye of a hurricane the wind speed is:",
-      "choices": [
-        "higher than 63 knots and the air is ascending.",
-        "lower than 63 knots and the air is descending.",
-        "higher than 63 knots and the air is descending.",
-        "lower than 63 knots and the air is ascending."
-      ],
-      "answer": "lower than 63 knots and the air is descending."
-    },
-    {
       "question": "Associate the met product and its description: A briefing service for low level GA aircraft < FL 120.",
       "choices": [
         "GAMET",
@@ -44244,16 +44223,6 @@
     "answer": "Upslope wind on a mountainside"
   },
   {
-    "question": "What can be expected slightly east of Oslo?",
-    "choices": [
-      "Freezing rain",
-      "Local fog",
-      "Local mist",
-      "Heavy insolation"
-    ],
-    "answer": "Local fog"
-  },
-  {
     "question": "What is a warm occlusion?",
     "choices": [
       "Occluded front where the air behind the front is warmer than the air ahead",
@@ -44352,16 +44321,6 @@
       "A sensor for cloud height"
     ],
     "answer": "An instrument used to measure wind speed"
-  },
-  {
-    "question": "What is the speed of the jet stream?",
-    "choices": [
-      "100kts",
-      "130kts",
-      "230kts",
-      "360kts"
-    ],
-    "answer": "230kts"
   },
   {
     "question": "METAR OMDB 171600Z 27006KT 250V310 CAVOK 34/26 Q1003 NOSIG= What does 250V310 indicate?",
@@ -44544,26 +44503,6 @@
     "answer": "A low-pressure \"belt\" near the equator with convective activity"
   },
   {
-    "question": "What is a potential hazard over Estonia?",
-    "choices": [
-      "An occlusion",
-      "Isolated TCUs",
-      "Local showers and thunderstorms",
-      "Freezing fog"
-    ],
-    "answer": "Local showers and thunderstorms"
-  },
-  {
-    "question": "What is the indicated tropopause height in the Netherlands?",
-    "choices": [
-      "80000ft, and it is a local low",
-      "47000ft, and it is a local high",
-      "47000ft, and it is a local low",
-      "80000ft, and it is a local high"
-    ],
-    "answer": "47000ft, and it is a local high"
-  },
-  {
     "question": "TAF AMD: ENSS 171822Z 1718/1721 17008KT 9999 -RA FEW008 BKN045 TEMPO 1718/1720 BKN003 SCT020TCU= What does TAF AMD mean?",
     "choices": [
       "Advanced: forecast issued early",
@@ -44572,36 +44511,6 @@
       "Anomalous: unusual weather expected"
     ],
     "answer": "Amended: the forecast has been revised and updated"
-  },
-  {
-    "question": "Given LT = UTC+2. What was the wind velocity and cloud coverage in octas at 11:30LT?",
-    "choices": [
-      "290/11, variable between 220 and 340. Cloud coverage 1-2 octas.",
-      "290/11, variable between 230 and 310. Cloud coverage 3-4 octas.",
-      "270/10, variable between 240 and 320. Cloud coverage 1-2 octas.",
-      "280/07, variable between 250 and 320. Cloud coverage 1-2 octas."
-    ],
-    "answer": "280/07, variable between 250 and 320. Cloud coverage 1-2 octas."
-  },
-  {
-    "question": "What might happen between 14:00Z-18:00Z on the day follwing the issuance of this TAF?",
-    "choices": [
-      "Temporary showers with broken TCUs",
-      "A decrease in wind speed",
-      "Continuous heavy rain all day",
-      "40% chance of temporary showers with cumulonimbus clouds"
-    ],
-    "answer": "40% chance of temporary showers with cumulonimbus clouds"
-  },
-  {
-    "question": "What do we expect will happen to the visibility between 12:00Z-18:00Z?",
-    "choices": [
-      "Remain +10km",
-      "Will remain at 4km in that time window",
-      "Will be as low as 4km, albeit intermittently",
-      "No change"
-    ],
-    "answer": "Will be as low as 4km, albeit intermittently"
   },
   {
     "question": "What generally happens with relative humidity between the afternoon and early morning hours?",
@@ -44634,16 +44543,6 @@
     "answer": "Cumulus clouds"
   },
   {
-    "question": "What is the forecasted wind velocity on the coastline of northeastern Florida?",
-    "choices": [
-      "090/05",
-      "270/05",
-      "225/10",
-      "180/05"
-    ],
-    "answer": "090/05"
-  },
-  {
     "question": "How does one generally avoid thunderstorms?",
     "choices": [
       "Fly above (if performance permits)",
@@ -44672,16 +44571,6 @@
       "A jet stream pattern"
     ],
     "answer": "A long, organized band of severe thunderstorms"
-  },
-  {
-    "question": "What can be expected in Northern Norway (summertime) during these conditions?",
-    "choices": [
-      "Clear skies, warm temperatures, light winds",
-      "Thunderstorms and heavy rain",
-      "Clear skies, warm temperatures, strong winds",
-      "Fog and low clouds"
-    ],
-    "answer": "Clear skies, warm temperatures, light winds"
   },
   {
     "question": "Which of these is an example of a katabatic wind?",
@@ -44762,56 +44651,6 @@
       "8736ft"
     ],
     "answer": "8901ft"
-  },
-  {
-    "question": "What is the minimum suitable flight level?",
-    "choices": [
-      "FL135",
-      "FL145",
-      "FL155",
-      "FL140"
-    ],
-    "answer": "FL145"
-  },
-  {
-    "question": "Given an airport elevation of 254ft, determine the QFE rounded down to the nearest hPa",
-    "choices": [
-      "986hPa",
-      "1003hPa",
-      "985hPa",
-      "1004hPa"
-    ],
-    "answer": "986hPa"
-  },
-  {
-    "question": "What is the expected weather at 03:00Z on the 18th?",
-    "choices": [
-      "Winds 160 degrees 15kts, temporary visibility of 4km",
-      "Winds 220 degrees 15kts, light showers of rain",
-      "Winds 220 degrees 15kts, scattered clouds at 2500ft",
-      "Winds variable 5kts, temporary visibility of 4km"
-    ],
-    "answer": "Winds 160 degrees 15kts, temporary visibility of 4km"
-  },
-  {
-    "question": "Is SVFR permissible at 05:00Z on the 18th?",
-    "choices": [
-      "No, visibility is limiting",
-      "Yes, provided this is granted outside of the temporary weather phenomenon",
-      "Yes.",
-      "No, ceiling is limiting"
-    ],
-    "answer": "Yes."
-  },
-  {
-    "question": "What can we expect at 12:00Z on the 18th?",
-    "choices": [
-      "Winds 170 degrees 8kts, vertical visibility 200ft",
-      "Visibility +10km, winds 230 degrees 15kts",
-      "Visibility 2km, ceiling 600ft, winds 230 degrees 15kts",
-      "Patches of fog, winds 230 degrees 15kts"
-    ],
-    "answer": "Visibility +10km, winds 230 degrees 15kts"
   },
   {
     "question": "What is MIFG in a metar, and how far does it extend from the ground?",
