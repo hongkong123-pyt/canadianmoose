@@ -39325,7 +39325,7 @@
       "answer": "Telecommunication."
     }
   ],
-  "MET": [
+  "MET KAHOOT": [
   {
     "question": "Which of the following is typical for the snow (tundra) climate?",
     "choices": [
@@ -44031,6 +44031,798 @@
       ],
       "answer": "Good visibility, turbulence."
     }
+  ],
+  "MET": [
+  {
+    "question": "What is a cold front?",
+    "choices": [
+      "The area of strongest winds around the eye of a storm",
+      "The leading edge of a colder air mass advancing, forcing warmer air to rise",
+      "A boundary where warm air pushes under cold air, lifting it up",
+      "A zone of calm, stable weather following a low-pressure system"
+    ],
+    "answer": "The leading edge of a colder air mass advancing, forcing warmer air to rise"
+  },
+  {
+    "question": "What is a ridge?",
+    "choices": [
+      "A narrow zone of strong temperature gradient between two air masses",
+      "The boundary between two converging airflows near the surface",
+      "An elongated area of high pressure extending outward from a high",
+      "The rising branch of a Hadley cell along the equator"
+    ],
+    "answer": "An elongated area of high pressure extending outward from a high"
+  },
+  {
+    "question": "What kind of weather can we expect in a cold air drop?",
+    "choices": [
+      "Clear skies, calm winds, and warming temperatures",
+      "Showers, thunderstorms, and generally unstable conditions",
+      "Continuous, steady precipitation with layered clouds",
+      "Dense fog formation under a strong inversion"
+    ],
+    "answer": "Showers, thunderstorms, and generally unstable conditions"
+  },
+  {
+    "question": "What is ISA?",
+    "choices": [
+      "International Standard Atmosphere, \"reference\" model of the atmosphere",
+      "International group controlling global airspace",
+      "International Synoptic Association for weather forecasts",
+      "A scale used to classify turbulence strength"
+    ],
+    "answer": "International Standard Atmosphere, \"reference\" model of the atmosphere"
+  },
+  {
+    "question": "The temperature at 4000 ft is measured to be 7°C, what is the ISA deviation?",
+    "choices": [
+      "−7 °C",
+      "+4 °C",
+      "+7 °C",
+      "0 °C"
+    ],
+    "answer": "0 °C"
+  },
+  {
+    "question": "FU indicates what kind of weather phenomenon?",
+    "choices": [
+      "Fog",
+      "Dust",
+      "Smoke",
+      "Ash"
+    ],
+    "answer": "Smoke"
+  },
+  {
+    "question": "What is a land breeze?",
+    "choices": [
+      "Daytime wind blowing from sea to land",
+      "Wind blowing from land to sea",
+      "Strong downslope mountain wind",
+      "Wind shift caused by passing cold front"
+    ],
+    "answer": "Wind blowing from land to sea"
+  },
+  {
+    "question": "The ISA deviation at 39000ft is +12 °C, what is the OAT?",
+    "choices": [
+      "-51 °C",
+      "−44.5 °C",
+      "−68.5 °C",
+      "−32.5 °C"
+    ],
+    "answer": "−44.5 °C"
+  },
+  {
+    "question": "What are the three global circulatory cells?",
+    "choices": [
+      "Hadley, Ferrel, Polar",
+      "Hadley, Monsoon, Polar",
+      "Polar, Equatorial, Trade",
+      "Ferrel, Trade, Equatorial"
+    ],
+    "answer": "Hadley, Ferrel, Polar"
+  },
+  {
+    "question": "What is a SIGMET?",
+    "choices": [
+      "A notice about airport closures and runway conditions",
+      "A warning of significant weather affecting aircraft safety",
+      "A routine forecast of surface pressure and winds",
+      "A chart showing isobars and frontal positions"
+    ],
+    "answer": "A warning of significant weather affecting aircraft safety"
+  },
+  {
+    "question": "What is a travelling frontal depression?",
+    "choices": [
+      "A stationary zone of weak high pressure",
+      "A low-pressure system, generally moving with warm & cold fronts",
+      "A tropical storm forming near the equator",
+      "A gap in a front caused by mountain ranges"
+    ],
+    "answer": "A low-pressure system, generally moving with warm & cold fronts"
+  },
+  {
+    "question": "What is a secondary depression?",
+    "choices": [
+      "A weak high that builds behind the main low-pressure system",
+      "A smaller low-pressure system forming near a main depression",
+      "A trough of low pressure extending from a ridge",
+      "A tropical cyclone that follows another cyclone"
+    ],
+    "answer": "A smaller low-pressure system forming near a main depression"
+  },
+  {
+    "question": "What is an adiabatic process?",
+    "choices": [
+      "Air warming due to contact with a hot surface",
+      "Cooling caused by mixing with cold air",
+      "A process where air changes temperature without heat exchange",
+      "Heating from incoming solar radiation"
+    ],
+    "answer": "A process where air changes temperature without heat exchange"
+  },
+  {
+    "question": "Advection is?",
+    "choices": [
+      "Vertical rising of warm air",
+      "Turbulent mixing near the surface",
+      "Cooling of air by radiation at night",
+      "Horizontal movement of air"
+    ],
+    "answer": "Horizontal movement of air"
+  },
+  {
+    "question": "What are geostationary satellites?",
+    "choices": [
+      "Satellites in low Earth orbit circling twice per day",
+      "Satellites moving rapidly between poles",
+      "Satellites that track only weather fronts",
+      "Satellites at a great distance from earth, appearing to be stationary"
+    ],
+    "answer": "Satellites at a great distance from earth, appearing to be stationary"
+  },
+  {
+    "question": "ENAT 171400Z 1715/1722 13005KT 9999 -RA BKN050 TEMPO 1715/1722 SHRA SCT020TCU TEMPO 1717/1720 BKN008= Ceiling at 2200Z?",
+    "choices": [
+      "800ft",
+      "5000ft",
+      "2000ft",
+      "9999ft"
+    ],
+    "answer": "5000ft"
+  },
+  {
+    "question": "What is the siberian high?",
+    "choices": [
+      "A tropical low-pressure system near the equator",
+      "A stormy low over the North Atlantic",
+      "A large, cold, high-pressure system over Siberia in winter",
+      "A warm high-pressure system over southern Russia"
+    ],
+    "answer": "A large, cold, high-pressure system over Siberia in winter"
+  },
+  {
+    "question": "What is an anti-cyclone?",
+    "choices": [
+      "A sudden drop in pressure along a front",
+      "A cyclone moving in the opposite direction of normal winds",
+      "A high-pressure system",
+      "A low-pressure system"
+    ],
+    "answer": "A high-pressure system"
+  },
+  {
+    "question": "What does VCSH mean on a METAR?",
+    "choices": [
+      "Showers in the vicinity",
+      "Heavy rain at the station",
+      "Fog reducing visibility below 500 m",
+      "Thunderstorms overhead"
+    ],
+    "answer": "Showers in the vicinity"
+  },
+  {
+    "question": "Determine RVR. ENKR 171700Z 1718/1803 16005KT 9999 FEW008 PROB40 TEMPO 1718/1803 SHRA PROB40 1721/1803 0300 FG VV001= ",
+    "choices": [
+      "+10km",
+      "300m",
+      "Not given",
+      "100ft"
+    ],
+    "answer": "Not given"
+  },
+  {
+    "question": "What is an anabatic wind?",
+    "choices": [
+      "Downslope wind blowing at night from mountains to valleys",
+      "Upslope wind on a mountainside",
+      "Strong horizontal wind along a coastal line",
+      "Sudden gusts caused by thunderstorms"
+    ],
+    "answer": "Upslope wind on a mountainside"
+  },
+  {
+    "question": "What can be expected slightly east of Oslo?",
+    "choices": [
+      "Freezing rain",
+      "Local fog",
+      "Local mist",
+      "Heavy insolation"
+    ],
+    "answer": "Local fog"
+  },
+  {
+    "question": "What is a warm occlusion?",
+    "choices": [
+      "Occluded front where the air behind the front is warmer than the air ahead",
+      "Occluded front where the air behind the front is colder than the air ahead",
+      "A tropical warm front forming over the ocean",
+      "A front where cold air advances beneath warm air"
+    ],
+    "answer": "Occluded front where the air behind the front is warmer than the air ahead"
+  },
+  {
+    "question": "You are flying from a high to a low-pressure system in Nowhere Else, Australia. Where will the wind be coming from?",
+    "choices": [
+      "From your left",
+      "From your right",
+      "From behind",
+      "From in front"
+    ],
+    "answer": "From your right"
+  },
+  {
+    "question": "How many octas of the sky is covered if FEW is stated?",
+    "choices": [
+      "5-7",
+      "1-2",
+      "3-4",
+      "Sky clear"
+    ],
+    "answer": "1-2"
+  },
+  {
+    "question": "Condensation is a process in which",
+    "choices": [
+      "Liquid water changes into water vapor",
+      "Water freezes into ice",
+      "Ice turns directly into water vapor",
+      "Water vapor turns into liquid water"
+    ],
+    "answer": "Water vapor turns into liquid water"
+  },
+  {
+    "question": "Dew point describes",
+    "choices": [
+      "The temperature at which air becomes saturated",
+      "The current air temperature at a location",
+      "The temperature at which water freezes",
+      "The maximum temperature expected during the day"
+    ],
+    "answer": "The temperature at which air becomes saturated"
+  },
+  {
+    "question": "What is the height of the tropopause in ISA?",
+    "choices": [
+      "8km",
+      "11km",
+      "16km",
+      "35000ft"
+    ],
+    "answer": "11km"
+  },
+  {
+    "question": "How may a new metar after this look, after heavy showers? ENHD 171720Z 17003KT 9999 FEW024 14/09 Q1008=",
+    "choices": [
+      "ENHD 171820Z 17005KT 0500 FG VV002 14/09 Q1008=",
+      "ENHD 171820Z 17005KT 9999 SCT020 BKN050 12/10 Q1006=",
+      "ENHD 171820Z 17010KT 2000 RA BKN010 16/12 Q1010=",
+      "ENHD 171820Z 17012KT 9999 SKC 20/09 Q1010="
+    ],
+    "answer": "ENHD 171820Z 17005KT 9999 SCT020 BKN050 12/10 Q1006="
+  },
+  {
+    "question": "What is an isothermal?",
+    "choices": [
+      "A wind pattern caused by temperature differences",
+      "A sudden drop in temperature at the surface",
+      "A cloud type forming at very high altitudes",
+      "A layer of the atmosphere where temperature remains constant with height"
+    ],
+    "answer": "A layer of the atmosphere where temperature remains constant with height"
+  },
+  {
+    "question": "What is an isobar?",
+    "choices": [
+      "A line on a weather map connecting points of equal pressure",
+      "A line indicating the path of a storm system",
+      "A line showing the boundary between two air masses",
+      "A line connecting points of equal temperature"
+    ],
+    "answer": "A line on a weather map connecting points of equal pressure"
+  },
+  {
+    "question": "What is an anemometer?",
+    "choices": [
+      "A device for measuring air pressure",
+      "A tool to detect precipitation type",
+      "An instrument used to measure wind speed",
+      "A sensor for cloud height"
+    ],
+    "answer": "An instrument used to measure wind speed"
+  },
+  {
+    "question": "What is the speed of the jet stream?",
+    "choices": [
+      "100kts",
+      "130kts",
+      "230kts",
+      "360kts"
+    ],
+    "answer": "230kts"
+  },
+  {
+    "question": "METAR OMDB 171600Z 27006KT 250V310 CAVOK 34/26 Q1003 NOSIG= What does 250V310 indicate?",
+    "choices": [
+      "Cloud base height between 2500 and 3100 ft",
+      "Temperature range from 25.0°C to 31.0°C",
+      "Wind direction varying between 250° and 310°",
+      "Visibility fluctuating between 2.50 and 3.10 km"
+    ],
+    "answer": "Wind direction varying between 250° and 310°"
+  },
+  {
+    "question": "What is a microburst?",
+    "choices": [
+      "A small, intense downdraft causing strong, localized wind",
+      "A sudden updraft forming cumulus clouds",
+      "A weak horizontal wind along a mountain ridge",
+      "A slow-moving cold front over a large area"
+    ],
+    "answer": "A small, intense downdraft causing strong, localized wind"
+  },
+  {
+    "question": "What does the NE monsoon of India signify?",
+    "choices": [
+      "Sudden thunderstorms over the Himalayas in spring",
+      "Heavy, wet winds from the southwest in summer",
+      "Tropical cyclones moving from the Bay of Bengal",
+      "Dry, cool winds from the northeast during winter"
+    ],
+    "answer": "Dry, cool winds from the northeast during winter"
+  },
+  {
+    "question": "What does R07L/P1500N indicate?",
+    "choices": [
+      "Runway 07L RVR less than 1500 m, decreasing",
+      "Runway 07L RVR is 1500 m, normal conditions",
+      "Runway 07L RVR greater than 1500 m, no change",
+      "Runway 07L closed for maintenance"
+    ],
+    "answer": "Runway 07L RVR greater than 1500 m, no change"
+  },
+  {
+    "question": "What is the friction layer?",
+    "choices": [
+      "The layer where clouds begin to form",
+      "The lowest part of the atmosphere affected by surface friction",
+      "A high-altitude layer where winds are strongest",
+      "A boundary between warm and cold air masses"
+    ],
+    "answer": "The lowest part of the atmosphere affected by surface friction"
+  },
+  {
+    "question": "What does the black arrow with the number 20, perpendicular to the occlusion, indicate?",
+    "choices": [
+      "Wind speeds of 20kts",
+      "The occlusion is advancing moving at 20kts",
+      "The occlusion extends 20NM fore/aft",
+      "The occlusion is 20000ft high"
+    ],
+    "answer": "The occlusion is advancing moving at 20kts"
+  },
+  {
+    "question": "What is the dry composition of the atmosphere?",
+    "choices": [
+      "75 % N₂, 20 % O₂, 5 % other gases",
+      "78 % N₂, 21 % O₂, 1 % other gases",
+      "78 % O₂, 21 % N₂, 1 % trace gases",
+      "80 % N₂, 19 % O₂, 1 % other gases"
+    ],
+    "answer": "78 % N₂, 21 % O₂, 1 % other gases"
+  },
+  {
+    "question": "What is an isohypse?",
+    "choices": [
+      "A line connecting points of equal pressure at the same altitude",
+      "Line connecting points of equal temperature on a map",
+      "A line connecting points of equal precipitation",
+      "Line connecting points of equal wind speed"
+    ],
+    "answer": "A line connecting points of equal pressure at the same altitude"
+  },
+  {
+    "question": "What is latent heat?",
+    "choices": [
+      "Heat measured by a thermometer in the air",
+      "Heat transferred by conduction in solids",
+      "Heat lost due to radiation at night",
+      "Heat absorbed or released during a phase change"
+    ],
+    "answer": "Heat absorbed or released during a phase change"
+  },
+  {
+    "question": "What kind of weather is NS associated with?",
+    "choices": [
+      "Clear skies with occasional clouds",
+      "A steep lapse rate",
+      "Thunderstorms with heavy rain",
+      "Continuous rain or snow, overcast skies"
+    ],
+    "answer": "Continuous rain or snow, overcast skies"
+  },
+  {
+    "question": "Why is the air clear in the eye of a TRS?",
+    "choices": [
+      "Strong winds blow clouds away",
+      "Air temperature is extremely low",
+      "Sinking air suppresses clouds and precipitation",
+      "The storm is weakest there"
+    ],
+    "answer": "Sinking air suppresses clouds and precipitation"
+  },
+  {
+    "question": "What could be a potential drawback of a visual satellite?",
+    "choices": [
+      "Gives inaccurate temperature readings",
+      "Cannot see through clouds or at night",
+      "Needs constant ground control",
+      "Has very low resolution images"
+    ],
+    "answer": "Cannot see through clouds or at night"
+  },
+  {
+    "question": "Why does the tropopause inhibit vertical movement of air?",
+    "choices": [
+      "Air pressure is too low for clouds to form",
+      "The ELR changes to isothermal",
+      "Moisture condenses and stops air rising",
+      "Winds are too strong to allow vertical movement"
+    ],
+    "answer": "The ELR changes to isothermal"
+  },
+  {
+    "question": "What does the suffix -lysis indicate?",
+    "choices": [
+      "Breaking down or decomposition",
+      "Formation or creation",
+      "Measurement or study of",
+      "Movement or flow"
+    ],
+    "answer": "Breaking down or decomposition"
+  },
+  {
+    "question": "What can we expect to happen to a polar jetstream during a polar air outbreak?",
+    "choices": [
+      "It shifts southward and strengthens",
+      "It disappears completely",
+      "It shifts northward and strengthens",
+      "It becomes stationary"
+    ],
+    "answer": "It shifts southward and strengthens"
+  },
+  {
+    "question": "In general, how does the temperature of the tropopause above the poles compare to the equatorial tropopause?",
+    "choices": [
+      "Colder above the poles than the equator",
+      "Warmer above the poles than the equator",
+      "About the same as at the equator",
+      "Varies diurnally"
+    ],
+    "answer": "Warmer above the poles than the equator"
+  },
+  {
+    "question": "What is clear air turbulence?",
+    "choices": [
+      "Turbulence inside clouds",
+      "Turbulence in clear air, usually near jet streams",
+      "Turbulence near mountains only",
+      "Turbulence caused by thunderstorms"
+    ],
+    "answer": "Turbulence in clear air, usually near jet streams"
+  },
+  {
+    "question": "What is the ITCZ?",
+    "choices": [
+      "A low-pressure \"belt\" near the equator with convective activity",
+      "A high-pressure zone near the poles",
+      "A region of constant clear skies",
+      "A jet stream over the tropics"
+    ],
+    "answer": "A low-pressure \"belt\" near the equator with convective activity"
+  },
+  {
+    "question": "What is a potential hazard over Estonia?",
+    "choices": [
+      "An occlusion",
+      "Isolated TCUs",
+      "Local showers and thunderstorms",
+      "Freezing fog"
+    ],
+    "answer": "Local showers and thunderstorms"
+  },
+  {
+    "question": "What is the indicated tropopause height in the Netherlands?",
+    "choices": [
+      "80000ft, and it is a local low",
+      "47000ft, and it is a local high",
+      "47000ft, and it is a local low",
+      "80000ft, and it is a local high"
+    ],
+    "answer": "47000ft, and it is a local high"
+  },
+  {
+    "question": "TAF AMD: ENSS 171822Z 1718/1721 17008KT 9999 -RA FEW008 BKN045 TEMPO 1718/1720 BKN003 SCT020TCU= What does TAF AMD mean?",
+    "choices": [
+      "Advanced: forecast issued early",
+      "Amended: the forecast has been revised and updated",
+      "Automated: generated by a computer",
+      "Anomalous: unusual weather expected"
+    ],
+    "answer": "Amended: the forecast has been revised and updated"
+  },
+  {
+    "question": "Given LT = UTC+2. What was the wind velocity and cloud coverage in octas at 11:30LT?",
+    "choices": [
+      "290/11, variable between 220 and 340. Cloud coverage 1-2 octas.",
+      "290/11, variable between 230 and 310. Cloud coverage 3-4 octas.",
+      "270/10, variable between 240 and 320. Cloud coverage 1-2 octas.",
+      "280/07, variable between 250 and 320. Cloud coverage 1-2 octas."
+    ],
+    "answer": "280/07, variable between 250 and 320. Cloud coverage 1-2 octas."
+  },
+  {
+    "question": "What might happen between 14:00Z-18:00Z on the day follwing the issuance of this TAF?",
+    "choices": [
+      "Temporary showers with broken TCUs",
+      "A decrease in wind speed",
+      "Continuous heavy rain all day",
+      "40% chance of temporary showers with cumulonimbus clouds"
+    ],
+    "answer": "40% chance of temporary showers with cumulonimbus clouds"
+  },
+  {
+    "question": "What do we expect will happen to the visibility between 12:00Z-18:00Z?",
+    "choices": [
+      "Remain +10km",
+      "Will remain at 4km in that time window",
+      "Will be as low as 4km, albeit intermittently",
+      "No change"
+    ],
+    "answer": "Will be as low as 4km, albeit intermittently"
+  },
+  {
+    "question": "What generally happens with relative humidity between the afternoon and early morning hours?",
+    "choices": [
+      "Stays the same all night",
+      "Increases as temperature drops overnight",
+      "Decreases as temperature drops",
+      "Drops sharply after sunset"
+    ],
+    "answer": "Increases as temperature drops overnight"
+  },
+  {
+    "question": "Can 1030hPa ever be the centre of a low pressure system?",
+    "choices": [
+      "Yes.",
+      "No, as this value is greater than ISA MSLP",
+      "Only in polar regions",
+      "Only below sea level under ISA conditions"
+    ],
+    "answer": "Yes."
+  },
+  {
+    "question": "What kind of clouds can we usually expect after the passage of a cold front?",
+    "choices": [
+      "Stratus clouds",
+      "Cumulus clouds",
+      "Cirrus clouds",
+      "Nimbostratus clouds"
+    ],
+    "answer": "Cumulus clouds"
+  },
+  {
+    "question": "What is the forecasted wind velocity on the coastline of northeastern Florida?",
+    "choices": [
+      "090/05",
+      "270/05",
+      "225/10",
+      "180/05"
+    ],
+    "answer": "090/05"
+  },
+  {
+    "question": "How does one generally avoid thunderstorms?",
+    "choices": [
+      "Fly above (if performance permits)",
+      "Fly upwind",
+      "Fly downwind",
+      "Fly below (if performance permits)"
+    ],
+    "answer": "Fly upwind"
+  },
+  {
+    "question": "What happens when a warm air mass flows over a cold surface?",
+    "choices": [
+      "Fog or low clouds form due to cooling from below",
+      "Warm air rises rapidly, causing thunderstorms",
+      "The warm air remains unaffected",
+      "Precipitation stops completely"
+    ],
+    "answer": "Fog or low clouds form due to cooling from below"
+  },
+  {
+    "question": "What is a squall line?",
+    "choices": [
+      "A line of light rain clouds",
+      "A long, organized band of severe thunderstorms",
+      "A low-pressure trough",
+      "A jet stream pattern"
+    ],
+    "answer": "A long, organized band of severe thunderstorms"
+  },
+  {
+    "question": "What can be expected in Northern Norway (summertime) during these conditions?",
+    "choices": [
+      "Clear skies, warm temperatures, light winds",
+      "Thunderstorms and heavy rain",
+      "Clear skies, warm temperatures, strong winds",
+      "Fog and low clouds"
+    ],
+    "answer": "Clear skies, warm temperatures, light winds"
+  },
+  {
+    "question": "Which of these is an example of a katabatic wind?",
+    "choices": [
+      "Warm air rising from plains",
+      "Cold, dense air flowing downhill",
+      "Jet stream turbulence",
+      "Thunderstorm outflow"
+    ],
+    "answer": "Cold, dense air flowing downhill"
+  },
+  {
+    "question": "Where do tropical cyclones usually form?",
+    "choices": [
+      "High mountains",
+      "Warm ocean regions near the equator",
+      "Deserts",
+      "Polar seas"
+    ],
+    "answer": "Warm ocean regions near the equator"
+  },
+  {
+    "question": "What is a weather front?",
+    "choices": [
+      "A low-pressure trough",
+      "A high-pressure center",
+      "A cloudless area",
+      "Boundary between two air masses"
+    ],
+    "answer": "Boundary between two air masses"
+  },
+  {
+    "question": "What is the Coriolis effect?",
+    "choices": [
+      "Apparent deflection of winds due to Earth's rotation",
+      "Upward air movement in storms",
+      "Cooling of air at high altitudes",
+      "Friction slowing surface winds"
+    ],
+    "answer": "Apparent deflection of winds due to Earth's rotation"
+  },
+  {
+    "question": "Given the coriolis effect, in what direction will an air mass moving northwards in the northern hemisphere deflect?",
+    "choices": [
+      "To the left",
+      "To the right",
+      "It will continously veer",
+      "It will continously back"
+    ],
+    "answer": "To the right"
+  },
+  {
+    "question": "What is the definition of wind shear?",
+    "choices": [
+      "Updrafts in thunderstorms",
+      "Rapid change of wind speed and/or direction with height",
+      "Downdrafts at surface level",
+      "Strong horizontal winds only"
+    ],
+    "answer": "Rapid change of wind speed and/or direction with height"
+  },
+  {
+    "question": "What is lightning?",
+    "choices": [
+      "A sudden electrostatic discharge in the atmosphere",
+      "Updraft in thunderstorms",
+      "Strong wind within cumulonimbus clouds",
+      "Bright flash from intense precipitation"
+    ],
+    "answer": "A sudden electrostatic discharge in the atmosphere"
+  },
+  {
+    "question": "Given QNH 1007, isa deviation of -22, and an indicated altitude of 9760ft. Find the true altitude.",
+    "choices": [
+      "10619ft",
+      "8901ft",
+      "10423ft",
+      "8736ft"
+    ],
+    "answer": "8901ft"
+  },
+  {
+    "question": "What is the minimum suitable flight level?",
+    "choices": [
+      "FL135",
+      "FL145",
+      "FL155",
+      "FL140"
+    ],
+    "answer": "FL145"
+  },
+  {
+    "question": "Given an airport elevation of 254ft, determine the QFE rounded down to the nearest hPa",
+    "choices": [
+      "986hPa",
+      "1003hPa",
+      "985hPa",
+      "1004hPa"
+    ],
+    "answer": "986hPa"
+  },
+  {
+    "question": "What is the expected weather at 03:00Z on the 18th?",
+    "choices": [
+      "Winds 160 degrees 15kts, temporary visibility of 4km",
+      "Winds 220 degrees 15kts, light showers of rain",
+      "Winds 220 degrees 15kts, scattered clouds at 2500ft",
+      "Winds variable 5kts, temporary visibility of 4km"
+    ],
+    "answer": "Winds 160 degrees 15kts, temporary visibility of 4km"
+  },
+  {
+    "question": "Is SVFR permissible at 05:00Z on the 18th?",
+    "choices": [
+      "No, visibility is limiting",
+      "Yes, provided this is granted outside of the temporary weather phenomenon",
+      "Yes.",
+      "No, ceiling is limiting"
+    ],
+    "answer": "Yes."
+  },
+  {
+    "question": "What can we expect at 12:00Z on the 18th?",
+    "choices": [
+      "Winds 170 degrees 8kts, vertical visibility 200ft",
+      "Visibility +10km, winds 230 degrees 15kts",
+      "Visibility 2km, ceiling 600ft, winds 230 degrees 15kts",
+      "Patches of fog, winds 230 degrees 15kts"
+    ],
+    "answer": "Visibility +10km, winds 230 degrees 15kts"
+  },
+  {
+    "question": "What is MIFG in a metar, and how far does it extend from the ground?",
+    "choices": [
+      "Fog near mountains, up to 50 m",
+      "Combination of mist and fog, up to 5m",
+      "Mist over water, up to 10 m",
+      "Shallow fog, usually less than 2m"
+    ],
+    "answer": "Shallow fog, usually less than 2m"
+  }
   ],
   "POF": [
     {
