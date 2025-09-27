@@ -39326,6 +39326,481 @@
     }
   ],
   "MET": [
+  {
+    "question": "Which of the following is typical for the snow (tundra) climate?",
+    "choices": [
+      "Temperatures generally between +5 and +18°C throughout the whole year.",
+      "High pressure weather dominates in winter, with the sub-soil being frozen.",
+      "High pressure weather dominates in summer.",
+      "Travelling depressions during winter time."
+    ],
+    "answer": "High pressure weather dominates in winter, with the sub-soil being frozen."
+  },
+  {
+    "question": "The west to east passage of waves of weather associated with polar front depressions or mid-latitude lows. This is a description of __________.",
+    "choices": [
+      "divergence",
+      "westerly waves",
+      "convergence"
+    ],
+    "answer": "westerly waves"
+  },
+  {
+    "question": "By use of Doppler techniques, modern airborne weather radar can detect turbulence in:",
+    "choices": [
+      "stratiform clouds.",
+      "the tropopause.",
+      "clear air.",
+      "thunderstorms."
+    ],
+    "answer": "thunderstorms."
+  },
+  {
+    "question": "Thunderstorms are often preceded by:",
+    "choices": [
+      "Altostratus.",
+      "Altocumulus.",
+      "Altocumulus castellanus.",
+      "Nimbostratus."
+    ],
+    "answer": "Altocumulus castellanus."
+  },
+  {
+    "question": "A SIGMET:",
+    "choices": [
+      "Reports the actual weather of an airport every 30 minutes.",
+      "is added as a short-term forecast to the actual weather report of an airport.",
+      "Is a warning of meteorological hazards in the FIR for all aircraft.",
+      "Is a route forecast, issued several times during the day by the Met Offices."
+    ],
+    "answer": "Is a warning of meteorological hazards in the FIR for all aircraft."
+  },
+  {
+    "question": "Frontal fog will dissipate when the:",
+    "choices": [
+      "warm front has passed.",
+      "cold front has passed.",
+      "cold front turns into an occlusion.",
+      "polar air substitutes the warm air."
+    ],
+    "answer": "warm front has passed."
+  },
+  {
+    "question": "A cold air drop can be best identified by means of:",
+    "choices": [
+      "A GAMET report.",
+      "The CAT areas on a significant weather chart.",
+      "The isohypses on an upper air chart.",
+      "The isobars on a surface chart."
+    ],
+    "answer": "The isohypses on an upper air chart."
+  },
+  {
+    "question": "White, hard ice with rough edges which protrudes both forwards and backwards on a leading edge. Its formation requires small and large SCWD, therefore a temperature between 0° and -20°C, in cloud with strong vertical support. This is a description of __________ ice.",
+    "choices": [
+      "clear",
+      "hoar",
+      "mixed",
+      "rime"
+    ],
+    "answer": "mixed"
+  },
+  {
+    "question": "Assessed from a point directly below the aircraft to the furthest viewable object on the surface. May be more or less than the ground visibility. Is a description of __________ visibility.",
+    "choices": [
+      "diagonal",
+      "oblique",
+      "air to ground"
+    ],
+    "answer": "oblique"
+  },
+  {
+    "question": "Prolonged exposure to rime ice conditions __________.",
+    "choices": [
+      "is relatively benign",
+      "is very dangerous"
+    ],
+    "answer": "is very dangerous"
+  },
+  {
+    "question": "Only forms at night and over land. Requires a weak or slack pressure gradient. Has a depth of a few 100 feet (but sometimes fills the entire friction layer). Can be dissipated either by solar radiation or by an increase in wind speed. This is a description of __________ fog.",
+    "choices": [
+      "radiation",
+      "steam",
+      "advection"
+    ],
+    "answer": "radiation"
+  },
+  {
+    "question": "An aircraft is flying at 3000 ft in a layer of strato-cumulus cloud and experiences light icing.This icing intensifies as the aircraft crosses a mountain barrier whilst still in the cloud. This may be explained by:",
+    "choices": [
+      "Orographic intensification as water vapour is added to the air from the Earth`s surface in mountainous areas.",
+      "Orographic intensification as the air is forced to rise over the mountain barrier.",
+      "The mixing of dry and moist air by turbulence or rotors at a low level, upwind of the mountain barrier.",
+      "The condensation of water vapour on the leeward side parallel to the upper part of the ridge."
+    ],
+    "answer": "Orographic intensification as the air is forced to rise over the mountain barrier."
+  },
+  {
+    "question": "Two aircraft, one with a sharp wing profile (S), and the other with a thick profile (T), are flying through the same cloud with the same true airspeed. The cloud consists of small supercooled droplets. Which of the following statements is most correct concerning ice accretion?",
+    "choices": [
+      "Aircraft S experiences more icing than T.",
+      "Neither of the aircraft accumulate ice due to the small size of droplets.",
+      "Aircraft T experiences more icing than S.",
+      "Aircraft S and T experience the same amount of icing."
+    ],
+    "answer": "Aircraft S experiences more icing than T."
+  },
+  {
+    "question": "Downbursts can create severe turbulence and __________ windshear.",
+    "choices": [
+      "positive",
+      "positive and negative",
+      "negative"
+    ],
+    "answer": "positive and negative"
+  },
+  {
+    "question": "Assign the description to an icing intensity category: The rate of accumulation is slightly greater than rate of sublimation. It’s not hazardous unless encountered for more than 1 hour. De-icing/anti-icing is not normally required.",
+    "choices": [
+      "Severe",
+      "Moderate",
+      "Trace",
+      "Light"
+    ],
+    "answer": "Trace"
+  },
+  {
+    "question": "__________ is a suspension of small dust particles in the air reducing visibility to less than 5000 m.",
+    "choices": [
+      "Sea smoke",
+      "Mist",
+      "Fog",
+      "Haze"
+    ],
+    "answer": "Haze"
+  },
+  {
+    "question": "High clouds are above __________ ft.",
+    "choices": [
+      "20 000",
+      "14 500",
+      "16 500",
+      "18 500"
+    ],
+    "answer": "16 500"
+  },
+  {
+    "question": "What type of cloud is being described? A generally grey cloud layer with fairly uniform base and uniform appearance, which may give drizzle or snow grains. When the sun is visible through the cloud, the outline is clearly discernible. Sometimes it appears in the form of ragged patches.",
+    "choices": [
+      "Cirrostratus",
+      "Stratus",
+      "Altostratus",
+      "Nimbostratus"
+    ],
+    "answer": "Stratus"
+  },
+  {
+    "question": "What is a polar depression?",
+    "choices": [
+      "Large depression over the south pole with wintery shower precipitation.",
+      "Large depression over the sea with clear weather.",
+      "Small depression over the sea with wintery showery precipitation.",
+      "Small depression over the north pole with wintery shower precipitation."
+    ],
+    "answer": "Small depression over the sea with wintery showery precipitation."
+  },
+  {
+    "question": "The typical duration of the dissipating stage of a thunderstorm is __________.",
+    "choices": [
+      "30 to 45 mins",
+      "15-30 mins",
+      "1 to 3 hours",
+      "1.5 to 2.5 hours"
+    ],
+    "answer": "1.5 to 2.5 hours"
+  },
+  {
+    "question": "What is likely to happen in a valley?",
+    "choices": [
+      "Valley winds.",
+      "Advection fog.",
+      "Mountain obstruction.",
+      "Valley Inversion."
+    ],
+    "answer": "Valley Inversion."
+  },
+  {
+    "question": "The RVR mid-point measurement is normally taken between _____ along the runway.",
+    "choices": [
+      "300 m and 1500 m",
+      "300 m and 2000 m",
+      "1000 m and 1500 m",
+      "1000 m and 2000 m"
+    ],
+    "answer": "1000 m and 1500 m"
+  },
+  {
+    "question": "Recognising that a flight into cumulonimbus (CB) clouds is very hazardous, a CB should be avoided visually and cleared by a minimum of (1) ___ ft vertically and (2) ___ NM laterally to minimise the risk of encountering severe turbulence. Which values should be inserted?",
+    "choices": [
+      "1. 5000 ft 2. 10 NM",
+      "1. 4000 ft 2. 1 5 NM",
+      "1. 6000 ft 2. 5 NM",
+      "1. 3000 ft 2. 25 NM"
+    ],
+    "answer": "1. 5000 ft 2. 10 NM"
+  },
+  {
+    "question": "What is “Surface wind”?",
+    "choices": [
+      "It is the wind that results when the pressure gradient in the layer of air near to the surface is reduced by the effect of friction.",
+      "It is the airflow near to the surface that is reduced in strength by the effect of friction.",
+      "It is the wind that experiences an increase in the Coriolis effect brought about by the increase in friction near to the surface.",
+      "It is the airflow near to the surface that slows down due to the effect of an increase in air density."
+    ],
+    "answer": "It is the airflow near to the surface that is reduced in strength by the effect of friction."
+  },
+  {
+    "question": "In stable atmospheric conditions, a rising parcel of air cools __________ than its surrounds. Because it's now colder than its surroundings, it will tend to __________.",
+    "choices": [
+      "faster; rise further",
+      "slower; sink back down",
+      "slower; rise further",
+      "faster; sink back down"
+    ],
+    "answer": "faster; sink back down"
+  },
+  {
+    "question": "What is the most likely cause of a lack of clouds at higher levels in a stationary high?",
+    "choices": [
+      "Sinking air",
+      "Divergence at higher levels",
+      "Instability",
+      "Rising air"
+    ],
+    "answer": "Sinking air"
+  },
+  {
+    "question": "A METAR states that the wind direction is 130° , wind velocity is 5 kts, visibility is 8 km, clouds are scattered at 25 000 ft, temperature is 12° C, due point is -8° C and QNH is 1028 hPa. Which of the following weather conditions would result in a change of the current broadcast METAR (ATIS), meaning a publication of a new ATIS?",
+    "choices": [
+      "1850Z 20020KT 8 000 SCT250 12/m08 Q1028 NOSIG =",
+      "1850Z 13005KT 6 000 SCT250 13/m08 Q1028 NOSIG =",
+      "1850Z 10010KT 7 000 SCT150 11/m08 Q1038 NOSIG =",
+      "1850Z 15010KT 8 000 SCT250 12/m08 Q1018 NOSIG ="
+    ],
+    "answer": "1850Z 20020KT 8 000 SCT250 12/m08 Q1028 NOSIG ="
+  },
+  {
+    "question": "During which months is the Hurricane season in the Caribbean?",
+    "choices": [
+      "April until July.",
+      "January until April.",
+      "October until January.",
+      "July until November."
+    ],
+    "answer": "July until November."
+  },
+  {
+    "question": "Associate the facility with the service it provides: Provides upper air gridded forecasts of upper winds; upper-air temperature humidity; direction, speed and flight level of maximum wind; flight level etc.",
+    "choices": [
+      "TCACs",
+      "WMO",
+      "WAFC",
+      "VAACs",
+      "MWO"
+    ],
+    "answer": "WAFC"
+  },
+  {
+    "question": "How does a pilot react to heavy freezing rain at 2000 ft/AGL, when he is unable to de-ice, nor land?",
+    "choices": [
+      "He continues to fly at the same altitude.",
+      "He descends to the warm air layer below.",
+      "He turns back before the aircraft loses manoeuvrability.",
+      "He ascends to the cold air layer above."
+    ],
+    "answer": "He turns back before the aircraft loses manoeuvrability."
+  },
+  {
+    "question": "The stages of supercell thunderstorm development are (in chronological order):",
+    "choices": [
+      "Supercell, tornado and dissipating.",
+      "Initial, supercell, tornado and dissipating.",
+      "Initial, mature, supercell, tornado and dissipating.",
+      "Initial, tornado, supercell, and dissipating."
+    ],
+    "answer": "Initial, supercell, tornado and dissipating."
+  },
+  {
+    "question": "Clouds in patches, sheets or grey or whitish layers made up of elements resembling large pebbles or rollers, together or not, and always clear of the ground are:",
+    "choices": [
+      "Nimbostratus",
+      "Stratus.",
+      "Stratocumulus",
+      "Altostratus"
+    ],
+    "answer": "Stratocumulus"
+  },
+  {
+    "question": "In light winds it may form from the evaporation of raindrops saturating air near the ground. It may also result from low frontal cloud descending to the surface. It occurs in a wide band up to 200 nm ahead of a front, it moves with the front and is only ever associated with the front. It usually dissipates after the front has passed. This is a description of __________ fog.",
+    "choices": [
+      "radiation",
+      "frontal",
+      "arctic",
+      "advection"
+    ],
+    "answer": "frontal"
+  },
+  {
+    "question": "A zone of strong convection currents is encountered during a flight. In spite of moderate turbulence you decide to continue the flight. What are your precautionary measures?",
+    "choices": [
+      "Increase the speed / try to descend below the zone of convective currents.",
+      "Decrease the speed / try to climb above the zone of convective currents if aircraft performance parameters allow.",
+      "Decrease the speed / try to descend below the zone of convective currents.",
+      "Increase the speed / try to climb above the zone of convective currents if aircraft performance parameters allow."
+    ],
+    "answer": "Decrease the speed / try to climb above the zone of convective currents if aircraft performance parameters allow."
+  },
+  {
+    "question": "The forms of visible water which reduce visibility in the atmosphere are:",
+    "choices": [
+      "Cloud, fog, mist, spray or precipitation.",
+      "Fog, spray, cloud and hail (but only for short periods).",
+      "Cloud, fog, mist, spray or smog.",
+      "Cloud, fog, smog, spray or precipitation."
+    ],
+    "answer": "Cloud, fog, mist, spray or precipitation."
+  },
+  {
+    "question": "Which of these statements about rain ice and the rain ice triangle is NOT correct? Rain ice:",
+    "choices": [
+      "Is a relatively moderate in-flight risk because it quickly melts off the airframe.",
+      "Requires a deep cold layer under a warm layer.",
+      "Requires a warm layer (> 0°C) to be producing precipitation above a very cold layer (< 0°C).",
+      "Is most commonly associated with NS cloud along a warm front over a very cold land surface in winter."
+    ],
+    "answer": "Is a relatively moderate in-flight risk because it quickly melts off the airframe."
+  },
+  {
+    "question": "Regarding stratus (ST) and nimbostratus (NS):",
+    "choices": [
+      "ST does cause drizzle and NS rain showers.",
+      "ST does cause rain showers and NS drizzle.",
+      "Neither causes precipitation.",
+      "ST does cause drizzle and NS rain."
+    ],
+    "answer": "ST does cause drizzle and NS rain."
+  },
+  {
+    "question": "An average tornado typically has a diameter of about 250 __________.",
+    "choices": [
+      "ft",
+      "kilometres",
+      "metres",
+      "yards"
+    ],
+    "answer": "metres"
+  },
+  {
+    "question": "According to ICAO, haze (HZ) or smoke (FU), is reduced visibility due to the presence of solid particles (lithometeors) in the atmosphere to a value of:",
+    "choices": [
+      "<=5000 m",
+      "< 5000 m",
+      "10 000 m",
+      "> 5000 m"
+    ],
+    "answer": "<=5000 m"
+  },
+  {
+    "question": "Concerning standing waves, where would the area of most severe turbulence be located?",
+    "choices": [
+      "Roll cloud area.",
+      "In the rough of the standing wave.",
+      "30-50 nm down wind up to the stratosphere.",
+      "Just above the cap cloud."
+    ],
+    "answer": "Roll cloud area."
+  },
+  {
+    "question": "The distinction between rain and drizzle is based largely on the size of the water droplet. Rain droplets are greater than __________ mm in diameter.",
+    "choices": [
+      "5",
+      "0.5",
+      "1",
+      "0.1"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "A thin layer of crystalline ice that forms when water vapour sublimates onto the sub-zero surfaces of an aircraft. It usually comprises fine needle shaped ice crystals protruding outward from a thin layer of ice. This is a description of __________.",
+    "choices": [
+      "hoar frost",
+      "rime ice",
+      "clear ice",
+      "mixed ice"
+    ],
+    "answer": "hoar frost"
+  },
+  {
+    "question": "The wind which results from air cooling on the side of a mountain valley is known as:",
+    "choices": [
+      "Foehn breeze.",
+      "Katabatic wind.",
+      "Valley wind.",
+      "Anabatic wind."
+    ],
+    "answer": "Katabatic wind."
+  },
+  {
+    "question": "An operator wants to fly a new route over a mountainous area with the highest nearby obstacle at 12 500 ft. According to a historical report, the average temperature in the region is ISA -25°C. The QNH is 980 hPa, from a station at sea level. What is the lowest usable flight level the operator can select with a clearance margin of 2000 ft?",
+    "choices": [
+      "FL160",
+      "FL170",
+      "FL140",
+      "FL150"
+    ],
+    "answer": "FL170"
+  },
+  {
+    "question": "Choose the correct statement regarding the transfer of heat in the atmosphere:",
+    "choices": [
+      "Turbulent mixing contributes mainly to the transfer of heat in the Earth's atmosphere, in the horizontal plane, but has little effect in the warming or  cooling of the atmosphere in the vertical plane.",
+      "The primary process involved in the transfer of heat upwards from the surface of the Earth into the upper atmosphere is turbulence, which exists throughout the Earth's atmosphere.",
+      "The air at the surface can be cooled or warmed by the process of conduction, which is the molecular transfer of heat between the surface and the air in contact with it.",
+      "The conduction of heat between the surface and the air in contact with it creates turbulent mixing, which is the most significant component in the transfer of heat to or from medium levels in the Earth's atmosphere."
+    ],
+    "answer": "The air at the surface can be cooled or warmed by the process of conduction, which is the molecular transfer of heat between the surface and the air in contact with it."
+  },
+  {
+    "question": "In the ICAO standard atmosphere, which of the following alternatives indicates the correct vertical temperature distribution in the lowest 11 km?",
+    "choices": [
+      "15°C at mean sea level, decreasing at 0.65°C per 100 metres.",
+      "13°C at mean sea level, decreasing at 2°C per 1 000 feet.",
+      "15°C at mean sea level, decreasing at 0.65°C per 100 feet.",
+      "15.2°C at mean sea level, decreasing at 0.65°C per 100 metres."
+    ],
+    "answer": "15°C at mean sea level, decreasing at 0.65°C per 100 metres."
+  },
+  {
+    "question": "In relation to the total mass of the atmosphere, the mass of the atmosphere between mean sea level and a height of 5500 m is:",
+    "choices": [
+      "25%",
+      "99%",
+      "1%",
+      "50%"
+    ],
+    "answer": "50%"
+  },
+  {
+    "question": "A wind speed of 350 kt within a jet stream core should be regarded as:",
+    "choices": [
+      "possible but a rare phenomenon.",
+      "a common occurrence.",
+      "not possible.",
+      "not unusual in polar regions."
+    ],
+    "answer": "possible but a rare phenomenon."
+  },
     {
       "question": "What is the interval over which the wind speed is reported for METARs and SPECIs?",
       "choices": [
