@@ -1,6 +1,6 @@
 // === Password Check ===
 function checkPassword() {
-  const correctPassword = "salmari";
+  const correctPassword = "vliegtuig";
   const input = document.getElementById("accessInput").value;
   const error = document.getElementById("errorMsg");
 
