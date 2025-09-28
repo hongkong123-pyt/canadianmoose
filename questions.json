@@ -39327,6 +39327,126 @@
   ],
   "MET": [
   {
+    "question": "Which of the following correctly describes how area forecasts of upper-air meteorological phenomena, for pre-flight planning purposes, are produced?",
+    "choices": [
+      "Every ICAO Region has its own Weather Area Flight Centre, which provides forecasts for all aircraft departing from the Region.",
+      "Every State has its own Weather Area Flight Commission, which provides forecasts for all aircraft registered in that State.",
+      "The responsible World Area Forecast Centre provides gridded data of forecast upper-air phenomena including winds, icing, and turbulence.",
+      "Each State's Meteorological Office gathers information independently and produces upper-air gridded forecasts for departing aircraft."
+    ],
+    "answer": "The responsible World Area Forecast Centre provides gridded data of forecast upper-air phenomena including winds, icing, and turbulence."
+  },
+  {
+    "question": "Foehn-effects in mountainous areas occur:",
+    "choices": [
+      "on the lee-side of the mountain range when precipitation is falling on the upwind side of the mountain range.",
+      "when a dry and warm wind blows on the upwind side of the mountain range.",
+      "any time when a strong airflow exists perpendicular to the orientation of the mountain range.",
+      "when orographic cloud forms over the mountain range."
+    ],
+    "answer": "on the lee-side of the mountain range when precipitation is falling on the upwind side of the mountain range."
+  },
+  {
+    "question": "When do cold occlusions occur most frequently in Europe?",
+    "choices": [
+      "Winter and spring",
+      "Autumn and winter",
+      "Winter",
+      "Summer"
+    ],
+    "answer": "Summer"
+  },
+  {
+    "question": "An aircraft is operating over the plains of Tanzania in summer at low level, where the ITCZ is situated. What conditions are most likely to be experienced?",
+    "choices": [
+      "Altimeter errors due to low pressure.",
+      "Thunderstorms with heavy rain particularly at midday.",
+      "Strong winds blowing out from the ITCZ.",
+      "Thunderstorms with heavy rain particularly at dawn and dusk."
+    ],
+    "answer": "Thunderstorms with heavy rain particularly at midday."
+  },
+  {
+    "question": "The following changes are observed when a front has passed in the Northern Hemisphere:\nWind: Sharp veer.\nClouds: Embedded CBs.\nPressure: Stops decreasing at the lowest value.\nVisibility: Very poor.\nWhat kind of front and airmass is it?",
+    "choices": [
+      "Warm front with stable airmass.",
+      "Cold front with stable airmass.",
+      "Cold front with unstable airmass.",
+      "Warm front with unstable airmass."
+    ],
+    "answer": "Warm front with unstable airmass."
+  },
+  {
+    "question": "The most frequent wind direction in a valley near the ground, caused by thermal effects is towards the:",
+    "choices": [
+      "Mountain at night.",
+      "Valley during daylight hours.",
+      "Valley during daylight as much as at night.",
+      "Mountain during daylight hours."
+    ],
+    "answer": "Mountain during daylight hours."
+  },
+  {
+    "question": "Fog comprising mostly ice crystals is known as __________ fog.",
+    "choices": [
+      "freezing",
+      "ice",
+      "haze",
+      "sea smoke"
+    ],
+    "answer": "ice"
+  },
+  {
+    "question": "A strong inversion in the middle section of the troposphere would ___ the vertical development of a Cumulonimbus cloud?",
+    "choices": [
+      "slightly increase.",
+      "not change.",
+      "completely stop.",
+      "slightly decrease."
+    ],
+    "answer": "completely stop."
+  },
+  {
+    "question": "In a situation with a high relative humidity, the cloud base is located relatively ___ and its top is situated where the____ meets the____.",
+    "choices": [
+      "low; SALR; DALR",
+      "high; SALR; ELR",
+      "high; ELR; DALR",
+      "low; SALR; ELR"
+    ],
+    "answer": "low; SALR; ELR"
+  },
+  {
+    "question": "With which meteorological phenomena are windshear conditions mostly associated?",
+    "choices": [
+      "Gust fronts; low level temperature inversions; frontal surfaces.",
+      "Thunderstorms; drizzle; conditional instability.",
+      "Gust fronts; sea breeze fronts; high stratiform clouds.",
+      "Strong surface winds coupled with local topography; anticyclones; light precipitation."
+    ],
+    "answer": "Gust fronts; low level temperature inversions; frontal surfaces."
+  },
+  {
+    "question": "A temperature of 15°C is recorded at an altitude of 500 metres above sea level. If the vertical temperature gradient is that of a standard atmosphere, what will the temperature be at the summit of a mountain, 2500 metres above sea level?",
+    "choices": [
+      "-2°C",
+      "0°C",
+      "+4°C",
+      "+2°C"
+    ],
+    "answer": "+2°C"
+  },
+  {
+    "question": "As altitude increases, the weight of the atmosphere above you will:",
+    "choices": [
+      "Remain the same.",
+      "Increase by 1.5 kg/m² per 1 000 ft.",
+      "Decrease.",
+      "Increase."
+    ],
+    "answer": "Decrease."
+  },
+  {
     "question": "Which of the following is typical for the snow (tundra) climate?",
     "choices": [
       "Temperatures generally between +5 and +18°C throughout the whole year.",
