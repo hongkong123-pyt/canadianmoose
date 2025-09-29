@@ -39327,6 +39327,356 @@
   ],
   "MET": [
   {
+    "question": "What are the typical climatic characteristics of a coastal area situated in the mid-latitude (disturbed temperate) climatic zone?",
+    "choices": [
+      "Small amounts of precipitation.",
+      "Stable weather.",
+      "Chilly summer and mild winter.",
+      "Warm summer and cold winter."
+    ],
+    "answer": "Chilly summer and mild winter."
+  },
+  {
+    "question": "When, if at all, is a tropical revolving storm most likely to affect Darwin, on the central north coast of Australia?",
+    "choices": [
+      "May to July.",
+      "August to October.",
+      "Not experienced at Darwin.",
+      "December to April."
+    ],
+    "answer": "December to April."
+  },
+  {
+    "question": "The horizontal visibility given for VFR flight planning by a MET Office is:",
+    "choices": [
+      "Meteorological visibility at an average altitude of 500 meters.",
+      "The average flight visibility for the planned flight.",
+      "Vertical visibility.",
+      "Meteorological visibility on ground."
+    ],
+    "answer": "Meteorological visibility on ground."
+  },
+  {
+    "question": "During the approach to Mumbai (19° N 73° E ) on the west coast of India, you are listening to the ATIS on 15th of July at 0700 LT. Which of the following reports is most likely?",
+    "choices": [
+      "30 012KT 9 999 SCT030 SCT200 20/16 Q1025 BECMG 4 000 BR=",
+      "25 014KT 4 500 SHRA SCT015 BKN025CB 25/24 Q1006 NOSIG=",
+      "2 005KT CAVOK 24/09 Q1030 NOSIG=",
+      "5 013KT 3 500 MIFG SCT003 BKN005 19/14 Q1012 BECMG 8 000="
+    ],
+    "answer": "25 014KT 4 500 SHRA SCT015 BKN025CB 25/24 Q1006 NOSIG="
+  },
+  {
+    "question": "What can be said if you encounter +FZRA during flight?",
+    "choices": [
+      "Only light rime ice is to be expected.",
+      "Freezing rain consists of water droplets which supercool to below-freezing temperatures on impact.",
+      "There is no significant icing to expect.",
+      "Icing will most probably occur."
+    ],
+    "answer": "Icing will most probably occur."
+  },
+  {
+    "question": "A pilot wants to select airport for arrival with a runway where RVR is at least 550 metres. Considering the following METARs, valid for the arrival time, choose the appropriate airport (assume all other criteria for landing to each airport).\nEGKK 191050Z 09002KT 0200 FZFG R0BR/0350 R0BL/0500 VV001 M03/M02 Q100B WS RWY08R.\nEGLF 191050Z 07003KT 0200 FZFG R06/0700D VV001 M03/M03 Q1008.\nEGGW 191050Z 08004KT 0200 FZFG R0B/0300U VV001 M02/M02 Q1007.\nEGLL 191050Z 09002KT 0100 FZFG R09L/0300U R09R/0500U VV001 M02/M02 Q1008.",
+    "choices": [
+      "EGLF",
+      "EGKK",
+      "EGGW",
+      "EGLL"
+    ],
+    "answer": "EGLF"
+  },
+  {
+    "question": "171020Z 21005KT 9000 FEW030TCU FEW033CB SCT040 BKN100 19/18 Q1005 TEMPO 25015G25KT 3000 TSRA SCT005 BKN015CB.\nWhat is the conclusion for a pilot flying in the weather mentioned in the message above?",
+    "choices": [
+      "Caution is needed for rain showers developing in the next three hours.",
+      "Passage under the thunderstorms with this base is safe.",
+      "The CB clouds are in the vicinity and do not require action by the pilot.",
+      "There are thunderstorms present that should be avoided."
+    ],
+    "answer": "There are thunderstorms present that should be avoided."
+  },
+  {
+    "question": "Which conditions are the best to create ice crystal icing?",
+    "choices": [
+      "Convective cloud with high vertical extent such as a Cumulonimbus containing a high cloud ice water content.",
+      "The most hazardous Ice Crystal Icing conditions can be found ln Nimbostratus clouds.",
+      "Ice Crystal Icing is very dangerous when flying in large Cirrostratus clouds as they are entirely made of ice crystals.",
+      "Ice Crystal Icing conditions can be found anywhere, even at lower levels, as long as the cloud temperature is below the freezing level."
+    ],
+    "answer": "Convective cloud with high vertical extent such as a Cumulonimbus containing a high cloud ice water content."
+  },
+  {
+    "question": "What is the definition of \"ice water content\" (IWC)?",
+    "choices": [
+      "Ice volume per unit volume of air.",
+      "Ice mass per unit mass of air.",
+      "Ratio of air quantity and volume of ice present in the air.",
+      "Ice mass per unit volume of air."
+    ],
+    "answer": "Ice mass per unit volume of air."
+  },
+  {
+    "question": "Which of the following describes the Ice Water Content (IWC) of a cloud?",
+    "choices": [
+      "As altitude increases within a convective cloud the IWC decreases, with the lowest values found in the anvil.",
+      "IWC is defined as the cloud ice volume per unit mass of the atmosphere and the highest densities are found within Cirrus clouds.",
+      "The IWC is a ratio of the liquid water to ice water within clouds and it increases with temperature.",
+      "The IWC is measured in g/m3 and it reaches maximum values in the upper levels of the core of convective systems."
+    ],
+    "answer": "The IWC is measured in g/m3 and it reaches maximum values in the upper levels of the core of convective systems."
+  },
+  {
+    "question": "What weather situation leads to the formation of a downburst?",
+    "choices": [
+      "Cold air descending down from a mature cumulonimbus.",
+      "A sudden change in wind direction at the passage of a front.",
+      "Turbulence formation in a stable air mass over mountainous terrain.",
+      "The presence of a growing thermal bubble above a desert in summer time."
+    ],
+    "answer": "Cold air descending down from a mature cumulonimbus."
+  },
+  {
+    "question": "A thin coating of Hoar frost on the airfoil surface:",
+    "choices": [
+      "Affects the aspect ratio of the wing.",
+      "Has significant negative effects on the lift of the wing.",
+      "Does not affect take-off performance.",
+      "Only affects stability."
+    ],
+    "answer": "Has significant negative effects on the lift of the wing."
+  },
+  {
+    "question": "State the approximate dimensions of a typical, full developed tropical revolving storm (TRS):",
+    "choices": [
+      "Diameter of the eye: 100 - 150 NM Diameter of the whole TRS: 1200 NM",
+      "Diameter of the eye: 30 - 70 NM Diameter of the whole TRS: 800 NM",
+      "Diameter of the eye: 1 - 3 NM Diameter of the whole TRS: 80 NM",
+      "Diameter of the eye: 10 - 20 NM Diameter of the whole TRS: 270 NM"
+    ],
+    "answer": "Diameter of the eye: 10 - 20 NM Diameter of the whole TRS: 270 NM"
+  },
+  {
+    "question": "What is included in a METAR regarding runway condition?\n1 - Runway designator.\n2 - Airport designator.\n3 - Extent of contamination.\n4 - Depth of deposits.\n5 - Breaking coefficient.\n6 - Prediction/trend.",
+    "choices": [
+      "1, 2, 3, 4, 5, 6",
+      "1, 2, 3, 4, 6",
+      "1, 2, 3, 4, 5",
+      "1, 3, 4, 5"
+    ],
+    "answer": "1, 3, 4, 5"
+  },
+  {
+    "question": "A pilot must be very careful when planning a flight near a Tropical Revolving Storm (TRS) over the North Atlantic that is moving westwards and approaching the Caribbean islands. Why is that?",
+    "choices": [
+      "Because the direction of the wind around the storm is very difficult to predict.",
+      "Because the precipitation after the TRS makes landfall is much heavier than when it is above the ocean.",
+      "Because it is very difficult to accurately forecast the exact path of the TRS.",
+      "Due to the low air pressure the altimeter can become unreliable."
+    ],
+    "answer": "Because it is very difficult to accurately forecast the exact path of the TRS."
+  },
+  {
+    "question": "What is the reason for the seasonal movement of the Intertropical Convergence Zone (ITCZ)?",
+    "choices": [
+      "Radiation from the Earth's surface.",
+      "Changes in the daylight hours.",
+      "The yearly movement of Earth around the Sun.",
+      "The yearly change of the monsoon winds."
+    ],
+    "answer": "The yearly movement of Earth around the Sun."
+  },
+  {
+    "question": "What is the correct statement regarding cold air drops?",
+    "choices": [
+      "Are best identified by looking the isobars on a surface chart.",
+      "They can be identified by looking at the upper wind and temperature situation.",
+      "They are represented as a high pressure area aloft (e.g. on the 500 hPa chart).",
+      "A cold air drop may only be recognized on the surface chart as a low pressure area."
+    ],
+    "answer": "They can be identified by looking at the upper wind and temperature situation."
+  },
+  {
+    "question": "What does a Radiosonde measure?",
+    "choices": [
+      "Wind, Pressure & temperature",
+      "Pressure, Temperature & Humidity.",
+      "Humidity, Dew point, and Pressure",
+      "Detects precipitation levels in the air."
+    ],
+    "answer": "Pressure, Temperature & Humidity."
+  },
+  {
+    "question": "Which of these statements about weather satellites are correct or incorrect?\n1. The pictures from geostationary weather satellites are generally of higher resolution than the pictures from satellites in a polar orbit.\n2. Satellites in a polar orbit are closer to the earth than geostationary satellites.",
+    "choices": [
+      "1 is correct; 2 is incorrect.",
+      "1 and 2 are incorrect.",
+      "1 and 2 are correct.",
+      "1 is incorrect; 2 is correct"
+    ],
+    "answer": "1 is incorrect; 2 is correct"
+  },
+  {
+    "question": "When a front crosses a mountain range, its activity:",
+    "choices": [
+      "Is not disturbed by the mountains.",
+      "Strengthens \"upwind\" of the mountains.",
+      "Decreases when it reaches the mountains.",
+      "Ceases immediately."
+    ],
+    "answer": "Strengthens \"upwind\" of the mountains."
+  },
+  {
+    "question": "Over the Indian ocean and the Bay of Bengal tropical cyclones are:",
+    "choices": [
+      "rare, on average one every two years.",
+      "occasionally observed, on average 12 per year.",
+      "never observed.",
+      "frequently observed, on average 15 per year over the Indian Ocean, but never over the Bay of Bengal."
+    ],
+    "answer": "occasionally observed, on average 12 per year."
+  },
+  {
+    "question": "Which of the following best describes the intertropical convergence zone?",
+    "choices": [
+      "The zone where the Harmattan meets the north-easterly trade winds over Africa.",
+      "The zone where the trade winds of the northern hemisphere meet those of the southern hemisphere.",
+      "The zone where the west winds meet the subtropical high pressure belt.",
+      "The zone where cold fronts form in the tropics."
+    ],
+    "answer": "The zone where the trade winds of the northern hemisphere meet those of the southern hemisphere."
+  },
+  {
+    "question": "In a region where the transition altitude is 3000 feet, the QNH is reported as 980 hPa. What is the approximate reading expected on the altimeter when the pilot changes the subscale setting during a climb through the transition altitude? (Assume 27 ft per 1 hPa)",
+    "choices": [
+      "3890 ft",
+      "2110 ft",
+      "3990 ft",
+      "3620 ft"
+    ],
+    "answer": "3890 ft"
+  },
+  {
+    "question": "Which of the following statements are conditions that must be in place in order for mountain waves to form?\n1. The wind blows within 30° of a right angle to the mountain range.\n2. The wind speed abeam the top of the mountain exceeds 20 kt.\n3. The wind speed decreases with altitude but the direction remains fairly constant.\n4. The atmosphere is unstable on the windward side of the mountain top.",
+    "choices": [
+      "3 and 4.",
+      "1 and 3.",
+      "1 and 2.",
+      "2 and 4."
+    ],
+    "answer": "1 and 2."
+  },
+  {
+    "question": "You intend to overfly a mountain range. The recommended minimum flight altitude is, according to the aviation chart, 15 000 ft AMSL. The air mass that you will fly through is on average 15°C warmer than the standard atmosphere. The altimeter is set to 1023 hPa (QNH of a nearby airport at nearly sea level). At what altimeter reading will you effectively be at the recommended minimum flight altitude?",
+    "choices": [
+      "14 100 ft",
+      "13 830 ft",
+      "15 900 ft",
+      "14 370 ft"
+    ],
+    "answer": "14 100 ft"
+  }, 
+  {
+    "question": "If the ELR lies between the DALR and SALR then the atmosphere is __________ stable.",
+    "choices": [
+      "unconditionally",
+      "completely",
+      "conditionally",
+      "absolutely"
+    ],
+    "answer": "conditionally"
+  },
+  {
+    "question": "ln relation to the wind speed and direction at the top of the friction layer, which change in wind will a pilot normally experience during descent to the surface over land in the northern hemisphere?",
+    "choices": [
+      "Backing approx. 10 degrees, speed is reduced by approx. 30%.",
+      "Backing approx. 30 degrees, speed is reduced by approx. 50%.",
+      "Veering approx. 30 degrees, speed is reduced by approx. 50%.",
+      "Veering approx. 10 degrees, speed is reduced by approx. 30%."
+    ],
+    "answer": "Backing approx. 30 degrees, speed is reduced by approx. 50%."
+  },
+  {
+    "question": "A flight crew who faces an emergency at cruise level decides to turn back to the departure aerodrome. Due to the dynamic situation, the crew forgets to set local QNH. What will be the altitude after landing? (Assume 1 hPa = 27 ft, Transition level: FL190, Transition altitude: 18 000 ft, Airfield elevation: 323 ft, QNH 1023 hPa)",
+    "choices": [
+      "593 ft",
+      "53 ft",
+      "393 ft",
+      "270 ft"
+    ],
+    "answer": "53 ft"
+  },
+  {
+    "question": "What are typical systems in the northern winter season between 50°N and 60°N?",
+    "choices": [
+      "Warm anticyclones alternating with frontal depressions.",
+      "Troughs of low pressure and cold air pools at low levels.",
+      "Cold anticyclones on the continents and depressions at sea.",
+      "Anticyclones interspersed by ridges of high pressure."
+    ],
+    "answer": "Cold anticyclones on the continents and depressions at sea."
+  },
+  {
+    "question": "Different reports of the surface wind at an aerodrome are listed below. Which of the statements best explains the variability in the reported surface wind?",
+    "choices": [
+      "All aerodromes report the surface wind obtained from an anemometer at a height of 4 ft above ground level, but METAR surface wind are averaged over 10 minutes and ATIS and aerodrome controller surface winds are averaged over 1 minute.",
+      "All aerodromes average their reported surface wind over 2 minutes, but it is measured by an anemometer at 10 m above ground level for METARs and 6 m above ground level for the ATIS and aerodrome controller.",
+      "The METAR surface wind is measured by an anemometer at a height of 10 m and averaged over 10 minutes, but for the ATIS aerodrome controller the wind is measured at a height of 33 m and averaged over 5 minutes.",
+      "At larger aerodromes, the reported surface wind is measured by an anemometer at a height of 10 m and averaged over 2 minutes for the ATIS and the aerodrome controller, but averaged over 10 minutes for the METAR."
+    ],
+    "answer": "At larger aerodromes, the reported surface wind is measured by an anemometer at a height of 10 m and averaged over 2 minutes for the ATIS and the aerodrome controller, but averaged over 10 minutes for the METAR."
+  },
+  {
+    "question": "In the disturbed temperate regions:",
+    "choices": [
+      "The prevailing surface winds are moderate easterlies.",
+      "Winters are generally mild.",
+      "The weather is mainly governed by the traveling frontal depressions.",
+      "The wet season is normally from May to September."
+    ],
+    "answer": "The weather is mainly governed by the traveling frontal depressions."
+  },
+  {
+    "question": "What weather is prevalent in the zone of easterly waves?",
+    "choices": [
+      "Continuous rain.",
+      "Clear skies.",
+      "Thunderstorms and rain.",
+      "Frontal weather."
+    ],
+    "answer": "Thunderstorms and rain."
+  },
+  {
+    "question": "What is the main source of energy in a thunderstorm?",
+    "choices": [
+      "Condensation",
+      "Static",
+      "Wind",
+      "Electrical"
+    ],
+    "answer": "Condensation"
+  },
+  {
+    "question": "An area where rain ice is likely to be encountered must be avoided. An example of such area would be when flying:",
+    "choices": [
+      "In a polar maritime airstream behind a cold front.",
+      "Ahead of a warm front with the OAT gauge reading -5°C.",
+      "Through an active cold front.",
+      "In the warm sector of a frontal depression during winter."
+    ],
+    "answer": "Ahead of a warm front with the OAT gauge reading -5°C."
+  },
+  {
+    "question": "The 'sea breeze' is a wind from the sea:",
+    "choices": [
+      "Occurring only in mid-latitudes and in daytime.",
+      "Blowing at night in mid-latitudes.",
+      "Occurring only in the lower layers of the atmosphere in daytime.",
+      "That reaches up to the tropopause in daytime."
+    ],
+    "answer": "Occurring only in the lower layers of the atmosphere in daytime."
+  },
+  {
     "question": "Which of the following correctly describes how area forecasts of upper-air meteorological phenomena, for pre-flight planning purposes, are produced?",
     "choices": [
       "Every ICAO Region has its own Weather Area Flight Centre, which provides forecasts for all aircraft departing from the Region.",
