@@ -49173,6 +49173,296 @@
   ],
   "ALW": [
   {
+    "question": "An aerodrome reference code' number 4' refers to an aeroplane reference field length of:",
+    "choices": [
+      "1200 m.",
+      "1600 m.",
+      "1500 m.",
+      "1800 m and over."
+    ],
+    "answer": "1800 m and over."
+  },
+  {
+    "question": "The standard colour used for apron safety lines is:",
+    "choices": [
+      "Any conspicuous colour.",
+      "White and red.",
+      "Red.",
+      "White."
+    ],
+    "answer": "Any conspicuous colour."
+  },
+  {
+    "question": "Which of the following statements regarding Pattern B runway holding markings is most correct?",
+    "choices": [
+      "Used when there is more than one holding point before runway used for CAT I, and CAT II/III operations.",
+      "Used to define the CAT I, II and III holding positions.",
+      "Used at taxiway intersections.",
+      "Used for CAT I operations."
+    ],
+    "answer": "Used when there is more than one holding point before runway used for CAT I, and CAT II/III operations."
+  },
+  {
+    "question": "A runway is observed to have the first third covered in 5mm of STANDING WATER, the second third covered with WET ICE and the last third covered with ICE. Which of the following would be the correct runway condition report for this runway?",
+    "choices": [
+      "2/0/1",
+      "1/2/3",
+      "5/5/1",
+      "3/2/1"
+    ],
+    "answer": "2/0/1"
+  },
+  {
+    "question": "Information about those meteorological services providing SIGMET information can be found in which part of the AIP?",
+    "choices": [
+      "GEN",
+      "ENR",
+      "AD",
+      "MET"
+    ],
+    "answer": "GEN"
+  },
+  {
+    "question": "Runway centreline markings are provided on:",
+    "choices": [
+      "Only instrument runways.",
+      "Runways which have a length of 1200 m or more.",
+      "All paved runways.",
+      "Runways which have a width of 45 m or more."
+    ],
+    "answer": "All paved runways"
+  },
+  {
+    "question": "What colour is a land aerodrome beacon?",
+    "choices": [
+      "Any colour except red.",
+      "Green or green/white.",
+      "Red.",
+      "White or white/green."
+    ],
+    "answer": "White or white/green."
+  },
+  {
+    "question": "According to ICAO Annex 14, aerodrome mandatory instruction signs are:\n1. Runway designation signs,\n2. Runway exit signs,\n3. Category I, II or III holding position signs,\n4. Runway-holding position signs,\n5. Road-holding position signs,\n6. NO ENTRY signs,\n7. Direction signs,\n8. Location signs.",
+    "choices": [
+      "1, 3, 4, 5, and 8.",
+      "1, 3, 4, 5, and 6.",
+      "2, 3, 4, 5, 7, and 8.",
+      "2, 3, 4, 5, 6, and 7."
+    ],
+    "answer": "1, 3, 4, 5, and 6."
+  },
+  {
+    "question": "Which of these statements correctly describes the normal location of a runway threshold?",
+    "choices": [
+      "At a distance of 5 m from the runway end unless operational considerations justify the choice of another location.",
+      "At the extremity of a runway unless operational considerations justify the choice of another location.",
+      "At a distance of 100 m from the runway end unless operational considerations justify the choice of another location.",
+      "At a distance of 300 m from the runway end unless operational considerations justify the choice of another location."
+    ],
+    "answer": "At the extremity of a runway unless operational considerations justify the choice of another location."
+  },
+  {
+    "question": "The absolute minimum separation between 2 aircraft using the Mach number technique is ________ and occurs when the leading aircraft is __________ than the following aircraft.",
+    "choices": [
+      "5 miles, faster.",
+      "5 minutes, slower.",
+      "5 minutes, faster.",
+      "10 miles, faster."
+    ],
+    "answer": "5 minutes, faster."
+  },
+  {
+    "question": "For an aerodrome to be 'controlled' it must:",
+    "choices": [
+      "Be located within a control zone.",
+      "Have an air traffic control service.",
+      "Be located in a control area.",
+      "Be located in a control zone and have a control tower."
+    ],
+    "answer": "Have an air traffic control service."
+  },
+  {
+    "question": "A revised EAT must be transmitted to the aircraft without delay whenever it differs by ____ minutes or more from a previous one.",
+    "choices": [
+      "3",
+      "2",
+      "10",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "The movement of persons, vehicles and towed aircraft on the manoeuvring area of an AD:",
+    "choices": [
+      "Must be controlled by the TWR to protect aircraft from unauthorised people and vehicles.",
+      "Must be controlled by the TWR to avoid hazard to them or to aircraft landing, taxiing or taking off.",
+      "Must be controlled by the apron management service to avoid hazard to them or to aircraft landing, taxiing or taking off.",
+      "Must be controlled by the TWR to avoid hazard to fast-moving emergency response vehicles."
+    ],
+    "answer": "Must be controlled by the TWR to avoid hazard to them or to aircraft landing, taxiing or taking off."
+  },
+  {
+    "question": "The minimum standard horizontal radar separation between successive aircraft is _____nm",
+    "choices": [
+      "5",
+      "8",
+      "10",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "The 'aerodrome elevation' is the height of:",
+    "choices": [
+      "The highest point in the landing area.",
+      "The threshold of the main precision runway.",
+      "The airfield reference datum.",
+      "The apron."
+    ],
+    "answer": "The highest point in the landing area."
+  },
+  {
+    "question": "Instrument approaches are designed according to:\n1. ACN\n2. PCN\n3. Aircraft to be accommodated\n4. Possible obstacles",
+    "choices": [
+      "1, 2",
+      "1, 3, 4",
+      "3, 4",
+      "1, 2, 3"
+    ],
+    "answer": "3, 4"
+  },
+  {
+    "question": "If a prominent obstacle protrudes into the circling area:",
+    "choices": [
+      "You must land on the instrument runway regardless of the conditions.",
+      "A non-circling sector may be established, provided that the obstacle is outside the final approach or missed approach area.",
+      "A non-circling sector may be established, provided that the obstacle is outside the missed approach area.",
+      "A circling approach cannot be made."
+    ],
+    "answer": "A non-circling sector may be established, provided that the obstacle is outside the final approach or missed approach area."
+  },
+  {
+    "question": "Altitude should be referred to as flight levels...",
+    "choices": [
+      "Above the airport elevation.",
+      "Above the lowest possible altitude.",
+      "Above the 1013.25 isobar.",
+      "Above the transition altitude."
+    ],
+    "answer": "Above the transition altitude."
+  },
+  {
+    "question": "Speed and configuration are adjusted to prepare for the final approach'. This is a description of the tasks in the:",
+    "choices": [
+      "Intermediate segment.",
+      "Initial approach segment.",
+      "Final initial approach segment.",
+      "Arrival segment."
+    ],
+    "answer": "Intermediate segment."
+  },
+  {
+    "question": "A straight departure is defined as one in which:",
+    "choices": [
+      "The departure track is within 30° of the orientation of the runway’s centre line.",
+      "The initial departure track is within 15° of the orientation of the runway’s centre line.",
+      "The departure track is within 45° of the orientation of the runway’s centre line.",
+      "The departure track is within 15° of the orientation of the runway’s centre line."
+    ],
+    "answer": "The initial departure track is within 15° of the orientation of the runway’s centre line."
+  },
+  {
+    "question": "The aim of the final approach is either to land or?",
+    "choices": [
+      "Go-around.",
+      "Enter the visual pattern.",
+      "Establish visual contact with the aerodrome.",
+      "Descend to MDA."
+    ],
+    "answer": "Enter the visual pattern."
+  },
+  {
+    "question": "On a precision approach using QNH, OCA plus safety margin plus a margin for the aircraft and crew gives a:",
+    "choices": [
+      "DA",
+      "DH",
+      "MDA",
+      "MDH"
+    ],
+    "answer": "DA"
+  },
+  {
+    "question": "You have received holding instructions for a radio fix. The published holding procedure is: all turns to the right, 1 minute outbound, inbound MC NDB 052°. You are approaching the fix on an inbound Magnetic Track 232°. The appropriate entry procedure is:",
+    "choices": [
+      "Offset",
+      "Direct",
+      "Parallel",
+      "Either offset or parallel"
+    ],
+    "answer": "Either offset or parallel"
+  },
+  {
+    "question": "The most significant factor affecting the size of the required protected area, is the _________of the aircraft using the procedure.",
+    "choices": [
+      "Wingspan",
+      "Speed",
+      "Size",
+      "Weight"
+    ],
+    "answer": "Speed"
+  },
+  {
+    "question": "To be considered a 'straight-in' approach, the maximum angle between the final approach track and the extended RWY centre line must not exceed:",
+    "choices": [
+      "3°",
+      "30°",
+      "5°",
+      "10°"
+    ],
+    "answer": "30°"
+  },
+  {
+    "question": "Which procedure should you follow after experiencing 2-way communication failure during a flight in accordance with IFR in VMC?",
+    "choices": [
+      "Continue to fly in VMC and return to the aerodrome of departure.",
+      "Continue to fly in VMC, land at the nearest suitable aerodrome, report the arrival by the most expeditious means to the appropriate Air Traffic Control unit.",
+      "Continue the flight at the assigned level and route, carry out level changes as indicated in the filed ATC flight plan, land at the destination aerodrome at the planned ETA.",
+      "Maintain the assigned level and route and land at the nearest aerodrome where VMC prevails."
+    ],
+    "answer": "Continue to fly in VMC, land at the nearest suitable aerodrome, report the arrival by the most expeditious means to the appropriate Air Traffic Control unit."
+  },
+  {
+    "question": "To close a flight plan after landing at an aerodrome without an ATS facility you must:",
+    "choices": [
+      "Turn off your transponder, to indicate to the nearest ATSU that you have landed.",
+      "Submit an arrival report to the nearest ATSU within 3 hours of landing.",
+      "Submit an arrival report to the nearest ATSU ASAP after landing.",
+      "Submit an arrival report to control authority for the FIR ASAP after landing."
+    ],
+    "answer": "Submit an arrival report to the nearest ATSU ASAP after landing."
+  },
+  {
+    "question": "An aircraft registered in Italy is flying over the Mediterranean, 100 NM from the closest coast, inside Libyan FIR. To verify that the pilots are complying with the right rules of the air, which documents should they check?",
+    "choices": [
+      "2, 3 and 4.",
+      "1, 3 and 4.",
+      "2, 3 and 5.",
+      "1, 2 and 4."
+    ],
+    "answer": "2, 3 and 5."
+  },
+  {
+    "question": "Which of the following has the right-of-way against a vehicle that is operating on an apron?",
+    "choices": [
+      "An aircraft being towed.",
+      "A follow-me vehicle.",
+      "A snow-clearing vehicle.",
+      "A friction-testing vehicle."
+    ],
+    "answer": "An aircraft being towed."
+  },
+  {
     "question": "The application of technical or other means which are intended to identify and/or detect weapons, explosives or other dangerous devices, articles or substances which may be used to commit an act of unlawful interference' this is a definition of:",
     "choices": [
       "Security control.",
