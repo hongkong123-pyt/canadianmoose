@@ -49173,6 +49173,46 @@
   ],
   "ALW": [
   {
+    "question": "Which procedure do you follow after having experienced a 2 way communication failure during a flight in accordance with IFR in VMC?",
+    "choices": [
+      "Continue the flight at the assigned level and route, carry out level changes as indicated in the filed ATC flight plan, land at the destination aerodrome at the planned ETA.",
+      "Continue to fly in VMC and return to the aerodrome of departure.",
+      "Maintain the assigned level and route and land at the nearest aerodrome where VMC prevails.",
+      "Continue to fly in VMC, land at the nearest suitable aerodrome, report the arrival by the most expeditious means to the appropriate Air Traffic Control unit."
+    ],
+    "answer": "Continue to fly in VMC, land at the nearest suitable aerodrome, report the arrival by the most expeditious means to the appropriate Air Traffic Control unit."
+  },
+  {
+    "question": "When may a cruise level be reported as an altitude?",
+    "choices": [
+      "When flying at or below the lowest usable flight level.",
+      "When flying in the transition layer.",
+      "When flying below 18 000 ft.",
+      "When the altimeter is set to the local QNH."
+    ],
+    "answer": "When flying at or below the lowest usable flight level."
+  },
+  {
+    "question": "During a flight in simulated instrument conditions, conducted for an instrument rating:",
+    "choices": [
+      "Dual set of controls are needed and a competent observer.",
+      "Dual set of controls are needed and a flight instructor.",
+      "Dual set of instruments are needed and a competent observer.",
+      "Dual set of instruments are needed and a flight instructor."
+    ],
+    "answer": "Dual set of controls are needed and a flight instructor."
+  },
+  {
+    "question": "According to the Standardised European Rules of the Air, what will the distance from the clouds be when an aircraft flies under VFR in the following conditions: Airspace: Class G Aircraft altitude: 3500 ft AMSL Terrain elevation: 2800 ft AMSL",
+    "choices": [
+      "1000 m horizontally and 300 m vertically.",
+      "1500 m horizontally and 300 m vertically.",
+      "1500 m horizontally and 1000 m vertically.",
+      "Clear of clouds and with the surface insight."
+    ],
+    "answer": "Clear of clouds and with the surface insight."
+  },
+  {
     "question": "An aerodrome reference code' number 4' refers to an aeroplane reference field length of:",
     "choices": [
       "1200 m.",
