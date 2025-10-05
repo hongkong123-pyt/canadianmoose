@@ -45198,6 +45198,522 @@
   }
   ],
   "POF": [
+  {
+    "question": "Excessively __________ pitch results in low torque drag which increases the risk of overspeeding the engine.",
+    "choices": [
+      "coarse",
+      "fine"
+    ],
+    "answer": "fine"
+  },
+  {
+    "question": "The component of the RAF perpendicular to the leading edge becomes less than the free stream flow speed and the effective chord lengthens, reducing the T/C ratio (effectively a thinner wing). These are 2 advantages of __________.",
+    "choices": [
+      "slats",
+      "sweep back",
+      "winglets",
+      "camber change"
+    ],
+    "answer": "sweep back"
+  },
+  {
+    "question": "The purpose of vortex generators is to.",
+    "choices": [
+      "Prevent normal shock waves from forming",
+      "Delay the onset of MCRIT",
+      "Re-energise the boundary layer, which has lost energy to the normal shock wave",
+      "Prevent the normal shock wave from spreading span wise"
+    ],
+    "answer": "Re-energise the boundary layer, which has lost energy to the normal shock wave"
+  },
+  {
+    "question": "The difference between the geometric and effective pitch is called __________.",
+    "choices": [
+      "helix angle",
+      "slip",
+      "pitch angle"
+    ],
+    "answer": "slip"
+  },
+  {
+    "question": "During a short period oscillation, the altitude:",
+    "choices": [
+      "varies significantly, whereas during a phugoid it remains approximately constant",
+      "remains approximately constant, whereas during a phugoid it varies significantly",
+      "varies significantly, as it does during a phugoid",
+      "remains approximately constant, as it does during a phugoid"
+    ],
+    "answer": "remains approximately constant, whereas during a phugoid it varies significantly"
+  },
+  {
+    "question": "A tailwind during the glide __________ gliding range and has __________ effect on endurance.",
+    "choices": [
+      "increases; an adverse.",
+      "reduces; no.",
+      "reduces; a beneficial.",
+      "increases; no."
+    ],
+    "answer": "increases; no."
+  },
+  {
+    "question": "The furthest aft position of the CG for which the aircraft is not statically unstable is called the __________ __________. Static longitudinal stability is proportional to the distance between this and the CG.",
+    "choices": [
+      "neutral point",
+      "static margin",
+      "aerodynamic centre"
+    ],
+  "answer": "neutral point"
+  },
+  {
+    "question": "Power-assisted controls provide __________ of the force required to operate the control surface. __________ hinge moment force is fed back to the pilot.",
+    "choices": [
+      "all; Some.",
+      "all; No.",
+      "some; Some.",
+      "some; No."
+    ],
+    "answer": "some; Some."
+  },
+  {
+    "question": "The principal threat from a THS is that, if incorrectly set, it can critically reduce __________ authority.",
+    "choices": [
+      "pitch.",
+      "elevator.",
+      "manual."
+    ],
+    "answer": "elevator."
+  },
+  {
+    "question": "__________ trim tabs mounted on the wing, fin or tailplane cancel out ‘permanent’ (but not transient) out-of-trim forces caused by airframe deformation. They do it by generating a small correcting aerodynamic force.",
+    "choices": [
+      "Fixed",
+      "Adjustable"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The purpose of the rudder travel limiter is to:",
+    "choices": [
+      "Limit rudder deflection above a certain IAS to limit the maximum forces felt by the fin.",
+      "Limit rudder deflection above a certain angle of bank to limit the maximum forces felt by the fin.",
+      "Limit rudder deflection to a pre-set yaw rate.",
+      "Limit rudder deflection during the final approach."
+    ],
+    "answer": "Limit rudder deflection above a certain IAS to limit the maximum forces felt by the fin."
+  },
+  {
+    "question": "What is the basic stalling speed (Vs1g) of your Diamond DA-42, given the following data: Wing area 16 m². Mass is 2000 kg. ρ is 0.7 kg/m³. CLMAX clean is 1.3.",
+    "choices": [
+      "50 kt",
+      "78 kt",
+      "67 kt",
+      "52 kt"
+    ],
+    "answer": "52 kt"
+  },
+  {
+    "question": "The design feature where the wing's angle of incidence is progressively reduced towards the tip is called __________. This reduces the tendency of the tips to stall first.",
+    "choices": [
+      "sweep",
+      "washout",
+      "taper"
+    ],
+    "answer": "washout"
+  },
+  {
+    "question": "If the aircraft stalls when the power is set to idle, it __________ possible to recover from the stall without applying power.",
+    "choices": [
+      "is never",
+      "is not",
+      "is"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "Load factor __________ in a turn and, thus, stalling speed __________ in a turn.",
+    "choices": [
+      "decreases; increases.",
+      "increases; decreases.",
+      "decreases; decreases.",
+      "increases; increases."
+    ],
+    "answer": "increases; increases."
+  },
+  {
+    "question": "An aircraft is flying a level turn at 120 kt TAS and 30º AoB. What is its radius of turn.",
+    "choices": [
+      "0.54 km",
+      "2.5 km",
+      "0.62 km",
+      "0.74 nm"
+    ],
+    "answer": "0.62 km"
+  },
+  {
+    "question": "A __________ balance adds an area of control surface in front of a hinge to reduce the hinge moment.",
+    "choices": [
+      "internal",
+      "horn",
+      "spring"
+    ],
+    "answer": "horn"
+  },
+  {
+    "question": "The primary effect of elevator is __________. The secondary effect is __________.",
+    "choices": [
+      "air speed; lift.",
+      "pitch; lift.",
+      "air speed; none.",
+      "pitch; none."
+    ],
+    "answer": "pitch; none."
+  },
+  {
+    "question": "If the rudder is held deflected, yaw __________.",
+    "choices": [
+      "remains constant.",
+      "eventually decreases to zero.",
+      "continues to increase at a steady rate."
+    ],
+    "answer": "eventually decreases to zero."
+  },
+  {
+    "question": "Clear and rime ice accumulate most quickly below __________ KIAS, at lower altitudes in visible moisture and the airframe is at or below 0°C.",
+    "choices": [
+      "200",
+      "300",
+      "250",
+      "350"
+    ],
+    "answer": "250"
+  },
+  {
+    "question": "Higher Mach numbers at altitude result in a higher slow-speed stall speed and a reduction in α CRIT:",
+    "choices": [
+      "Only after MCRIT has been exceeded.",
+      "Because of the onset of shock stall at MCRIT.",
+      "Because compressibility causes a shallower upwash at the leading edge.",
+      "Because compressibility causes steeper upwash at the leading edge."
+    ],
+    "answer": "Because compressibility causes steeper upwash at the leading edge."
+  },
+  {
+    "question": "The __________ propeller is most efficient at low speeds and less efficient at higher speed. It is often used on low-powered training aircraft.",
+    "choices": [
+      "climb",
+      "cruise"
+    ],
+    "answer": "climb"
+  },
+  {
+    "question": "__________ is the maximum speed at which the aeroplane can be flown with the landing gear down and locked.",
+    "choices": [
+      "VFE",
+      "VLO",
+      "VLE"
+    ],
+    "answer": "VLE"
+  },
+  {
+    "question": "Regarding a normal shock wave on the upper surface of a wing, as Mach number increases towards Mach drag divergence:",
+    "choices": [
+      "the reduction in the local speed of sound from in front of the shock wave to behind it increases.",
+      "the coefficient of drag increases and the coefficient of lift decreases.",
+      "the shock wave intensifies and the reduction in air density from in front of the shock wave to behind it increases.",
+      "the shock wave moves aft and the coefficient of lift increases."
+    ],
+    "answer": "the shock wave moves aft and the coefficient of lift increases."
+  },
+  {
+    "question": "An Airbus A320 is flying at 430 kt TAS at an altitude where the LSS is 550 kt. The aircraft's Mach number is:",
+    "choices": [
+      "M 1.23",
+      "M 0.87",
+      "M 0.78",
+      "M 1.78"
+    ],
+    "answer": "M 0.78"
+  },
+  {
+    "question": "These parameters are used for calculating __________:\nGo-around power or thrust on the operating engine(s).\nThe most unfavourable CG position (aft CG - shortest arm).\nThe aircraft trimmed for the approach.\nThe most unfavourable weight.\nIn the most critical configuration for the approach and landing.",
+    "choices": [
+      "VMCL",
+      "VMCA"
+    ],
+    "answer": "VMCL"
+  },
+  {
+    "question": "The gust load factor graph plots gust load factor against EAS. VB ensures the aircraft can withstand a __________ ft/sec gust. VC ensures the aircraft can withstand a __________ ft/sec gust.",
+    "choices": [
+      "76; 60.",
+      "66; 50.",
+      "45; 30.",
+      "90; 60."
+    ],
+    "answer": "66; 50."
+  },
+  {
+    "question": "Flutter of the ailerons, elevator and rudder can be prevented by mass balancing, which moves the control surface’s CG onto or forward of the __________.",
+    "choices": [
+      "hinge line",
+      "CG"
+    ],
+    "answer": "hinge line"
+  },
+  {
+    "question": "The distance a propeller actually moves forwards in 1 revolution is known as the __________.",
+    "choices": [
+      "geometric pitch",
+      "effective pitch"
+    ],
+    "answer": "effective pitch"
+  },
+  {
+    "question": "The distance a propeller would travel forward in one revolution if it was moving through the air at the blade angle is known as its __________.",
+    "choices": [
+      "effective pitch",
+      "geometric pitch"
+    ],
+    "answer": "geometric pitch"
+  },
+  {
+    "question": "Minimum control speeds are __________ in cold, low altitude conditions.",
+    "choices": [
+      "slower.",
+      "unchanged.",
+      "faster."
+    ],
+    "answer": "faster."
+  },
+  {
+    "question": "The term '__________' describes the ratio of propeller blade frontal area to the propeller disc area.",
+    "choices": [
+      "thickness",
+      "solidity",
+      "effectiveness"
+    ],
+    "answer": "solidity"
+  },
+  {
+    "question": "If positive static directional stability is very strong it will be __________ to change the aircraft’s direction.",
+    "choices": [
+      "difficult.",
+      "simple.",
+      "easy."
+    ],
+    "answer": "difficult."
+  },
+  {
+    "question": "An aircraft with an __________ CG tends to be less longitudinally stable and thus more responsive to elevator inputs.",
+    "choices": [
+      "forward.",
+      "aft.",
+      "positive."
+    ],
+    "answer": "aft."
+  },
+  {
+    "question": "A power-on stall often occurs at a __________ nose attitude than a power-off stall.",
+    "choices": [
+      "higher",
+      "lower",
+      "reduced",
+      "the same"
+    ],
+    "answer": "higher"
+  },
+  {
+    "question": "EASA CS 25 for CAT aircraft require that: Take-off and landing speeds are based on a margin above __________.",
+    "choices": [
+      "SVR",
+      "VSR",
+      "VS0",
+      "VREF"
+    ],
+    "answer": "VSR"
+  },
+  {
+    "question": "Differential and frise ailerons are methods designed to counteract __________ __________ __________.",
+    "choices": [
+      "adverse aileron yaw",
+      "excessive control forces"
+    ],
+    "answer": "adverse aileron yaw"
+  },
+  {
+    "question": "In a/an __________ spin the usual recovery action is to centralise the controls. (Though this may vary from type to type).",
+    "choices": [
+      "clear",
+      "incipient",
+      "fully developed",
+      "rational"
+    ],
+    "answer": "incipient"
+  },
+  {
+    "question": "The forces parallel to the flight path in a power-on descent are __________, drag and a component of __________.",
+    "choices": [
+      "lift; weight.",
+      "thrust; weight."
+    ],
+    "answer": "thrust; weight."
+  },
+  {
+    "question": "__________ mechanically reenergise the boundary layer to improve CLMAX and increase the critical angle.",
+    "choices": [
+      "Wing fences",
+      "Vortex generators",
+      "Saw-tooth leading edges"
+    ],
+    "answer": "Vortex generators"
+  },
+  {
+    "question": "EASA CS 25 for CAT aircraft require that: The minimum speed at 35 ft after take-off must not be less than __________ x VSR1",
+    "choices": [
+      "1.33",
+      "1.1",
+      "1.13",
+      "1.23"
+    ],
+    "answer": "1.13"
+  },
+  {
+    "question": "The basic stalling speed of your aircraft is given as 67 kt. At 45° of bank the stalling speed will be:",
+    "choices": [
+      "80 kt",
+      "90 kt",
+      "85 kt",
+      "95 kt"
+    ],
+    "answer": "80 kt"
+  },
+  {
+    "question": "The purpose of small vortex generators on the upper surface of the wing is to:",
+    "choices": [
+      "Prevent a tip stall from progressing from tip to root.",
+      "Maintain a laminar flow across more of the wing chord.",
+      "Re-energise the boundary layer to delay separation at high angles of attack.",
+      "Reduce the span wise flow."
+    ],
+    "answer": "Re-energise the boundary layer to delay separation at high angles of attack."
+  },
+  {
+    "question": "The horizontal component of __________ provides the centripetal force to turn the aircraft.",
+    "choices": [
+      "drag.", 
+      "lift.",
+      "thrust.", 
+      "weight."
+    ],
+    "answer": "lift."
+  },
+  {
+    "question": "Following a nose-down THS runaway:",
+    "choices": [
+      "Increase the thrust (on an aircraft with underslung engines) to restore pitch authority.",
+      "Pitch authority may be severely limited.",
+      "The elevator will be aerodynamically less effective.",
+      "The range of elevator movement will be severely limited."
+    ],
+    "answer": "Pitch authority may be severely limited."
+  },
+  {
+    "question": "The angle of bank required for a given radius of turn depends only on the aircraft's __________.",
+    "choices": [
+      "IAS", 
+      "TAS"
+    ],
+    "answer": "TAS"
+  },
+  {
+    "question": "A stick pusher is a stall __________ device.",
+    "choices": [
+      "vane", 
+      "warning", 
+      "prevention"
+    ],
+    "answer": "prevention"
+  },
+  {
+    "question": "The rate of turn of an aircraft, in degrees of heading change per second, is called __________ velocity.",
+    "choices": [
+      "rotational", 
+      "centrifugal", 
+      "compass", 
+      "angular"
+    ],
+    "answer": "angular"
+  },
+  {
+    "question": "Slats offset the __________ in the stalling angle caused by trailing edge flap. They also increase CLMAX.",
+    "choices": [
+      "increase", 
+      "reduction"
+    ],
+    "answer": "reduction"
+  },
+  {
+    "question": "The following factors increase stall speed:",
+    "choices": [
+      "a lower weight, decreasing bank angle, a smaller flap setting.",
+      "increasing bank angle, increasing thrust, slat extension.",
+      "an increase in load factor, a forward CG movement, decrease in thrust.",
+      "a higher weight, selecting a higher flap setting, a forward CG movement."
+    ],
+    "answer": "an increase in load factor, a forward CG movement, decrease in thrust."
+  },
+  {
+    "question": "As alpha increases, the forward stagnation point moves, at first, __________ on the leading edge and then rearwards along the lower surface of the wing.",
+    "choices": [
+      "lower",
+      "higher"
+    ],
+    "answer": "lower"
+  },
+  {
+    "question": "Devices which increase drag, such as flaps and landing gear, __________ the L/D ratio and so reduce gliding range.",
+    "choices": ["reduce.", "increase.", "may increase.", "have no effect on."],
+    "answer": "reduce."
+  },
+  {
+    "question": "On entering ground effect: Induced drag __________. Lift __________.",
+    "choices": [
+      "increases; stays the same.",
+      "decreases; increases.",
+      "decreases; reduces.",
+      "stays the same; increases."
+    ],
+    "answer": "decreases; increases."
+  },
+  {
+    "question": "The pilot of a light aeroplane is flying at a speed below the normal cruising speed, in a gentle turn to allow a passenger to look at something interesting on the ground. Which of the following might occur to warn the pilot that the aircraft is approaching the stall?",
+    "choices": [
+      "1. Heavy buffet of the elevator before approaching the stall, 2. Significant pitch-up of the nose immediately before the stall",
+      "2 and 3",
+      "1 and 3",
+      "3 and 4"
+    ],
+    "answer": "3 and 4"
+  },
+  {
+    "question": "Increasing an aerofoil’s camber produces __________ in static pressure over the upper surface.",
+    "choices": [
+      "an increase",
+      "no change.",
+      "a decrease."
+    ],
+    "answer": "a decrease."
+  },
+    {
+      "question": "Stated mathematically, Bernoulli's equation is: Ps + ½ ρ V² = constant. In layman's terms, this equation states that in the flow of an ideal fluid the sum of __________ and kinetic energy must remain constant.",
+      "choices": [
+        "internal.",
+        "flow.",
+        "pressure.",
+        "total."
+      ],
+      "answer": "pressure."
+    },
     {
       "question": "The ratio of the aerofoil\u2019s maximum thickness to the length of its chord is called the __________ - __________ ratio.",
       "choices": [
@@ -45635,16 +46151,6 @@
       "answer": "9141 N"
     },
     {
-      "question": "Assuming no flow separation, which of these statements about the flow around an aerofoil as the angle of attack decreases are correct or incorrect?\nI. The stagnation point moves down.\nII. The point of lowest static pressure moves forward.",
-      "choices": [
-        "I is correct, Il is correct.",
-        "I is correct, Il is incorrect.",
-        "I is incorrect, II is correct.",
-        "I is incorrect, Il is incorrect."
-      ],
-      "answer": "I is incorrect, Il is incorrect."
-    },
-    {
       "question": "A turbulent boundary layer __________ separation.",
       "choices": [
         "provokes early.",
@@ -45942,16 +46448,6 @@
       "answer": "The upper and lower surfaces."
     },
     {
-      "question": "The ratio of the aerofoil\u2019s maximum thickness to the length of its chord is called the __________ - __________ ratio.",
-      "choices": [
-        "chord; thickness.",
-        "oblique; chord.",
-        "angle; chord.",
-        "thickness; chord."
-      ],
-      "answer": "thickness; chord."
-    },
-    {
       "question": "The rate of doing work is a description of:",
       "choices": [
         "Newton's Third law.",
@@ -45960,16 +46456,6 @@
         "energy."
       ],
       "answer": "power."
-    },
-    {
-      "question": "Wake turbulence is caused by tip vortices. The vortices migrate __________ and eventually stabilise at a vertical distance of about __________ ft from the aircraft.",
-      "choices": [
-        "upwards; 900.",
-        "downwards; 2000.",
-        "downwards; 900.",
-        "downwards; 250."
-      ],
-      "answer": "downwards; 900."
     },
     {
       "question": "Because drag is related to __________ __________ altitude has no effect on the position of the total drag curve.",
@@ -45990,16 +46476,6 @@
         "sweepback."
       ],
       "answer": "rectangular."
-    },
-    {
-      "question": "On a Drag/TAS plot, the bottom of the total drag curve indicates __________.\nOn a Drag/IAS plot the bottom of the total drag curve indicates __________.",
-      "choices": [
-        "VMD; VIMD",
-        "VIMD; VIMD",
-        "VMD; VMD",
-        "VIMD; VMD"
-      ],
-      "answer": "VMD; VIMD"
     },
     {
       "question": "An aeroplane maintains straight and level flight while the IAS is doubled. The change in lift coefficient will be:",
@@ -46484,16 +46960,6 @@
       "answer": "equalises the drag of the right and left aileron."
     },
     {
-      "question": "What is 'Deterrent Buffet'?",
-      "choices": [
-        "It is normal on take-off when fully loaded.",
-        "It is an indication to jet transport crews that higher alpha should be used with caution.",
-        "It is considered to be the stall limit on jet transport aircraft.",
-        "It is confirmation that the aircraft is in a full stall."
-      ],
-      "answer": "It is considered to be the stall limit on jet transport aircraft."
-    },
-    {
       "question": "The roll caused by asymmetric flap extension __________ controllable with aileron.",
       "choices": [
         "is usually",
@@ -46766,8 +47232,6 @@
     {
       "question": "At high speeds, __________ may be used for lateral control rather than the inboard ailerons. Without such systems, VNE or VM must always be set lower than the aileron reversal speed.",
       "choices": [
-        "O/MM",
-        "O",
         "spoilers",
         "differential speed-brake"
       ],
@@ -47038,18 +47502,6 @@
       "answer": "nose down."
     },
     {
-      "question": "The advantage of cruising above __________ is that the aircraft can:",
-      "choices": [
-        "Achieve a faster cruise speed for not much increase in drag.",
-        "Attain better specific range.",
-        "Achieve the optimum cruise altitude.",
-        "MDRAG DIVERGENCE",
-        "MFS",
-        "MCRIT"
-      ],
-      "answer": "MCRIT"
-    },
-    {
       "question": "Regarding a normal shock wave on the upper surface of a wing, as Mach number increases towards Mach drag divergence:",
       "choices": [
         "the coefficient of drag increases and the coefficient of lift decreases.",
@@ -47156,16 +47608,6 @@
       "answer": "(1) highest; (2) higher"
     },
     {
-      "question": "In a skidding turn (the nose pointing inwards), compared with a co-ordinated turn, the bank angle (i) and the \"ball\" or slip indicator (ii) are respectively:",
-      "choices": [
-        "(i) too large, (ii) displaced towards the high wing.",
-        "(i) too small, (ii) displaced towards the low wing.",
-        "(i) too large, (ii) displaced towards the low wing.",
-        "(i) too small, (ii) dlsplaced towards the high wing."
-      ],
-      "answer": "(i) too small, (ii) dlsplaced towards the high wing."
-    },
-    {
       "question": "The __________ is a point on an aerofoil where the size of the wing moment remains approximately constant at all angles of attack.",
       "choices": [
         "centre of pressure",
@@ -47190,16 +47632,6 @@
         "aerodynamic centre"
       ],
       "answer": "neutral point"
-    },
-    {
-      "question": "The __________ can provide temporary balancing pitching moments, whereas the __________ is a permanent, natural contributor to longitudinal stability.",
-      "choices": [
-        "stabiliser; stabiliser",
-        "elevator; stabiliser",
-        "elevator; elevator",
-        "stabiliser; elevator"
-      ],
-      "answer": "elevator; stabiliser"
     },
     {
       "question": "For an aerofoil with a given pitching moment coefficient, the pitching moment increases if the dynamic pressure, wing area or MAC increase. Both wing area and MAC are changed by extending __________.",
@@ -47322,16 +47754,6 @@
       "answer": "Slipstream, torque, and gyroscopic effect."
     },
     {
-      "question": "The maximum time an aircraft can remain on the ground before take-off after de-icing/anti-icing is known as the __________ time. If __________ precipitation is falling, this will __________ the time.",
-      "choices": [
-        "standing; increase.",
-        "holdover; reduce.",
-        "standing; reduce.",
-        "holdover; increase."
-      ],
-      "answer": "holdover; reduce."
-    },
-    {
       "question": "Flying an aircraft with a joystick, if a small displacement of the joystick results in a large change in pitch/bank angle, the aeroplane is described as being:",
       "choices": [
         "nose heavy.",
@@ -47340,16 +47762,6 @@
         "very stable."
       ],
       "answer": "highly manoeuvrable."
-    },
-    {
-      "question": "If an aeroplane exhibits insufficient stick force per g, this problem can be resolved by installing:",
-      "choices": [
-        "a spring which pulls the stick backwards.",
-        "a bobweight in the control system which pulls the stick forwards.",
-        "a spring which pushes the stick forwards.",
-        "a bobweight in the control system which pulls the stick backwards."
-      ],
-      "answer": "a bobweight in the control system which pulls the stick forwards."
     },
     {
       "question": "In the fly-by-wire flight envelope protection system, the protections which can be overridden are:",
@@ -47563,16 +47975,6 @@
       "answer": "and also"
     },
     {
-      "question": "Sophisticated angle of attack type stall warning systems take the __________ effect of ice contamination into account.",
-      "choices": [
-        "can",
-        "may",
-        "always",
-        "cannot"
-      ],
-      "answer": "cannot"
-    },
-    {
       "question": "The point at which the first flow reaches M 1.0 is called the __________.",
       "choices": [
         "critical Mach number",
@@ -47635,16 +48037,6 @@
       "answer": "decreases."
     },
     {
-      "question": "Density __________ as altitude increases, and at the same time, for a given speed of flow, the dynamic pressure of a gas __________.",
-      "choices": [
-        "increases; reduces.",
-        "decreases; reduces.",
-        "increases; increases.",
-        "decreases; increases."
-      ],
-      "answer": "decreases; reduces."
-    },
-    {
       "question": "'To each and every action there is an equal and opposite reaction' is a statement of Newton's _________ law.",
       "choices": [
         "First.",
@@ -47699,15 +48091,6 @@
       "answer": "laminar."
     },
     {
-      "question": "After the peak suction point the static pressure along the chord __________.",
-      "choices": [
-        "increases.",
-        "decreases.",
-        "remains constant."
-      ],
-      "answer": "increases."
-    },
-    {
       "question": "The CP of a symmetrical aerofoil:",
       "choices": [
         "Is at approximately 1/4 of the chord from the leading edge, and does not move with changes of AoA.",
@@ -47754,15 +48137,6 @@
         "Chord."
       ],
       "answer": "Aerofoil elements."
-    },
-    {
-      "question": "A turbulent boundary layer is __________ energetic than a laminar boundary layer.",
-      "choices": [
-        "just as.",
-        "less.",
-        "more."
-      ],
-      "answer": "more."
     },
     {
       "question": "Pressure is measured in _________ per m\u00b2.",
@@ -47936,10 +48310,8 @@
       "answer": "VMCL"
     },
     {
-      "question": "Which of these statements about VMCG determination are correct or incorrect?",
+      "question": "Which of these statements about VMCG determination are correct or incorrect? I. VMCG may be determined using both lateral and directional control. II. During VMCG determination, the lateral deviation from the runway centreline may be not more than 30 ft. ",
       "choices": [
-        "I. VMCG may be determined using both lateral and directional control.",
-        "II. During VMCG determination, the lateral deviation from the runway centreline may be not more than 30 ft.",
         "I is incorrect, Il is correct.",
         "I is correct, II is correct.",
         "I is incorrect, II is incorrect.",
@@ -48033,14 +48405,6 @@
         "remains constant"
       ],
       "answer": "reduces"
-    },
-    {
-      "question": "The altitude where the aeroplane is experiencing both low speed and high speed buffet determines its __________ __________.",
-      "choices": [
-        "aerodynamic ceiling",
-        "MCRIT"
-      ],
-      "answer": "aerodynamic ceiling"
     },
     {
       "question": "What happens following the deployment of leading edge devices, while the trailing edge flaps remain retracted?",
@@ -48214,15 +48578,6 @@
       "answer": "under"
     },
     {
-      "question": "The chord of an imaginary rectangular wing which has similar longitudinal stability properties to the actual wing is called the __________ __________ __________.",
-      "choices": [
-        "mean aerodynamic chord",
-        "mean aspect ratio",
-        "mean camber line"
-      ],
-      "answer": "mean aerodynamic chord"
-    },
-    {
       "question": "A turbulent boundary layer is __________ draggy than a laminar boundary layer.",
       "choices": [
         "more",
@@ -48240,16 +48595,6 @@
         "V"
       ],
       "answer": "1/V\u00b2"
-    },
-    {
-      "question": "Wing loading' is the __________ per unit of __________ __________.",
-      "choices": [
-        "g force; wing span",
-        "g force; wing area",
-        "weight; wing area",
-        "weight; wing span"
-      ],
-      "answer": "weight; wing area"
     },
     {
       "question": "Tip vortices are strongest when the aircraft is __________ and __________.",
@@ -48325,14 +48670,6 @@
         "steeper; smaller."
       ],
       "answer": "steeper; smaller."
-    },
-    {
-      "question": "Lowering the landing gear increases __________ .",
-      "choices": [
-        "form drag",
-        "induced drag"
-      ],
-      "answer": "form drag"
     },
     {
       "question": "Aspect ratio is the ratio of __________ to average wing chord.",
@@ -48538,16 +48875,6 @@
       "answer": "downwash decreases."
     },
     {
-      "question": "An increase in mass causes the drag curve to move __________ and __________.",
-      "choices": [
-        "up; right.",
-        "down; right.",
-        "up; left.",
-        "down; left."
-      ],
-      "answer": "up; right."
-    },
-    {
       "question": "Wing loading' is the __________ per unit of __________.",
       "choices": [
         "g force; wing span",
@@ -48633,18 +48960,6 @@
         "no change"
       ],
       "answer": "a decrease"
-    },
-    {
-      "question": "Assuming no flow separation, which of these statements about the flow around an aerofoil as the angle of attack decreases are correct or incorrect?",
-      "choices": [
-        "I. The stagnation point moves down.",
-        "II. The point of lowest static pressure moves forward.",
-        "I is incorrect, II is correct.",
-        "I is incorrect, Il is incorrect.",
-        "I is correct, Il is correct.",
-        "I is correct, Il is incorrect."
-      ],
-      "answer": "I is incorrect, Il is incorrect."
     },
     {
       "question": "Newtons 2nd Law states that: 'the acceleration of a body in a straight line is proportional to the applied _________ and inversely proportional to the _________ of the body'.",
@@ -48776,16 +49091,6 @@
       "answer": "density"
     },
     {
-      "question": "_____ increases for the same IAS/CAS as the aircraft climbs.",
-      "choices": [
-        "IAS",
-        "CAS",
-        "TAS",
-        "EAS"
-      ],
-      "answer": "TAS"
-    },
-    {
       "question": "Acceleration is measured in:",
       "choices": [
         "m",
@@ -48812,16 +49117,6 @@
         "Backwards."
       ],
       "answer": "Backwards."
-    },
-    {
-      "question": "The display on a simple altimeter shows _____.",
-      "choices": [
-        "EAS",
-        "CAS",
-        "IAS",
-        "TAS"
-      ],
-      "answer": "IAS"
     },
     {
       "question": "Steady airflow has no sharp changes of _____.",
@@ -48892,16 +49187,6 @@
       "answer": "CAS"
     },
     {
-      "question": "The compression of the streamlines above the aerofoil indicates that the flow is __________ in this region resulting in a __________ in static pressure.",
-      "choices": [
-        "faster; increase.",
-        "faster; drop.",
-        "slower; increase.",
-        "slower; drop."
-      ],
-      "answer": "faster; drop."
-    },
-    {
       "question": "Air density increases with:",
       "choices": [
         "Increasing pressure and decreasing temperature.",
@@ -48929,31 +49214,12 @@
       "answer": "streamlines"
     },
     {
-      "question": "The ratio of the aerofoil\u2019s maximum thickness to the length of its chord is called the __________-__________ ratio.",
-      "choices": [
-        "thickness; chord.",
-        "chord; thickness.",
-        "oblique; chord.",
-        "angle; chord."
-      ],
-      "answer": "thickness; chord."
-    },
-    {
       "question": "Force is measured in:",
       "choices": [
         "psi",
         "newtons"
       ],
       "answer": "newtons"
-    },
-    {
-      "question": "For a parcel of air, its density __________ with an increase in altitude and decrease in temperature.",
-      "choices": [
-        "decreases",
-        "increases",
-        "stays the same"
-      ],
-      "answer": "decreases"
     },
     {
       "question": "An imaginary straight line drawn between the centre of the leading edge and the trailing edge is called the ________.",
@@ -48972,14 +49238,6 @@
         "decreases"
       ],
       "answer": "increases"
-    },
-    {
-      "question": "The total reaction points upwards and relative __________ to the 2-dimensional free stream flow.",
-      "choices": [
-        "Forwards",
-        "Backwards"
-      ],
-      "answer": "Backwards"
     },
     {
       "question": "An aerofoil designed for high speed flight tends to have camber __________ compared to a general purpose low-speed aerofoil.",
@@ -49008,15 +49266,6 @@
         "less"
       ],
       "answer": "more"
-    },
-    {
-      "question": "A body will remain at rest or in uniform motion unless acted upon by an external force\u2019 is a statement of Newton\u2019s ________ law.",
-      "choices": [
-        "Second",
-        "Third",
-        "First"
-      ],
-      "answer": "First"
     },
     {
       "question": "The compression of the streamlines above the aerofoil indicates that the flow is __________ in this region resulting in a __________ in static pressure.",
@@ -49085,24 +49334,6 @@
         "I is incorrect, II is correct."
       ],
       "answer": "I is incorrect, II is incorrect."
-    },
-    {
-      "question": "Bernoulli\u2019s equation can be written as (PT = total pressure, PS = static pressure, q = dynamic pressure):",
-      "choices": [
-        "PT + PS = q",
-        "PT = PS - q",
-        "PT - q = PS",
-        "PT = q - PS"
-      ],
-      "answer": "PT - q = PS"
-    },
-    {
-      "question": "Wake turbulence can be hazardous for behind a __________ large, heavy aircraft.",
-      "choices": [
-        "several hundred metres",
-        "several miles"
-      ],
-      "answer": "several miles"
     },
     {
       "question": "Wake turbulence is caused by tip vortices. The vortices migrate and __________ eventually stabilise at a vertical distance of about __________ ft from the aircraft.",
@@ -49550,7 +49781,7 @@
       "The door may be made of a fireproof material.",
       "The door must be capable of being unlocked from the cabin side because it is an emergency exit from the aircraft."
     ],
-    "answer": "The door shall be lockable from the flight deck side only"
+    "answer": "The door shall be lockable from the flight deck side only."
   },
   {
     "question": "The movement area of an airport, the adjacent terrain and buildings with controlled access are called:",
