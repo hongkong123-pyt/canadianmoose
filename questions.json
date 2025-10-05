@@ -45197,7 +45197,91 @@
     "answer": "Shallow fog, usually less than 2m"
   }
   ],
-  "POF": [
+  "POF": [  
+  {
+    "question": "Study the diagram. Identify the correct statement below.",
+    "choices": [
+      "The correcting fin side force is shown at A and requires left rudder pedal to achieve it.",
+      "The correcting fin side force is shown at A and requires right rudder pedal to achieve it.",
+      "The correcting fin side force is shown at B and requires left rudder pedal to achieve it.",
+      "The correcting fin side force is shown at B and requires right rudder pedal to achieve it."
+    ],
+    "answer": "The correcting fin side force is shown at B and requires right rudder pedal to achieve it."
+  }, 
+  {
+    "question": "The __________ is the maximum load expected in service. Exceedance may cause permanent structural distortion.",
+    "choices": [
+      "limit load",
+      "ultimate load"
+    ],
+    "answer": "limit load"
+  },
+  {
+    "question": "The aerodynamic force produced by a propeller blade element (its total reaction) is resolved into _________ __________ .",
+    "choices": [
+      "thrust and lift.",
+      "lift, weight, thrust and drag.",
+      "thrust and torque.",
+      "thrust and torque drag."
+    ],
+    "answer": "thrust and torque drag."
+  },
+  {
+    "question": "Flaps may be protected by overload protection devices which prevent flap extension, above __________.",
+    "choices": [
+      "VFE",
+      "VLE",
+      "VNO",
+      "VD"
+    ],
+    "answer": "VFE"
+  },
+  {
+    "question": "A __________ provides a physical barrier reducing span wise flow towards the tips.",
+    "choices": [
+      "wing fence",
+      "nacelle strake"
+    ],
+    "answer": "wing fence"
+  },
+  {
+    "question": "The primary cause of the decrease in lift beyond the critical angle is:",
+    "choices": [
+      "Upper surface flow separation caused by the increase in drag.",
+      "Upper surface flow separation caused by the adverse pressure gradient.",
+      "Upper surface flow separation caused by the transition from laminar to turbulent flow.",
+      "Upper surface flow separation caused by the forward movement of the CP."
+    ],
+    "answer": "Upper surface flow separation caused by the adverse pressure gradient."
+  },
+  {
+    "question": "A Diamond DA-42, with gear and flap up, is flying a 4 nm radius turn at 165 kt. An Airbus A380 is also flying a 4 nm radius turn at 180 kt, but with gear and flap down.",
+    "choices": [
+      "The Airbus has the greater angle of bank.",
+      "Both aircraft have the same angle of bank but experience different load factors.",
+      "Both aircraft have the same angle of bank.",
+      "The DA-42 has the greater angle of bank."
+    ],
+    "answer": "The Airbus has the greater angle of bank."
+  },
+  {
+    "question": "A __________ tab linked directly to the flying controls, deflects to move the main control surface. This reduces the force required at the control column to move the control.",
+    "choices": [
+      "balance",
+      "anti-balance",
+      "servo",
+      "spring"
+    ],
+    "answer": "servo"
+  },
+  {
+    "question": "Stall warning is necessary because monitoring __________ alone is not an adequate countermeasure against stalling.",
+    "choices": [
+      "angle of attack",
+      "airspeed"
+    ],
+    "answer": "airspeed"
+  },
   {
     "question": "Excessively __________ pitch results in low torque drag which increases the risk of overspeeding the engine.",
     "choices": [
@@ -45302,16 +45386,6 @@
     "answer": "Limit rudder deflection above a certain IAS to limit the maximum forces felt by the fin."
   },
   {
-    "question": "What is the basic stalling speed (Vs1g) of your Diamond DA-42, given the following data: Wing area 16 m². Mass is 2000 kg. ρ is 0.7 kg/m³. CLMAX clean is 1.3.",
-    "choices": [
-      "50 kt",
-      "78 kt",
-      "67 kt",
-      "52 kt"
-    ],
-    "answer": "52 kt"
-  },
-  {
     "question": "The design feature where the wing's angle of incidence is progressively reduced towards the tip is called __________. This reduces the tendency of the tips to stall first.",
     "choices": [
       "sweep",
@@ -45376,16 +45450,6 @@
       "continues to increase at a steady rate."
     ],
     "answer": "eventually decreases to zero."
-  },
-  {
-    "question": "Clear and rime ice accumulate most quickly below __________ KIAS, at lower altitudes in visible moisture and the airframe is at or below 0°C.",
-    "choices": [
-      "200",
-      "300",
-      "250",
-      "350"
-    ],
-    "answer": "250"
   },
   {
     "question": "Higher Mach numbers at altitude result in a higher slow-speed stall speed and a reduction in α CRIT:",
@@ -45733,16 +45797,6 @@
         "anti-balance"
       ],
       "answer": "anti-balance"
-    },
-    {
-      "question": "What is the basic stalling speed (Vs1g) of your Diamond DA-42, given the following data: Wing area 16 m\u00b2. Mass is 2000 kg. \u03c1 is 0.7 kg/m\u00b3. CL MAX clean is 1.3.",
-      "choices": [
-        "67 kt",
-        "78 kt",
-        "50 kt",
-        "52 kt"
-      ],
-      "answer": "52 kt"
     },
     {
       "question": "An aerodynamic balancing device, which makes it possible for a large surface to be deflected by a relatively small control force, is called:",
@@ -47809,16 +47863,6 @@
         "horizontal stabiliser."
       ],
       "answer": "horizontal stabiliser."
-    },
-    {
-      "question": "Higher Mach numbers at altitude result in a higher slow-speed stall speed and a reduction in \u03b1 CRIT:",
-      "choices": [
-        "Because of the onset of shock stall at MCRIT.",
-        "Because compressibility causes a shallower upwash at the leading edge.",
-        "Because compressibility causes steeper upwash at the leading edge.",
-        "Only after MCRIT has been exceeded."
-      ],
-      "answer": "Because compressibility causes steeper upwash at the leading edge."
     },
     {
       "question": "Clear and rime ice accumulate most quickly below 250 KIAS, at lower altitudes in visible moisture when the temperature is between about __________\u00b0C and about __________\u00b0C and the airframe is at or below 0\u00b0C.",
